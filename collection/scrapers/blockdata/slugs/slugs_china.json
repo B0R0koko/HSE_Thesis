@@ -1,0 +1,1132 @@
+[
+    {
+        "company": "TENCENT",
+        "search_res": [
+            {
+                "name": "Tencent Cloud",
+                "slug": "tencent-cloud"
+            },
+            {
+                "name": "Tencent Technology (Shenzhen) Co., Ltd.",
+                "slug": "tencent-technology-shenzhen-co-ltd"
+            },
+            {
+                "name": "Tencent Music Entertainment Group",
+                "slug": "tencent-music-entertainment-group"
+            },
+            {
+                "name": "Tencent Technology Co., Ltd.",
+                "slug": "tencent-technology-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "ALIBABA GROUP HOLDING",
+        "search_res": [
+            {
+                "name": "Alibaba Cloud",
+                "slug": "alibaba-cloud"
+            },
+            {
+                "name": "Alibaba Group",
+                "slug": "alibaba-group"
+            },
+            {
+                "name": "Alibaba Blockchain Cloud",
+                "slug": "alibaba-blockchain-cloud"
+            }
+        ]
+    },
+    {
+        "company": "CHINA MERCHANTS BANK",
+        "search_res": [
+            {
+                "name": "China Merchants Fund Co., Ltd.",
+                "slug": "china-merchants-fund-co-ltd"
+            },
+            {
+                "name": "China Merchants Securities Co., Ltd.",
+                "slug": "china-merchants-securities-co-ltd"
+            },
+            {
+                "name": "China Merchants Securities",
+                "slug": "china-merchants-securities"
+            },
+            {
+                "name": "China Merchants Venture",
+                "slug": "china-merchants-venture"
+            }
+        ]
+    },
+    {
+        "company": "ICBC",
+        "search_res": [
+            {
+                "name": "Industrial and Commercial Bank of China (ICBC)",
+                "slug": "industrial-and-commercial-bank-of-china-icbc"
+            }
+        ]
+    },
+    {
+        "company": "PING AN INSURANCE (GROUP) COMPANY OF CHINA",
+        "search_res": [
+            {
+                "name": "Ping An Ventures",
+                "slug": "ping-an-ventures"
+            }
+        ]
+    },
+    {
+        "company": "CHINA CONSTRUCTION BANK CORPORATION",
+        "search_res": [
+            {
+                "name": "China Construction Bank",
+                "slug": "china-construction-bank"
+            }
+        ]
+    },
+    {
+        "company": "AGRICULTURAL BANK OF CHINA",
+        "search_res": [
+            {
+                "name": "Agricultural Bank of China",
+                "slug": "agricultural-bank-of-china"
+            }
+        ]
+    },
+    {
+        "company": "BYD COMPANY",
+        "search_res": [
+            {
+                "name": "BYD",
+                "slug": "byd"
+            }
+        ]
+    },
+    {
+        "company": "CHINA MOBILE",
+        "search_res": [
+            {
+                "name": "China Mobile",
+                "slug": "china-mobile"
+            }
+        ]
+    },
+    {
+        "company": "BYTEDANCE",
+        "search_res": [
+            {
+                "name": "Bytedance",
+                "slug": "bytedance"
+            }
+        ]
+    },
+    {
+        "company": "JD.COM",
+        "search_res": [
+            {
+                "name": "JD.com",
+                "slug": "jd-com"
+            }
+        ]
+    },
+    {
+        "company": "BANK OF CHINA",
+        "search_res": [
+            {
+                "name": "Bank of China",
+                "slug": "bank-of-china"
+            },
+            {
+                "name": "Postal Savings Bank of China",
+                "slug": "postal-savings-bank-of-china"
+            }
+        ]
+    },
+    {
+        "company": "INDUSTRIAL BANK",
+        "search_res": [
+            {
+                "name": "Industrial Bank Co., Ltd",
+                "slug": "industrial-bank-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "NETEASE",
+        "search_res": [
+            {
+                "name": "NetEase Capital",
+                "slug": "netease-capital"
+            }
+        ]
+    },
+    {
+        "company": "BAIDU",
+        "search_res": [
+            {
+                "name": "Baidu",
+                "slug": "baidu"
+            },
+            {
+                "name": "Baidu AI Cloud",
+                "slug": "baidu-ai-cloud"
+            },
+            {
+                "name": "Baidu AI Accelerator",
+                "slug": "baidu-ai-accelerator"
+            },
+            {
+                "name": "Baidu Ventures",
+                "slug": "baidu-ventures"
+            }
+        ]
+    },
+    {
+        "company": "XIAOMI CORPORATION",
+        "search_res": [
+            {
+                "name": "Xiaomi",
+                "slug": "xiaomi"
+            },
+            {
+                "name": "Xiaomi Corporation",
+                "slug": "xiaomi-corporation"
+            }
+        ]
+    },
+    {
+        "company": "CHINA TELECOM CORPORATION",
+        "search_res": [
+            {
+                "name": "China Telecom Corporation",
+                "slug": "china-telecom-corporation"
+            }
+        ]
+    },
+    {
+        "company": "PING AN BANK",
+        "search_res": [
+            {
+                "name": "Ping An Ventures",
+                "slug": "ping-an-ventures"
+            }
+        ]
+    },
+    {
+        "company": "BANK OF COMMUNICATIONS",
+        "search_res": [
+            {
+                "name": "Bank of Communications (Hong Kong) Limited",
+                "slug": "bank-of-communications-hong-kong-limited"
+            }
+        ]
+    },
+    {
+        "company": "CITIC SECURITIES COMPANY",
+        "search_res": [
+            {
+                "name": "CITIC Securities",
+                "slug": "citic-securities"
+            }
+        ]
+    },
+    {
+        "company": "HAIER SMART HOME",
+        "search_res": [
+            {
+                "name": "Haier",
+                "slug": "haier"
+            },
+            {
+                "name": "Haier Capital",
+                "slug": "haier-capital"
+            }
+        ]
+    },
+    {
+        "company": "CHINA PACIFIC INSURANCE GROUP (CPIC)",
+        "search_res": [
+            {
+                "name": "China Pacific Property Insurance Co., Ltd. Shenzhen Branch",
+                "slug": "china-pacific-property-insurance-co-ltd-shenzhen-branch"
+            }
+        ]
+    },
+    {
+        "company": "FOXCONN INDUSTRIAL INTERNET",
+        "search_res": [
+            {
+                "name": "HCM Foxconn Technology Group",
+                "slug": "hcm-foxconn-technology-group"
+            },
+            {
+                "name": "Foxconn Technology Ventures",
+                "slug": "foxconn-technology-ventures"
+            }
+        ]
+    },
+    {
+        "company": "GREE ELECTRIC APPLIANCES",
+        "search_res": [
+            {
+                "name": "GREE",
+                "slug": "gree"
+            }
+        ]
+    },
+    {
+        "company": "SAIC MOTOR CORPORATION",
+        "search_res": [
+            {
+                "name": "SAIC Capital",
+                "slug": "saic-capital"
+            }
+        ]
+    },
+    {
+        "company": "CHINA CITIC BANK CORPORATION",
+        "search_res": [
+            {
+                "name": "China CITIC Bank International Limited",
+                "slug": "china-citic-bank-international-limited"
+            }
+        ]
+    },
+    {
+        "company": "CITIC",
+        "search_res": [
+            {
+                "name": "China CITIC Bank International Limited",
+                "slug": "china-citic-bank-international-limited"
+            },
+            {
+                "name": "CITIC Securities",
+                "slug": "citic-securities"
+            }
+        ]
+    },
+    {
+        "company": "PICC GROUP (PEOPLE'S INSURANCE COMPANY (GROUP) OF CHINA)",
+        "search_res": [
+            {
+                "name": "People\u2019s Insurance Company of China (PICC)",
+                "slug": "people-s-insurance-company-of-china-picc"
+            }
+        ]
+    },
+    {
+        "company": "BAOSHAN IRON & STEEL",
+        "search_res": [
+            {
+                "name": "Baoshang Bank Co., Ltd.",
+                "slug": "baoshang-bank-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "CHINA INTERNATIONAL CAPITAL CORPORATION",
+        "search_res": [
+            {
+                "name": "China International Capital Corporation",
+                "slug": "china-international-capital-corporation"
+            }
+        ]
+    },
+    {
+        "company": "WEBANK",
+        "search_res": [
+            {
+                "name": "WeBank",
+                "slug": "webank"
+            }
+        ]
+    },
+    {
+        "company": "CHINA EVERBRIGHT BANK COMPANY",
+        "search_res": [
+            {
+                "name": "China Everbright International",
+                "slug": "china-everbright-international"
+            },
+            {
+                "name": "China Everbright Investment Management",
+                "slug": "china-everbright-investment-management"
+            }
+        ]
+    },
+    {
+        "company": "SHENZHOU INTERNATIONAL GROUP HOLDINGS",
+        "search_res": [
+            {
+                "name": "Shenzhou Digital Credit Software Co., Ltd.",
+                "slug": "shenzhou-digital-credit-software-co-ltd"
+            },
+            {
+                "name": "Shenzhen Xinguodu Technology Co., Ltd.",
+                "slug": "shenzhen-xinguodu-technology-co-ltd"
+            },
+            {
+                "name": "Shenzhen Sidi Information Technology Co., Ltd.",
+                "slug": "shenzhen-sidi-information-technology-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "CHINA MINSHENG BANKING",
+        "search_res": [
+            {
+                "name": "China Minsheng Financial Holdings",
+                "slug": "china-minsheng-financial-holdings"
+            }
+        ]
+    },
+    {
+        "company": "GF SECURITIES",
+        "search_res": [
+            {
+                "name": "GF Securities Co., Ltd.",
+                "slug": "gf-securities-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "ZTE CORPORATION",
+        "search_res": [
+            {
+                "name": "ZTE Corporation",
+                "slug": "zte-corporation"
+            }
+        ]
+    },
+    {
+        "company": "ZTO EXPRESS (CAYMAN)",
+        "search_res": [
+            {
+                "name": "ZTO Express",
+                "slug": "zto-express"
+            }
+        ]
+    },
+    {
+        "company": "GUOTAI JUNAN SECURITIES",
+        "search_res": [
+            {
+                "name": "Guotai Junan Securities",
+                "slug": "guotai-junan-securities"
+            }
+        ]
+    },
+    {
+        "company": "CHINA MERCHANTS SECURITIES",
+        "search_res": [
+            {
+                "name": "China Merchants Securities Co., Ltd.",
+                "slug": "china-merchants-securities-co-ltd"
+            },
+            {
+                "name": "China Merchants Securities",
+                "slug": "china-merchants-securities"
+            },
+            {
+                "name": "China Merchants Venture",
+                "slug": "china-merchants-venture"
+            }
+        ]
+    },
+    {
+        "company": "ENN ENERGY HOLDINGS",
+        "search_res": [
+            {
+                "name": "ENN Energy Holdings Limited",
+                "slug": "enn-energy-holdings-limited"
+            }
+        ]
+    },
+    {
+        "company": "YONYOU NETWORK TECHNOLOGY",
+        "search_res": [
+            {
+                "name": "Yonyou",
+                "slug": "yonyou"
+            }
+        ]
+    },
+    {
+        "company": "ZHEJIANG HUAYOU COBALT CO. LTD",
+        "search_res": [
+            {
+                "name": "Huayou Cobalt Co., Ltd",
+                "slug": "huayou-cobalt-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "CITIC PACIFIC SPECIAL STEEL GROUP",
+        "search_res": [
+            {
+                "name": "CITIC Securities",
+                "slug": "citic-securities"
+            }
+        ]
+    },
+    {
+        "company": "COUNTRY GARDEN SERVICES HOLDINGS COMPANY",
+        "search_res": [
+            {
+                "name": "Country Group Holdings (CGH)",
+                "slug": "country-group-holdings-cgh"
+            }
+        ]
+    },
+    {
+        "company": "GUOSEN SECURITIES",
+        "search_res": [
+            {
+                "name": "Guosen Securities Co., Ltd.",
+                "slug": "guosen-securities-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "JIANGSU EASTERN SHENGHONG",
+        "search_res": [
+            {
+                "name": "Jiangsu Bank Corporation",
+                "slug": "jiangsu-bank-corporation"
+            }
+        ]
+    },
+    {
+        "company": "CHINA UNICOM (HONG KONG)",
+        "search_res": [
+            {
+                "name": "China Unicom",
+                "slug": "china-unicom"
+            }
+        ]
+    },
+    {
+        "company": "BANK OF NANJING",
+        "search_res": [
+            {
+                "name": "Bank of Nanjing",
+                "slug": "bank-of-nanjing"
+            }
+        ]
+    },
+    {
+        "company": "360 SECURITY TECHNOLOGY",
+        "search_res": [
+            {
+                "name": "Qihoo 360",
+                "slug": "qihoo-360"
+            }
+        ]
+    },
+    {
+        "company": "HUA XIA BANK",
+        "search_res": [
+            {
+                "name": "Huaxia Bank Co., Ltd.",
+                "slug": "huaxia-bank-co-ltd"
+            },
+            {
+                "name": "Guangdong Huaxing Bank Co., Ltd.",
+                "slug": "guangdong-huaxing-bank-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "LENOVO GROUP",
+        "search_res": [
+            {
+                "name": "Lenovo",
+                "slug": "lenovo"
+            }
+        ]
+    },
+    {
+        "company": "SDIC POWER HOLDINGS",
+        "search_res": [
+            {
+                "name": "SDIC Gaoxin Industrial Investment",
+                "slug": "sdic-gaoxin-industrial-investment"
+            }
+        ]
+    },
+    {
+        "company": "PING AN HEALTHCARE TECHNOLOGY",
+        "search_res": [
+            {
+                "name": "Ping An Ventures",
+                "slug": "ping-an-ventures"
+            }
+        ]
+    },
+    {
+        "company": "TENCENT MUSIC ENTERTAINMENT GROUP",
+        "search_res": [
+            {
+                "name": "Tencent Music Entertainment Group",
+                "slug": "tencent-music-entertainment-group"
+            }
+        ]
+    },
+    {
+        "company": "CHINA ZHESHANG BANK CO. LTD",
+        "search_res": [
+            {
+                "name": "China Zheshang Bank",
+                "slug": "china-zheshang-bank"
+            }
+        ]
+    },
+    {
+        "company": "SHANXI MEIJIN ENERGY",
+        "search_res": [
+            {
+                "name": "Shanxi Securities Co., Ltd",
+                "slug": "shanxi-securities-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "EVERBRIGHT SECURITIES COMPANY",
+        "search_res": [
+            {
+                "name": "Everbright Securities Co., Ltd",
+                "slug": "everbright-securities-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "FOSUN INTERNATIONAL",
+        "search_res": [
+            {
+                "name": "Fosun International",
+                "slug": "fosun-international"
+            }
+        ]
+    },
+    {
+        "company": "GREENLAND HOLDINGS CORPORATION",
+        "search_res": [
+            {
+                "name": "Greenland Holdings Group",
+                "slug": "greenland-holdings-group"
+            }
+        ]
+    },
+    {
+        "company": "THUNDER SOFTWARE TECHNOLOGY",
+        "search_res": [
+            {
+                "name": "Thundersoft Software Technology",
+                "slug": "thundersoft-software-technology"
+            }
+        ]
+    },
+    {
+        "company": "SDIC CAPITAL",
+        "search_res": [
+            {
+                "name": "SDIC Gaoxin Industrial Investment",
+                "slug": "sdic-gaoxin-industrial-investment"
+            }
+        ]
+    },
+    {
+        "company": "HNA INFRASTRUCTURE INVESTMENT GROUP",
+        "search_res": [
+            {
+                "name": "HNA Capital",
+                "slug": "hna-capital"
+            }
+        ]
+    },
+    {
+        "company": "INSPUR ELECTRONIC INFORMATION INDUSTRY",
+        "search_res": [
+            {
+                "name": "Inspur",
+                "slug": "inspur"
+            }
+        ]
+    },
+    {
+        "company": "ZHESHANG SECURITIES",
+        "search_res": [
+            {
+                "name": "China Zheshang Bank",
+                "slug": "china-zheshang-bank"
+            },
+            {
+                "name": "Zheshang Financial Group",
+                "slug": "zheshang-financial-group"
+            }
+        ]
+    },
+    {
+        "company": "DONGFENG MOTOR GROUP COMPANY",
+        "search_res": [
+            {
+                "name": "Hongfeng Network",
+                "slug": "hongfeng-network"
+            }
+        ]
+    },
+    {
+        "company": "HANGZHOU LION ELECTRONICS CO.,LTD",
+        "search_res": [
+            {
+                "name": "Hangzhou Nete Zengying Technology Co., Ltd.",
+                "slug": "hangzhou-nete-zengying-technology-co-ltd"
+            },
+            {
+                "name": "Hangzhou Yi Pen Technology Co., Ltd.",
+                "slug": "hangzhou-yi-pen-technology-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "BYD ELECTRONIC (INTERNATIONAL) COMPANY",
+        "search_res": [
+            {
+                "name": "BYD",
+                "slug": "byd"
+            }
+        ]
+    },
+    {
+        "company": "GUANGXI GUIGUAN ELECTRIC POWERCO",
+        "search_res": [
+            {
+                "name": "Guigu Huoju Fund",
+                "slug": "guigu-huoju-fund"
+            }
+        ]
+    },
+    {
+        "company": "SUZHOU TA&A ULTRA CLEAN TECHNOLOGY",
+        "search_res": [
+            {
+                "name": "Ultra Clean Technology, Inc.",
+                "slug": "ultra-clean-technology-inc"
+            }
+        ]
+    },
+    {
+        "company": "SUNAC CHINA HOLDINGS",
+        "search_res": [
+            {
+                "name": "Sunic CAPITAL",
+                "slug": "sunic-capital"
+            }
+        ]
+    },
+    {
+        "company": "TIANNENG BATTERY GROUP CO., LTD.",
+        "search_res": [
+            {
+                "name": "Guorun Tianneng Group",
+                "slug": "guorun-tianneng-group"
+            }
+        ]
+    },
+    {
+        "company": "CHONGQING RURAL COMMERCIAL BANK",
+        "search_res": [
+            {
+                "name": "Chongqing Stock Transfer Center Co., Ltd.",
+                "slug": "chongqing-stock-transfer-center-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "WINTIME ENERGY",
+        "search_res": [
+            {
+                "name": "Shenzhen Wintime Win Information Technology Co., Ltd.",
+                "slug": "shenzhen-wintime-win-information-technology-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "SHANGHAI YUYUAN TOURIST MART (GROUP)",
+        "search_res": [
+            {
+                "name": "Yuyan",
+                "slug": "yuyan"
+            }
+        ]
+    },
+    {
+        "company": "WESTONE INFORMATION INDUSTRY",
+        "search_res": [
+            {
+                "name": "Westone Information Industry",
+                "slug": "westone-information-industry"
+            }
+        ]
+    },
+    {
+        "company": "KEDA CLEAN ENERGY",
+        "search_res": [
+            {
+                "name": "Keda Jurong",
+                "slug": "keda-jurong"
+            }
+        ]
+    },
+    {
+        "company": "CHINA MERCHANTS PORT GROUP",
+        "search_res": [
+            {
+                "name": "China Merchants Venture",
+                "slug": "china-merchants-venture"
+            }
+        ]
+    },
+    {
+        "company": "GUOLIAN SECURITIES",
+        "search_res": [
+            {
+                "name": "Zhongcai Guoling",
+                "slug": "zhongcai-guoling"
+            }
+        ]
+    },
+    {
+        "company": "TIANJIN GUANGYU DEVELOPMENT",
+        "search_res": [
+            {
+                "name": "China Guangfa Bank",
+                "slug": "china-guangfa-bank"
+            },
+            {
+                "name": "Guangfa Bank Co., Ltd.",
+                "slug": "guangfa-bank-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "CHINA GREAT WALL SECURITIES",
+        "search_res": [
+            {
+                "name": "Great Wall Securities Co., Ltd.",
+                "slug": "great-wall-securities-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "KINGSOFT CORPORATION",
+        "search_res": [
+            {
+                "name": "Kingsoft",
+                "slug": "kingsoft"
+            }
+        ]
+    },
+    {
+        "company": "SHANGHAI LINGANG HOLDINGS",
+        "search_res": [
+            {
+                "name": "Shanghai Liantai Asset Management Co., Ltd.",
+                "slug": "shanghai-liantai-asset-management-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "PERFECT WORLD",
+        "search_res": [
+            {
+                "name": "Perfect World",
+                "slug": "perfect-world"
+            }
+        ]
+    },
+    {
+        "company": "NANJING SECURITIES",
+        "search_res": [
+            {
+                "name": "Nanjing Financial Assets Trading Center Co., Ltd.",
+                "slug": "nanjing-financial-assets-trading-center-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "SHANXI LU'AN ENVIRONMENTAL ENERGY DEVELOPMENT",
+        "search_res": [
+            {
+                "name": "Shanxi Securities Co., Ltd",
+                "slug": "shanxi-securities-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "WUHAN ZHONGSHANG COMMERCIAL GROUP",
+        "search_res": [
+            {
+                "name": "Wuhan Equity Custody Trading Center Co., Ltd.",
+                "slug": "wuhan-equity-custody-trading-center-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "ZHONGAN ONLINE P & C INSURANCE",
+        "search_res": [
+            {
+                "name": "Zhongan Qilian",
+                "slug": "zhongan-qilian"
+            }
+        ]
+    },
+    {
+        "company": "WANDA FILM HOLDING",
+        "search_res": [
+            {
+                "name": "Wanda Information Technology Co., Ltd.",
+                "slug": "wanda-information-technology-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "BITMAIN",
+        "search_res": [
+            {
+                "name": "Bitmain",
+                "slug": "bitmain"
+            }
+        ]
+    },
+    {
+        "company": "BETTA PHARMACEUTICALS",
+        "search_res": [
+            {
+                "name": "Betta Pharmaceuticals Co.",
+                "slug": "betta-pharmaceuticals-co"
+            }
+        ]
+    },
+    {
+        "company": "GUANGZHOU YUEXIU FINANCIAL HOLDINGS GROUP",
+        "search_res": [
+            {
+                "name": "Guangzhou Yuexiu Financial Technology Co., Ltd.",
+                "slug": "guangzhou-yuexiu-financial-technology-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "BEIJING BEIMO HIGH-TECH FRICTIONAL MATERIAL CO.,LTD",
+        "search_res": [
+            {
+                "name": "Beijing Ruizhuo Xitou Technology Development Co., Ltd.",
+                "slug": "beijing-ruizhuo-xitou-technology-development-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "GUANGDONG ELECTRIC POWER DEVELOPMENT",
+        "search_res": [
+            {
+                "name": "Guangdong Huaxing Bank Co., Ltd.",
+                "slug": "guangdong-huaxing-bank-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "HANGZHOU CHANGCHUAN TECHNOLOGY",
+        "search_res": [
+            {
+                "name": "Hangzhou Nete Zengying Technology Co., Ltd.",
+                "slug": "hangzhou-nete-zengying-technology-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "HUISHANG BANK CORPORATION",
+        "search_res": [
+            {
+                "name": "Huishang Bank",
+                "slug": "huishang-bank"
+            }
+        ]
+    },
+    {
+        "company": "JINKE PROPERTY GROUP",
+        "search_res": [
+            {
+                "name": "Jinke Capital",
+                "slug": "jinke-capital"
+            }
+        ]
+    },
+    {
+        "company": "XINHU ZHONGBAO",
+        "search_res": [
+            {
+                "name": "Xinhu Zhongbao",
+                "slug": "xinhu-zhongbao"
+            }
+        ]
+    },
+    {
+        "company": "UNI-PRESIDENT CHINA HOLDINGS LTD",
+        "search_res": [
+            {
+                "name": "Uni-President Enterprises",
+                "slug": "uni-president-enterprises"
+            }
+        ]
+    },
+    {
+        "company": "QINGDAO HAIER BIOMEDICAL",
+        "search_res": [
+            {
+                "name": "Haier Capital",
+                "slug": "haier-capital"
+            }
+        ]
+    },
+    {
+        "company": "GIANT NETWORK GROUP",
+        "search_res": [
+            {
+                "name": "Giant Network",
+                "slug": "giant-network"
+            }
+        ]
+    },
+    {
+        "company": "PING AN HEALTHCARE AND TECHNOLOGY COMPANY",
+        "search_res": [
+            {
+                "name": "Ping An Ventures",
+                "slug": "ping-an-ventures"
+            }
+        ]
+    },
+    {
+        "company": "CLOUDWALK",
+        "search_res": [
+            {
+                "name": "CloudWalk",
+                "slug": "cloudwalk"
+            }
+        ]
+    },
+    {
+        "company": "MININGLAMP",
+        "search_res": [
+            {
+                "name": "MiningLamp",
+                "slug": "mininglamp"
+            }
+        ]
+    },
+    {
+        "company": "HUAAN SECURITIES",
+        "search_res": [
+            {
+                "name": "Huaan Property Insurance Co., Ltd.",
+                "slug": "huaan-property-insurance-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "ANXIN TRUST CO. LTD",
+        "search_res": [
+            {
+                "name": "Anxin Securities Co., Ltd.",
+                "slug": "anxin-securities-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "SHANDONG BUCHANG PHARMACEUTICALS",
+        "search_res": [
+            {
+                "name": "Buchang Pharmaceuticals",
+                "slug": "buchang-pharmaceuticals"
+            }
+        ]
+    },
+    {
+        "company": "SHANXI SECURITIES",
+        "search_res": [
+            {
+                "name": "Shanxi Securities Co., Ltd",
+                "slug": "shanxi-securities-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "LEGEND HOLDINGS CORPORATION",
+        "search_res": [
+            {
+                "name": "Legend Star",
+                "slug": "legend-star"
+            }
+        ]
+    },
+    {
+        "company": "GUANGYUYUAN CHINESE HERBAL MEDICINE",
+        "search_res": [
+            {
+                "name": "Guangyuan Guishang Village Bank Co., Ltd.",
+                "slug": "guangyuan-guishang-village-bank-co-ltd"
+            }
+        ]
+    },
+    {
+        "company": "KINGSOFT CLOUD",
+        "search_res": [
+            {
+                "name": "Kingsoft",
+                "slug": "kingsoft"
+            }
+        ]
+    },
+    {
+        "company": "WANXIANG QIANCHAO",
+        "search_res": [
+            {
+                "name": "Wanxiang Blockchain",
+                "slug": "wanxiang-blockchain"
+            },
+            {
+                "name": "Wanxiang Blockchain Labs",
+                "slug": "wanxiang-blockchain-labs"
+            }
+        ]
+    },
+    {
+        "company": "PSBC (POSTAL SAVINGS BANK OF CHINA)",
+        "search_res": [
+            {
+                "name": "Postal Savings Bank of China",
+                "slug": "postal-savings-bank-of-china"
+            }
+        ]
+    },
+    {
+        "company": "HANGZHOU HIKVISION DIGITAL TECHNOLOGY",
+        "search_res": [
+            {
+                "name": "Hikvision",
+                "slug": "hikvision"
+            }
+        ]
+    },
+    {
+        "company": "HANGZHOU HIKVISION DIGITAL TECHNOLOGY",
+        "search_res": [
+            {
+                "name": "Hikvision",
+                "slug": "hikvision"
+            }
+        ]
+    }
+]

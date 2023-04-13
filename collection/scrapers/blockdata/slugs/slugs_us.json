@@ -1,0 +1,2300 @@
+[
+    {
+        "company": "APPLE",
+        "search_res": [
+            {
+                "name": "Apple",
+                "slug": "apple"
+            }
+        ]
+    },
+    {
+        "company": "VISA",
+        "search_res": [
+            {
+                "name": "Visa Inc.",
+                "slug": "visa-inc"
+            },
+            {
+                "name": "Visa Ventures",
+                "slug": "visa-ventures"
+            }
+        ]
+    },
+    {
+        "company": "META PLATFORMS",
+        "search_res": [
+            {
+                "name": "Meta",
+                "slug": "meta"
+            }
+        ]
+    },
+    {
+        "company": "BERKSHIRE HATHAWAY",
+        "search_res": [
+            {
+                "name": "Berkshire Hathaway",
+                "slug": "berkshire-hathaway"
+            }
+        ]
+    },
+    {
+        "company": "ALPHABET",
+        "search_res": [
+            {
+                "name": "Alphabet Inc.",
+                "slug": "alphabet-inc"
+            }
+        ]
+    },
+    {
+        "company": "MICROSOFT CORPORATION",
+        "search_res": [
+            {
+                "name": "Microsoft",
+                "slug": "microsoft"
+            },
+            {
+                "name": "Microsoft Blockchain Azure Service",
+                "slug": "microsoft-blockchain-azure-service"
+            }
+        ]
+    },
+    {
+        "company": "JOHNSON & JOHNSON",
+        "search_res": [
+            {
+                "name": "Johnson & Johnson Innovation",
+                "slug": "johnson-and-johnson-innovation"
+            }
+        ]
+    },
+    {
+        "company": "PFIZER",
+        "search_res": [
+            {
+                "name": "Pfizer",
+                "slug": "pfizer"
+            }
+        ]
+    },
+    {
+        "company": "MASTERCARD",
+        "search_res": [
+            {
+                "name": "MasterCard",
+                "slug": "mastercard"
+            }
+        ]
+    },
+    {
+        "company": "WALMART",
+        "search_res": [
+            {
+                "name": "Walmart",
+                "slug": "walmart"
+            },
+            {
+                "name": "Walmart China",
+                "slug": "walmart-china"
+            },
+            {
+                "name": "Walmart Canada",
+                "slug": "walmart-canada"
+            }
+        ]
+    },
+    {
+        "company": "THE WALT DISNEY COMPANY",
+        "search_res": [
+            {
+                "name": "The Walt Disney Company",
+                "slug": "the-walt-disney-company"
+            }
+        ]
+    },
+    {
+        "company": "EXXON MOBIL CORPORATION",
+        "search_res": [
+            {
+                "name": "ExxonMobil Corp",
+                "slug": "exxonmobil-corp"
+            }
+        ]
+    },
+    {
+        "company": "BANK OF AMERICA CORPORATION",
+        "search_res": [
+            {
+                "name": "Bank of America",
+                "slug": "bank-of-america"
+            },
+            {
+                "name": "Bank of America Merrill Lynch",
+                "slug": "bank-of-america-merrill-lynch"
+            },
+            {
+                "name": "Bank of America Blockchain",
+                "slug": "bank-of-america-blockchain"
+            }
+        ]
+    },
+    {
+        "company": "PEPSICO",
+        "search_res": [
+            {
+                "name": "PepsiCo",
+                "slug": "pepsico"
+            }
+        ]
+    },
+    {
+        "company": "ADOBE",
+        "search_res": [
+            {
+                "name": "Adobe",
+                "slug": "adobe"
+            }
+        ]
+    },
+    {
+        "company": "COCA-COLA COMPANY",
+        "search_res": [
+            {
+                "name": "The Coca-Cola Company",
+                "slug": "the-coca-cola-company"
+            }
+        ]
+    },
+    {
+        "company": "CHEVRON CORPORATION",
+        "search_res": [
+            {
+                "name": "Chevron",
+                "slug": "chevron"
+            }
+        ]
+    },
+    {
+        "company": "NIKE",
+        "search_res": [
+            {
+                "name": "Nike+ Fuel Lab",
+                "slug": "nike-fuel-lab"
+            }
+        ]
+    },
+    {
+        "company": "CISCO SYSTEMS",
+        "search_res": [
+            {
+                "name": "Cisco",
+                "slug": "cisco"
+            },
+            {
+                "name": "Cisco Investments",
+                "slug": "cisco-investments"
+            },
+            {
+                "name": "Cisco Launchpad",
+                "slug": "cisco-launchpad"
+            }
+        ]
+    },
+    {
+        "company": "COMCAST CORPORATION",
+        "search_res": [
+            {
+                "name": "Comcast",
+                "slug": "comcast"
+            },
+            {
+                "name": "Comcast Ventures",
+                "slug": "comcast-ventures"
+            },
+            {
+                "name": "Comcast NBCUniversal LIFT Labs Accelerator",
+                "slug": "comcast-nbcuniversal-lift-labs-accelerator"
+            }
+        ]
+    },
+    {
+        "company": "INTEL CORPORATION",
+        "search_res": [
+            {
+                "name": "Intel",
+                "slug": "intel"
+            }
+        ]
+    },
+    {
+        "company": "WELLS FARGO & COMPANY",
+        "search_res": [
+            {
+                "name": "Wells Fargo Startup Accelerator",
+                "slug": "wells-fargo-startup-accelerator"
+            },
+            {
+                "name": "Wells Fargo Blockchain",
+                "slug": "wells-fargo-blockchain"
+            },
+            {
+                "name": "Wells Fargo & Company",
+                "slug": "wells-fargo-and-company"
+            }
+        ]
+    },
+    {
+        "company": "VERIZON COMMUNICATIONS",
+        "search_res": [
+            {
+                "name": "Verizon",
+                "slug": "verizon"
+            },
+            {
+                "name": "Verizon Ventures",
+                "slug": "verizon-ventures"
+            }
+        ]
+    },
+    {
+        "company": "ORACLE CORPORATION",
+        "search_res": [
+            {
+                "name": "Oracle",
+                "slug": "oracle"
+            },
+            {
+                "name": "Oracle Global Startup Ecosystem",
+                "slug": "oracle-global-startup-ecosystem"
+            }
+        ]
+    },
+    {
+        "company": "PAYPAL HOLDINGS",
+        "search_res": [
+            {
+                "name": "PayPal",
+                "slug": "paypal"
+            }
+        ]
+    },
+    {
+        "company": "ABBVIE",
+        "search_res": [
+            {
+                "name": "AbbVie",
+                "slug": "abbvie"
+            }
+        ]
+    },
+    {
+        "company": "MORGAN STANLEY",
+        "search_res": [
+            {
+                "name": "Morgan Stanley",
+                "slug": "morgan-stanley"
+            }
+        ]
+    },
+    {
+        "company": "UNITED PARCEL SERVICE (UPS)",
+        "search_res": [
+            {
+                "name": "United Parcel Service",
+                "slug": "united-parcel-service"
+            }
+        ]
+    },
+    {
+        "company": "QUALCOMM",
+        "search_res": [
+            {
+                "name": "Qualcomm Innovate in Taiwan Challenge",
+                "slug": "qualcomm-innovate-in-taiwan-challenge"
+            },
+            {
+                "name": "Qualcomm Ventures",
+                "slug": "qualcomm-ventures"
+            }
+        ]
+    },
+    {
+        "company": "MERCK & CO",
+        "search_res": [
+            {
+                "name": "Merck",
+                "slug": "merck"
+            }
+        ]
+    },
+    {
+        "company": "MCDONALD'S CORPORATION",
+        "search_res": [
+            {
+                "name": "McDonald's",
+                "slug": "mcdonald-s"
+            }
+        ]
+    },
+    {
+        "company": "HONEYWELL INTERNATIONAL",
+        "search_res": [
+            {
+                "name": "Honeywell",
+                "slug": "honeywell"
+            }
+        ]
+    },
+    {
+        "company": "T-MOBILE US",
+        "search_res": [
+            {
+                "name": "T-Mobile",
+                "slug": "t-mobile"
+            },
+            {
+                "name": "T-Mobile Accelerator",
+                "slug": "t-mobile-accelerator"
+            }
+        ]
+    },
+    {
+        "company": "BLACKROCK",
+        "search_res": [
+            {
+                "name": "BlackRock",
+                "slug": "blackrock"
+            },
+            {
+                "name": "BlackRock Blockchain",
+                "slug": "blackrock-blockchain"
+            },
+            {
+                "name": "BlackRock Inc.",
+                "slug": "blackrock-inc"
+            }
+        ]
+    },
+    {
+        "company": "CVS HEALTH CORPORATION",
+        "search_res": [
+            {
+                "name": "CVS Health",
+                "slug": "cvs-health"
+            }
+        ]
+    },
+    {
+        "company": "INTUIT",
+        "search_res": [
+            {
+                "name": "Intuit Ventures",
+                "slug": "intuit-ventures"
+            }
+        ]
+    },
+    {
+        "company": "CITI GROUP",
+        "search_res": [
+            {
+                "name": "Citigroup Global Markets Japan Inc.",
+                "slug": "citigroup-global-markets-japan-inc"
+            },
+            {
+                "name": "Citi Group",
+                "slug": "citi-group"
+            }
+        ]
+    },
+    {
+        "company": "STARBUCKS CORPORATION",
+        "search_res": [
+            {
+                "name": "Starbucks",
+                "slug": "starbucks"
+            }
+        ]
+    },
+    {
+        "company": "AMGEN",
+        "search_res": [
+            {
+                "name": "Amgen",
+                "slug": "amgen"
+            }
+        ]
+    },
+    {
+        "company": "AMERICAN EXPRESS COMPANY",
+        "search_res": [
+            {
+                "name": "American Bankers Association",
+                "slug": "american-bankers-association"
+            },
+            {
+                "name": "American Bankers Association (ABA)",
+                "slug": "american-bankers-association-aba"
+            }
+        ]
+    },
+    {
+        "company": "IBM",
+        "search_res": [
+            {
+                "name": "IBM Corporation",
+                "slug": "ibm-corporation"
+            },
+            {
+                "name": "IBM Research - mmWave Technology",
+                "slug": "ibm-research-mmwave-technology"
+            },
+            {
+                "name": "IBM Research",
+                "slug": "ibm-research"
+            },
+            {
+                "name": "Startup with IBM",
+                "slug": "startup-with-ibm"
+            },
+            {
+                "name": "IBM Blockchain Accelerator",
+                "slug": "ibm-blockchain-accelerator"
+            }
+        ]
+    },
+    {
+        "company": "TARGET CORPORATION",
+        "search_res": [
+            {
+                "name": "Target Accelerator Program",
+                "slug": "target-accelerator-program"
+            },
+            {
+                "name": "Target Global",
+                "slug": "target-global"
+            }
+        ]
+    },
+    {
+        "company": "PROLOGIS",
+        "search_res": [
+            {
+                "name": "Prologis Ventures",
+                "slug": "prologis-ventures"
+            }
+        ]
+    },
+    {
+        "company": "BOEING COMPANY",
+        "search_res": [
+            {
+                "name": "Boeing",
+                "slug": "boeing"
+            }
+        ]
+    },
+    {
+        "company": "GENERAL ELECTRIC COMPANY",
+        "search_res": [
+            {
+                "name": "General Electric Blockchain",
+                "slug": "general-electric-blockchain"
+            }
+        ]
+    },
+    {
+        "company": "DEERE & COMPANY",
+        "search_res": [
+            {
+                "name": "Deere & Company",
+                "slug": "deere-and-company"
+            }
+        ]
+    },
+    {
+        "company": "S&P GLOBAL",
+        "search_res": [
+            {
+                "name": "S&P Global",
+                "slug": "s-and-p-global"
+            }
+        ]
+    },
+    {
+        "company": "KOCH INDUSTRIES",
+        "search_res": [
+            {
+                "name": "Koch Supply & Trading, LP",
+                "slug": "koch-supply-and-trading-lp"
+            }
+        ]
+    },
+    {
+        "company": "ANTHEM",
+        "search_res": [
+            {
+                "name": "Anthem",
+                "slug": "anthem"
+            },
+            {
+                "name": "Anthem",
+                "slug": "anthem-1"
+            }
+        ]
+    },
+    {
+        "company": "AIRBNB",
+        "search_res": [
+            {
+                "name": "Airbnb",
+                "slug": "airbnb"
+            }
+        ]
+    },
+    {
+        "company": "AUTOMATIC DATA PROCESSING (ADP)",
+        "search_res": [
+            {
+                "name": "Groupe ADP",
+                "slug": "groupe-adp"
+            }
+        ]
+    },
+    {
+        "company": "3M COMPANY",
+        "search_res": [
+            {
+                "name": "3M",
+                "slug": "3m"
+            },
+            {
+                "name": "3M Ventures",
+                "slug": "3m-ventures"
+            }
+        ]
+    },
+    {
+        "company": "CONOCOPHILLIPS COMPANY",
+        "search_res": [
+            {
+                "name": "ConocoPhillips",
+                "slug": "conocophillips"
+            }
+        ]
+    },
+    {
+        "company": "VANGUARD GROUP",
+        "search_res": [
+            {
+                "name": "The Vanguard Group",
+                "slug": "the-vanguard-group"
+            }
+        ]
+    },
+    {
+        "company": "BOOKING HOLDINGS",
+        "search_res": [
+            {
+                "name": "Booking.com",
+                "slug": "booking-com"
+            }
+        ]
+    },
+    {
+        "company": "LOCKHEED MARTIN CORPORATION",
+        "search_res": [
+            {
+                "name": "Lockheed Martin Ventures",
+                "slug": "lockheed-martin-ventures"
+            }
+        ]
+    },
+    {
+        "company": "THE PNC FINANCIAL SERVICES GROUP",
+        "search_res": [
+            {
+                "name": " USI Insurance Services",
+                "slug": "usi-insurance-services"
+            }
+        ]
+    },
+    {
+        "company": "FORD MOTOR COMPANY",
+        "search_res": [
+            {
+                "name": "Ford Motor Company",
+                "slug": "ford-motor-company"
+            }
+        ]
+    },
+    {
+        "company": "CROWN CASTLE INTERNATIONAL CORPORATION",
+        "search_res": [
+            {
+                "name": "Crown",
+                "slug": "crown"
+            }
+        ]
+    },
+    {
+        "company": "TRUIST FINANCIAL CORPORATION",
+        "search_res": [
+            {
+                "name": "Truist Ventures",
+                "slug": "truist-ventures"
+            }
+        ]
+    },
+    {
+        "company": "GILEAD SCIENCES",
+        "search_res": [
+            {
+                "name": "Gilead",
+                "slug": "gilead"
+            }
+        ]
+    },
+    {
+        "company": "GENERAL MOTORS COMPANY",
+        "search_res": [
+            {
+                "name": "General Motors Ventures",
+                "slug": "general-motors-ventures"
+            }
+        ]
+    },
+    {
+        "company": "CARGILL",
+        "search_res": [
+            {
+                "name": "Cargill",
+                "slug": "cargill"
+            }
+        ]
+    },
+    {
+        "company": "CME GROUP",
+        "search_res": [
+            {
+                "name": "CME Group",
+                "slug": "cme-group"
+            }
+        ]
+    },
+    {
+        "company": "MARSH & MCLENNAN COMPANIES",
+        "search_res": [
+            {
+                "name": "Marsh",
+                "slug": "marsh"
+            },
+            {
+                "name": "MarshBerry",
+                "slug": "marshberry"
+            }
+        ]
+    },
+    {
+        "company": "BLACKSTONE GROUP",
+        "search_res": [
+            {
+                "name": "Blackstone",
+                "slug": "blackstone"
+            }
+        ]
+    },
+    {
+        "company": "DUKE ENERGY CORPORATION",
+        "search_res": [
+            {
+                "name": "Duke Energy Corporation",
+                "slug": "duke-energy-corporation"
+            }
+        ]
+    },
+    {
+        "company": "UBER TECHNOLOGIES",
+        "search_res": [
+            {
+                "name": "Uber",
+                "slug": "uber"
+            }
+        ]
+    },
+    {
+        "company": "FIDELITY NATIONAL INFORMATION SERVICES",
+        "search_res": [
+            {
+                "name": "Fidelity",
+                "slug": "fidelity"
+            },
+            {
+                "name": "FidelityLabs",
+                "slug": "fidelitylabs"
+            },
+            {
+                "name": "Fidelity Digital Asset Services",
+                "slug": "fidelity-digital-asset-services"
+            }
+        ]
+    },
+    {
+        "company": "FISERV",
+        "search_res": [
+            {
+                "name": "Fiserv",
+                "slug": "fiserv"
+            }
+        ]
+    },
+    {
+        "company": "FEDEX CORPORATION",
+        "search_res": [
+            {
+                "name": "Fedex",
+                "slug": "fedex"
+            },
+            {
+                "name": "FedEx Institute of Technology",
+                "slug": "fedex-institute-of-technology"
+            }
+        ]
+    },
+    {
+        "company": "INTERCONTINENTAL EXCHANGE",
+        "search_res": [
+            {
+                "name": "Intercontinental Exchange (ICE)",
+                "slug": "intercontinental-exchange-ice"
+            }
+        ]
+    },
+    {
+        "company": "BLOCK INC",
+        "search_res": [
+            {
+                "name": "Block",
+                "slug": "block"
+            }
+        ]
+    },
+    {
+        "company": "EQUINIX",
+        "search_res": [
+            {
+                "name": "Equinix",
+                "slug": "equinix"
+            }
+        ]
+    },
+    {
+        "company": "CAPITAL ONE FINANCIAL CORPORATION",
+        "search_res": [
+            {
+                "name": "Capital One Financial Corporation",
+                "slug": "capital-one-financial-corporation"
+            },
+            {
+                "name": "Capital One Growth Ventures",
+                "slug": "capital-one-growth-ventures"
+            }
+        ]
+    },
+    {
+        "company": "MOODY'S CORPORATION",
+        "search_res": [
+            {
+                "name": "Moody's",
+                "slug": "moody-s"
+            }
+        ]
+    },
+    {
+        "company": "WORKDAY",
+        "search_res": [
+            {
+                "name": "Workday Ventures",
+                "slug": "workday-ventures"
+            },
+            {
+                "name": "Workday, Inc.",
+                "slug": "workday-inc"
+            }
+        ]
+    },
+    {
+        "company": "DOMINION ENERGY",
+        "search_res": [
+            {
+                "name": "Dominion Capital",
+                "slug": "dominion-capital"
+            }
+        ]
+    },
+    {
+        "company": "AON",
+        "search_res": [
+            {
+                "name": "Aon",
+                "slug": "aon"
+            }
+        ]
+    },
+    {
+        "company": "COINBASE GLOBAL, INC",
+        "search_res": [
+            {
+                "name": "Coinbase",
+                "slug": "coinbase"
+            },
+            {
+                "name": "Coinbase Custody",
+                "slug": "coinbase-custody"
+            },
+            {
+                "name": "Coinbase Ventures",
+                "slug": "coinbase-ventures"
+            }
+        ]
+    },
+    {
+        "company": "EXELON CORPORATION",
+        "search_res": [
+            {
+                "name": "Exelon Corporation",
+                "slug": "exelon-corporation"
+            }
+        ]
+    },
+    {
+        "company": "METLIFE",
+        "search_res": [
+            {
+                "name": "MetLife",
+                "slug": "metlife"
+            },
+            {
+                "name": "MetLife Financial Health Competition",
+                "slug": "metlife-financial-health-competition"
+            }
+        ]
+    },
+    {
+        "company": "EMERSON ELECTRIC COMPANY",
+        "search_res": [
+            {
+                "name": "Emerson",
+                "slug": "emerson"
+            }
+        ]
+    },
+    {
+        "company": "IKEA",
+        "search_res": [
+            {
+                "name": "IKEA",
+                "slug": "ikea"
+            }
+        ]
+    },
+    {
+        "company": "PALO ALTO NETWORKS",
+        "search_res": [
+            {
+                "name": "Palo Alto Networks",
+                "slug": "palo-alto-networks"
+            }
+        ]
+    },
+    {
+        "company": "SIMON PROPERTY GROUP",
+        "search_res": [
+            {
+                "name": "Simon",
+                "slug": "simon"
+            },
+            {
+                "name": "Simon Property Group",
+                "slug": "simon-property-group"
+            }
+        ]
+    },
+    {
+        "company": "ACTIVISION BLIZZARD",
+        "search_res": [
+            {
+                "name": "Activision",
+                "slug": "activision"
+            }
+        ]
+    },
+    {
+        "company": "VMWARE",
+        "search_res": [
+            {
+                "name": "VMware",
+                "slug": "vmware"
+            }
+        ]
+    },
+    {
+        "company": "ROBLOX CORP",
+        "search_res": [
+            {
+                "name": "Roblox",
+                "slug": "roblox"
+            }
+        ]
+    },
+    {
+        "company": "XILINX",
+        "search_res": [
+            {
+                "name": "Xilinx",
+                "slug": "xilinx"
+            }
+        ]
+    },
+    {
+        "company": "HUMANA",
+        "search_res": [
+            {
+                "name": "Humana",
+                "slug": "humana"
+            }
+        ]
+    },
+    {
+        "company": "WALGREENS BOOTS ALLIANCE",
+        "search_res": [
+            {
+                "name": "Walgreens",
+                "slug": "walgreens"
+            }
+        ]
+    },
+    {
+        "company": "PIONEER NATURAL RESOURCES COMPANY",
+        "search_res": [
+            {
+                "name": "Pioneer Natural Resources",
+                "slug": "pioneer-natural-resources"
+            }
+        ]
+    },
+    {
+        "company": "COGNIZANT TECHNOLOGY SOLUTIONS",
+        "search_res": [
+            {
+                "name": "Cognizant Technology Solutions",
+                "slug": "cognizant-technology-solutions"
+            }
+        ]
+    },
+    {
+        "company": "KRAFT HEINZ COMPANY",
+        "search_res": [
+            {
+                "name": "The Kraft Group",
+                "slug": "the-kraft-group"
+            }
+        ]
+    },
+    {
+        "company": "DIGITAL REALTY TRUST",
+        "search_res": [
+            {
+                "name": "Digital Realty",
+                "slug": "digital-realty"
+            }
+        ]
+    },
+    {
+        "company": "MSCI",
+        "search_res": [
+            {
+                "name": "MSC Mediterranean Shipping Company S.A.",
+                "slug": "msc-mediterranean-shipping-company-s-a"
+            }
+        ]
+    },
+    {
+        "company": "O'REILLY AUTOMOTIVE",
+        "search_res": [
+            {
+                "name": "Oreilly AlphaTech Ventures",
+                "slug": "oreilly-alphatech-ventures"
+            }
+        ]
+    },
+    {
+        "company": "DELL TECHNOLOGIES",
+        "search_res": [
+            {
+                "name": "Dell Technologies Capital",
+                "slug": "dell-technologies-capital"
+            },
+            {
+                "name": "Dell Boomi",
+                "slug": "dell-boomi"
+            }
+        ]
+    },
+    {
+        "company": "LINKEDIN",
+        "search_res": [
+            {
+                "name": "LinkedIn",
+                "slug": "linkedin"
+            }
+        ]
+    },
+    {
+        "company": "TRAFIGURA",
+        "search_res": [
+            {
+                "name": "Trafigura",
+                "slug": "trafigura"
+            }
+        ]
+    },
+    {
+        "company": "T. ROWE PRICE GROUP",
+        "search_res": [
+            {
+                "name": "T. Rowe Price",
+                "slug": "t-rowe-price"
+            }
+        ]
+    },
+    {
+        "company": "PRUDENTIAL FINANCIAL",
+        "search_res": [
+            {
+                "name": "Prudential Financial",
+                "slug": "prudential-financial"
+            }
+        ]
+    },
+    {
+        "company": "GLOBAL PAYMENTS",
+        "search_res": [
+            {
+                "name": "Global Payments",
+                "slug": "global-payments"
+            }
+        ]
+    },
+    {
+        "company": "MARATHON PETROLEUM CORPORATION",
+        "search_res": [
+            {
+                "name": "Marathon Oil",
+                "slug": "marathon-oil"
+            }
+        ]
+    },
+    {
+        "company": "APOLLO GLOBAL MANAGEMENT",
+        "search_res": [
+            {
+                "name": "Apollo Global Management",
+                "slug": "apollo-global-management"
+            }
+        ]
+    },
+    {
+        "company": "EBAY",
+        "search_res": [
+            {
+                "name": "eBay",
+                "slug": "ebay"
+            }
+        ]
+    },
+    {
+        "company": "KKR & CO",
+        "search_res": [
+            {
+                "name": "KKR",
+                "slug": "kkr"
+            }
+        ]
+    },
+    {
+        "company": "TWILIO",
+        "search_res": [
+            {
+                "name": "Twillio",
+                "slug": "twillio"
+            }
+        ]
+    },
+    {
+        "company": "PPG INDUSTRIES",
+        "search_res": [
+            {
+                "name": "PPG Industries, Inc.",
+                "slug": "ppg-industries-inc"
+            }
+        ]
+    },
+    {
+        "company": "MCKESSON CORPORATION",
+        "search_res": [
+            {
+                "name": "McKesson",
+                "slug": "mckesson"
+            }
+        ]
+    },
+    {
+        "company": "ROCKWELL AUTOMATION",
+        "search_res": [
+            {
+                "name": "Rockwell Automation",
+                "slug": "rockwell-automation"
+            }
+        ]
+    },
+    {
+        "company": "ZSCALER",
+        "search_res": [
+            {
+                "name": "Zscaler",
+                "slug": "zscaler"
+            }
+        ]
+    },
+    {
+        "company": "BLOOMBERG LP",
+        "search_res": [
+            {
+                "name": "Bloomberg",
+                "slug": "bloomberg"
+            },
+            {
+                "name": "Bloomberg Beta",
+                "slug": "bloomberg-beta"
+            }
+        ]
+    },
+    {
+        "company": "STATE STREET CORPORATION",
+        "search_res": [
+            {
+                "name": "State Street",
+                "slug": "state-street"
+            }
+        ]
+    },
+    {
+        "company": "ELECTRONIC ARTS",
+        "search_res": [
+            {
+                "name": "Electronic Arts",
+                "slug": "electronic-arts"
+            }
+        ]
+    },
+    {
+        "company": "KROGER",
+        "search_res": [
+            {
+                "name": "Kroger",
+                "slug": "kroger"
+            }
+        ]
+    },
+    {
+        "company": "UNITY SOFTWARE INC.",
+        "search_res": [
+            {
+                "name": "Unity Technologies",
+                "slug": "unity-technologies"
+            }
+        ]
+    },
+    {
+        "company": "CLOUDFLARE",
+        "search_res": [
+            {
+                "name": "Cloudflare",
+                "slug": "cloudflare"
+            }
+        ]
+    },
+    {
+        "company": "DEVON ENERGY CORPORATION",
+        "search_res": [
+            {
+                "name": "Devonshire Investors",
+                "slug": "devonshire-investors"
+            }
+        ]
+    },
+    {
+        "company": "ALEXANDRIA REAL ESTATE EQUITIES",
+        "search_res": [
+            {
+                "name": "Alexandria Venture Investments",
+                "slug": "alexandria-venture-investments"
+            }
+        ]
+    },
+    {
+        "company": "CORNING",
+        "search_res": [
+            {
+                "name": "Corning",
+                "slug": "corning"
+            }
+        ]
+    },
+    {
+        "company": "COPART",
+        "search_res": [
+            {
+                "name": "Copart",
+                "slug": "copart"
+            }
+        ]
+    },
+    {
+        "company": "EQUIFAX",
+        "search_res": [
+            {
+                "name": "Equifax",
+                "slug": "equifax"
+            }
+        ]
+    },
+    {
+        "company": "NASDAQ",
+        "search_res": [
+            {
+                "name": "Nasdaq Blockchain",
+                "slug": "nasdaq-blockchain"
+            },
+            {
+                "name": "Nasdaq Stockholm",
+                "slug": "nasdaq-stockholm"
+            },
+            {
+                "name": "Nasdaq Ventures",
+                "slug": "nasdaq-ventures"
+            },
+            {
+                "name": "Nasdaq, Inc.",
+                "slug": "nasdaq-inc"
+            }
+        ]
+    },
+    {
+        "company": "INTERACTIVE BROKERS GROUP",
+        "search_res": [
+            {
+                "name": "Interactive Brokers Group",
+                "slug": "interactive-brokers-group"
+            }
+        ]
+    },
+    {
+        "company": "INSTAGRAM",
+        "search_res": [
+            {
+                "name": "Instagram",
+                "slug": "instagram"
+            }
+        ]
+    },
+    {
+        "company": "TWITTER",
+        "search_res": [
+            {
+                "name": "Twitter",
+                "slug": "twitter"
+            }
+        ]
+    },
+    {
+        "company": "OKTA",
+        "search_res": [
+            {
+                "name": "Okta",
+                "slug": "okta"
+            },
+            {
+                "name": "Okta Ventures",
+                "slug": "okta-ventures"
+            }
+        ]
+    },
+    {
+        "company": "ZEBRA TECHNOLOGIES CORPORATION",
+        "search_res": [
+            {
+                "name": "Zebra Technologies",
+                "slug": "zebra-technologies"
+            }
+        ]
+    },
+    {
+        "company": "PACIFIC GAS & ELECTRIC CORPORATION",
+        "search_res": [
+            {
+                "name": "Pacific Gas and Electric Company (PG&E)",
+                "slug": "pacific-gas-and-electric-company-pg-and-e"
+            }
+        ]
+    },
+    {
+        "company": "SLACK TECHNOLOGIES",
+        "search_res": [
+            {
+                "name": "Slack Technologies",
+                "slug": "slack-technologies"
+            }
+        ]
+    },
+    {
+        "company": "AMERISOURCEBERGEN CORPORATION",
+        "search_res": [
+            {
+                "name": "AmerisourceBergen Corporation",
+                "slug": "amerisourcebergen-corporation"
+            }
+        ]
+    },
+    {
+        "company": "HESS CORPORATION",
+        "search_res": [
+            {
+                "name": "Hess",
+                "slug": "hess"
+            }
+        ]
+    },
+    {
+        "company": "DOCUSIGN",
+        "search_res": [
+            {
+                "name": "DocuSign",
+                "slug": "docusign"
+            }
+        ]
+    },
+    {
+        "company": "SYNCHRONY FINANCIAL",
+        "search_res": [
+            {
+                "name": "Synchrony Financial",
+                "slug": "synchrony-financial"
+            }
+        ]
+    },
+    {
+        "company": "SEAGATE TECHNOLOGY",
+        "search_res": [
+            {
+                "name": "Seagate Technology",
+                "slug": "seagate-technology"
+            }
+        ]
+    },
+    {
+        "company": "CAPITAL GROUP",
+        "search_res": [
+            {
+                "name": "Capital Group",
+                "slug": "capital-group"
+            }
+        ]
+    },
+    {
+        "company": "GARTNER",
+        "search_res": [
+            {
+                "name": "Gartner",
+                "slug": "gartner"
+            }
+        ]
+    },
+    {
+        "company": "CITIZENS FINANCIAL GROUP",
+        "search_res": [
+            {
+                "name": "Citizens Financial Group",
+                "slug": "citizens-financial-group"
+            }
+        ]
+    },
+    {
+        "company": "KELLOGG COMPANY",
+        "search_res": [
+            {
+                "name": "The Kellogg Company",
+                "slug": "the-kellogg-company"
+            }
+        ]
+    },
+    {
+        "company": "AFFIRM HOLDINGS, INC.",
+        "search_res": [
+            {
+                "name": "Affirm",
+                "slug": "affirm"
+            },
+            {
+                "name": "Affirm Holdings",
+                "slug": "affirm-holdings"
+            }
+        ]
+    },
+    {
+        "company": "SIGNATURE BANK",
+        "search_res": [
+            {
+                "name": "Signature Bank",
+                "slug": "signature-bank"
+            }
+        ]
+    },
+    {
+        "company": "WELLCARE HEALTH PLANS",
+        "search_res": [
+            {
+                "name": "WellCare",
+                "slug": "wellcare"
+            }
+        ]
+    },
+    {
+        "company": "FOX CORPORATION",
+        "search_res": [
+            {
+                "name": "Fox",
+                "slug": "fox"
+            }
+        ]
+    },
+    {
+        "company": "EPIC Games",
+        "search_res": [
+            {
+                "name": "Epic Games",
+                "slug": "epic-games"
+            }
+        ]
+    },
+    {
+        "company": "TRANSUNION",
+        "search_res": [
+            {
+                "name": "TransUnion",
+                "slug": "transunion"
+            }
+        ]
+    },
+    {
+        "company": "NETAPP",
+        "search_res": [
+            {
+                "name": "NetApp Excellerator",
+                "slug": "netapp-excellerator"
+            }
+        ]
+    },
+    {
+        "company": "WARNER MUSIC GROUP CORP.",
+        "search_res": [
+            {
+                "name": "Warner Music Group",
+                "slug": "warner-music-group"
+            }
+        ]
+    },
+    {
+        "company": "UIPATH, INC.",
+        "search_res": [
+            {
+                "name": "UiPath",
+                "slug": "uipath"
+            }
+        ]
+    },
+    {
+        "company": "TRIMBLE",
+        "search_res": [
+            {
+                "name": "Trimble Inc.",
+                "slug": "trimble-inc"
+            }
+        ]
+    },
+    {
+        "company": "BROADRIDGE FINANCIAL SOLUTIONS",
+        "search_res": [
+            {
+                "name": "Broadridge",
+                "slug": "broadridge"
+            }
+        ]
+    },
+    {
+        "company": "CMS ENERGY CORPORATION",
+        "search_res": [
+            {
+                "name": "CMS",
+                "slug": "cms"
+            },
+            {
+                "name": "CMS Holdings",
+                "slug": "cms-holdings"
+            },
+            {
+                "name": "CMS Ventures",
+                "slug": "cms-ventures"
+            }
+        ]
+    },
+    {
+        "company": "TAKE-TWO INTERACTIVE SOFTWARE",
+        "search_res": [
+            {
+                "name": "Take-Two Interactive Software",
+                "slug": "take-two-interactive-software"
+            }
+        ]
+    },
+    {
+        "company": "DISH NETWORK CORPORATION",
+        "search_res": [
+            {
+                "name": "Dish Network",
+                "slug": "dish-network"
+            }
+        ]
+    },
+    {
+        "company": "LIBERTY SIRIUSXM GROUP",
+        "search_res": [
+            {
+                "name": "Liberty Media Corporation",
+                "slug": "liberty-media-corporation"
+            }
+        ]
+    },
+    {
+        "company": "PIMCO",
+        "search_res": [
+            {
+                "name": "PIMCO",
+                "slug": "pimco"
+            }
+        ]
+    },
+    {
+        "company": "MARKEL CORPORATION",
+        "search_res": [
+            {
+                "name": "Markel Ventures",
+                "slug": "markel-ventures"
+            }
+        ]
+    },
+    {
+        "company": "FACTSET RESEARCH SYSTEMS",
+        "search_res": [
+            {
+                "name": "FactSet",
+                "slug": "factset"
+            }
+        ]
+    },
+    {
+        "company": "TIFFANY & CO",
+        "search_res": [
+            {
+                "name": "Tiffany & Co.",
+                "slug": "tiffany-and-co"
+            }
+        ]
+    },
+    {
+        "company": "FIDELITY NATIONAL FINANCIAL",
+        "search_res": [
+            {
+                "name": "Fidelity",
+                "slug": "fidelity"
+            },
+            {
+                "name": "FidelityLabs",
+                "slug": "fidelitylabs"
+            },
+            {
+                "name": "Fidelity Digital Asset Services",
+                "slug": "fidelity-digital-asset-services"
+            }
+        ]
+    },
+    {
+        "company": "CARDINAL HEALTH",
+        "search_res": [
+            {
+                "name": "Cardinal Health",
+                "slug": "cardinal-health"
+            }
+        ]
+    },
+    {
+        "company": "AES CORPORATION",
+        "search_res": [
+            {
+                "name": "AES Corporation",
+                "slug": "aes-corporation"
+            }
+        ]
+    },
+    {
+        "company": "INTERPUBLIC GROUP OF COMPANIES",
+        "search_res": [
+            {
+                "name": "Interpublic Group",
+                "slug": "interpublic-group"
+            }
+        ]
+    },
+    {
+        "company": "LYFT",
+        "search_res": [
+            {
+                "name": "lyft",
+                "slug": "lyft"
+            }
+        ]
+    },
+    {
+        "company": "FORMULA ONE GROUP",
+        "search_res": [
+            {
+                "name": "Formula1",
+                "slug": "formula1"
+            }
+        ]
+    },
+    {
+        "company": "AXA EQUITABLE HOLDINGS",
+        "search_res": [
+            {
+                "name": "AXA",
+                "slug": "axa"
+            },
+            {
+                "name": "AXA XL",
+                "slug": "axa-xl"
+            },
+            {
+                "name": "AXA Venture Partners",
+                "slug": "axa-venture-partners"
+            }
+        ]
+    },
+    {
+        "company": "MARATHON OIL CORPORATION",
+        "search_res": [
+            {
+                "name": "Marathon Oil",
+                "slug": "marathon-oil"
+            }
+        ]
+    },
+    {
+        "company": "TELEFONICA BRASIL",
+        "search_res": [
+            {
+                "name": "Telef\u00f3nica Innovation Ventures",
+                "slug": "telefonica-innovation-ventures"
+            }
+        ]
+    },
+    {
+        "company": "MORNINGSTAR",
+        "search_res": [
+            {
+                "name": "Morningstar Ventures",
+                "slug": "morningstar-ventures"
+            }
+        ]
+    },
+    {
+        "company": "BUNGE",
+        "search_res": [
+            {
+                "name": "Bunge",
+                "slug": "bunge"
+            }
+        ]
+    },
+    {
+        "company": "ROBINHOOD MARKETS, INC.",
+        "search_res": [
+            {
+                "name": "Robinhood (Crypto)",
+                "slug": "robinhood-crypto"
+            }
+        ]
+    },
+    {
+        "company": "WESTLAKE CHEMICAL CORPORATION",
+        "search_res": [
+            {
+                "name": "Westlake Ventures",
+                "slug": "westlake-ventures"
+            }
+        ]
+    },
+    {
+        "company": "CBOE GLOBAL MARKETS",
+        "search_res": [
+            {
+                "name": "Cboe",
+                "slug": "cboe"
+            },
+            {
+                "name": "Cboe Digital",
+                "slug": "cboe-digital"
+            },
+            {
+                "name": "Cboe Global Markets",
+                "slug": "cboe-global-markets"
+            },
+            {
+                "name": "Cboe FX Markets",
+                "slug": "cboe-fx-markets"
+            }
+        ]
+    },
+    {
+        "company": "HASHICORP, INC.",
+        "search_res": [
+            {
+                "name": "HashiCorp",
+                "slug": "hashicorp"
+            }
+        ]
+    },
+    {
+        "company": "SANTANDER CONSUMER USA HOLDINGS",
+        "search_res": [
+            {
+                "name": "Santander Bank",
+                "slug": "santander-bank"
+            },
+            {
+                "name": "Banco Santander, S.A.",
+                "slug": "banco-santander-s-a"
+            }
+        ]
+    },
+    {
+        "company": "JACK HENRY & ASSOCIATES",
+        "search_res": [
+            {
+                "name": "Jack Henry & Associates ",
+                "slug": "jack-henry-and-associates"
+            }
+        ]
+    },
+    {
+        "company": "COMERICA",
+        "search_res": [
+            {
+                "name": "Comerica",
+                "slug": "comerica"
+            },
+            {
+                "name": "Comerica Incorporated",
+                "slug": "comerica-incorporated"
+            }
+        ]
+    },
+    {
+        "company": "WESTERN ALLIANCE BANCORPORATION",
+        "search_res": [
+            {
+                "name": "Western Alliance Bancorporation",
+                "slug": "western-alliance-bancorporation"
+            }
+        ]
+    },
+    {
+        "company": "BLACK KNIGHT",
+        "search_res": [
+            {
+                "name": "Black",
+                "slug": "black"
+            }
+        ]
+    },
+    {
+        "company": "EAST WEST BANCORP",
+        "search_res": [
+            {
+                "name": "East West Banking Corporation",
+                "slug": "east-west-banking-corporation"
+            }
+        ]
+    },
+    {
+        "company": "INVESCO",
+        "search_res": [
+            {
+                "name": "Invesco",
+                "slug": "invesco"
+            },
+            {
+                "name": "Invesco Ltd.",
+                "slug": "invesco-ltd"
+            },
+            {
+                "name": "Invesco Private Capital",
+                "slug": "invesco-private-capital"
+            }
+        ]
+    },
+    {
+        "company": "DRAFTKINGS INC.",
+        "search_res": [
+            {
+                "name": "DRIVE by DraftKings",
+                "slug": "drive-by-draftkings"
+            }
+        ]
+    },
+    {
+        "company": "SOFI TECHNOLOGIES, INC.",
+        "search_res": [
+            {
+                "name": "SoFi",
+                "slug": "sofi"
+            }
+        ]
+    },
+    {
+        "company": "GAMESTOP",
+        "search_res": [
+            {
+                "name": "GameStop",
+                "slug": "gamestop"
+            }
+        ]
+    },
+    {
+        "company": "NRG ENERGY",
+        "search_res": [
+            {
+                "name": "NRG Ventures",
+                "slug": "nrg-ventures"
+            },
+            {
+                "name": "NRG ESports",
+                "slug": "nrg-esports"
+            }
+        ]
+    },
+    {
+        "company": "ASPEN TECHNOLOGY",
+        "search_res": [
+            {
+                "name": "AspenTech",
+                "slug": "aspentech"
+            }
+        ]
+    },
+    {
+        "company": "JEFFERIES FINANCIAL GROUP",
+        "search_res": [
+            {
+                "name": "Jefferies Financial Group",
+                "slug": "jefferies-financial-group"
+            }
+        ]
+    },
+    {
+        "company": "YAHOO",
+        "search_res": [
+            {
+                "name": "Yahoo",
+                "slug": "yahoo"
+            }
+        ]
+    },
+    {
+        "company": "PROCORE TECHNOLOGIES, INC.",
+        "search_res": [
+            {
+                "name": "Procore",
+                "slug": "procore"
+            }
+        ]
+    },
+    {
+        "company": "CAPRI HOLDINGS",
+        "search_res": [
+            {
+                "name": "Capricorn Investment Group",
+                "slug": "capricorn-investment-group"
+            }
+        ]
+    },
+    {
+        "company": "ASSURANT",
+        "search_res": [
+            {
+                "name": "Assurant",
+                "slug": "assurant"
+            }
+        ]
+    },
+    {
+        "company": "AGCO CORPORATION",
+        "search_res": [
+            {
+                "name": "AGC",
+                "slug": "agc"
+            }
+        ]
+    },
+    {
+        "company": "AUTOMATION ANYWHERE",
+        "search_res": [
+            {
+                "name": "Litmus Automation",
+                "slug": "litmus-automation"
+            }
+        ]
+    },
+    {
+        "company": "GUIDEWIRE SOFTWARE",
+        "search_res": [
+            {
+                "name": "Guidewire Software",
+                "slug": "guidewire-software"
+            }
+        ]
+    },
+    {
+        "company": "ENDEAVOR GROUP HOLDINGS, INC.",
+        "search_res": [
+            {
+                "name": "Endeavor",
+                "slug": "endeavor"
+            },
+            {
+                "name": "Endeavor Catalyst",
+                "slug": "endeavor-catalyst"
+            }
+        ]
+    },
+    {
+        "company": "UNDER ARMOUR",
+        "search_res": [
+            {
+                "name": "Under Armour",
+                "slug": "under-armour"
+            }
+        ]
+    },
+    {
+        "company": "FIRST AMERICAN FINANCIAL CORPORATION",
+        "search_res": [
+            {
+                "name": "First American",
+                "slug": "first-american"
+            }
+        ]
+    },
+    {
+        "company": "TANIUM",
+        "search_res": [
+            {
+                "name": "Tanium",
+                "slug": "tanium"
+            }
+        ]
+    },
+    {
+        "company": "MACY'S",
+        "search_res": [
+            {
+                "name": "Macy's",
+                "slug": "macy-s"
+            }
+        ]
+    },
+    {
+        "company": "MATTEL",
+        "search_res": [
+            {
+                "name": "Mattel",
+                "slug": "mattel"
+            }
+        ]
+    },
+    {
+        "company": "REINSURANCE GROUP OF AMERICA",
+        "search_res": [
+            {
+                "name": "Reinsurance Group of America",
+                "slug": "reinsurance-group-of-america"
+            }
+        ]
+    },
+    {
+        "company": "SYNOVUS FINANCIAL",
+        "search_res": [
+            {
+                "name": "Synovus Bank",
+                "slug": "synovus-bank"
+            }
+        ]
+    },
+    {
+        "company": "WESTERN UNION COMPANY",
+        "search_res": [
+            {
+                "name": "Western Union Accelerator",
+                "slug": "western-union-accelerator"
+            },
+            {
+                "name": "Western Union",
+                "slug": "western-union"
+            }
+        ]
+    },
+    {
+        "company": "NIELSEN HOLDINGS",
+        "search_res": [
+            {
+                "name": "Nielsen",
+                "slug": "nielsen"
+            },
+            {
+                "name": "Nielsen Innovate",
+                "slug": "nielsen-innovate"
+            }
+        ]
+    },
+    {
+        "company": "PERSHING SQUARE HOLDINGS",
+        "search_res": [
+            {
+                "name": "Pershing Square Holdings",
+                "slug": "pershing-square-holdings"
+            }
+        ]
+    },
+    {
+        "company": "UNITY TECHNOLOGIES",
+        "search_res": [
+            {
+                "name": "Unity Technologies",
+                "slug": "unity-technologies"
+            },
+            {
+                "name": "UnityVC",
+                "slug": "unityvc"
+            }
+        ]
+    },
+    {
+        "company": "THOUGHTWORKS HOLDING, INC.",
+        "search_res": [
+            {
+                "name": "ThoughtWorks",
+                "slug": "thoughtworks"
+            }
+        ]
+    },
+    {
+        "company": "POLARIS",
+        "search_res": [
+            {
+                "name": "Polaris Networks",
+                "slug": "polaris-networks"
+            },
+            {
+                "name": "Polaris Investimentos",
+                "slug": "polaris-investimentos"
+            }
+        ]
+    },
+    {
+        "company": "GAP",
+        "search_res": [
+            {
+                "name": "GAP",
+                "slug": "gap"
+            }
+        ]
+    },
+    {
+        "company": "ZYNGA",
+        "search_res": [
+            {
+                "name": "Zynga",
+                "slug": "zynga"
+            }
+        ]
+    },
+    {
+        "company": "LEGEND BIOTECH CORP",
+        "search_res": [
+            {
+                "name": "Legend Star",
+                "slug": "legend-star"
+            }
+        ]
+    },
+    {
+        "company": "CHANGE HEALTHCARE",
+        "search_res": [
+            {
+                "name": "Change Healthcare",
+                "slug": "change-healthcare"
+            }
+        ]
+    },
+    {
+        "company": "HASHICORP",
+        "search_res": [
+            {
+                "name": "HashiCorp",
+                "slug": "hashicorp"
+            }
+        ]
+    },
+    {
+        "company": "NEXSTAR MEDIA GROUP",
+        "search_res": [
+            {
+                "name": "NexStar Partners",
+                "slug": "nexstar-partners"
+            }
+        ]
+    },
+    {
+        "company": "CRANE",
+        "search_res": [
+            {
+                "name": "Crane Venture Partners",
+                "slug": "crane-venture-partners"
+            }
+        ]
+    },
+    {
+        "company": "FS KKR CAPITAL",
+        "search_res": [
+            {
+                "name": "KKR",
+                "slug": "kkr"
+            },
+            {
+                "name": "FS Investments",
+                "slug": "fs-investments"
+            }
+        ]
+    },
+    {
+        "company": "NEW YORK COMMUNITY BANCORP",
+        "search_res": [
+            {
+                "name": "New York Community Bank",
+                "slug": "new-york-community-bank"
+            }
+        ]
+    },
+    {
+        "company": "VALLEY NATIONAL BANCORP",
+        "search_res": [
+            {
+                "name": "Silicon Valley Bank",
+                "slug": "silicon-valley-bank"
+            }
+        ]
+    },
+    {
+        "company": "SONOCO PRODUCTS COMPANY",
+        "search_res": [
+            {
+                "name": "Sonono",
+                "slug": "sonono"
+            }
+        ]
+    },
+    {
+        "company": "AMAZON.COM",
+        "search_res": [
+            {
+                "name": "Amazon",
+                "slug": "amazon"
+            },
+            {
+                "name": "Amazon Web Services (AWS)",
+                "slug": "amazon-web-services-aws"
+            }
+        ]
+    },
+    {
+        "company": "J P MORGAN CHASE & CO",
+        "search_res": [
+            {
+                "name": "JPMorgan Chase & Co.",
+                "slug": "jpmorgan-chase-and-co"
+            }
+        ]
+    },
+    {
+        "company": "SALESFORCE.COM",
+        "search_res": [
+            {
+                "name": "Salesforce Ventures",
+                "slug": "salesforce-ventures"
+            },
+            {
+                "name": "Salesforce Blockchain",
+                "slug": "salesforce-blockchain"
+            }
+        ]
+    },
+    {
+        "company": "THE CHARLES SCHWAB CORPORATION",
+        "search_res": [
+            {
+                "name": "Charles Schwab",
+                "slug": "charles-schwab"
+            }
+        ]
+    },
+    {
+        "company": "THE GOLDMAN SACHS GROUP",
+        "search_res": [
+            {
+                "name": "Goldman Sachs",
+                "slug": "goldman-sachs"
+            }
+        ]
+    },
+    {
+        "company": "SNOWFLAKE",
+        "search_res": [
+            {
+                "name": "Snowflake Ventures",
+                "slug": "snowflake-ventures"
+            }
+        ]
+    }
+]

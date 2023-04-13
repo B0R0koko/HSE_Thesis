@@ -1,0 +1,18 @@
+{
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "content-length": "166",
+    "content-type": "application/json",
+    "cookie": "ajs_anonymous_id=5abcaecd-c3ea-4004-b383-e021b4cf421c; intercom-id-jeuheae3=f56b7577-5108-4dda-a498-8baaaeb76126; intercom-session-jeuheae3=; intercom-device-id-jeuheae3=dd57dc7c-6303-4170-9b75-7a90e004c4de; amplitude_id_214885eb1395e312b03a0626b3a8811cblockdata.tech=eyJkZXZpY2VJZCI6IjVhYmNhZWNkLWMzZWEtNDAwNC1iMzgzLWUwMjFiNGNmNDIxYyIsInVzZXJJZCI6bnVsbCwib3B0T3V0IjpmYWxzZSwic2Vzc2lvbklkIjoxNjc2NzI4MTM4NTcyLCJsYXN0RXZlbnRUaW1lIjoxNjc2NzI4MjQ4NTE4LCJldmVudElkIjozNywiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjM3fQ==",
+    "origin": "https://www.blockdata.tech",
+    "referer": "https://www.blockdata.tech/",
+    "sec-ch-ua": "\"Not_A Brand\";v=\"99\", \"Google Chrome\";v=\"109\", \"Chromium\";v=\"109\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "x-segment-anonymous-id": "5abcaecd-c3ea-4004-b383-e021b4cf421c"
+}

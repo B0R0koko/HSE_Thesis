@@ -1,0 +1,18 @@
+{
+    "accept": "application/json, text/plain, */*",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "cookie": "_gcl_au=1.1.563529721.1672479268; _cb=ChkjwhuFq0yD9xYps; _gd_svisitor=5e081002146500003e39a86318030000c1020e00; mid=33082652259192897; _gd_visitor=fdc8a773-82f7-458c-868c-1df97dbe5e8c; _v__chartbeat3=DJ403VCdrSaNoBbeq; ELOQUA=GUID=FDA02E223A4F4DBDB6D38485388D7FAF; ELQCOUNTRY=ES; _t_tests=eyJDcjN1aVdiaEkyRk9GIjp7ImNob3NlblZhcmlhbnQiOiJCIiwic3BlY2lmaWNMb2NhdGlvbiI6WyJEdW5wX0oiXX0sImxpZnRfZXhwIjoibSJ9; _gid=GA1.2.2139281316.1676053646; _cb_svref=null; _uetsid=92770690a97011ed849bb9cb0a4b794f; _uetvid=52ec080088ee11edb965a5df9a611632; _gd_session=61f6744c-fc1c-4583-870d-e6c1fb1829bf; _an_uid=157312045242782848; _ga=GA1.2.70774995.1672479269; _dc_gtm_UA-141496933-1=1; _chartbeat2=.1672479269120.1676055017619.0000000000000001.BCze8CBY44TZCBY_u-CuYn72lgv6h.21; _tq_id.TV-7245909072-1.8ae0=1f1f9ff26ebd0f5a.1672479270.0.1676055018..; _ga_G8C0R44VCK=GS1.1.1676053647.4.1.1676055018.59.0.0",
+    "sec-ch-ua": "\"Not_A Brand\";v=\"99\", \"Google Chrome\";v=\"109\", \"Chromium\";v=\"109\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "apikey": "lstzFDEOhfFNMLikKa0am9mgEKLBl49T",
+    "x-api-key": "Nrc2ElgzRkaTE43D5vA7mrWj2WpSBR35fvmaqfte",
+    "x-api-realtime-e": "eyJlbmMiOiJBMTI4R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.X-h4zn65XpjG8cZnL3e6hj8LMbzupQBglHZce7tzu-c4utCtXQ2IYoLxdik04usYRhNo74AS_2crdjLnBc_J0lFEdAPzb_OBE7HjwfRaYeNhfXIDw74QCrFGqQ5n7AtllL-vTGnqmI1S9WJhSwnIBe_yRxuXGGbIttizI5FItYY.bB3WkiuoS1xzw78w.iTqTFVbxKo4NQQsNNlbkF4tg4GCfgqdRdQXN8zQU3QYhbHc-XDusH1jFii3-_-AIsqpHaP7ilG9aBxzoK7KPPfK3apcoMS6fDM3QLRSZzjkBoxWK75FtrQMAN5-LecdJk97xaXEciS0QqqBqNugoSPwoiZMazHX3rr7L5jPM-ecXN2uEjbSR0wfg-57iHAku8jvThz4mtGpMRAOil9iZaL6iRQ.o6tR6kuOQBhnpcsdTQeZWw",
+    "x-api-requestid": "e55fa209-082d-fd02-3ee3-4c62aedb723d",
+    "x-sal-contenttype": "e7FDDltrTy+tA2HnLovvGL0LFMwT+KkEptGju5wXVTU="
+}
