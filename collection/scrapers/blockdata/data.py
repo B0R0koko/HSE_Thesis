@@ -4,6 +4,7 @@ from typing import *
 
 import json
 import sys
+import numpy as np
 
 # --------------------------------------------------------------
 # Given companies slugs collect data from BlockData website
@@ -59,7 +60,7 @@ def main() -> None:
             {
                 "company_name": match["company"],
                 "status": status,
-                "use_cases": use_cases,
+                "use_cases": use_cases if use_cases else np.nan,
                 "slugs_matched": [el["slug"] for el in match["search_res"]],
                 "related_companies": [el["name"] for el in match["search_res"]],
                 "total_articles": n_articles,

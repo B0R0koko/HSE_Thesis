@@ -5,12 +5,11 @@ from itemloaders.processors import MapCompose, TakeFirst
 
 
 def parse_money_vals(value):
-    multiplier = None
+    num = float(re.sub("[^\d\.]", "", value))
     if "Billion" in value:
-        multiplier = 10**9
+        return num
     elif "Million" in value:
-        multiplier = 10**6
-    return float(re.sub("[^\d\.]", "", value)) * multiplier
+        return num / 1000
 
 
 def parse_num_employees(value):
@@ -86,5 +85,13 @@ class Company(scrapy.Item):
     )
     num_employees = scrapy.Field(
         input_processor=MapCompose(parse_num_employees),
+        output_processor=TakeFirst(),
+    )
+    founded_year = scrapy.Field(
+        input_processor=MapCompose(),
+        output_processor=TakeFirst(),
+    )
+    ipo_year = scrapy.Field(
+        input_processor=MapCompose(),
         output_processor=TakeFirst(),
     )

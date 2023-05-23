@@ -1,0 +1,4807 @@
+[
+    {
+        "company_name": "COCA-COLA COMPANY",
+        "matched_to": "THE COCA-COLA COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-COCA-COLA-COMPANY-4819/"
+    },
+    {
+        "company_name": "TEXAS INSTRUMENTS",
+        "matched_to": "TEXAS INSTRUMENTS USD",
+        "url": "https://www.marketscreener.com/quote/stock/TEXAS-INSTRUMENTS-9730651/"
+    },
+    {
+        "company_name": "STARBUCKS CORPORATION",
+        "matched_to": "STARBUCKS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/STARBUCKS-CORPORATION-4905/"
+    },
+    {
+        "company_name": "BOEING COMPANY",
+        "matched_to": "BOEING USD",
+        "url": "https://www.marketscreener.com/quote/stock/BOEING-4816/"
+    },
+    {
+        "company_name": "ESTEE LAUDER COMPANIES",
+        "matched_to": "ESTEE LAUDER USD",
+        "url": "https://www.marketscreener.com/quote/stock/ESTEE-LAUDER-12437/"
+    },
+    {
+        "company_name": "CITI GROUP",
+        "matched_to": "TOTALENERGIES SE EUR",
+        "url": "https://www.marketscreener.com/quote/stock/TOTALENERGIES-SE-4717/"
+    },
+    {
+        "company_name": "NETFLIX",
+        "matched_to": "NETFLIX, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NETFLIX-INC-44292425/"
+    },
+    {
+        "company_name": "ABBOTT LABORATORIES",
+        "matched_to": "ABBOTT LABORATORIES USD",
+        "url": "https://www.marketscreener.com/quote/stock/ABBOTT-LABORATORIES-11506/"
+    },
+    {
+        "company_name": "PEPSICO",
+        "matched_to": "PEPSICO, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PEPSICO-INC-39085159/"
+    },
+    {
+        "company_name": "CHEVRON CORPORATION",
+        "matched_to": "CHEVRON CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CHEVRON-CORPORATION-12064/"
+    },
+    {
+        "company_name": "ADOBE",
+        "matched_to": "ADOBE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ADOBE-INC-4844/"
+    },
+    {
+        "company_name": "ELI LILLY AND COMPANY",
+        "matched_to": "ELI LILLY AND COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/ELI-LILLY-AND-COMPANY-13401/"
+    },
+    {
+        "company_name": "NIKE",
+        "matched_to": "NIKE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NIKE-INC-13739/"
+    },
+    {
+        "company_name": "BOSTON SCIENTIFIC CORPORATION",
+        "matched_to": "BOSTON SCIENTIFIC CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/BOSTON-SCIENTIFIC-CORPORA-11935/"
+    },
+    {
+        "company_name": "FEDEX CORPORATION",
+        "matched_to": "FEDEX CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/FEDEX-CORPORATION-12585/"
+    },
+    {
+        "company_name": "COLGATE-PALMOLIVE COMPANY",
+        "matched_to": "COLGATE-PALMOLIVE COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/COLGATE-PALMOLIVE-COMPANY-12089/"
+    },
+    {
+        "company_name": "FIDELITY NATIONAL INFORMATION SERVICES",
+        "matched_to": "FIDELITY NATIONAL INFORMATION SERVICES, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/FIDELITY-NATIONAL-INFORMA-12027/"
+    },
+    {
+        "company_name": "CINTAS CORPORATION",
+        "matched_to": "CINTAS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CINTAS-CORPORATION-4861/"
+    },
+    {
+        "company_name": "FISERV",
+        "matched_to": "FISERV, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FISERV-INC-4873/"
+    },
+    {
+        "company_name": "NORFOLK SOUTHERN CORPORATION",
+        "matched_to": "NORFOLK SOUTHERN CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/NORFOLK-SOUTHERN-CORPORAT-13802/"
+    },
+    {
+        "company_name": "SYSCO CORPORATION",
+        "matched_to": "SYSCO CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/SYSCO-CORPORATION-14540/"
+    },
+    {
+        "company_name": "CONSTELLATION BRANDS",
+        "matched_to": "CONSTELLATION BRANDS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CONSTELLATION-BRANDS-INC-14502/"
+    },
+    {
+        "company_name": "SEMPRA ENERGY",
+        "matched_to": "SEMPRA ENERGY USD",
+        "url": "https://www.marketscreener.com/quote/stock/SEMPRA-ENERGY-14471/"
+    },
+    {
+        "company_name": "DELL TECHNOLOGIES",
+        "matched_to": "DELL TECHNOLOGIES INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DELL-TECHNOLOGIES-INC-50061235/"
+    },
+    {
+        "company_name": "NEWMONT CORPORATION",
+        "matched_to": "NEWMONT CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/NEWMONT-CORPORATION-13711/"
+    },
+    {
+        "company_name": "CENTENE CORPORATION",
+        "matched_to": "CENTENE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CENTENE-CORPORATION-55763517/"
+    },
+    {
+        "company_name": "WALGREENS BOOTS ALLIANCE",
+        "matched_to": "WALGREENS BOOTS ALLIANCE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WALGREENS-BOOTS-ALLIANCE--19356230/"
+    },
+    {
+        "company_name": "IDEXX LABORATORIES",
+        "matched_to": "IDEXX LABORATORIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/IDEXX-LABORATORIES-INC-9641/"
+    },
+    {
+        "company_name": "PAYCHEX",
+        "matched_to": "PAYCHEX, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PAYCHEX-INC-4894/"
+    },
+    {
+        "company_name": "HUMANA",
+        "matched_to": "HUMANA INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HUMANA-INC-13000/"
+    },
+    {
+        "company_name": "PIONEER NATURAL RESOURCES COMPANY",
+        "matched_to": "PIONEER NATURAL RESOURCES COMPANY",
+        "url": "https://www.marketscreener.com/quote/stock/PIONEER-NATURAL-RESOURCES-14159/"
+    },
+    {
+        "company_name": "ROPER TECHNOLOGIES",
+        "matched_to": "ROPER TECHNOLOGIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ROPER-TECHNOLOGIES-INC-14279/"
+    },
+    {
+        "company_name": "PPG INDUSTRIES",
+        "matched_to": "PPG INDUSTRIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PPG-INDUSTRIES-INC-14090/"
+    },
+    {
+        "company_name": "REALTY INCOME CORPORATION",
+        "matched_to": "REALTY INCOME CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/REALTY-INCOME-CORPORATION-13868/"
+    },
+    {
+        "company_name": "KKR & CO",
+        "matched_to": "KKR & CO. INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/KKR-CO-INC-44486777/"
+    },
+    {
+        "company_name": "THE HERSHEY COMPANY",
+        "matched_to": "THE HERSHEY COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-HERSHEY-COMPANY-12988/"
+    },
+    {
+        "company_name": "KIMBERLY-CLARK CORPORATION",
+        "matched_to": "KIMBERLY-CLARK CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/KIMBERLY-CLARK-CORPORATIO-13266/"
+    },
+    {
+        "company_name": "L3HARRIS TECHNOLOGIES",
+        "matched_to": "L3HARRIS TECHNOLOGIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/L3HARRIS-TECHNOLOGIES-INC-60951433/"
+    },
+    {
+        "company_name": "THE TRAVELERS COMPANIES",
+        "matched_to": "THE TRAVELERS COMPANIES USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-TRAVELERS-COMPANIES-14449/"
+    },
+    {
+        "company_name": "TWILIO",
+        "matched_to": "TWILIO INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TWILIO-INC-28734706/"
+    },
+    {
+        "company_name": "AFLAC",
+        "matched_to": "AFLAC INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/AFLAC-INCORPORATED-11556/"
+    },
+    {
+        "company_name": "DATADOG",
+        "matched_to": "DATADOG, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DATADOG-INC-65956839/"
+    },
+    {
+        "company_name": "APOLLO GLOBAL MANAGEMENT",
+        "matched_to": "APOLLO GLOBAL MANAGEMENT, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/APOLLO-GLOBAL-MANAGEMENT--131329862/"
+    },
+    {
+        "company_name": "EBAY",
+        "matched_to": "EBAY INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EBAY-INC-4869/"
+    },
+    {
+        "company_name": "CARRIER GLOBAL",
+        "matched_to": "CARRIER GLOBAL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CARRIER-GLOBAL-CORPORATIO-105026688/"
+    },
+    {
+        "company_name": "CHIPOTLE MEXICAN GRILL",
+        "matched_to": "CHIPOTLE MEXICAN GRILL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CHIPOTLE-MEXICAN-GRILL-IN-12109/"
+    },
+    {
+        "company_name": "MICROCHIP TECHNOLOGY",
+        "matched_to": "MICROCHIP TECHNOLOGY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MICROCHIP-TECHNOLOGY-INC-4887/"
+    },
+    {
+        "company_name": "MSCI",
+        "matched_to": "MSCI, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MSCI-INC-3021165/"
+    },
+    {
+        "company_name": "DEXCOM",
+        "matched_to": "DEXCOM, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DEXCOM-INC-9115/"
+    },
+    {
+        "company_name": "DIGITAL REALTY TRUST",
+        "matched_to": "DIGITAL REALTY TRUST, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DIGITAL-REALTY-TRUST-INC-12320/"
+    },
+    {
+        "company_name": "AMERICAN ELECTRIC POWER COMPANY",
+        "matched_to": "AMERICAN ELECTRIC POWER COMPANY, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/AMERICAN-ELECTRIC-POWER-C-11546/"
+    },
+    {
+        "company_name": "KRAFT HEINZ COMPANY",
+        "matched_to": "KRAFT HEINZ USD",
+        "url": "https://www.marketscreener.com/quote/stock/KRAFT-HEINZ-22816979/"
+    },
+    {
+        "company_name": "IQVIA HOLDINGS",
+        "matched_to": "IQVIA HOLDINGS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/IQVIA-HOLDINGS-INC-40331382/"
+    },
+    {
+        "company_name": "COGNIZANT TECHNOLOGY SOLUTIONS",
+        "matched_to": "COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/COGNIZANT-TECHNOLOGY-SOLU-23219296/"
+    },
+    {
+        "company_name": "AMPHENOL CORPORATION",
+        "matched_to": "MICROSOFT CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MICROSOFT-CORPORATION-4835/"
+    },
+    {
+        "company_name": "O'REILLY AUTOMOTIVE",
+        "matched_to": "O'REILLY AUTOMOTIVE, INC USD",
+        "url": "https://www.marketscreener.com/quote/stock/O-REILLY-AUTOMOTIVE-INC-10363/"
+    },
+    {
+        "company_name": "ROBLOX CORP",
+        "matched_to": "ROBLOX CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ROBLOX-CORPORATION-117793644/"
+    },
+    {
+        "company_name": "SCHLUMBERGER",
+        "matched_to": "SCHLUMBERGER LIMITED USD",
+        "url": "https://www.marketscreener.com/quote/stock/SCHLUMBERGER-LIMITED-14411/"
+    },
+    {
+        "company_name": "MONSTER BEVERAGE CORPORATION",
+        "matched_to": "MONSTER BEVERAGE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MONSTER-BEVERAGE-CORPORAT-22497283/"
+    },
+    {
+        "company_name": "ACTIVISION BLIZZARD",
+        "matched_to": "ACTIVISION BLIZZARD, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ACTIVISION-BLIZZARD-INC-3780631/"
+    },
+    {
+        "company_name": "AMERICAN INTERNATIONAL GROUP (AIG)",
+        "matched_to": "AMERICAN INTERNATIONAL GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMERICAN-INTERNATIONAL-GR-4815/"
+    },
+    {
+        "company_name": "VMWARE",
+        "matched_to": "VMWARE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/VMWARE-INC-58476/"
+    },
+    {
+        "company_name": "SYNOPSYS",
+        "matched_to": "SYNOPSYS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SYNOPSYS-INC-4908/"
+    },
+    {
+        "company_name": "ZOOM VIDEO COMMUNICATIONS",
+        "matched_to": "ZOOM VIDEO COMMUNICATIONS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ZOOM-VIDEO-COMMUNICATIONS-57086220/"
+    },
+    {
+        "company_name": "FORTINET",
+        "matched_to": "FORTINET, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FORTINET-INC-60103137/"
+    },
+    {
+        "company_name": "THE BANK OF NEW YORK MELLON CORPORATION",
+        "matched_to": "BANK OF NEW YORK MELLON CORPORATION (THE)",
+        "url": "https://www.marketscreener.com/quote/stock/BANK-OF-NEW-YORK-MELLON-C-11848/"
+    },
+    {
+        "company_name": "PALO ALTO NETWORKS",
+        "matched_to": "PALO ALTO NETWORKS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PALO-ALTO-NETWORKS-INC-11067980/"
+    },
+    {
+        "company_name": "KEURIG DR PEPPER",
+        "matched_to": "KEURIG DR PEPPER INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/KEURIG-DR-PEPPER-INC-44644712/"
+    },
+    {
+        "company_name": "SIMON PROPERTY GROUP",
+        "matched_to": "SIMON PROPERTY GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SIMON-PROPERTY-GROUP-INC-14452/"
+    },
+    {
+        "company_name": "MARRIOTT INTERNATIONAL",
+        "matched_to": "MARRIOTT INTERNATIONAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MARRIOTT-INTERNATIONAL-IN-14633490/"
+    },
+    {
+        "company_name": "GENERAL MILLS",
+        "matched_to": "GENERAL MILLS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GENERAL-MILLS-INC-12763/"
+    },
+    {
+        "company_name": "AUTOZONE",
+        "matched_to": "AUTOZONE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AUTOZONE-INC-11746/"
+    },
+    {
+        "company_name": "PARKER-HANNIFIN CORPORATION",
+        "matched_to": "PARKER-HANNIFIN CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/PARKER-HANNIFIN-CORPORATI-40295173/"
+    },
+    {
+        "company_name": "HP INC",
+        "matched_to": "HP INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HP-INC-24782740/"
+    },
+    {
+        "company_name": "HILTON WORLDWIDE HOLDINGS",
+        "matched_to": "HILTON WORLDWIDE HOLDINGS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HILTON-WORLDWIDE-HOLDINGS-40311470/"
+    },
+    {
+        "company_name": "REPUBLIC SERVICES",
+        "matched_to": "REPUBLIC SERVICES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/REPUBLIC-SERVICES-INC-14296/"
+    },
+    {
+        "company_name": "MOTOROLA SOLUTIONS",
+        "matched_to": "MOTOROLA SOLUTIONS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MOTOROLA-SOLUTIONS-INC-7130472/"
+    },
+    {
+        "company_name": "SVB FINANCIAL GROUP",
+        "matched_to": "SVB FINANCIAL GROUP USD",
+        "url": "https://www.marketscreener.com/quote/stock/SVB-FINANCIAL-GROUP-10840/"
+    },
+    {
+        "company_name": "DUPONT DE NEMOURS",
+        "matched_to": "DUPONT DE NEMOURS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DUPONT-DE-NEMOURS-INC-59241429/"
+    },
+    {
+        "company_name": "ALIGN TECHNOLOGY",
+        "matched_to": "ALIGN TECHNOLOGY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ALIGN-TECHNOLOGY-INC-8316/"
+    },
+    {
+        "company_name": "CROWDSTRIKE HOLDINGS",
+        "matched_to": "CROWDSTRIKE HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CROWDSTRIKE-HOLDINGS-INC-59783691/"
+    },
+    {
+        "company_name": "PRUDENTIAL FINANCIAL",
+        "matched_to": "PRUDENTIAL FINANCIAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PRUDENTIAL-FINANCIAL-INC-14113/"
+    },
+    {
+        "company_name": "GLOBAL PAYMENTS",
+        "matched_to": "GLOBAL PAYMENTS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GLOBAL-PAYMENTS-INC-12814/"
+    },
+    {
+        "company_name": "MARATHON PETROLEUM CORPORATION",
+        "matched_to": "MARATHON PETROLEUM CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MARATHON-PETROLEUM-CORPOR-8251813/"
+    },
+    {
+        "company_name": "DOW Inc",
+        "matched_to": "DOW INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DOW-INC-56727683/"
+    },
+    {
+        "company_name": "BAXTER INTERNATIONAL",
+        "matched_to": "BAXTER INTERNATIONAL INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BAXTER-INTERNATIONAL-INC-11763/"
+    },
+    {
+        "company_name": "AGILENT TECHNOLOGIES",
+        "matched_to": "AGILENT TECHNOLOGIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AGILENT-TECHNOLOGIES-INC-11488/"
+    },
+    {
+        "company_name": "T. ROWE PRICE GROUP",
+        "matched_to": "T. ROWE PRICE GROUP INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/T-ROWE-PRICE-GROUP-INC-40311214/"
+    },
+    {
+        "company_name": "DOORDASH",
+        "matched_to": "DOORDASH, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DOORDASH-INC-116169045/"
+    },
+    {
+        "company_name": "CADENCE DESIGN SYSTEMS",
+        "matched_to": "CADENCE DESIGN SYSTEMS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CADENCE-DESIGN-SYSTEMS-IN-8724/"
+    },
+    {
+        "company_name": "ENTERPRISE PRODUCTS PARTNERS",
+        "matched_to": "ENTERPRISE PRODUCTS PARTNERS L.P. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ENTERPRISE-PRODUCTS-PARTN-12478/"
+    },
+    {
+        "company_name": "DOLLAR GENERAL CORPORATION",
+        "matched_to": "DOLLAR GENERAL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/DOLLAR-GENERAL-CORPORATIO-5699818/"
+    },
+    {
+        "company_name": "EXELON CORPORATION",
+        "matched_to": "EXELON CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/EXELON-CORPORATION-13963/"
+    },
+    {
+        "company_name": "JOHNSON CONTROLS INTERNATIONAL",
+        "matched_to": "JOHNSON CONTROLS INTERNATIONAL PLC",
+        "url": "https://www.marketscreener.com/quote/stock/JOHNSON-CONTROLS-INTERNAT-31222816/"
+    },
+    {
+        "company_name": "VERTEX PHARMACEUTICALS",
+        "matched_to": "VERTEX PHARMACEUTICALS INCORPORATED",
+        "url": "https://www.marketscreener.com/quote/stock/VERTEX-PHARMACEUTICALS-IN-11321/"
+    },
+    {
+        "company_name": "METLIFE",
+        "matched_to": "METLIFE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/METLIFE-INC-13496/"
+    },
+    {
+        "company_name": "EMERSON ELECTRIC COMPANY",
+        "matched_to": "EMERSON ELECTRIC CO. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EMERSON-ELECTRIC-CO-12451/"
+    },
+    {
+        "company_name": "EOG RESOURCES",
+        "matched_to": "EOG RESOURCES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EOG-RESOURCES-INC-12468/"
+    },
+    {
+        "company_name": "AUTODESK",
+        "matched_to": "AUTODESK, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AUTODESK-INC-40246776/"
+    },
+    {
+        "company_name": "ILLUMINA",
+        "matched_to": "ILLUMINA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ILLUMINA-INC-9659/"
+    },
+    {
+        "company_name": "GENERAL DYNAMICS CORPORATION",
+        "matched_to": "GENERAL DYNAMICS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/GENERAL-DYNAMICS-CORPORAT-12723/"
+    },
+    {
+        "company_name": "AUTOMATIC DATA PROCESSING (ADP)",
+        "matched_to": "AUTOMATIC DATA PROCESSING, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AUTOMATIC-DATA-PROCESSING-11713/"
+    },
+    {
+        "company_name": "3M COMPANY",
+        "matched_to": "3M COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/3M-COMPANY-4836/"
+    },
+    {
+        "company_name": "KOCH INDUSTRIES",
+        "matched_to": "HECKLER & KOCH AG EUR",
+        "url": "https://www.marketscreener.com/quote/stock/HECKLER-KOCH-AG-23171142/"
+    },
+    {
+        "company_name": "AIRBNB",
+        "matched_to": "AIRBNB, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AIRBNB-INC-116310849/"
+    },
+    {
+        "company_name": "ANTHEM",
+        "matched_to": "ANTHEMIS DIGITAL ACQUISITIONS I CORP",
+        "url": "https://www.marketscreener.com/quote/stock/ANTHEMIS-DIGITAL-ACQUISIT-131167325/"
+    },
+    {
+        "company_name": "MICRON TECHNOLOGY",
+        "matched_to": "MICRON TECHNOLOGY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MICRON-TECHNOLOGY-INC-13639/"
+    },
+    {
+        "company_name": "BLOCK INC",
+        "matched_to": "INTUIT INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/INTUIT-INC-23277275/"
+    },
+    {
+        "company_name": "CAPITAL ONE FINANCIAL CORPORATION",
+        "matched_to": "CAPITAL ONE FINANCIAL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CAPITAL-ONE-FINANCIAL-COR-12144/"
+    },
+    {
+        "company_name": "ECOLAB",
+        "matched_to": "ECOLAB INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ECOLAB-INC-12399/"
+    },
+    {
+        "company_name": "AIR PRODUCTS AND CHEMICALS",
+        "matched_to": "AIR PRODUCTS & CHEMICALS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AIR-PRODUCTS-CHEMICALS-IN-11666/"
+    },
+    {
+        "company_name": "SNAP INC",
+        "matched_to": "SNAP INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SNAP-INC-34091150/"
+    },
+    {
+        "company_name": "WASTE MANAGEMENT",
+        "matched_to": "WASTE MANAGEMENT USD",
+        "url": "https://www.marketscreener.com/quote/stock/WASTE-MANAGEMENT-14885/"
+    },
+    {
+        "company_name": "LUCID GROUP, INC.",
+        "matched_to": "LUCID GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LUCID-GROUP-INC-112589428/"
+    },
+    {
+        "company_name": "MOODY'S CORPORATION",
+        "matched_to": "MOODY'S CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MOODY-S-CORPORATION-16724/"
+    },
+    {
+        "company_name": "BECTON DICKINSON AND COMPANY",
+        "matched_to": "BECTON, DICKINSON AND COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/BECTON-DICKINSON-AND-COMP-11801/"
+    },
+    {
+        "company_name": "THE SOUTHERN COMPANY",
+        "matched_to": "THE SOUTHERN BANC COMPANY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-SOUTHERN-BANC-COMPANY-120787548/"
+    },
+    {
+        "company_name": "INTERCONTINENTAL EXCHANGE",
+        "matched_to": "INTERCONTINENTAL EXCHANGE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/INTERCONTINENTAL-EXCHANGE-14931198/"
+    },
+    {
+        "company_name": "ALTRIA GROUP",
+        "matched_to": "ALTRIA GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ALTRIA-GROUP-INC-4837/"
+    },
+    {
+        "company_name": "MONDELEZ INTERNATIONAL",
+        "matched_to": "MONDELEZ INTERNATIONAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MONDELEZ-INTERNATIONAL-IN-11499018/"
+    },
+    {
+        "company_name": "THE PNC FINANCIAL SERVICES GROUP",
+        "matched_to": "PNC FINANCIAL SERVICES GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PNC-FINANCIAL-SERVICES-GR-14066/"
+    },
+    {
+        "company_name": "FORD MOTOR COMPANY",
+        "matched_to": "FORD MOTOR COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/FORD-MOTOR-COMPANY-12542/"
+    },
+    {
+        "company_name": "SNOWFLAKE",
+        "matched_to": "SNOWFLAKE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SNOWFLAKE-INC-112440376/"
+    },
+    {
+        "company_name": "LAM RESEARCH CORPORATION",
+        "matched_to": "LAM RESEARCH CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/LAM-RESEARCH-CORPORATION-4877/"
+    },
+    {
+        "company_name": "LOCKHEED MARTIN CORPORATION",
+        "matched_to": "LOCKHEED MARTIN CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/LOCKHEED-MARTIN-CORPORATI-13406/"
+    },
+    {
+        "company_name": "STRYKER CORPORATION",
+        "matched_to": "STRYKER CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/STRYKER-CORPORATION-14536/"
+    },
+    {
+        "company_name": "ZOETIS",
+        "matched_to": "ZOETIS USD",
+        "url": "https://www.marketscreener.com/quote/stock/ZOETIS-12482719/"
+    },
+    {
+        "company_name": "S&P GLOBAL",
+        "matched_to": "S&P GLOBAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/S-P-GLOBAL-INC-27377749/"
+    },
+    {
+        "company_name": "CONOCOPHILLIPS COMPANY",
+        "matched_to": "CONOCOPHILLIPS USD",
+        "url": "https://www.marketscreener.com/quote/stock/CONOCOPHILLIPS-13929/"
+    },
+    {
+        "company_name": "EQUINIX",
+        "matched_to": "EQUINIX, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EQUINIX-INC-20565916/"
+    },
+    {
+        "company_name": "VANGUARD GROUP",
+        "matched_to": "VANGUARD US TOTAL MARKET SHARES INDEX ETF",
+        "url": "https://www.marketscreener.com/quote/stock/VANGUARD-US-TOTAL-MARKET--105515439/"
+    },
+    {
+        "company_name": "INGRAM MICRO",
+        "matched_to": "ADCOCK INGRAM HOLDINGS LIMITED ZAR",
+        "url": "https://www.marketscreener.com/quote/stock/ADCOCK-INGRAM-HOLDINGS-LI-3938552/"
+    },
+    {
+        "company_name": "RIVIAN AUTOMOTIVE INC",
+        "matched_to": "RIVIAN AUTOMOTIVE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/RIVIAN-AUTOMOTIVE-INC-129226108/"
+    },
+    {
+        "company_name": "EDWARDS LIFESCIENCES CORPORATION",
+        "matched_to": "EDWARDS LIFESCIENCES CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/EDWARDS-LIFESCIENCES-CORP-12521/"
+    },
+    {
+        "company_name": "COINBASE GLOBAL, INC",
+        "matched_to": "COINBASE GLOBAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/COINBASE-GLOBAL-INC-121300010/"
+    },
+    {
+        "company_name": "FREEPORT-MCMORAN",
+        "matched_to": "FREEPORT-MCMORAN INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FREEPORT-MCMORAN-INC-12574/"
+    },
+    {
+        "company_name": "AON",
+        "matched_to": "AON PLC USD",
+        "url": "https://www.marketscreener.com/quote/stock/AON-PLC-11994390/"
+    },
+    {
+        "company_name": "PUBLIC STORAGE",
+        "matched_to": "PUBLIC STORAGE USD",
+        "url": "https://www.marketscreener.com/quote/stock/PUBLIC-STORAGE-14115/"
+    },
+    {
+        "company_name": "WORKDAY",
+        "matched_to": "WORKDAY INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WORKDAY-INC-37866670/"
+    },
+    {
+        "company_name": "NORTHROP GRUMMAN CORPORATION",
+        "matched_to": "NORTHROP GRUMMAN CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/NORTHROP-GRUMMAN-CORPORAT-13763/"
+    },
+    {
+        "company_name": "KLA CORPORATION",
+        "matched_to": "KLA CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/KLA-CORPORATION-40328827/"
+    },
+    {
+        "company_name": "PROGRESSIVE CORPORATION",
+        "matched_to": "PROGRESSIVE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/PROGRESSIVE-CORPORATION-13995/"
+    },
+    {
+        "company_name": "REGENERON PHARMACEUTICALS",
+        "matched_to": "REGENERON PHARMACEUTICALS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/REGENERON-PHARMACEUTICALS-10649/"
+    },
+    {
+        "company_name": "DOMINION ENERGY",
+        "matched_to": "DOMINION ENERGY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DOMINION-ENERGY-INC-12255/"
+    },
+    {
+        "company_name": "ILLINOIS TOOL WORKS",
+        "matched_to": "ILLINOIS TOOL WORKS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ILLINOIS-TOOL-WORKS-INC-13125/"
+    },
+    {
+        "company_name": "CIGNA CORPORATION",
+        "matched_to": "CIGNA CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CIGNA-CORPORATION-49690049/"
+    },
+    {
+        "company_name": "HCA HEALTHCARE",
+        "matched_to": "HCA HEALTHCARE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HCA-HEALTHCARE-INC-7534808/"
+    },
+    {
+        "company_name": "DUKE ENERGY CORPORATION",
+        "matched_to": "DUKE ENERGY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/DUKE-ENERGY-CORPORATION-11076385/"
+    },
+    {
+        "company_name": "UBER TECHNOLOGIES",
+        "matched_to": "UBER TECHNOLOGIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/UBER-TECHNOLOGIES-INC-57860975/"
+    },
+    {
+        "company_name": "CME GROUP",
+        "matched_to": "CME GROUP INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CME-GROUP-INC-3782767/"
+    },
+    {
+        "company_name": "CSX CORPORATION",
+        "matched_to": "CSX CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CSX-CORPORATION-25500636/"
+    },
+    {
+        "company_name": "MARSH & MCLENNAN COMPANIES",
+        "matched_to": "MARSH & MCLENNAN COMPANIES USD",
+        "url": "https://www.marketscreener.com/quote/stock/MARSH-MCLENNAN-COMPANIES-13573/"
+    },
+    {
+        "company_name": "BLACKSTONE GROUP",
+        "matched_to": "BLACKSTONE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BLACKSTONE-INC-60951400/"
+    },
+    {
+        "company_name": "CROWN CASTLE INTERNATIONAL CORPORATION",
+        "matched_to": "CROWN CASTLE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CROWN-CASTLE-INC-19476277/"
+    },
+    {
+        "company_name": "SHERWIN-WILLIAMS COMPANY",
+        "matched_to": "THE SHERWIN-WILLIAMS COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-SHERWIN-WILLIAMS-COMP-14390/"
+    },
+    {
+        "company_name": "MODERNA",
+        "matched_to": "MODERNA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MODERNA-INC-47437573/"
+    },
+    {
+        "company_name": "TRUIST FINANCIAL CORPORATION",
+        "matched_to": "TRUIST FINANCIAL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/TRUIST-FINANCIAL-CORPORAT-11773/"
+    },
+    {
+        "company_name": "THE TJX COMPANIES",
+        "matched_to": "THE TJX COMPANIES USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-TJX-COMPANIES-9894794/"
+    },
+    {
+        "company_name": "GILEAD SCIENCES",
+        "matched_to": "GILEAD SCIENCES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GILEAD-SCIENCES-INC-4876/"
+    },
+    {
+        "company_name": "CARGILL",
+        "matched_to": "CARGILLS (CEYLON) PLC LKR",
+        "url": "https://www.marketscreener.com/quote/stock/CARGILLS-CEYLON-PLC-8173916/"
+    },
+    {
+        "company_name": "ANALOG DEVICES",
+        "matched_to": "ANALOG DEVICES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ANALOG-DEVICES-INC-10345717/"
+    },
+    {
+        "company_name": "GENERAL MOTORS COMPANY",
+        "matched_to": "GENERAL MOTORS COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/GENERAL-MOTORS-COMPANY-6873535/"
+    },
+    {
+        "company_name": "U.S. BANCORP",
+        "matched_to": "FAKTOR-ZERTIFIKAT - U.S. BANCORP EUR",
+        "url": "https://www.marketscreener.com/quote/certificate/FAKTOR-ZERTIFIKAT-U-S-BAN-107961565/"
+    },
+    {
+        "company_name": "BOOKING HOLDINGS",
+        "matched_to": "BOOKING HOLDINGS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BOOKING-HOLDINGS-INC-41613106/"
+    },
+    {
+        "company_name": "THE WALT DISNEY COMPANY",
+        "matched_to": "WALT DISNEY COMPANY (THE) USD",
+        "url": "https://www.marketscreener.com/quote/stock/WALT-DISNEY-COMPANY-THE-4842/"
+    },
+    {
+        "company_name": "PROCTER & GAMBLE COMPANY",
+        "matched_to": "PROCTER & GAMBLE COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/PROCTER-GAMBLE-COMPANY-4838/"
+    },
+    {
+        "company_name": "EXXON MOBIL CORPORATION",
+        "matched_to": "EXXON MOBIL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/EXXON-MOBIL-CORPORATION-4822/"
+    },
+    {
+        "company_name": "PFIZER",
+        "matched_to": "PFIZER, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PFIZER-INC-23365019/"
+    },
+    {
+        "company_name": "MASTERCARD",
+        "matched_to": "MASTERCARD, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MASTERCARD-INC-17163/"
+    },
+    {
+        "company_name": "WALMART",
+        "matched_to": "WALMART INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WALMART-INC-4841/"
+    },
+    {
+        "company_name": "BANK OF AMERICA CORPORATION",
+        "matched_to": "BANK OF AMERICA CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/BANK-OF-AMERICA-CORPORATI-11751/"
+    },
+    {
+        "company_name": "HOME DEPOT",
+        "matched_to": "THE HOME DEPOT, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-HOME-DEPOT-INC-4826/"
+    },
+    {
+        "company_name": "UNITEDHEALTH GROUP",
+        "matched_to": "UNITEDHEALTH GROUP INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNITEDHEALTH-GROUP-INC-14750/"
+    },
+    {
+        "company_name": "NEXTERA ENERGY",
+        "matched_to": "NEXTERA ENERGY USD",
+        "url": "https://www.marketscreener.com/quote/stock/NEXTERA-ENERGY-6337180/"
+    },
+    {
+        "company_name": "THE CHARLES SCHWAB CORPORATION",
+        "matched_to": "CHARLES SCHWAB USD",
+        "url": "https://www.marketscreener.com/quote/stock/CHARLES-SCHWAB-9603993/"
+    },
+    {
+        "company_name": "MORGAN STANLEY",
+        "matched_to": "MORGAN STANLEY USD",
+        "url": "https://www.marketscreener.com/quote/stock/MORGAN-STANLEY-13654/"
+    },
+    {
+        "company_name": "LOWE'S COMPANIES",
+        "matched_to": "LOWE'S COMPANIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LOWE-S-COMPANIES-INC-13416/"
+    },
+    {
+        "company_name": "AT&T",
+        "matched_to": "AT&T INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AT-T-INC-14324/"
+    },
+    {
+        "company_name": "UNITED PARCEL SERVICE (UPS)",
+        "matched_to": "UNITED PARCEL SERVICE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNITED-PARCEL-SERVICE-INC-14758/"
+    },
+    {
+        "company_name": "MCDONALD'S CORPORATION",
+        "matched_to": "MCDONALD'S CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MCDONALD-S-CORPORATION-4833/"
+    },
+    {
+        "company_name": "QUALCOMM",
+        "matched_to": "QUALCOMM, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/QUALCOMM-INC-4897/"
+    },
+    {
+        "company_name": "PAYPAL HOLDINGS",
+        "matched_to": "PAYPAL HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PAYPAL-HOLDINGS-INC-23377703/"
+    },
+    {
+        "company_name": "VERIZON COMMUNICATIONS",
+        "matched_to": "VERIZON COMMUNICATIONS USD",
+        "url": "https://www.marketscreener.com/quote/stock/VERIZON-COMMUNICATIONS-4830/"
+    },
+    {
+        "company_name": "ORACLE CORPORATION",
+        "matched_to": "ORACLE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ORACLE-CORPORATION-13620698/"
+    },
+    {
+        "company_name": "MERCK & CO",
+        "matched_to": "MERCK & CO., INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MERCK-CO-INC-13611/"
+    },
+    {
+        "company_name": "INTEL CORPORATION",
+        "matched_to": "INTEL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/INTEL-CORPORATION-4829/"
+    },
+    {
+        "company_name": "WELLS FARGO & COMPANY",
+        "matched_to": "WELLS FARGO & COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/WELLS-FARGO-COMPANY-14861/"
+    },
+    {
+        "company_name": "SALESFORCE.COM",
+        "matched_to": "LEVERAGE SHARES 3X SALESFORCE.COM ETC",
+        "url": "https://www.marketscreener.com/quote/fund/LEVERAGE-SHARES-3X-SALESF-118500950/"
+    },
+    {
+        "company_name": "COMCAST CORPORATION",
+        "matched_to": "COMCAST CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/COMCAST-CORPORATION-4864/"
+    },
+    {
+        "company_name": "CISCO SYSTEMS",
+        "matched_to": "CISCO SYSTEMS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CISCO-SYSTEMS-INC-4862/"
+    },
+    {
+        "company_name": "BLACKROCK",
+        "matched_to": "BLACKROCK, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BLACKROCK-INC-11862/"
+    },
+    {
+        "company_name": "T-MOBILE US",
+        "matched_to": "T-MOBILE US USD",
+        "url": "https://www.marketscreener.com/quote/stock/T-MOBILE-US-24717887/"
+    },
+    {
+        "company_name": "COSTCO WHOLESALE CORPORATION",
+        "matched_to": "COSTCO WHOLESALE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/COSTCO-WHOLESALE-CORPORAT-4866/"
+    },
+    {
+        "company_name": "CVS HEALTH CORPORATION",
+        "matched_to": "CVS HEALTH CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CVS-HEALTH-CORPORATION-12230/"
+    },
+    {
+        "company_name": "ABBVIE",
+        "matched_to": "ABBVIE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ABBVIE-INC-12136589/"
+    },
+    {
+        "company_name": "BRISTOL-MYERS SQUIBB COMPANY",
+        "matched_to": "BRISTOL-MYERS SQUIBB COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/BRISTOL-MYERS-SQUIBB-COMP-11877/"
+    },
+    {
+        "company_name": "BROADCOM",
+        "matched_to": "BROADCOM INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BROADCOM-INC-42668543/"
+    },
+    {
+        "company_name": "HONEYWELL INTERNATIONAL",
+        "matched_to": "HONEYWELL INTERNATIONAL INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HONEYWELL-INTERNATIONAL-I-4827/"
+    },
+    {
+        "company_name": "PHILIP MORRIS INTERNATIONAL",
+        "matched_to": "PHILIP MORRIS INTERNATIONAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PHILIP-MORRIS-INTERNATION-2836703/"
+    },
+    {
+        "company_name": "ADVANCED MICRO DEVICES (AMD)",
+        "matched_to": "ADVANCED MICRO DEVICES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ADVANCED-MICRO-DEVICES-IN-19475876/"
+    },
+    {
+        "company_name": "INTUIT",
+        "matched_to": "INTUIT INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/INTUIT-INC-23277275/"
+    },
+    {
+        "company_name": "UNION PACIFIC CORPORATION",
+        "matched_to": "UNION PACIFIC CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNION-PACIFIC-CORPORATION-14754/"
+    },
+    {
+        "company_name": "JOHNSON & JOHNSON",
+        "matched_to": "JOHNSON & JOHNSON USD",
+        "url": "https://www.marketscreener.com/quote/stock/JOHNSON-JOHNSON-4832/"
+    },
+    {
+        "company_name": "DANAHER CORPORATION",
+        "matched_to": "DANAHER CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/DANAHER-CORPORATION-12295/"
+    },
+    {
+        "company_name": "THERMO FISHER SCIENTIFIC",
+        "matched_to": "THERMO FISHER SCIENTIFIC USD",
+        "url": "https://www.marketscreener.com/quote/stock/THERMO-FISHER-SCIENTIFIC-14623/"
+    },
+    {
+        "company_name": "THE GOLDMAN SACHS GROUP",
+        "matched_to": "THE GOLDMAN SACHS GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-GOLDMAN-SACHS-GROUP-I-12831/"
+    },
+    {
+        "company_name": "APPLIED MATERIALS",
+        "matched_to": "APPLIED MATERIALS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/APPLIED-MATERIALS-INC-4850/"
+    },
+    {
+        "company_name": "CHARTER COMMUNICATIONS",
+        "matched_to": "CHARTER COMMUNICATIONS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CHARTER-COMMUNICATIONS-IN-27738754/"
+    },
+    {
+        "company_name": "AMERICAN EXPRESS COMPANY",
+        "matched_to": "AMERICAN EXPRESS COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMERICAN-EXPRESS-COMPANY-4814/"
+    },
+    {
+        "company_name": "TARGET CORPORATION",
+        "matched_to": "TARGET CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/TARGET-CORPORATION-12291/"
+    },
+    {
+        "company_name": "GENERAL ELECTRIC COMPANY",
+        "matched_to": "GENERAL ELECTRIC COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/GENERAL-ELECTRIC-COMPANY-4823/"
+    },
+    {
+        "company_name": "SERVICENOW",
+        "matched_to": "SERVICENOW, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SERVICENOW-INC-10912979/"
+    },
+    {
+        "company_name": "PROLOGIS",
+        "matched_to": "PROLOGIS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PROLOGIS-INC-14050/"
+    },
+    {
+        "company_name": "INTUITIVE SURGICAL",
+        "matched_to": "INTUITIVE SURGICAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/INTUITIVE-SURGICAL-INC-9740/"
+    },
+    {
+        "company_name": "DEERE & COMPANY",
+        "matched_to": "DEERE & COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/DEERE-COMPANY-12279/"
+    },
+    {
+        "company_name": "CATERPILLAR",
+        "matched_to": "CATERPILLAR INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CATERPILLAR-INC-4817/"
+    },
+    {
+        "company_name": "RAYTHEON TECHNOLOGIES CORPORATION",
+        "matched_to": "RAYTHEON TECHNOLOGIES CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/RAYTHEON-TECHNOLOGIES-COR-4840/"
+    },
+    {
+        "company_name": "IBM",
+        "matched_to": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/INTERNATIONAL-BUSINESS-MA-4828/"
+    },
+    {
+        "company_name": "VISA",
+        "matched_to": "VISA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/VISA-INC-2277468/"
+    },
+    {
+        "company_name": "J P MORGAN CHASE & CO",
+        "matched_to": "JPMORGAN CHASE & CO. USD",
+        "url": "https://www.marketscreener.com/quote/stock/JPMORGAN-CHASE-CO-37468997/"
+    },
+    {
+        "company_name": "AMERICAN TOWER CORPORATION (REIT)",
+        "matched_to": "AMERICAN TOWER CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMERICAN-TOWER-CORPORATIO-9789139/"
+    },
+    {
+        "company_name": "NVIDIA CORPORATION",
+        "matched_to": "NVIDIA CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/NVIDIA-CORPORATION-57355629/"
+    },
+    {
+        "company_name": "BERKSHIRE HATHAWAY",
+        "matched_to": "BERKSHIRE HATHAWAY INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BERKSHIRE-HATHAWAY-INC-11915/"
+    },
+    {
+        "company_name": "META PLATFORMS",
+        "matched_to": "META PLATFORMS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/META-PLATFORMS-INC-10547141/"
+    },
+    {
+        "company_name": "MICROSOFT CORPORATION",
+        "matched_to": "MICROSOFT CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MICROSOFT-CORPORATION-4835/"
+    },
+    {
+        "company_name": "TESLA",
+        "matched_to": "TESLA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/"
+    },
+    {
+        "company_name": "APPLE",
+        "matched_to": "APPLE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/APPLE-INC-4849/"
+    },
+    {
+        "company_name": "TRANSDIGM GROUP",
+        "matched_to": "TRANSDIGM GROUP INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TRANSDIGM-GROUP-INC-16156/"
+    },
+    {
+        "company_name": "STATE STREET CORPORATION",
+        "matched_to": "STATE STREET CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/STATE-STREET-CORPORATION-14499/"
+    },
+    {
+        "company_name": "XCEL ENERGY",
+        "matched_to": "XCEL ENERGY USD",
+        "url": "https://www.marketscreener.com/quote/stock/XCEL-ENERGY-39742648/"
+    },
+    {
+        "company_name": "ELECTRONIC ARTS",
+        "matched_to": "ELECTRONIC ARTS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ELECTRONIC-ARTS-INC-9664624/"
+    },
+    {
+        "company_name": "SBA COMMUNICATIONS CORPORATION",
+        "matched_to": "SBA COMMUNICATIONS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/SBA-COMMUNICATIONS-CORPOR-33339190/"
+    },
+    {
+        "company_name": "ARISTA NETWORKS",
+        "matched_to": "ARISTA NETWORKS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ARISTA-NETWORKS-INC-16617752/"
+    },
+    {
+        "company_name": "OKTA",
+        "matched_to": "OKTA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/OKTA-INC-34515216/"
+    },
+    {
+        "company_name": "WEC ENERGY GROUP",
+        "matched_to": "WEC ENERGY GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WEC-ENERGY-GROUP-INC-22762482/"
+    },
+    {
+        "company_name": "AVANTOR",
+        "matched_to": "AVANTOR, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AVANTOR-INC-58388950/"
+    },
+    {
+        "company_name": "AFFIRM HOLDINGS, INC.",
+        "matched_to": "AFFIRM HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AFFIRM-HOLDINGS-INC-117540803/"
+    },
+    {
+        "company_name": "EPIC Games",
+        "matched_to": "EPIC ACQUISITION CORP EUR",
+        "url": "https://www.marketscreener.com/quote/stock/EPIC-ACQUISITION-CORP-130201015/"
+    },
+    {
+        "company_name": "ESSEX PROPERTY TRUST",
+        "matched_to": "ESSEX PROPERTY TRUST, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ESSEX-PROPERTY-TRUST-INC-12501/"
+    },
+    {
+        "company_name": "RAYMOND JAMES FINANCIAL",
+        "matched_to": "RAYMOND JAMES FINANCIAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/RAYMOND-JAMES-FINANCIAL-I-14252/"
+    },
+    {
+        "company_name": "ENTERGY CORPORATION",
+        "matched_to": "ENTERGY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ENTERGY-CORPORATION-12512/"
+    },
+    {
+        "company_name": "PPL CORPORATION",
+        "matched_to": "PPL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/PPL-CORPORATION-14091/"
+    },
+    {
+        "company_name": "BAKER HUGHES COMPANY",
+        "matched_to": "BAKER HUGHES COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/BAKER-HUGHES-COMPANY-40311111/"
+    },
+    {
+        "company_name": "CONFLUENT INC",
+        "matched_to": "CONFLUENT, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CONFLUENT-INC-124047168/"
+    },
+    {
+        "company_name": "JACOBS ENGINEERING GROUP",
+        "matched_to": "JACOBS SOLUTIONS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/JACOBS-SOLUTIONS-INC-13160/"
+    },
+    {
+        "company_name": "WABTEC CORPORATION",
+        "matched_to": "MICROSOFT CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MICROSOFT-CORPORATION-4835/"
+    },
+    {
+        "company_name": "VIATRIS INC",
+        "matched_to": "VIATRIS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/VIATRIS-INC-115117632/"
+    },
+    {
+        "company_name": "ENTEGRIS",
+        "matched_to": "ENTEGRIS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ENTEGRIS-INC-9185/"
+    },
+    {
+        "company_name": "VICI PROPERTIES",
+        "matched_to": "VICI PROPERTIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/VICI-PROPERTIES-INC-40580878/"
+    },
+    {
+        "company_name": "AKAMAI TECHNOLOGIES",
+        "matched_to": "AKAMAI TECHNOLOGIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AKAMAI-TECHNOLOGIES-INC-8303/"
+    },
+    {
+        "company_name": "SPLUNK",
+        "matched_to": "SPLUNK INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SPLUNK-INC-10454129/"
+    },
+    {
+        "company_name": "UDR",
+        "matched_to": "UDR INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/UDR-INC-14730/"
+    },
+    {
+        "company_name": "CONTINENTAL RESOURCES",
+        "matched_to": "ARCA CONTINENTAL, S.A.B. DE C.V. MXN",
+        "url": "https://www.marketscreener.com/quote/stock/ARCA-CONTINENTAL-S-A-B-DE-9058897/"
+    },
+    {
+        "company_name": "DISH NETWORK CORPORATION",
+        "matched_to": "DISH NETWORK CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/DISH-NETWORK-CORPORATION-4870/"
+    },
+    {
+        "company_name": "THE CARLYLE GROUP",
+        "matched_to": "THE CARLYLE GROUP INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-CARLYLE-GROUP-INC-10531255/"
+    },
+    {
+        "company_name": "LIBERTY SIRIUSXM GROUP",
+        "matched_to": "THE LIBERTY SIRIUSXM GROUP USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-LIBERTY-SIRIUSXM-GROU-27316607/"
+    },
+    {
+        "company_name": "DARDEN RESTAURANTS",
+        "matched_to": "DARDEN RESTAURANTS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DARDEN-RESTAURANTS-INC-12355/"
+    },
+    {
+        "company_name": "CMS ENERGY CORPORATION",
+        "matched_to": "CMS ENERGY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CMS-ENERGY-CORPORATION-12117/"
+    },
+    {
+        "company_name": "DOMINO'S PIZZA",
+        "matched_to": "DOMINO'S PIZZA INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DOMINO-S-PIZZA-INC-12338/"
+    },
+    {
+        "company_name": "CONSTELLATION ENERGY CORPORATION",
+        "matched_to": "CONSTELLATION ENERGY CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/CONSTELLATION-ENERGY-CORP-131860757/"
+    },
+    {
+        "company_name": "DIRECTV",
+        "matched_to": "DIRECTVIEW HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DIRECTVIEW-HOLDINGS-INC-111313634/"
+    },
+    {
+        "company_name": "NVR",
+        "matched_to": "NVR, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NVR-INC-15718/"
+    },
+    {
+        "company_name": "HEICO CORPORATION",
+        "matched_to": "HEICO CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/HEICO-CORPORATION-12898/"
+    },
+    {
+        "company_name": "INTERNATIONAL PAPER COMPANY",
+        "matched_to": "INTERNATIONAL PAPER COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/INTERNATIONAL-PAPER-COMPA-13095/"
+    },
+    {
+        "company_name": "TAKE-TWO INTERACTIVE SOFTWARE",
+        "matched_to": "TAKE-TWO INTERACTIVE SOFTWARE, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/TAKE-TWO-INTERACTIVE-SOFT-11178/"
+    },
+    {
+        "company_name": "CINCINNATI FINANCIAL CORPORATION",
+        "matched_to": "CINCINNATI FINANCIAL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CINCINNATI-FINANCIAL-CORP-40311119/"
+    },
+    {
+        "company_name": "CAESARS ENTERTAINMENT CORPORATION",
+        "matched_to": "CAESARS ENTERTAINMENT, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CAESARS-ENTERTAINMENT-INC-6881150/"
+    },
+    {
+        "company_name": "QUEST DIAGNOSTICS",
+        "matched_to": "QUEST DIAGNOSTICS INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/QUEST-DIAGNOSTICS-INCORPO-12290/"
+    },
+    {
+        "company_name": "BROWN & BROWN",
+        "matched_to": "BROWN & BROWN, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BROWN-BROWN-INC-11919/"
+    },
+    {
+        "company_name": "AVANGRID",
+        "matched_to": "AVANGRID, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AVANGRID-INC-25531436/"
+    },
+    {
+        "company_name": "ENPHASE ENERGY",
+        "matched_to": "ENPHASE ENERGY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ENPHASE-ENERGY-INC-10335237/"
+    },
+    {
+        "company_name": "HEALTHPEAK PROPERTIES",
+        "matched_to": "HEALTHPEAK PROPERTIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HEALTHPEAK-PROPERTIES-INC-12889/"
+    },
+    {
+        "company_name": "EDWARDS JONES INVESTMENTS",
+        "matched_to": "EDWARDS LIFESCIENCES CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/EDWARDS-LIFESCIENCES-CORP-12521/"
+    },
+    {
+        "company_name": "FLEETCOR TECHNOLOGIES",
+        "matched_to": "FLEETCOR TECHNOLOGIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FLEETCOR-TECHNOLOGIES-INC-6996903/"
+    },
+    {
+        "company_name": "TELEDYNE TECHNOLOGIES",
+        "matched_to": "TELEDYNE TECHNOLOGIES INCORPORATED",
+        "url": "https://www.marketscreener.com/quote/stock/TELEDYNE-TECHNOLOGIES-INC-14569/"
+    },
+    {
+        "company_name": "WAYFAIR",
+        "matched_to": "WAYFAIR INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WAYFAIR-INC-18126549/"
+    },
+    {
+        "company_name": "CELANESE CORPORATION",
+        "matched_to": "CELANESE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CELANESE-CORPORATION-12017/"
+    },
+    {
+        "company_name": "GENUINE PARTS COMPANY",
+        "matched_to": "GENUINE PARTS COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/GENUINE-PARTS-COMPANY-40311101/"
+    },
+    {
+        "company_name": "TYLER TECHNOLOGIES",
+        "matched_to": "TYLER TECHNOLOGIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TYLER-TECHNOLOGIES-INC-14707/"
+    },
+    {
+        "company_name": "NIAGARA MOHAWK POWER CORPORATION PFD 3.90%",
+        "matched_to": "NIAGARA MOHAWK POWER CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/NIAGARA-MOHAWK-POWER-CORP-10439555/"
+    },
+    {
+        "company_name": "TRIMBLE",
+        "matched_to": "TRIMBLE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TRIMBLE-INC-11147/"
+    },
+    {
+        "company_name": "CARMAX",
+        "matched_to": "CARMAX, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CARMAX-INC-13273/"
+    },
+    {
+        "company_name": "BIO-RAD LABORATORIES",
+        "matched_to": "BIO-RAD LABORATORIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BIO-RAD-LABORATORIES-INC-4174247/"
+    },
+    {
+        "company_name": "GENERAC HOLDINGS",
+        "matched_to": "GENERAC HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GENERAC-HOLDINGS-INC-5948156/"
+    },
+    {
+        "company_name": "BROADRIDGE FINANCIAL SOLUTIONS",
+        "matched_to": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/BROADRIDGE-FINANCIAL-SOLU-11906/"
+    },
+    {
+        "company_name": "POOL CORPORATION",
+        "matched_to": "POOL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/POOL-CORPORATION-10514/"
+    },
+    {
+        "company_name": "BOSTON PROPERTIES",
+        "matched_to": "BOSTON PROPERTIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BOSTON-PROPERTIES-INC-11957/"
+    },
+    {
+        "company_name": "THE COOPER COMPANIES",
+        "matched_to": "THE COOPER COMPANIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-COOPER-COMPANIES-INC-12149/"
+    },
+    {
+        "company_name": "CHEWY",
+        "matched_to": "CHEWY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CHEWY-INC-59660076/"
+    },
+    {
+        "company_name": "PRINCIPAL FINANCIAL GROUP",
+        "matched_to": "PRINCIPAL FINANCIAL GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PRINCIPAL-FINANCIAL-GROUP-39051261/"
+    },
+    {
+        "company_name": "IMMUNOMEDICS",
+        "matched_to": "IMMUNOMEDICS, INC. EUR",
+        "url": "https://www.marketscreener.com/quote/stock/IMMUNOMEDICS-INC-50911197/"
+    },
+    {
+        "company_name": "J.B. HUNT TRANSPORT SERVICES",
+        "matched_to": "J.B. HUNT TRANSPORT SERVICES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/J-B-HUNT-TRANSPORT-SERVIC-9769/"
+    },
+    {
+        "company_name": "SS&C TECHNOLOGIES HOLDINGS",
+        "matched_to": "SS&C TECHNOLOGIES HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SS-C-TECHNOLOGIES-HOLDING-6098270/"
+    },
+    {
+        "company_name": "ZOOMINFO TECHNOLOGIES INC.",
+        "matched_to": "ZOOMINFO TECHNOLOGIES INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ZOOMINFO-TECHNOLOGIES-INC-107772705/"
+    },
+    {
+        "company_name": "TRADEWEB MARKETS",
+        "matched_to": "TRADEWEB MARKETS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TRADEWEB-MARKETS-INC-56727793/"
+    },
+    {
+        "company_name": "WATERS CORPORATION",
+        "matched_to": "WATERS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/WATERS-CORPORATION-14845/"
+    },
+    {
+        "company_name": "NETAPP",
+        "matched_to": "NETAPP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NETAPP-INC-4889/"
+    },
+    {
+        "company_name": "CATALENT",
+        "matched_to": "CATALENT, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CATALENT-INC-17083784/"
+    },
+    {
+        "company_name": "MONOLITHIC POWER SYSTEMS",
+        "matched_to": "MONOLITHIC POWER SYSTEMS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MONOLITHIC-POWER-SYSTEMS--10076/"
+    },
+    {
+        "company_name": "WESTERN DIGITAL CORPORATION",
+        "matched_to": "WESTERN DIGITAL USD",
+        "url": "https://www.marketscreener.com/quote/stock/WESTERN-DIGITAL-10721582/"
+    },
+    {
+        "company_name": "WARNER MUSIC GROUP CORP.",
+        "matched_to": "WARNER MUSIC GROUP CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WARNER-MUSIC-GROUP-CORP-107768549/"
+    },
+    {
+        "company_name": "ROYAL CARIBBEAN CRUISES",
+        "matched_to": "ROYAL CARIBBEAN GROUP USD",
+        "url": "https://www.marketscreener.com/quote/stock/ROYAL-CARIBBEAN-GROUP-14206/"
+    },
+    {
+        "company_name": "MAXIM INTEGRATED PRODUCTS",
+        "matched_to": "CAPITALAND INTEGRATED COMMERCIAL TRUST",
+        "url": "https://www.marketscreener.com/quote/stock/CAPITALAND-INTEGRATED-COM-6495217/"
+    },
+    {
+        "company_name": "XYLEM",
+        "matched_to": "XYLEM INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/XYLEM-INC-9391714/"
+    },
+    {
+        "company_name": "MGM RESORTS INTERNATIONAL",
+        "matched_to": "MGM RESORTS INTERNATIONAL USD",
+        "url": "https://www.marketscreener.com/quote/stock/MGM-RESORTS-INTERNATIONAL-13513/"
+    },
+    {
+        "company_name": "TRANSUNION",
+        "matched_to": "TRANSUNION USD",
+        "url": "https://www.marketscreener.com/quote/stock/TRANSUNION-22619502/"
+    },
+    {
+        "company_name": "VENTAS",
+        "matched_to": "VENTAS USD",
+        "url": "https://www.marketscreener.com/quote/stock/VENTAS-14836/"
+    },
+    {
+        "company_name": "PAYCOM SOFTWARE",
+        "matched_to": "PAYCOM SOFTWARE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PAYCOM-SOFTWARE-INC-16253048/"
+    },
+    {
+        "company_name": "FOX CORPORATION",
+        "matched_to": "FOX CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/FOX-CORPORATION-57672112/"
+    },
+    {
+        "company_name": "ULTA BEAUTY",
+        "matched_to": "ULTA BEAUTY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ULTA-BEAUTY-INC-65158/"
+    },
+    {
+        "company_name": "CHENIERE ENERGY PARTNERS",
+        "matched_to": "CHENIERE ENERGY PARTNERS, L.P. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CHENIERE-ENERGY-PARTNERS--15175/"
+    },
+    {
+        "company_name": "EXPEDITORS INTERNATIONAL OF WASHINGTON",
+        "matched_to": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC.",
+        "url": "https://www.marketscreener.com/quote/stock/EXPEDITORS-INTERNATIONAL--4900/"
+    },
+    {
+        "company_name": "DIAMONDBACK ENERGY",
+        "matched_to": "DIAMONDBACK ENERGY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DIAMONDBACK-ENERGY-INC-11732858/"
+    },
+    {
+        "company_name": "JM FAMILY ENTERPRISES",
+        "matched_to": "JM AB (PUBL) SEK",
+        "url": "https://www.marketscreener.com/quote/stock/JM-AB-PUBL-6491576/"
+    },
+    {
+        "company_name": "PINTEREST",
+        "matched_to": "PINTEREST, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PINTEREST-INC-57086058/"
+    },
+    {
+        "company_name": "THE CLOROX COMPANY",
+        "matched_to": "THE CLOROX COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-CLOROX-COMPANY-12103/"
+    },
+    {
+        "company_name": "HEWLETT PACKARD ENTERPRISE COMPANY",
+        "matched_to": "HEWLETT PACKARD ENTERPRISE COMPANY",
+        "url": "https://www.marketscreener.com/quote/stock/HEWLETT-PACKARD-ENTERPRIS-24843838/"
+    },
+    {
+        "company_name": "SIGNATURE BANK",
+        "matched_to": "SIGNATURE BANK USD",
+        "url": "https://www.marketscreener.com/quote/stock/SIGNATURE-BANK-10755/"
+    },
+    {
+        "company_name": "AMEREN CORPORATION",
+        "matched_to": "AMEREN CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMEREN-CORPORATION-11540/"
+    },
+    {
+        "company_name": "KELLOGG COMPANY",
+        "matched_to": "KELLOGG COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/KELLOGG-COMPANY-13226/"
+    },
+    {
+        "company_name": "SUN COMMUNITIES",
+        "matched_to": "SUN COMMUNITIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SUN-COMMUNITIES-INC-14510/"
+    },
+    {
+        "company_name": "M&T BANK CORPORATION",
+        "matched_to": "M&T BANK CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/M-T-BANK-CORPORATION-13626/"
+    },
+    {
+        "company_name": "PERKINELMER",
+        "matched_to": "PERKINELMER, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PERKINELMER-INC-12426/"
+    },
+    {
+        "company_name": "VIACOM CBS",
+        "matched_to": "PARAMOUNT GLOBAL USD",
+        "url": "https://www.marketscreener.com/quote/stock/PARAMOUNT-GLOBAL-14804/"
+    },
+    {
+        "company_name": "DUKE REALTY CORPORATION",
+        "matched_to": "DUKE ENERGY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/DUKE-ENERGY-CORPORATION-11076385/"
+    },
+    {
+        "company_name": "CITIZENS FINANCIAL GROUP",
+        "matched_to": "CITIZENS FINANCIAL GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CITIZENS-FINANCIAL-GROUP--18045268/"
+    },
+    {
+        "company_name": "UIPATH, INC.",
+        "matched_to": "UIPATH INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/UIPATH-INC-121662826/"
+    },
+    {
+        "company_name": "BILL.COM HOLDINGS",
+        "matched_to": "TENCENT HOLDINGS LIMITED HKD",
+        "url": "https://www.marketscreener.com/quote/stock/TENCENT-HOLDINGS-LIMITED-3045861/"
+    },
+    {
+        "company_name": "HALLIBURTON COMPANY",
+        "matched_to": "HALLIBURTON COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/HALLIBURTON-COMPANY-12871/"
+    },
+    {
+        "company_name": "ETSY",
+        "matched_to": "ETSY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ETSY-INC-21685602/"
+    },
+    {
+        "company_name": "UNITED RENTALS",
+        "matched_to": "UNITED RENTALS USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNITED-RENTALS-40311160/"
+    },
+    {
+        "company_name": "DTE ENERGY COMPANY",
+        "matched_to": "DTE ENERGY COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/DTE-ENERGY-COMPANY-12368/"
+    },
+    {
+        "company_name": "FIRSTENERGY",
+        "matched_to": "FIRSTENERGY CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FIRSTENERGY-CORP-12586/"
+    },
+    {
+        "company_name": "HubSpot",
+        "matched_to": "HUBSPOT, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HUBSPOT-INC-45166580/"
+    },
+    {
+        "company_name": "REGIONS FINANCIAL CORPORATION",
+        "matched_to": "REGIONS FINANCIAL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/REGIONS-FINANCIAL-CORPORA-14228/"
+    },
+    {
+        "company_name": "CAPITAL GROUP",
+        "matched_to": "CENTURIA CAPITAL GROUP AUD",
+        "url": "https://www.marketscreener.com/quote/stock/CENTURIA-CAPITAL-GROUP-9832455/"
+    },
+    {
+        "company_name": "KEYCORP",
+        "matched_to": "KEYCORP USD",
+        "url": "https://www.marketscreener.com/quote/stock/KEYCORP-40311107/"
+    },
+    {
+        "company_name": "HARTFORD FINANCIAL SERVICES GROUP",
+        "matched_to": "HARTFORD FINANCIAL SERVICES GROUP (THE), INC.",
+        "url": "https://www.marketscreener.com/quote/stock/HARTFORD-FINANCIAL-SERVIC-12910/"
+    },
+    {
+        "company_name": "BEST BUY",
+        "matched_to": "BEST BUY CO., INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BEST-BUY-CO-INC-11778/"
+    },
+    {
+        "company_name": "GARTNER",
+        "matched_to": "GARTNER, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GARTNER-INC-40311131/"
+    },
+    {
+        "company_name": "EDISON INTERNATIONAL",
+        "matched_to": "EDISON INTERNATIONAL USD",
+        "url": "https://www.marketscreener.com/quote/stock/EDISON-INTERNATIONAL-12435/"
+    },
+    {
+        "company_name": "ROKU",
+        "matched_to": "ROKU, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ROKU-INC-37892974/"
+    },
+    {
+        "company_name": "WELLCARE HEALTH PLANS",
+        "matched_to": "CVS HEALTH CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CVS-HEALTH-CORPORATION-12230/"
+    },
+    {
+        "company_name": "FORTIVE CORPORATION",
+        "matched_to": "FORTIVE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/FORTIVE-CORPORATION-28859043/"
+    },
+    {
+        "company_name": "DOVER CORPORATION",
+        "matched_to": "DOVER CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/DOVER-CORPORATION-12331/"
+    },
+    {
+        "company_name": "CHURCH & DWIGHT",
+        "matched_to": "CHURCH & DWIGHT CO., INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CHURCH-DWIGHT-CO-INC-12050/"
+    },
+    {
+        "company_name": "TRACTOR SUPPLY COMPANY",
+        "matched_to": "TRACTOR SUPPLY COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/TRACTOR-SUPPLY-COMPANY-11162/"
+    },
+    {
+        "company_name": "LIVE NATION ENTERTAINMENT",
+        "matched_to": "LIVE NATION ENTERTAINMENT, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LIVE-NATION-ENTERTAINMENT-13449/"
+    },
+    {
+        "company_name": "W.W. GRAINGER",
+        "matched_to": "W.W. GRAINGER, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/W-W-GRAINGER-INC-12858/"
+    },
+    {
+        "company_name": "SEAGEN",
+        "matched_to": "SEAGEN INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SEAGEN-INC-10808/"
+    },
+    {
+        "company_name": "SYNCHRONY FINANCIAL",
+        "matched_to": "SYNCHRONY FINANCIAL USD",
+        "url": "https://www.marketscreener.com/quote/stock/SYNCHRONY-FINANCIAL-17093673/"
+    },
+    {
+        "company_name": "VERISIGN",
+        "matched_to": "VERISIGN. INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/VERISIGN-INC-4912/"
+    },
+    {
+        "company_name": "MARTIN MARIETTA MATERIALS",
+        "matched_to": "MARTIN MARIETTA MATERIALS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MARTIN-MARIETTA-MATERIALS-13564/"
+    },
+    {
+        "company_name": "ZIMMER BIOMET HOLDINGS",
+        "matched_to": "ZIMMER BIOMET HOLDINGS USD",
+        "url": "https://www.marketscreener.com/quote/stock/ZIMMER-BIOMET-HOLDINGS-14996/"
+    },
+    {
+        "company_name": "LIBERTY BROADBAND CORPORATION",
+        "matched_to": "LIBERTY BROADBAND CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/LIBERTY-BROADBAND-CORPORA-18445409/"
+    },
+    {
+        "company_name": "HESS CORPORATION",
+        "matched_to": "HESS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/HESS-CORPORATION-11570/"
+    },
+    {
+        "company_name": "SOUTHWEST AIRLINES",
+        "matched_to": "SOUTHWEST AIRLINES CO. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SOUTHWEST-AIRLINES-CO-13439/"
+    },
+    {
+        "company_name": "NORTHERN TRUST CORPORATION",
+        "matched_to": "NORTHERN TRUST CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/NORTHERN-TRUST-CORPORATIO-40311094/"
+    },
+    {
+        "company_name": "DOCUSIGN",
+        "matched_to": "DOCUSIGN, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DOCUSIGN-INC-43180302/"
+    },
+    {
+        "company_name": "CDW CORPORATION",
+        "matched_to": "CDW CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CDW-CORPORATION-13495389/"
+    },
+    {
+        "company_name": "CERNER CORPORATION",
+        "matched_to": "MICROSOFT CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MICROSOFT-CORPORATION-4835/"
+    },
+    {
+        "company_name": "SEAGATE TECHNOLOGY",
+        "matched_to": "SEAGATE TECHNOLOGY HOLDINGS PLC USD",
+        "url": "https://www.marketscreener.com/quote/stock/SEAGATE-TECHNOLOGY-HOLDIN-14501/"
+    },
+    {
+        "company_name": "SIRIUS XM HOLDINGS",
+        "matched_to": "SIRIUS XM HOLDINGS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SIRIUS-XM-HOLDINGS-INC-14962202/"
+    },
+    {
+        "company_name": "HUNTINGTON BANCSHARES",
+        "matched_to": "HUNTINGTON BANCSHARES INCORPORATED",
+        "url": "https://www.marketscreener.com/quote/stock/HUNTINGTON-BANCSHARES-INC-40328830/"
+    },
+    {
+        "company_name": "MID-AMERICA APARTMENT COMMUNITIES",
+        "matched_to": "MID-AMERICA APARTMENT COMMUNITY, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/MID-AMERICA-APARTMENT-COM-13452/"
+    },
+    {
+        "company_name": "GARMIN",
+        "matched_to": "GARMIN LTD. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GARMIN-LTD-4933/"
+    },
+    {
+        "company_name": "SKYWORKS SOLUTIONS",
+        "matched_to": "SKYWORKS SOLUTIONS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SKYWORKS-SOLUTIONS-INC-11014/"
+    },
+    {
+        "company_name": "CARNIVAL CORPORATION",
+        "matched_to": "CARNIVAL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CARNIVAL-CORPORATION-12003/"
+    },
+    {
+        "company_name": "INVITATION HOMES",
+        "matched_to": "INVITATION HOMES INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/INVITATION-HOMES-INC-33666530/"
+    },
+    {
+        "company_name": "MCCORMICK & COMPANY",
+        "matched_to": "MCCORMICK & COMPANY, INCORPORATED",
+        "url": "https://www.marketscreener.com/quote/stock/MCCORMICK-COMPANY-INCORPO-13556/"
+    },
+    {
+        "company_name": "TERADYNE",
+        "matched_to": "TERADYNE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TERADYNE-INC-47342162/"
+    },
+    {
+        "company_name": "ONEOK",
+        "matched_to": "ONEOK, INC.. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ONEOK-INC--13899/"
+    },
+    {
+        "company_name": "EXTRA SPACE STORAGE",
+        "matched_to": "EXTRA SPACE STORAGE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EXTRA-SPACE-STORAGE-INC-12540/"
+    },
+    {
+        "company_name": "ZEBRA TECHNOLOGIES CORPORATION",
+        "matched_to": "ZEBRA TECHNOLOGIES CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ZEBRA-TECHNOLOGIES-CORPOR-11466/"
+    },
+    {
+        "company_name": "ROCKET COMPANIES",
+        "matched_to": "LOWE'S COMPANIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LOWE-S-COMPANIES-INC-13416/"
+    },
+    {
+        "company_name": "V.F. CORPORATION",
+        "matched_to": "MICROSOFT CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MICROSOFT-CORPORATION-4835/"
+    },
+    {
+        "company_name": "WEST PHARMACEUTICAL SERVICES",
+        "matched_to": "WEST PHARMACEUTICAL SERVICES, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/WEST-PHARMACEUTICAL-SERVI-14917/"
+    },
+    {
+        "company_name": "HORMEL FOODS CORPORATION",
+        "matched_to": "HORMEL FOODS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/HORMEL-FOODS-CORPORATION-12977/"
+    },
+    {
+        "company_name": "KANSAS CITY SOUTHERN",
+        "matched_to": "KANSAS CITY SOUTHERN USD",
+        "url": "https://www.marketscreener.com/quote/stock/KANSAS-CITY-SOUTHERN-40328823/"
+    },
+    {
+        "company_name": "COSTAR GROUP",
+        "matched_to": "COSTAR GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/COSTAR-GROUP-INC-8923/"
+    },
+    {
+        "company_name": "MONGODB",
+        "matched_to": "MONGODB, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MONGODB-INC-45064741/"
+    },
+    {
+        "company_name": "DELTA AIR LINES",
+        "matched_to": "DELTA AIR LINES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DELTA-AIR-LINES-INC-49285/"
+    },
+    {
+        "company_name": "EXPEDIA GROUP",
+        "matched_to": "EXPEDIA GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EXPEDIA-GROUP-INC-9605918/"
+    },
+    {
+        "company_name": "ALBEMARLE CORPORATION",
+        "matched_to": "ALBEMARLE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ALBEMARLE-CORPORATION-11613/"
+    },
+    {
+        "company_name": "LABORATORY CORPORATION OF AMERICA HOLDINGS",
+        "matched_to": "LABORATORY CORPORATION OF AMERICA HOLDINGS",
+        "url": "https://www.marketscreener.com/quote/stock/LABORATORY-CORPORATION-OF-13392/"
+    },
+    {
+        "company_name": "SLACK TECHNOLOGIES",
+        "matched_to": "SLACK TECHNOLOGIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SLACK-TECHNOLOGIES-INC-60037714/"
+    },
+    {
+        "company_name": "PACIFIC GAS & ELECTRIC CORPORATION",
+        "matched_to": "PG&E CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/PG-E-CORPORATION-13946/"
+    },
+    {
+        "company_name": "AMERISOURCEBERGEN CORPORATION",
+        "matched_to": "AMERISOURCEBERGEN CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMERISOURCEBERGEN-CORPORA-9428091/"
+    },
+    {
+        "company_name": "CHENIERE ENERGY",
+        "matched_to": "CHENIERE ENERGY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CHENIERE-ENERGY-INC-40449478/"
+    },
+    {
+        "company_name": "VULCAN MATERIALS COMPANY",
+        "matched_to": "VULCAN MATERIALS COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/VULCAN-MATERIALS-COMPANY-14815/"
+    },
+    {
+        "company_name": "ON SEMICONDUCTOR CORPORATION",
+        "matched_to": "ON SEMICONDUCTOR CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ON-SEMICONDUCTOR-CORPORAT-10340/"
+    },
+    {
+        "company_name": "ENERGY TRANSFER LP",
+        "matched_to": "ENERGY TRANSFER LP USD",
+        "url": "https://www.marketscreener.com/quote/stock/ENERGY-TRANSFER-LP-40511769/"
+    },
+    {
+        "company_name": "VALERO ENERGY CORPORATION",
+        "matched_to": "VALERO ENERGY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/VALERO-ENERGY-CORPORATION-14811/"
+    },
+    {
+        "company_name": "PALANTIR TECHNOLOGIES",
+        "matched_to": "PALANTIR TECHNOLOGIES INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PALANTIR-TECHNOLOGIES-INC-113108869/"
+    },
+    {
+        "company_name": "BALL CORPORATION",
+        "matched_to": "BALL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/BALL-CORPORATION-40311104/"
+    },
+    {
+        "company_name": "APPLOVIN CORP",
+        "matched_to": "APPLOVIN CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/APPLOVIN-CORPORATION-121407289/"
+    },
+    {
+        "company_name": "WEYERHAEUSER COMPANY",
+        "matched_to": "WEYERHAEUSER COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/WEYERHAEUSER-COMPANY-14932/"
+    },
+    {
+        "company_name": "CONSOLIDATED EDISON",
+        "matched_to": "CONSOLIDATED EDISON, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CONSOLIDATED-EDISON-INC-12403/"
+    },
+    {
+        "company_name": "DEVON ENERGY CORPORATION",
+        "matched_to": "DEVON ENERGY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/DEVON-ENERGY-CORPORATION-40311142/"
+    },
+    {
+        "company_name": "CUMMINS",
+        "matched_to": "CUMMINS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CUMMINS-INC-12214/"
+    },
+    {
+        "company_name": "VERISK ANALYTICS",
+        "matched_to": "VERISK ANALYTICS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/VERISK-ANALYTICS-INC-5628469/"
+    },
+    {
+        "company_name": "EQUITY RESIDENTIAL",
+        "matched_to": "EQUITY RESIDENTIAL USD",
+        "url": "https://www.marketscreener.com/quote/stock/EQUITY-RESIDENTIAL-12485/"
+    },
+    {
+        "company_name": "PUBLIC SERVICE ENTERPRISE GROUP",
+        "matched_to": "PUBLIC SERVICE ENTERPRISE GROUP, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/PUBLIC-SERVICE-ENTERPRISE-13969/"
+    },
+    {
+        "company_name": "LAS VEGAS SANDS CORP",
+        "matched_to": "LAS VEGAS SANDS CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LAS-VEGAS-SANDS-CORP-13442/"
+    },
+    {
+        "company_name": "EVERSOURCE ENERGY",
+        "matched_to": "EVERSOURCE ENERGY USD",
+        "url": "https://www.marketscreener.com/quote/stock/EVERSOURCE-ENERGY-20814111/"
+    },
+    {
+        "company_name": "FIFTH THIRD BANCORP",
+        "matched_to": "FIFTH THIRD BANCORP USD",
+        "url": "https://www.marketscreener.com/quote/stock/FIFTH-THIRD-BANCORP-40311116/"
+    },
+    {
+        "company_name": "ALEXANDRIA REAL ESTATE EQUITIES",
+        "matched_to": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/ALEXANDRIA-REAL-ESTATE-EQ-11676/"
+    },
+    {
+        "company_name": "STANLEY BLACK & DECKER",
+        "matched_to": "STANLEY BLACK & DECKER, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/STANLEY-BLACK-DECKER-INC-14522/"
+    },
+    {
+        "company_name": "OCCIDENTAL PETROLEUM CORPORATION",
+        "matched_to": "OCCIDENTAL PETROLEUM CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/OCCIDENTAL-PETROLEUM-CORP-13928/"
+    },
+    {
+        "company_name": "LENNAR CORPORATION",
+        "matched_to": "LENNAR CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/LENNAR-CORPORATION-13379/"
+    },
+    {
+        "company_name": "AMERICAN WATER WORKS COMPANY",
+        "matched_to": "AMERICAN WATER WORKS COMPANY, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/AMERICAN-WATER-WORKS-COMP-2989352/"
+    },
+    {
+        "company_name": "EPAM SYSTEMS",
+        "matched_to": "EPAM SYSTEMS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EPAM-SYSTEMS-INC-9943549/"
+    },
+    {
+        "company_name": "ANSYS",
+        "matched_to": "ANSYS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ANSYS-INC-40311135/"
+    },
+    {
+        "company_name": "DOLLAR TREE",
+        "matched_to": "DOLLAR TREE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DOLLAR-TREE-INC-4868/"
+    },
+    {
+        "company_name": "INTERACTIVE BROKERS GROUP",
+        "matched_to": "INTERACTIVE BROKERS GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/INTERACTIVE-BROKERS-GROUP-50014/"
+    },
+    {
+        "company_name": "NASDAQ",
+        "matched_to": "NASDAQ, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NASDAQ-INC-10173/"
+    },
+    {
+        "company_name": "CORNING",
+        "matched_to": "CORNING INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/CORNING-INCORPORATED-12788/"
+    },
+    {
+        "company_name": "MPLX LP",
+        "matched_to": "MPLX LP USD",
+        "url": "https://www.marketscreener.com/quote/stock/MPLX-LP-11799319/"
+    },
+    {
+        "company_name": "BROWN-FORMAN CORPORATION",
+        "matched_to": "BROWN-FORMAN CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/BROWN-FORMAN-CORPORATION-11816/"
+    },
+    {
+        "company_name": "GLOBALFOUNDRIES INC.",
+        "matched_to": "GLOBALFOUNDRIES INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GLOBALFOUNDRIES-INC-128691269/"
+    },
+    {
+        "company_name": "COPART",
+        "matched_to": "COPART, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/COPART-INC-8879/"
+    },
+    {
+        "company_name": "EQUIFAX",
+        "matched_to": "EQUIFAX INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EQUIFAX-INC-12424/"
+    },
+    {
+        "company_name": "NUCOR CORPORATION",
+        "matched_to": "NUCOR CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/NUCOR-CORPORATION-13823/"
+    },
+    {
+        "company_name": "CORTEVA",
+        "matched_to": "CORTEVA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CORTEVA-INC-59241389/"
+    },
+    {
+        "company_name": "CARVANA",
+        "matched_to": "CARVANA CO. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CARVANA-CO-34658201/"
+    },
+    {
+        "company_name": "AMETEK",
+        "matched_to": "AMETEK, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMETEK-INC-11635/"
+    },
+    {
+        "company_name": "TYSON FOODS",
+        "matched_to": "TYSON FOODS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TYSON-FOODS-INC-14672/"
+    },
+    {
+        "company_name": "D.R. HORTON",
+        "matched_to": "D.R. HORTON, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/D-R-HORTON-INC-12293/"
+    },
+    {
+        "company_name": "PACCAR",
+        "matched_to": "PACCAR, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PACCAR-INC-4893/"
+    },
+    {
+        "company_name": "AMERIPRISE FINANCIAL",
+        "matched_to": "AMERIPRISE FINANCIAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMERIPRISE-FINANCIAL-INC-11642/"
+    },
+    {
+        "company_name": "PHILLIPS 66",
+        "matched_to": "PHILLIPS 66 USD",
+        "url": "https://www.marketscreener.com/quote/stock/PHILLIPS-66-10447684/"
+    },
+    {
+        "company_name": "ALLSTATE CORPORATION",
+        "matched_to": "THE ALLSTATE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-ALLSTATE-CORPORATION-40311125/"
+    },
+    {
+        "company_name": "OTIS WORLDWIDE CORPORATION",
+        "matched_to": "OTIS WORLDWIDE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/OTIS-WORLDWIDE-CORPORATIO-105026689/"
+    },
+    {
+        "company_name": "KROGER",
+        "matched_to": "KROGER CO. (THE) USD",
+        "url": "https://www.marketscreener.com/quote/stock/KROGER-CO-THE-13293/"
+    },
+    {
+        "company_name": "METTLER-TOLEDO INTERNATIONAL",
+        "matched_to": "METTLER-TOLEDO INTERNATIONAL, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/METTLER-TOLEDO-INTERNATIO-13627/"
+    },
+    {
+        "company_name": "MATCH GROUP",
+        "matched_to": "MATCH GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MATCH-GROUP-INC-24949016/"
+    },
+    {
+        "company_name": "VEEVA SYSTEMS",
+        "matched_to": "VEEVA SYSTEMS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/VEEVA-SYSTEMS-INC-14551091/"
+    },
+    {
+        "company_name": "INTERNATIONAL FLAVORS & FRAGRANCES",
+        "matched_to": "INTERNATIONAL FLAVORS & FRAGRANCES INC.",
+        "url": "https://www.marketscreener.com/quote/stock/INTERNATIONAL-FLAVORS-FRA-13047/"
+    },
+    {
+        "company_name": "FIRST REPUBLIC BANK",
+        "matched_to": "FIRST REPUBLIC BANK USD",
+        "url": "https://www.marketscreener.com/quote/stock/FIRST-REPUBLIC-BANK-6971337/"
+    },
+    {
+        "company_name": "ZSCALER",
+        "matched_to": "ZSCALER, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ZSCALER-INC-42379366/"
+    },
+    {
+        "company_name": "DISCOVER FINANCIAL SERVICES",
+        "matched_to": "DISCOVER FINANCIAL SERVICES USD",
+        "url": "https://www.marketscreener.com/quote/stock/DISCOVER-FINANCIAL-SERVIC-52882/"
+    },
+    {
+        "company_name": "ROSS STORES",
+        "matched_to": "ROSS STORES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ROSS-STORES-INC-4927/"
+    },
+    {
+        "company_name": "BLOOMBERG LP",
+        "matched_to": "OSSIAM LUX - BLOOMBERG ASIA PACIFIC EXJAP FUND",
+        "url": "https://www.marketscreener.com/quote/stock/OSSIAM-LUX-BLOOMBERG-ASIA-142657734/"
+    },
+    {
+        "company_name": "WILLIAMS COMPANIES",
+        "matched_to": "WILLIAMS COMPANIES USD",
+        "url": "https://www.marketscreener.com/quote/stock/WILLIAMS-COMPANIES-14884/"
+    },
+    {
+        "company_name": "BIOGEN",
+        "matched_to": "BIOGEN INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BIOGEN-INC-4853/"
+    },
+    {
+        "company_name": "ARTHUR J. GALLAGHER",
+        "matched_to": "ARTHUR J. GALLAGHER & CO. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ARTHUR-J-GALLAGHER-CO-11601/"
+    },
+    {
+        "company_name": "KEYSIGHT TECHNOLOGIES",
+        "matched_to": "KEYSIGHT TECHNOLOGIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/KEYSIGHT-TECHNOLOGIES-INC-18426374/"
+    },
+    {
+        "company_name": "CLOUDFLARE",
+        "matched_to": "CLOUDFLARE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CLOUDFLARE-INC-65956823/"
+    },
+    {
+        "company_name": "RESMED",
+        "matched_to": "RESMED, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/RESMED-INC-14259/"
+    },
+    {
+        "company_name": "AVALONBAY COMMUNITIES",
+        "matched_to": "AVALONBAY COMMUNITIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AVALONBAY-COMMUNITIES-INC-11717/"
+    },
+    {
+        "company_name": "FASTENAL COMPANY",
+        "matched_to": "FASTENAL COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/FASTENAL-COMPANY-4901/"
+    },
+    {
+        "company_name": "CBRE GROUP",
+        "matched_to": "CBRE GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CBRE-GROUP-INC-9823294/"
+    },
+    {
+        "company_name": "UNITY SOFTWARE INC.",
+        "matched_to": "UNITY SOFTWARE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNITY-SOFTWARE-INC-112492634/"
+    },
+    {
+        "company_name": "THE TRADE DESK",
+        "matched_to": "THE TRADE DESK, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-TRADE-DESK-INC-31370485/"
+    },
+    {
+        "company_name": "ROCKWELL AUTOMATION",
+        "matched_to": "ROCKWELL AUTOMATION, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ROCKWELL-AUTOMATION-INC-14277/"
+    },
+    {
+        "company_name": "MCKESSON CORPORATION",
+        "matched_to": "MCKESSON CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MCKESSON-CORPORATION-13470/"
+    },
+    {
+        "company_name": "WELLTOWER",
+        "matched_to": "WELLTOWER INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WELLTOWER-INC-24156984/"
+    },
+    {
+        "company_name": "OLD DOMINION FREIGHT LINE",
+        "matched_to": "OLD DOMINION FREIGHT LINE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/OLD-DOMINION-FREIGHT-LINE-10317/"
+    },
+    {
+        "company_name": "ALEXION PHARMACEUTICALS",
+        "matched_to": "REGENERON PHARMACEUTICALS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/REGENERON-PHARMACEUTICALS-10649/"
+    },
+    {
+        "company_name": "ARCHER-DANIELS-MIDLAND COMPANY",
+        "matched_to": "ARCHER-DANIELS-MIDLAND COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/ARCHER-DANIELS-MIDLAND-CO-11533/"
+    },
+    {
+        "company_name": "KINDER MORGAN",
+        "matched_to": "KINDER MORGAN, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/KINDER-MORGAN-INC-7331799/"
+    },
+    {
+        "company_name": "YUM! BRANDS",
+        "matched_to": "YUM! BRANDS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/YUM-BRANDS-INC-46353249/"
+    },
+    {
+        "company_name": "PLUG POWER",
+        "matched_to": "PLUG POWER INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PLUG-POWER-INC-10490/"
+    },
+    {
+        "company_name": "MARKETAXESS HOLDINGS",
+        "matched_to": "MARKETAXESS HOLDINGS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MARKETAXESS-HOLDINGS-INC-10039/"
+    },
+    {
+        "company_name": "FORMULA ONE GROUP",
+        "matched_to": "FORMULA ONE GROUP USD",
+        "url": "https://www.marketscreener.com/quote/stock/FORMULA-ONE-GROUP-27316639/"
+    },
+    {
+        "company_name": "FIRST CITIZENS BANCSHARES",
+        "matched_to": "FIRST CITIZENS BANCSHARES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FIRST-CITIZENS-BANCSHARES-9272/"
+    },
+    {
+        "company_name": "ARES MANAGEMENT CORPORATION",
+        "matched_to": "ARES MANAGEMENT CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ARES-MANAGEMENT-CORPORATI-50061101/"
+    },
+    {
+        "company_name": "ELANCO ANIMAL HEALTH",
+        "matched_to": "ELANCO ANIMAL HEALTH INCORPORATED",
+        "url": "https://www.marketscreener.com/quote/stock/ELANCO-ANIMAL-HEALTH-INCO-46276391/"
+    },
+    {
+        "company_name": "SANTANDER CONSUMER USA HOLDINGS",
+        "matched_to": "SANTANDER CONSUMER USA HOLDINGS INC.",
+        "url": "https://www.marketscreener.com/quote/stock/SANTANDER-CONSUMER-USA-HO-15539698/"
+    },
+    {
+        "company_name": "FAIR ISAAC CORPORATION",
+        "matched_to": "FAIR ISAAC CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/FAIR-ISAAC-CORPORATION-5523345/"
+    },
+    {
+        "company_name": "BENTLEY SYSTEMS INC",
+        "matched_to": "BENTLEY SYSTEMS, INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/BENTLEY-SYSTEMS-INCORPORA-112756448/"
+    },
+    {
+        "company_name": "LEAR CORPORATION",
+        "matched_to": "LEAR CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/LEAR-CORPORATION-13367/"
+    },
+    {
+        "company_name": "AVIS BUDGET GROUP",
+        "matched_to": "AVIS BUDGET GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AVIS-BUDGET-GROUP-INC-12212/"
+    },
+    {
+        "company_name": "CUBESMART",
+        "matched_to": "CUBESMART USD",
+        "url": "https://www.marketscreener.com/quote/stock/CUBESMART-9069822/"
+    },
+    {
+        "company_name": "BRUKER CORPORATION",
+        "matched_to": "BRUKER CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/BRUKER-CORPORATION-8620/"
+    },
+    {
+        "company_name": "AXA EQUITABLE HOLDINGS",
+        "matched_to": "EQUITABLE HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EQUITABLE-HOLDINGS-INC-43328134/"
+    },
+    {
+        "company_name": "BLACK KNIGHT",
+        "matched_to": "BLACK KNIGHT, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BLACK-KNIGHT-INC-37958698/"
+    },
+    {
+        "company_name": "ROBERT HALF INTERNATIONAL",
+        "matched_to": "ROBERT HALF INTERNATIONAL, INC USD",
+        "url": "https://www.marketscreener.com/quote/stock/ROBERT-HALF-INTERNATIONAL-14243/"
+    },
+    {
+        "company_name": "JUNIPER NETWORKS",
+        "matched_to": "JUNIPER NETWORKS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/JUNIPER-NETWORKS-INC-4881/"
+    },
+    {
+        "company_name": "FLOOR & DECOR HOLDINGS",
+        "matched_to": "FLOOR & DECOR HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FLOOR-DECOR-HOLDINGS-INC-34676171/"
+    },
+    {
+        "company_name": "ARES CAPITAL CORPORATION",
+        "matched_to": "ARES CAPITAL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ARES-CAPITAL-CORPORATION-40449523/"
+    },
+    {
+        "company_name": "PAYLOCITY HOLDING CORPORATION",
+        "matched_to": "PAYLOCITY HOLDING CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/PAYLOCITY-HOLDING-CORPORA-16043784/"
+    },
+    {
+        "company_name": "COACH, INC.",
+        "matched_to": "BUSINESS COACH INC. JPY",
+        "url": "https://www.marketscreener.com/quote/stock/BUSINESS-COACH-INC-144036898/"
+    },
+    {
+        "company_name": "LENNOX INTERNATIONAL",
+        "matched_to": "LENNOX INTERNATIONAL INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LENNOX-INTERNATIONAL-INC-13398/"
+    },
+    {
+        "company_name": "CIENA CORPORATION",
+        "matched_to": "CIENA CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CIENA-CORPORATION-15311276/"
+    },
+    {
+        "company_name": "WYNN RESORTS",
+        "matched_to": "WYNN RESORTS, LIMITED USD",
+        "url": "https://www.marketscreener.com/quote/stock/WYNN-RESORTS-LIMITED-4859/"
+    },
+    {
+        "company_name": "NEWELL BRANDS",
+        "matched_to": "NEWELL BRANDS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NEWELL-BRANDS-INC-47564184/"
+    },
+    {
+        "company_name": "ASPEN TECHNOLOGY",
+        "matched_to": "ASPEN TECHNOLOGY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ASPEN-TECHNOLOGY-INC-138132013/"
+    },
+    {
+        "company_name": "SYNAPTICS",
+        "matched_to": "SYNAPTICS INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/SYNAPTICS-INCORPORATED-11023/"
+    },
+    {
+        "company_name": "HERTZ GLOBAL HOLDINGS",
+        "matched_to": "HERTZ GLOBAL HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HERTZ-GLOBAL-HOLDINGS-INC-124363476/"
+    },
+    {
+        "company_name": "BERRY GLOBAL GROUP",
+        "matched_to": "BERRY GLOBAL GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BERRY-GLOBAL-GROUP-INC-11658375/"
+    },
+    {
+        "company_name": "AQUA AMERICA",
+        "matched_to": "AQUA CORPORATION THB",
+        "url": "https://www.marketscreener.com/quote/stock/AQUA-CORPORATION-20701119/"
+    },
+    {
+        "company_name": "LAMB WESTON HOLDINGS",
+        "matched_to": "LAMB WESTON HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LAMB-WESTON-HOLDINGS-INC-31862637/"
+    },
+    {
+        "company_name": "RELIANCE STEEL & ALUMINUM",
+        "matched_to": "RELIANCE STEEL & ALUMINUM CO. USD",
+        "url": "https://www.marketscreener.com/quote/stock/RELIANCE-STEEL-ALUMINUM-C-14292/"
+    },
+    {
+        "company_name": "COUPA SOFTWARE",
+        "matched_to": "CHECK POINT SOFTWARE TECHNOLOGIES LTD.",
+        "url": "https://www.marketscreener.com/quote/stock/CHECK-POINT-SOFTWARE-TECH-4858/"
+    },
+    {
+        "company_name": "FIVE BELOW",
+        "matched_to": "FIVE BELOW, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FIVE-BELOW-INC-11076428/"
+    },
+    {
+        "company_name": "ZAYO GROUP HOLDINGS",
+        "matched_to": "UNITEDHEALTH GROUP INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNITEDHEALTH-GROUP-INC-14750/"
+    },
+    {
+        "company_name": "INVESCO",
+        "matched_to": "INVESCO LTD. USD",
+        "url": "https://www.marketscreener.com/quote/stock/INVESCO-LTD-11728/"
+    },
+    {
+        "company_name": "GITLAB",
+        "matched_to": "GITLAB INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GITLAB-INC-128192404/"
+    },
+    {
+        "company_name": "FIRST HORIZON NATIONAL CORPORATION",
+        "matched_to": "FIRST HORIZON CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/FIRST-HORIZON-CORPORATION-12693/"
+    },
+    {
+        "company_name": "GENPACT",
+        "matched_to": "GENPACT LIMITED USD",
+        "url": "https://www.marketscreener.com/quote/stock/GENPACT-LIMITED-57248/"
+    },
+    {
+        "company_name": "AXON ENTERPRISE",
+        "matched_to": "AXON ENTERPRISE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AXON-ENTERPRISE-INC-34532659/"
+    },
+    {
+        "company_name": "UNION ELECTRIC COMPANY",
+        "matched_to": "GENERAL ELECTRIC COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/GENERAL-ELECTRIC-COMPANY-4823/"
+    },
+    {
+        "company_name": "ELASTIC",
+        "matched_to": "ELASTIC N.V. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ELASTIC-N-V-46434636/"
+    },
+    {
+        "company_name": "JEFFERIES FINANCIAL GROUP",
+        "matched_to": "JEFFERIES FINANCIAL GROUP INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/JEFFERIES-FINANCIAL-GROUP-43482239/"
+    },
+    {
+        "company_name": "CABLE ONE",
+        "matched_to": "CABLE ONE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CABLE-ONE-INC-22795883/"
+    },
+    {
+        "company_name": "NRG ENERGY",
+        "matched_to": "NRG ENERGY, INC USD",
+        "url": "https://www.marketscreener.com/quote/stock/NRG-ENERGY-INC-13792/"
+    },
+    {
+        "company_name": "MAGELLAN MIDSTREAM PARTNERS",
+        "matched_to": "MAGELLAN MIDSTREAM PARTNERS, L.P. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MAGELLAN-MIDSTREAM-PARTNE-13575/"
+    },
+    {
+        "company_name": "ERIE INDEMNITY COMPANY",
+        "matched_to": "ERIE INDEMNITY COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/ERIE-INDEMNITY-COMPANY-9204/"
+    },
+    {
+        "company_name": "FEDERAL REALTY INVESTMENT TRUST",
+        "matched_to": "FEDERAL REALTY INVESTMENT TRUST USD",
+        "url": "https://www.marketscreener.com/quote/stock/FEDERAL-REALTY-INVESTMENT-12673/"
+    },
+    {
+        "company_name": "SYNNEX CORPORATION",
+        "matched_to": "TD SYNNEX CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/TD-SYNNEX-CORPORATION-14439/"
+    },
+    {
+        "company_name": "TORO COMPANY",
+        "matched_to": "THE TORO COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-TORO-COMPANY-14679/"
+    },
+    {
+        "company_name": "DAVITA",
+        "matched_to": "DAVITA INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DAVITA-INC-12378/"
+    },
+    {
+        "company_name": "GOODRX",
+        "matched_to": "GOODRX HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GOODRX-HOLDINGS-INC-112833794/"
+    },
+    {
+        "company_name": "REPLIGEN CORPORATION",
+        "matched_to": "REPLIGEN CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/REPLIGEN-CORPORATION-10664/"
+    },
+    {
+        "company_name": "JABIL",
+        "matched_to": "JABIL INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/JABIL-INC-13153/"
+    },
+    {
+        "company_name": "GAMING AND LEISURE PROPERTIES",
+        "matched_to": "GAMING AND LEISURE PROPERTIES, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/GAMING-AND-LEISURE-PROPER-14571051/"
+    },
+    {
+        "company_name": "GLOBE LIFE",
+        "matched_to": "CHINA LIFE INSURANCE COMPANY LIMITED",
+        "url": "https://www.marketscreener.com/quote/stock/CHINA-LIFE-INSURANCE-COMP-1412628/"
+    },
+    {
+        "company_name": "ANNALY CAPITAL MANAGEMENT",
+        "matched_to": "ANNALY CAPITAL MANAGEMENT, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ANNALY-CAPITAL-MANAGEMENT-13744/"
+    },
+    {
+        "company_name": "LIFE STORAGE",
+        "matched_to": "LIFE STORAGE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LIFE-STORAGE-INC-30581025/"
+    },
+    {
+        "company_name": "REXFORD INDUSTRIAL REALTY",
+        "matched_to": "REXFORD INDUSTRIAL REALTY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/REXFORD-INDUSTRIAL-REALTY-13659320/"
+    },
+    {
+        "company_name": "PENTAIR",
+        "matched_to": "PENTAIR PLC USD",
+        "url": "https://www.marketscreener.com/quote/stock/PENTAIR-PLC-16656327/"
+    },
+    {
+        "company_name": "ASANA, INC.",
+        "matched_to": "INCOME FINANCIAL TRUST CAD",
+        "url": "https://www.marketscreener.com/quote/stock/INCOME-FINANCIAL-TRUST-1410456/"
+    },
+    {
+        "company_name": "ALCOA CORPORATION",
+        "matched_to": "ALCOA CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ALCOA-CORPORATION-31776160/"
+    },
+    {
+        "company_name": "BOOZ ALLEN HAMILTON HOLDING CORPORATION",
+        "matched_to": "BOOZ ALLEN HAMILTON HOLDING CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/BOOZ-ALLEN-HAMILTON-HOLDI-6873099/"
+    },
+    {
+        "company_name": "SNAP-ON",
+        "matched_to": "SNAP-ON INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/SNAP-ON-INCORPORATED-14431/"
+    },
+    {
+        "company_name": "IAC/INTERACTIVECORP",
+        "matched_to": "IAC INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/IAC-INC-109581170/"
+    },
+    {
+        "company_name": "GRUBHUB",
+        "matched_to": "GRUBHUB INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GRUBHUB-INC-16166418/"
+    },
+    {
+        "company_name": "AECOM",
+        "matched_to": "AECOM USD",
+        "url": "https://www.marketscreener.com/quote/stock/AECOM-50181/"
+    },
+    {
+        "company_name": "SAMSARA INC.",
+        "matched_to": "SAMSARA INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SAMSARA-INC-130784042/"
+    },
+    {
+        "company_name": "BORGWARNER",
+        "matched_to": "BORGWARNER INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BORGWARNER-INC-40311128/"
+    },
+    {
+        "company_name": "HYATT HOTELS CORPORATION",
+        "matched_to": "HYATT HOTELS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/HYATT-HOTELS-CORPORATION-5685450/"
+    },
+    {
+        "company_name": "WATSCO",
+        "matched_to": "WATSCO, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WATSCO-INC-14916/"
+    },
+    {
+        "company_name": "APACHE CORPORATION",
+        "matched_to": "COSTCO WHOLESALE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/COSTCO-WHOLESALE-CORPORAT-4866/"
+    },
+    {
+        "company_name": "TAPESTRY",
+        "matched_to": "TAPESTRY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TAPESTRY-INC-38530108/"
+    },
+    {
+        "company_name": "CLEVELAND-CLIFFS",
+        "matched_to": "CLEVELAND-CLIFFS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CLEVELAND-CLIFFS-INC-37488524/"
+    },
+    {
+        "company_name": "AMERICAN FINANCIAL GROUP",
+        "matched_to": "AMERICAN FINANCIAL GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMERICAN-FINANCIAL-GROUP--11554/"
+    },
+    {
+        "company_name": "HUBBELL",
+        "matched_to": "HUBBELL INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/HUBBELL-INCORPORATED-25531608/"
+    },
+    {
+        "company_name": "HENRY SCHEIN",
+        "matched_to": "HENRY SCHEIN, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HENRY-SCHEIN-INC-9582/"
+    },
+    {
+        "company_name": "DARLING INGREDIENTS",
+        "matched_to": "DARLING INGREDIENTS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DARLING-INGREDIENTS-INC-64712/"
+    },
+    {
+        "company_name": "UNIVERSAL HEALTH SERVICES",
+        "matched_to": "UNIVERSAL HEALTH SERVICES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNIVERSAL-HEALTH-SERVICES-40311163/"
+    },
+    {
+        "company_name": "RH",
+        "matched_to": "RH USD",
+        "url": "https://www.marketscreener.com/quote/stock/RH-32683202/"
+    },
+    {
+        "company_name": "ZIONS BANCORPORATION NATIONAL ASSOCIATION",
+        "matched_to": "ZIONS BANCORPORATION, N.A. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ZIONS-BANCORPORATION-N-A-40311097/"
+    },
+    {
+        "company_name": "MIDDLEBY CORPORATION",
+        "matched_to": "THE MIDDLEBY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-MIDDLEBY-CORPORATION-10026/"
+    },
+    {
+        "company_name": "SOFI TECHNOLOGIES, INC.",
+        "matched_to": "SOFI TECHNOLOGIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SOFI-TECHNOLOGIES-INC-115884899/"
+    },
+    {
+        "company_name": "WILLIAMS-SONOMA",
+        "matched_to": "WILLIAMS-SONOMA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WILLIAMS-SONOMA-INC-14915/"
+    },
+    {
+        "company_name": "EAST WEST BANCORP",
+        "matched_to": "EAST WEST BANCORP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EAST-WEST-BANCORP-INC-9227/"
+    },
+    {
+        "company_name": "DRAFTKINGS INC.",
+        "matched_to": "DRAFTKINGS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DRAFTKINGS-INC-61175285/"
+    },
+    {
+        "company_name": "DENTSPLY SIRONA",
+        "matched_to": "DENTSPLY SIRONA INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DENTSPLY-SIRONA-INC-40311122/"
+    },
+    {
+        "company_name": "GAMESTOP",
+        "matched_to": "GAMESTOP CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GAMESTOP-CORP-12790/"
+    },
+    {
+        "company_name": "STEEL DYNAMICS",
+        "matched_to": "STEEL DYNAMICS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/STEEL-DYNAMICS-INC-10970/"
+    },
+    {
+        "company_name": "WESTERN ALLIANCE BANCORPORATION",
+        "matched_to": "WESTERN ALLIANCE BANCORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/WESTERN-ALLIANCE-BANCORPO-14844/"
+    },
+    {
+        "company_name": "SUBWAY",
+        "matched_to": "SUBWAY FINANCE & INVESTMENT COMPANY LIMITED",
+        "url": "https://www.marketscreener.com/quote/stock/SUBWAY-FINANCE-INVESTMENT-46728983/"
+    },
+    {
+        "company_name": "PELOTON INTERACTIVE",
+        "matched_to": "PELOTON INTERACTIVE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PELOTON-INTERACTIVE-INC-66148552/"
+    },
+    {
+        "company_name": "MOLSON COORS BREWING COMPANY",
+        "matched_to": "MOLSON COORS BEVERAGE COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/MOLSON-COORS-BEVERAGE-COM-14548/"
+    },
+    {
+        "company_name": "SERVICE CORPORATION INTERNATIONAL",
+        "matched_to": "SERVICE CORPORATION INTERNATIONAL",
+        "url": "https://www.marketscreener.com/quote/stock/SERVICE-CORPORATION-INTER-14476/"
+    },
+    {
+        "company_name": "NISOURCE",
+        "matched_to": "NISOURCE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NISOURCE-INC-13731/"
+    },
+    {
+        "company_name": "LAMAR ADVERTISING COMPANY (REIT)",
+        "matched_to": "LAMAR ADVERTISING COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/LAMAR-ADVERTISING-COMPANY-18603401/"
+    },
+    {
+        "company_name": "AMC ENTERTAINMENT HOLDINGS",
+        "matched_to": "AMC ENTERTAINMENT HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMC-ENTERTAINMENT-HOLDING-15231781/"
+    },
+    {
+        "company_name": "VISTRA ENERGY",
+        "matched_to": "ABU DHABI NATIONAL ENERGY COMPANY",
+        "url": "https://www.marketscreener.com/quote/stock/ABU-DHABI-NATIONAL-ENERGY-9059478/"
+    },
+    {
+        "company_name": "RPM INTERNATIONAL",
+        "matched_to": "RPM INTERNATIONAL INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/RPM-INTERNATIONAL-INC-14283/"
+    },
+    {
+        "company_name": "CITRIX SYSTEMS",
+        "matched_to": "ADOBE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ADOBE-INC-4844/"
+    },
+    {
+        "company_name": "SPRINT CORPORATION",
+        "matched_to": "SPRINT CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/SPRINT-CORPORATION-13620883/"
+    },
+    {
+        "company_name": "VAIL RESORTS",
+        "matched_to": "VAIL RESORTS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/VAIL-RESORTS-INC-60103136/"
+    },
+    {
+        "company_name": "AMERICAN AIRLINES GROUP",
+        "matched_to": "AMERICAN AIRLINES GROUP INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMERICAN-AIRLINES-GROUP-I-15171667/"
+    },
+    {
+        "company_name": "CARLISLE COMPANIES",
+        "matched_to": "CARLISLE COMPANIES INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/CARLISLE-COMPANIES-INCORP-12194/"
+    },
+    {
+        "company_name": "JACK HENRY & ASSOCIATES",
+        "matched_to": "JACK HENRY & ASSOCIATES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/JACK-HENRY-ASSOCIATES-INC-9781/"
+    },
+    {
+        "company_name": "COGNEX CORPORATION",
+        "matched_to": "COGNEX CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/COGNEX-CORPORATION-40246780/"
+    },
+    {
+        "company_name": "WESTROCK COMPANY",
+        "matched_to": "WESTROCK COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/WESTROCK-COMPANY-40311477/"
+    },
+    {
+        "company_name": "TARGA RESOURCES",
+        "matched_to": "TARGA RESOURCES CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TARGA-RESOURCES-CORP-6948144/"
+    },
+    {
+        "company_name": "HASHICORP, INC.",
+        "matched_to": "HASHICORP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HASHICORP-INC-130340630/"
+    },
+    {
+        "company_name": "LEIDOS HOLDINGS",
+        "matched_to": "LEIDOS HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LEIDOS-HOLDINGS-INC-14308164/"
+    },
+    {
+        "company_name": "REGENCY CENTERS CORPORATION",
+        "matched_to": "REGENCY CENTERS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/REGENCY-CENTERS-CORPORATI-47118846/"
+    },
+    {
+        "company_name": "SENTINELONE",
+        "matched_to": "SENTINELONE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SENTINELONE-INC-124221575/"
+    },
+    {
+        "company_name": "HOST HOTELS & RESORTS",
+        "matched_to": "HOST HOTELS & RESORTS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HOST-HOTELS-RESORTS-INC-12950/"
+    },
+    {
+        "company_name": "JONES LANG LASALLE",
+        "matched_to": "JONES LANG LASALLE INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/JONES-LANG-LASALLE-INCORP-13180/"
+    },
+    {
+        "company_name": "MAGIC LEAP",
+        "matched_to": "MAGIC SOFTWARE ENTERPRISES LTD. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MAGIC-SOFTWARE-ENTERPRISE-10019/"
+    },
+    {
+        "company_name": "GODADDY",
+        "matched_to": "GODADDY INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GODADDY-INC-21452893/"
+    },
+    {
+        "company_name": "MOHAWK INDUSTRIES",
+        "matched_to": "MOHAWK INDUSTRIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MOHAWK-INDUSTRIES-INC-13521/"
+    },
+    {
+        "company_name": "LIBERTY PROPERTY TRUST",
+        "matched_to": "LIBERTY PROPERTY TRUST USD",
+        "url": "https://www.marketscreener.com/quote/stock/LIBERTY-PROPERTY-TRUST-13424/"
+    },
+    {
+        "company_name": "EXACT SCIENCES CORPORATION",
+        "matched_to": "EXACT SCIENCES CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/EXACT-SCIENCES-CORPORATIO-9232/"
+    },
+    {
+        "company_name": "ESSENTIAL UTILITIES, INC.",
+        "matched_to": "ESSENTIAL UTILITIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ESSENTIAL-UTILITIES-INC-14921/"
+    },
+    {
+        "company_name": "PACKAGING CORPORATION OF AMERICA",
+        "matched_to": "PACKAGING CORPORATION OF AMERICA",
+        "url": "https://www.marketscreener.com/quote/stock/PACKAGING-CORPORATION-OF--40311146/"
+    },
+    {
+        "company_name": "GRACO",
+        "matched_to": "GRACO INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GRACO-INC-12752/"
+    },
+    {
+        "company_name": "TELADOC HEALTH",
+        "matched_to": "TELADOC HEALTH, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TELADOC-HEALTH-INC-22762533/"
+    },
+    {
+        "company_name": "WESTLAKE CHEMICAL CORPORATION",
+        "matched_to": "WESTLAKE CHEMICAL PARTNERS LP USD",
+        "url": "https://www.marketscreener.com/quote/stock/WESTLAKE-CHEMICAL-PARTNER-17053984/"
+    },
+    {
+        "company_name": "CNA FINANCIAL CORPORATION",
+        "matched_to": "CNA FINANCIAL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CNA-FINANCIAL-CORPORATION-12125/"
+    },
+    {
+        "company_name": "COMERICA",
+        "matched_to": "COMERICA INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/COMERICA-INCORPORATED-12105/"
+    },
+    {
+        "company_name": "LINCOLN NATIONAL CORPORATION",
+        "matched_to": "LINCOLN NATIONAL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/LINCOLN-NATIONAL-CORPORAT-13407/"
+    },
+    {
+        "company_name": "A. O. SMITH CORPORATION",
+        "matched_to": "A. O. SMITH CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/A-O-SMITH-CORPORATION-40311155/"
+    },
+    {
+        "company_name": "CBOE GLOBAL MARKETS",
+        "matched_to": "S&P GLOBAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/S-P-GLOBAL-INC-27377749/"
+    },
+    {
+        "company_name": "ROBINHOOD MARKETS, INC.",
+        "matched_to": "ROBINHOOD MARKETS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ROBINHOOD-MARKETS-INC-125228571/"
+    },
+    {
+        "company_name": "MORNINGSTAR",
+        "matched_to": "MORNINGSTAR, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MORNINGSTAR-INC-10068/"
+    },
+    {
+        "company_name": "NEWS CORPORATION",
+        "matched_to": "NEWS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/NEWS-CORPORATION-13439787/"
+    },
+    {
+        "company_name": "E*TRADE FINANCIAL CORPORATION",
+        "matched_to": "MIZUHO FINANCIAL GROUP, INC. JPY",
+        "url": "https://www.marketscreener.com/quote/stock/MIZUHO-FINANCIAL-GROUP-IN-6496086/"
+    },
+    {
+        "company_name": "IRON MOUNTAIN",
+        "matched_to": "IRON MOUNTAIN INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/IRON-MOUNTAIN-INCORPORATE-20499310/"
+    },
+    {
+        "company_name": "PTC Inc",
+        "matched_to": "PTC INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PTC-INC-12445262/"
+    },
+    {
+        "company_name": "BUNGE",
+        "matched_to": "BUNGE LIMITED USD",
+        "url": "https://www.marketscreener.com/quote/stock/BUNGE-LIMITED-11825/"
+    },
+    {
+        "company_name": "FMC CORPORATION",
+        "matched_to": "FMC CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/FMC-CORPORATION-12616/"
+    },
+    {
+        "company_name": "WHIRLPOOL CORPORATION",
+        "matched_to": "WHIRLPOOL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/WHIRLPOOL-CORPORATION-14872/"
+    },
+    {
+        "company_name": "CAMPBELL SOUP COMPANY",
+        "matched_to": "CAMPBELL SOUP COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/CAMPBELL-SOUP-COMPANY-12154/"
+    },
+    {
+        "company_name": "NORDSON CORPORATION",
+        "matched_to": "COSTCO WHOLESALE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/COSTCO-WHOLESALE-CORPORAT-4866/"
+    },
+    {
+        "company_name": "FORTUNE BRANDS HOME & SECURITY",
+        "matched_to": "FORTUNE BRANDS INNOVATIONS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FORTUNE-BRANDS-INNOVATION-9016938/"
+    },
+    {
+        "company_name": "TELEFONICA BRASIL",
+        "matched_to": "TELEF\u00d4NICA BRASIL S.A. BRL",
+        "url": "https://www.marketscreener.com/quote/stock/TELEFONICA-BRASIL-S-A-9971120/"
+    },
+    {
+        "company_name": "ATMOS ENERGY CORPORATION",
+        "matched_to": "ATMOS ENERGY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ATMOS-ENERGY-CORPORATION-11707/"
+    },
+    {
+        "company_name": "MASIMO CORPORATION",
+        "matched_to": "MASIMO CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MASIMO-CORPORATION-58024/"
+    },
+    {
+        "company_name": "PULTEGROUP",
+        "matched_to": "PULTEGROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PULTEGROUP-INC-14003/"
+    },
+    {
+        "company_name": "MEDICAL PROPERTIES TRUST",
+        "matched_to": "MEDICAL PROPERTIES TRUST, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MEDICAL-PROPERTIES-TRUST--13603/"
+    },
+    {
+        "company_name": "LOVE'S TRAVEL STOPS & COUNTRY STORES",
+        "matched_to": "TONGCHENG TRAVEL HOLDINGS LIMITED",
+        "url": "https://www.marketscreener.com/quote/stock/TONGCHENG-TRAVEL-HOLDINGS-53979488/"
+    },
+    {
+        "company_name": "CERIDIAN HCM HOLDING",
+        "matched_to": "CERIDIAN HCM HOLDING, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CERIDIAN-HCM-HOLDING-INC-43133651/"
+    },
+    {
+        "company_name": "TREX COMPANY",
+        "matched_to": "TREX COMPANY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TREX-COMPANY-INC-14692/"
+    },
+    {
+        "company_name": "C.H. ROBINSON WORLDWIDE",
+        "matched_to": "C.H. ROBINSON WORLDWIDE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/C-H-ROBINSON-WORLDWIDE-IN-4915/"
+    },
+    {
+        "company_name": "F5 INC",
+        "matched_to": "F5, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/F5-INC-23277278/"
+    },
+    {
+        "company_name": "LPL FINANCIAL HOLDINGS",
+        "matched_to": "LPL FINANCIAL HOLDINGS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LPL-FINANCIAL-HOLDINGS-IN-12230347/"
+    },
+    {
+        "company_name": "MARATHON OIL CORPORATION",
+        "matched_to": "MARATHON OIL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MARATHON-OIL-CORPORATION-40311089/"
+    },
+    {
+        "company_name": "10X GENOMICS",
+        "matched_to": "10X GENOMICS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/10X-GENOMICS-INC-65338646/"
+    },
+    {
+        "company_name": "TOAST",
+        "matched_to": "TOAST, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TOAST-INC-127218834/"
+    },
+    {
+        "company_name": "ZILLOW GROUP",
+        "matched_to": "ZILLOW GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ZILLOW-GROUP-INC-20814107/"
+    },
+    {
+        "company_name": "AMERICAN HOMES 4 RENT",
+        "matched_to": "AMERICAN HOMES 4 RENT USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMERICAN-HOMES-4-RENT-13775334/"
+    },
+    {
+        "company_name": "ALBERTSONS COMPANIES, INC.",
+        "matched_to": "ALBERTSONS COMPANIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ALBERTSONS-COMPANIES-INC-27329659/"
+    },
+    {
+        "company_name": "HOWMET AEROSPACE",
+        "matched_to": "HOWMET AEROSPACE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HOWMET-AEROSPACE-INC-104922916/"
+    },
+    {
+        "company_name": "JUUL LABS",
+        "matched_to": "LAURUS LABS LIMITED INR",
+        "url": "https://www.marketscreener.com/quote/stock/LAURUS-LABS-LIMITED-34067676/"
+    },
+    {
+        "company_name": "INTERPUBLIC GROUP OF COMPANIES",
+        "matched_to": "THE INTERPUBLIC GROUP OF COMPANIES, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/THE-INTERPUBLIC-GROUP-OF--13096/"
+    },
+    {
+        "company_name": "LYFT",
+        "matched_to": "LYFT, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LYFT-INC-56481539/"
+    },
+    {
+        "company_name": "CROWN HOLDINGS",
+        "matched_to": "CROWN HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CROWN-HOLDINGS-INC-12002/"
+    },
+    {
+        "company_name": "TELEFLEX",
+        "matched_to": "TELEFLEX INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/TELEFLEX-INCORPORATED-14582/"
+    },
+    {
+        "company_name": "CF INDUSTRIES HOLDINGS",
+        "matched_to": "CF INDUSTRIES HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CF-INDUSTRIES-HOLDINGS-IN-12028/"
+    },
+    {
+        "company_name": "EQUITY LIFESTYLE PROPERTIES",
+        "matched_to": "EQUITY LIFESTYLE PROPERTIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EQUITY-LIFESTYLE-PROPERTI-12442/"
+    },
+    {
+        "company_name": "THE MOSAIC COMPANY",
+        "matched_to": "THE MOSAIC COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-MOSAIC-COMPANY-11900095/"
+    },
+    {
+        "company_name": "W. R. BERKLEY CORPORATION",
+        "matched_to": "W.R. BERKLEY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/W-R-BERKLEY-CORPORATION-11810/"
+    },
+    {
+        "company_name": "W. P. CAREY",
+        "matched_to": "W. P. CAREY INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/W-P-CAREY-INC-11613132/"
+    },
+    {
+        "company_name": "BUILDERS FIRSTSOURCE",
+        "matched_to": "BUILDERS FIRSTSOURCE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BUILDERS-FIRSTSOURCE-INC-8580/"
+    },
+    {
+        "company_name": "WARNER BROS. DISCOVERY INC",
+        "matched_to": "WARNER BROS. DISCOVERY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WARNER-BROS-DISCOVERY-INC-136094563/"
+    },
+    {
+        "company_name": "ICAHN ENTERPRISES",
+        "matched_to": "ICAHN ENTERPRISES L.P. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ICAHN-ENTERPRISES-L-P-11900131/"
+    },
+    {
+        "company_name": "QUANTA SERVICES",
+        "matched_to": "QUANTA SERVICES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/QUANTA-SERVICES-INC-14157/"
+    },
+    {
+        "company_name": "KIMCO REALTY CORPORATION",
+        "matched_to": "KIMCO REALTY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/KIMCO-REALTY-CORPORATION-13261/"
+    },
+    {
+        "company_name": "ALLIANT ENERGY CORPORATION",
+        "matched_to": "ALLIANT ENERGY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ALLIANT-ENERGY-CORPORATIO-50060931/"
+    },
+    {
+        "company_name": "UNITED AIRLINES HOLDINGS",
+        "matched_to": "UNITED AIRLINES HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNITED-AIRLINES-HOLDINGS--45899617/"
+    },
+    {
+        "company_name": "AES CORPORATION",
+        "matched_to": "AES CORPORATION (THE) USD",
+        "url": "https://www.marketscreener.com/quote/stock/AES-CORPORATION-THE-11547/"
+    },
+    {
+        "company_name": "WISH",
+        "matched_to": "CONTEXTLOGIC INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CONTEXTLOGIC-INC-116662524/"
+    },
+    {
+        "company_name": "LOEWS CORPORATION",
+        "matched_to": "LOEWS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/LOEWS-CORPORATION-13434/"
+    },
+    {
+        "company_name": "BATH & BODY WORKS INC",
+        "matched_to": "BATH & BODY WORKS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BATH-BODY-WORKS-INC-125041257/"
+    },
+    {
+        "company_name": "BIOMARIN PHARMACEUTICAL",
+        "matched_to": "BIOMARIN PHARMACEUTICAL INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BIOMARIN-PHARMACEUTICAL-I-8587/"
+    },
+    {
+        "company_name": "J. M. SMUCKER COMPANY",
+        "matched_to": "THE JM SMUCKER COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-JM-SMUCKER-COMPANY-14400/"
+    },
+    {
+        "company_name": "TIFFANY & CO",
+        "matched_to": "TIFFANY & CO USD",
+        "url": "https://www.marketscreener.com/quote/stock/TIFFANY-CO-132355726/"
+    },
+    {
+        "company_name": "ADVANCE AUTO PARTS",
+        "matched_to": "ADVANCE AUTO PARTS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ADVANCE-AUTO-PARTS-INC-11492/"
+    },
+    {
+        "company_name": "OLAPLEX HOLDINGS, INC.",
+        "matched_to": "OLAPLEX HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/OLAPLEX-HOLDINGS-INC-127472036/"
+    },
+    {
+        "company_name": "RINGCENTRAL",
+        "matched_to": "RINGCENTRAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/RINGCENTRAL-INC-14383012/"
+    },
+    {
+        "company_name": "VARIAN MEDICAL SYSTEMS",
+        "matched_to": "FRESENIUS MEDICAL CARE AG & CO. KGAA",
+        "url": "https://www.marketscreener.com/quote/stock/FRESENIUS-MEDICAL-CARE-AG-436087/"
+    },
+    {
+        "company_name": "INCYTE CORPORATION",
+        "matched_to": "INCYTE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/INCYTE-CORPORATION-9675/"
+    },
+    {
+        "company_name": "BIO-TECHNE CORPORATION",
+        "matched_to": "BIO-TECHNE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/BIO-TECHNE-CORPORATION-18468619/"
+    },
+    {
+        "company_name": "FIDELITY NATIONAL FINANCIAL",
+        "matched_to": "FIDELITY NATIONAL FINANCIAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FIDELITY-NATIONAL-FINANCI-16751516/"
+    },
+    {
+        "company_name": "CHARLES RIVER LABORATORIES INTERNATIONAL",
+        "matched_to": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/CHARLES-RIVER-LABORATORIE-12179/"
+    },
+    {
+        "company_name": "ROLLINS",
+        "matched_to": "ROLLINS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ROLLINS-INC-14278/"
+    },
+    {
+        "company_name": "CARDINAL HEALTH",
+        "matched_to": "CARDINAL HEALTH, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CARDINAL-HEALTH-INC-11969/"
+    },
+    {
+        "company_name": "OMNICOM GROUP",
+        "matched_to": "OMNICOM GROUP., INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/OMNICOM-GROUP-INC-13904/"
+    },
+    {
+        "company_name": "CONAGRA BRANDS",
+        "matched_to": "CONAGRA BRANDS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CONAGRA-BRANDS-INC-11968/"
+    },
+    {
+        "company_name": "FACTSET RESEARCH SYSTEMS",
+        "matched_to": "FACTSET RESEARCH SYSTEMS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FACTSET-RESEARCH-SYSTEMS--12584/"
+    },
+    {
+        "company_name": "QUALTRICS INTERNATIONAL INC.",
+        "matched_to": "QUALTRICS INTERNATIONAL INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/QUALTRICS-INTERNATIONAL-I-118328535/"
+    },
+    {
+        "company_name": "BURLINGTON STORES",
+        "matched_to": "BURLINGTON STORES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BURLINGTON-STORES-INC-14439064/"
+    },
+    {
+        "company_name": "LKQ CORPORATION",
+        "matched_to": "LKQ CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/LKQ-CORPORATION-40328841/"
+    },
+    {
+        "company_name": "DYNATRACE",
+        "matched_to": "DYNATRACE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DYNATRACE-INC-63216144/"
+    },
+    {
+        "company_name": "CAMDEN PROPERTY TRUST",
+        "matched_to": "CAMDEN PROPERTY TRUST USD",
+        "url": "https://www.marketscreener.com/quote/stock/CAMDEN-PROPERTY-TRUST-12164/"
+    },
+    {
+        "company_name": "QORVO",
+        "matched_to": "QORVO, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/QORVO-INC-19476284/"
+    },
+    {
+        "company_name": "MARKEL CORPORATION",
+        "matched_to": "MARKEL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MARKEL-CORPORATION-13560/"
+    },
+    {
+        "company_name": "TEXTRON",
+        "matched_to": "TEXTRON INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TEXTRON-INC-14698/"
+    },
+    {
+        "company_name": "EASTMAN CHEMICAL COMPANY",
+        "matched_to": "EASTMAN CHEMICAL COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/EASTMAN-CHEMICAL-COMPANY-12448/"
+    },
+    {
+        "company_name": "MASCO CORPORATION",
+        "matched_to": "MASCO CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MASCO-CORPORATION-13461/"
+    },
+    {
+        "company_name": "INSULET CORPORATION",
+        "matched_to": "INSULET CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/INSULET-CORPORATION-50468/"
+    },
+    {
+        "company_name": "ROYALTY PHARMA PLC",
+        "matched_to": "ROYALTY PHARMA PLC USD",
+        "url": "https://www.marketscreener.com/quote/stock/ROYALTY-PHARMA-PLC-108435084/"
+    },
+    {
+        "company_name": "ALLY FINANCIAL",
+        "matched_to": "ALLY FINANCIAL INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ALLY-FINANCIAL-INC-16252989/"
+    },
+    {
+        "company_name": "CENTERPOINT ENERGY",
+        "matched_to": "CENTERPOINT ENERGY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CENTERPOINT-ENERGY-INC-12964/"
+    },
+    {
+        "company_name": "IDEX CORPORATION",
+        "matched_to": "IDEX CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/IDEX-CORPORATION-13044/"
+    },
+    {
+        "company_name": "CONTURA ENERGY",
+        "matched_to": "NEXTERA ENERGY USD",
+        "url": "https://www.marketscreener.com/quote/stock/NEXTERA-ENERGY-6337180/"
+    },
+    {
+        "company_name": "NUANCE COMMUNICATIONS",
+        "matched_to": "VERIZON COMMUNICATIONS USD",
+        "url": "https://www.marketscreener.com/quote/stock/VERIZON-COMMUNICATIONS-4830/"
+    },
+    {
+        "company_name": "AVERY DENNISON CORPORATION",
+        "matched_to": "AVERY DENNISON CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/AVERY-DENNISON-CORPORATIO-11727/"
+    },
+    {
+        "company_name": "ALNYLAM PHARMACEUTICALS",
+        "matched_to": "ALNYLAM PHARMACEUTICALS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ALNYLAM-PHARMACEUTICALS-I-8322/"
+    },
+    {
+        "company_name": "HOLOGIC",
+        "matched_to": "HOLOGIC, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HOLOGIC-INC-9566/"
+    },
+    {
+        "company_name": "MOLINA HEALTHCARE",
+        "matched_to": "MOLINA HEALTHCARE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MOLINA-HEALTHCARE-INC-13588/"
+    },
+    {
+        "company_name": "PPD, INC.",
+        "matched_to": "PPD, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PPD-INC-102685995/"
+    },
+    {
+        "company_name": "FRANKLIN RESOURCES",
+        "matched_to": "FRANKLIN RESOURCES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FRANKLIN-RESOURCES-INC-11807/"
+    },
+    {
+        "company_name": "PIMCO",
+        "matched_to": "PIMCO DYNAMIC INCOME FUND USD",
+        "url": "https://www.marketscreener.com/quote/stock/PIMCO-DYNAMIC-INCOME-FUND-10913083/"
+    },
+    {
+        "company_name": "MKS INSTRUMENTS",
+        "matched_to": "MKS INSTRUMENTS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MKS-INSTRUMENTS-INC-10037/"
+    },
+    {
+        "company_name": "CREDIT ACCEPTANCE CORPORATION",
+        "matched_to": "CREDIT ACCEPTANCE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CREDIT-ACCEPTANCE-CORPORA-16820/"
+    },
+    {
+        "company_name": "AUTOMATION ANYWHERE",
+        "matched_to": "ROCKWELL AUTOMATION, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ROCKWELL-AUTOMATION-INC-14277/"
+    },
+    {
+        "company_name": "FIRST SOLAR",
+        "matched_to": "FIRST SOLAR, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FIRST-SOLAR-INC-37008/"
+    },
+    {
+        "company_name": "LEVI STRAUSS & CO",
+        "matched_to": "LEVI STRAUSS & CO. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LEVI-STRAUSS-CO-56112430/"
+    },
+    {
+        "company_name": "SCOTTS MIRACLE-GRO COMPANY",
+        "matched_to": "THE SCOTTS MIRACLE-GRO COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-SCOTTS-MIRACLE-GRO-CO-40246792/"
+    },
+    {
+        "company_name": "GUIDEWIRE SOFTWARE",
+        "matched_to": "GUIDEWIRE SOFTWARE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GUIDEWIRE-SOFTWARE-INC-9828944/"
+    },
+    {
+        "company_name": "QUANTUMSCAPE",
+        "matched_to": "QUANTUMSCAPE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/QUANTUMSCAPE-CORPORATION-110986220/"
+    },
+    {
+        "company_name": "ADVANCED DRAINAGE SYSTEMS",
+        "matched_to": "ADVANCED DRAINAGE SYSTEMS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ADVANCED-DRAINAGE-SYSTEMS-16953832/"
+    },
+    {
+        "company_name": "MACY'S",
+        "matched_to": "MACY'S, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MACY-S-INC-12578/"
+    },
+    {
+        "company_name": "STIFEL FINANCIAL",
+        "matched_to": "STIFEL FINANCIAL CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/STIFEL-FINANCIAL-CORP-14353/"
+    },
+    {
+        "company_name": "CASEY'S GENERAL STORES",
+        "matched_to": "GENERAL ELECTRIC COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/GENERAL-ELECTRIC-COMPANY-4823/"
+    },
+    {
+        "company_name": "XPO LOGISTICS",
+        "matched_to": "XPO, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/XPO-INC-11890333/"
+    },
+    {
+        "company_name": "BRUNSWICK CORPORATION",
+        "matched_to": "BRUNSWICK CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/BRUNSWICK-CORPORATION-11779/"
+    },
+    {
+        "company_name": "FIRST FINANCIAL BANKSHARES",
+        "matched_to": "FIRST FINANCIAL BANKSHARES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FIRST-FINANCIAL-BANKSHARE-9294/"
+    },
+    {
+        "company_name": "AMERICAN CAMPUS COMMUNITIES",
+        "matched_to": "CAMPUS ACTIVEWEAR LIMITED INR",
+        "url": "https://www.marketscreener.com/quote/stock/CAMPUS-ACTIVEWEAR-LIMITED-137538024/"
+    },
+    {
+        "company_name": "NIELSEN HOLDINGS",
+        "matched_to": "STOLT-NIELSEN LIMITED NOK",
+        "url": "https://www.marketscreener.com/quote/stock/STOLT-NIELSEN-LIMITED-1413281/"
+    },
+    {
+        "company_name": "GLOBUS MEDICAL",
+        "matched_to": "GLOBUS MEDICAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GLOBUS-MEDICAL-INC-11196209/"
+    },
+    {
+        "company_name": "HUNTINGTON INGALLS INDUSTRIES",
+        "matched_to": "HUNTINGTON INGALLS INDUSTRIES, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/HUNTINGTON-INGALLS-INDUST-7642101/"
+    },
+    {
+        "company_name": "HOULIHAN LOKEY",
+        "matched_to": "HOULIHAN LOKEY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HOULIHAN-LOKEY-INC-23332226/"
+    },
+    {
+        "company_name": "SILICON LABORATORIES",
+        "matched_to": "SILICON LABORATORIES INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SILICON-LABORATORIES-INC-10847/"
+    },
+    {
+        "company_name": "HEALTHCARE TRUST OF AMERICA",
+        "matched_to": "BANK OF AMERICA CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/BANK-OF-AMERICA-CORPORATI-11751/"
+    },
+    {
+        "company_name": "ACUITY BRANDS",
+        "matched_to": "ACUITY BRANDS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ACUITY-BRANDS-INC-11742/"
+    },
+    {
+        "company_name": "NATERA",
+        "matched_to": "NATERA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NATERA-INC-22762534/"
+    },
+    {
+        "company_name": "OMNICELL",
+        "matched_to": "OMNICELL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/OMNICELL-INC-10331/"
+    },
+    {
+        "company_name": "DIGITALOCEAN HOLDINGS, INC.",
+        "matched_to": "DIGITALOCEAN HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DIGITALOCEAN-HOLDINGS-INC-120405757/"
+    },
+    {
+        "company_name": "NEUROCRINE BIOSCIENCES",
+        "matched_to": "NEUROCRINE BIOSCIENCES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NEUROCRINE-BIOSCIENCES-IN-10163/"
+    },
+    {
+        "company_name": "PERSHING SQUARE HOLDINGS",
+        "matched_to": "PERSHING SQUARE HOLDINGS, LTD. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PERSHING-SQUARE-HOLDINGS--18192001/"
+    },
+    {
+        "company_name": "ENVISTA HOLDINGS CORPORATION",
+        "matched_to": "ENVISTA HOLDINGS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ENVISTA-HOLDINGS-CORPORAT-65220716/"
+    },
+    {
+        "company_name": "PERFORMANCE FOOD GROUP COMPANY",
+        "matched_to": "PERFORMANCE FOOD GROUP COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/PERFORMANCE-FOOD-GROUP-CO-23894480/"
+    },
+    {
+        "company_name": "UNITY TECHNOLOGIES",
+        "matched_to": "UNITY SOFTWARE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNITY-SOFTWARE-INC-112492634/"
+    },
+    {
+        "company_name": "BOYD GAMING CORPORATION",
+        "matched_to": "BOYD GAMING CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/BOYD-GAMING-CORPORATION-11960/"
+    },
+    {
+        "company_name": "CHIME",
+        "matched_to": "CHIME BALL TECHNOLOGY CO.,LTD. TWD",
+        "url": "https://www.marketscreener.com/quote/stock/CHIME-BALL-TECHNOLOGY-CO--10372762/"
+    },
+    {
+        "company_name": "ALTICE USA",
+        "matched_to": "ALTICE USA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ALTICE-USA-INC-35868272/"
+    },
+    {
+        "company_name": "POPULAR",
+        "matched_to": "BANCO POPULAR S.A. COP",
+        "url": "https://www.marketscreener.com/quote/stock/BANCO-POPULAR-S-A-20700124/"
+    },
+    {
+        "company_name": "MARRIOTT VACATIONS WORLDWIDE CORPORATION",
+        "matched_to": "MARRIOTT VACATIONS WORLDWIDE CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/MARRIOTT-VACATIONS-WORLDW-9394828/"
+    },
+    {
+        "company_name": "FRONTIER COMMUNICATIONS PARENT, INC.",
+        "matched_to": "FRONTIER COMMUNICATIONS PARENT, INC.",
+        "url": "https://www.marketscreener.com/quote/stock/FRONTIER-COMMUNICATIONS-P-122323793/"
+    },
+    {
+        "company_name": "NEW YORK TIMES COMPANY",
+        "matched_to": "THE NEW YORK TIMES COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-NEW-YORK-TIMES-COMPAN-13865/"
+    },
+    {
+        "company_name": "STARWOOD PROPERTY TRUST",
+        "matched_to": "STARWOOD PROPERTY TRUST, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/STARWOOD-PROPERTY-TRUST-I-5513252/"
+    },
+    {
+        "company_name": "SKECHERS",
+        "matched_to": "SKECHERS U.S.A., INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SKECHERS-U-S-A-INC-14408/"
+    },
+    {
+        "company_name": "PLAINS ALL AMERICAN PIPELINE",
+        "matched_to": "PLAINS ALL AMERICAN PIPELINE, L.P. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PLAINS-ALL-AMERICAN-PIPEL-13931/"
+    },
+    {
+        "company_name": "CROCS",
+        "matched_to": "CROCS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CROCS-INC-8905/"
+    },
+    {
+        "company_name": "SAREPTA THERAPEUTICS",
+        "matched_to": "SAREPTA THERAPEUTICS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SAREPTA-THERAPEUTICS-INC-11204214/"
+    },
+    {
+        "company_name": "SAIA",
+        "matched_to": "SAIA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SAIA-INC-10782/"
+    },
+    {
+        "company_name": "PVH",
+        "matched_to": "PVH CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PVH-CORP-11900102/"
+    },
+    {
+        "company_name": "UNIVERSAL DISPLAY CORPORATION",
+        "matched_to": "UNIVERSAL DISPLAY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNIVERSAL-DISPLAY-CORPORA-10394/"
+    },
+    {
+        "company_name": "POST HOLDINGS",
+        "matched_to": "POST HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/POST-HOLDINGS-INC-9971428/"
+    },
+    {
+        "company_name": "OGE ENERGY",
+        "matched_to": "OGE ENERGY CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/OGE-ENERGY-CORP-13889/"
+    },
+    {
+        "company_name": "LITTELFUSE",
+        "matched_to": "LITTELFUSE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LITTELFUSE-INC-9871/"
+    },
+    {
+        "company_name": "AXALTA COATING SYSTEMS",
+        "matched_to": "AXALTA COATING SYSTEMS LTD. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AXALTA-COATING-SYSTEMS-LT-18470253/"
+    },
+    {
+        "company_name": "LUMENTUM HOLDINGS",
+        "matched_to": "LUMENTUM HOLDINGS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LUMENTUM-HOLDINGS-INC-23132759/"
+    },
+    {
+        "company_name": "MIRATI THERAPEUTICS",
+        "matched_to": "MIRATI THERAPEUTICS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MIRATI-THERAPEUTICS-INC-13643861/"
+    },
+    {
+        "company_name": "THOUGHTWORKS HOLDING, INC.",
+        "matched_to": "THOUGHTWORKS HOLDING, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/THOUGHTWORKS-HOLDING-INC-126986329/"
+    },
+    {
+        "company_name": "II-VI",
+        "matched_to": "CHURCHILL CAPITAL CORP VI USD",
+        "url": "https://www.marketscreener.com/quote/stock/CHURCHILL-CAPITAL-CORP-VI-120993576/"
+    },
+    {
+        "company_name": "BRIXMOR PROPERTY GROUP",
+        "matched_to": "BRIXMOR PROPERTY GROUP INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BRIXMOR-PROPERTY-GROUP-IN-14742738/"
+    },
+    {
+        "company_name": "DONALDSON COMPANY",
+        "matched_to": "DONALDSON COMPANY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DONALDSON-COMPANY-INC-12262/"
+    },
+    {
+        "company_name": "BOK FINANCIAL CORPORATION",
+        "matched_to": "BOK FINANCIAL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/BOK-FINANCIAL-CORPORATION-8599/"
+    },
+    {
+        "company_name": "AUTONATION",
+        "matched_to": "AUTONATION, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AUTONATION-INC-14247/"
+    },
+    {
+        "company_name": "BROOKFIELD OFFICE PROPERTIES",
+        "matched_to": "BROOKFIELD RENEWABLE PARTNERS L.P.",
+        "url": "https://www.marketscreener.com/quote/stock/BROOKFIELD-RENEWABLE-PART-1410171/"
+    },
+    {
+        "company_name": "MATTEL",
+        "matched_to": "MATTEL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MATTEL-INC-13462/"
+    },
+    {
+        "company_name": "PLANET FITNESS",
+        "matched_to": "PLANET FITNESS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PLANET-FITNESS-INC-23264734/"
+    },
+    {
+        "company_name": "STAG INDUSTRIAL",
+        "matched_to": "STAG INDUSTRIAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/STAG-INDUSTRIAL-INC-7785320/"
+    },
+    {
+        "company_name": "OMEGA HEALTHCARE INVESTORS",
+        "matched_to": "OMEGA HEALTHCARE INVESTORS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/OMEGA-HEALTHCARE-INVESTOR-13890/"
+    },
+    {
+        "company_name": "REINSURANCE GROUP OF AMERICA",
+        "matched_to": "REINSURANCE GROUP OF AMERICA, INCORPORATED",
+        "url": "https://www.marketscreener.com/quote/stock/REINSURANCE-GROUP-OF-AMER-14232/"
+    },
+    {
+        "company_name": "HUNTSMAN CORPORATION",
+        "matched_to": "HUNTSMAN CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/HUNTSMAN-CORPORATION-13001/"
+    },
+    {
+        "company_name": "BRIGHT HORIZONS FAMILY SOLUTIONS",
+        "matched_to": "BRIGHT HORIZONS FAMILY SOLUTIONS INC.",
+        "url": "https://www.marketscreener.com/quote/stock/BRIGHT-HORIZONS-FAMILY-SO-12417070/"
+    },
+    {
+        "company_name": "COTY",
+        "matched_to": "COTY INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/COTY-INC-13396702/"
+    },
+    {
+        "company_name": "TETRA TECH",
+        "matched_to": "TETRA TECH, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TETRA-TECH-INC-11172/"
+    },
+    {
+        "company_name": "CHEMED CORPORATION",
+        "matched_to": "CHEMED CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CHEMED-CORPORATION-14291/"
+    },
+    {
+        "company_name": "WESTERN UNION COMPANY",
+        "matched_to": "THE WESTERN UNION COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-WESTERN-UNION-COMPANY-33821/"
+    },
+    {
+        "company_name": "SYNOVUS FINANCIAL",
+        "matched_to": "SYNOVUS FINANCIAL CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SYNOVUS-FINANCIAL-CORP-16537950/"
+    },
+    {
+        "company_name": "LINCOLN ELECTRIC HOLDINGS",
+        "matched_to": "LINCOLN ELECTRIC HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LINCOLN-ELECTRIC-HOLDINGS-9863/"
+    },
+    {
+        "company_name": "TOLL BROTHERS",
+        "matched_to": "TOLL BROTHERS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TOLL-BROTHERS-INC-14640/"
+    },
+    {
+        "company_name": "OLD REPUBLIC INTERNATIONAL CORPORATION",
+        "matched_to": "OLD REPUBLIC INTERNATIONAL CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/OLD-REPUBLIC-INTERNATIONA-13918/"
+    },
+    {
+        "company_name": "AMERICOLD REALTY TRUST",
+        "matched_to": "AMERICOLD REALTY TRUST, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMERICOLD-REALTY-TRUST-IN-6174457/"
+    },
+    {
+        "company_name": "ORGANON & CO.",
+        "matched_to": "ORGANON & CO. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ORGANON-CO-122796891/"
+    },
+    {
+        "company_name": "INTELLIA THERAPEUTICS",
+        "matched_to": "INTELLIA THERAPEUTICS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/INTELLIA-THERAPEUTICS-INC-27506682/"
+    },
+    {
+        "company_name": "TALLGRASS ENERGY LP",
+        "matched_to": "NEXTERA ENERGY USD",
+        "url": "https://www.marketscreener.com/quote/stock/NEXTERA-ENERGY-6337180/"
+    },
+    {
+        "company_name": "PENSKE AUTOMOTIVE GROUP",
+        "matched_to": "PENSKE AUTOMOTIVE GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PENSKE-AUTOMOTIVE-GROUP-I-14716/"
+    },
+    {
+        "company_name": "CHESAPEAKE ENERGY CORPORATION",
+        "matched_to": "CHESAPEAKE ENERGY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CHESAPEAKE-ENERGY-CORPORA-118794471/"
+    },
+    {
+        "company_name": "WYNDHAM HOTELS & RESORTS",
+        "matched_to": "WYNDHAM HOTELS & RESORTS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WYNDHAM-HOTELS-RESORTS-IN-43412807/"
+    },
+    {
+        "company_name": "SMARTSHEET",
+        "matched_to": "SMARTSHEET INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SMARTSHEET-INC-43180305/"
+    },
+    {
+        "company_name": "KILROY REALTY CORPORATION",
+        "matched_to": "KILROY REALTY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/KILROY-REALTY-CORPORATION-13297/"
+    },
+    {
+        "company_name": "PENN ENTERTAINMENT INC",
+        "matched_to": "PENN ENTERTAINMENT, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PENN-ENTERTAINMENT-INC-10436/"
+    },
+    {
+        "company_name": "AGNC INVESTMENT",
+        "matched_to": "AGNC INVESTMENT CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AGNC-INVESTMENT-CORP-31513839/"
+    },
+    {
+        "company_name": "TOPBUILD",
+        "matched_to": "TOPBUILD CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TOPBUILD-CORP-22762520/"
+    },
+    {
+        "company_name": "PINNACLE WEST CAPITAL CORPORATION",
+        "matched_to": "PINNACLE WEST CAPITAL CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/PINNACLE-WEST-CAPITAL-COR-14077/"
+    },
+    {
+        "company_name": "MP MATERIALS CORP.",
+        "matched_to": "MP MATERIALS CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MP-MATERIALS-CORP-108730348/"
+    },
+    {
+        "company_name": "OSHKOSH CORPORATION",
+        "matched_to": "OSHKOSH CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/OSHKOSH-CORPORATION-13922/"
+    },
+    {
+        "company_name": "US FOODS HOLDING",
+        "matched_to": "US FOODS HOLDING CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/US-FOODS-HOLDING-CORP-28377221/"
+    },
+    {
+        "company_name": "FIRST INDUSTRIAL REALTY TRUST",
+        "matched_to": "FIRST INDUSTRIAL REALTY TRUST, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FIRST-INDUSTRIAL-REALTY-T-12677/"
+    },
+    {
+        "company_name": "TENET HEALTHCARE CORPORATION",
+        "matched_to": "TENET HEALTHCARE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/TENET-HEALTHCARE-CORPORAT-11877509/"
+    },
+    {
+        "company_name": "PINNACLE FINANCIAL PARTNERS",
+        "matched_to": "PINNACLE FINANCIAL PARTNERS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PINNACLE-FINANCIAL-PARTNE-10507/"
+    },
+    {
+        "company_name": "APTARGROUP",
+        "matched_to": "APTARGROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/APTARGROUP-INC-11708/"
+    },
+    {
+        "company_name": "DROPBOX",
+        "matched_to": "DROPBOX, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DROPBOX-INC-45013534/"
+    },
+    {
+        "company_name": "VOYA FINANCIAL",
+        "matched_to": "VOYA FINANCIAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/VOYA-FINANCIAL-INC-16229357/"
+    },
+    {
+        "company_name": "AGCO CORPORATION",
+        "matched_to": "AGCO CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/AGCO-CORPORATION-11558/"
+    },
+    {
+        "company_name": "FIVE9",
+        "matched_to": "FIVE9, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FIVE9-INC-16253042/"
+    },
+    {
+        "company_name": "LITHIA MOTORS",
+        "matched_to": "GENERAL MOTORS COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/GENERAL-MOTORS-COMPANY-6873535/"
+    },
+    {
+        "company_name": "PEGASYSTEMS",
+        "matched_to": "PEGASYSTEMS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PEGASYSTEMS-INC-10434/"
+    },
+    {
+        "company_name": "OWENS CORNING",
+        "matched_to": "OWENS CORNING USD",
+        "url": "https://www.marketscreener.com/quote/stock/OWENS-CORNING-35353/"
+    },
+    {
+        "company_name": "EASTGROUP PROPERTIES",
+        "matched_to": "EASTGROUP PROPERTIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EASTGROUP-PROPERTIES-INC-12428/"
+    },
+    {
+        "company_name": "ASSURANT",
+        "matched_to": "ASSURANT, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ASSURANT-INC-11600/"
+    },
+    {
+        "company_name": "CONCENTRIX CORPORATION",
+        "matched_to": "CONCENTRIX CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CONCENTRIX-CORPORATION-115248422/"
+    },
+    {
+        "company_name": "EQT CORPORATION",
+        "matched_to": "EQT CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/EQT-CORPORATION-12492/"
+    },
+    {
+        "company_name": "TEMPUR SEALY INTERNATIONAL",
+        "matched_to": "TEMPUR SEALY INTERNATIONAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TEMPUR-SEALY-INTERNATIONA-14649/"
+    },
+    {
+        "company_name": "CULLEN/FROST BANKERS",
+        "matched_to": "CULLEN/FROST BANKERS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CULLEN-FROST-BANKERS-INC-12035/"
+    },
+    {
+        "company_name": "PURE STORAGE",
+        "matched_to": "PURE STORAGE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PURE-STORAGE-INC-24203395/"
+    },
+    {
+        "company_name": "ELDORADO RESORTS",
+        "matched_to": "ELDORADO GOLD CORPORATION CAD",
+        "url": "https://www.marketscreener.com/quote/stock/ELDORADO-GOLD-CORPORATION-50060889/"
+    },
+    {
+        "company_name": "GENTEX CORPORATION",
+        "matched_to": "GENTEX CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/GENTEX-CORPORATION-9464/"
+    },
+    {
+        "company_name": "AGILON HEALTH, INC.",
+        "matched_to": "AGILON HEALTH, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AGILON-HEALTH-INC-121503933/"
+    },
+    {
+        "company_name": "CONSUMERS ENERGY COMPANY",
+        "matched_to": "CONSUMERS ENERGY COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/CONSUMERS-ENERGY-COMPANY-12119/"
+    },
+    {
+        "company_name": "CHOICE HOTELS INTERNATIONAL",
+        "matched_to": "CHOICE HOTELS INTERNATIONAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CHOICE-HOTELS-INTERNATION-12053/"
+    },
+    {
+        "company_name": "DXC TECHNOLOGY COMPANY",
+        "matched_to": "DXC TECHNOLOGY COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/DXC-TECHNOLOGY-COMPANY-34481067/"
+    },
+    {
+        "company_name": "MARQETA, INC.",
+        "matched_to": "MARQETA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MARQETA-INC-123528971/"
+    },
+    {
+        "company_name": "OLIN CORPORATION",
+        "matched_to": "OLIN CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/OLIN-CORPORATION-13902/"
+    },
+    {
+        "company_name": "ITT",
+        "matched_to": "ITT INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ITT-INC-27723998/"
+    },
+    {
+        "company_name": "INFORMATICA INC.",
+        "matched_to": "INFORMATICA INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/INFORMATICA-INC-128691278/"
+    },
+    {
+        "company_name": "IPG PHOTONICS CORPORATION",
+        "matched_to": "IPG PHOTONICS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/IPG-PHOTONICS-CORPORATION-40311217/"
+    },
+    {
+        "company_name": "RALPH LAUREN CORPORATION",
+        "matched_to": "RALPH LAUREN CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/RALPH-LAUREN-CORPORATION-14256/"
+    },
+    {
+        "company_name": "PEOPLE'S UNITED FINANCIAL",
+        "matched_to": "THE PEOPLE'S INSURANCE COMPANY (GROUP) OF CHINA LIMITED ",
+        "url": "https://www.marketscreener.com/quote/stock/THE-PEOPLE-S-INSURANCE-CO-12068755/"
+    },
+    {
+        "company_name": "APARTMENT INCOME REIT CORP.",
+        "matched_to": "APARTMENT INCOME REIT CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/APARTMENT-INCOME-REIT-COR-116111600/"
+    },
+    {
+        "company_name": "TANDEM DIABETES CARE",
+        "matched_to": "TANDEM DIABETES CARE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TANDEM-DIABETES-CARE-INC-38066231/"
+    },
+    {
+        "company_name": "VORNADO REALTY TRUST",
+        "matched_to": "VORNADO REALTY TRUST USD",
+        "url": "https://www.marketscreener.com/quote/stock/VORNADO-REALTY-TRUST-14818/"
+    },
+    {
+        "company_name": "NATIONAL RETAIL PROPERTIES",
+        "matched_to": "NATIONAL RETAIL PROPERTIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NATIONAL-RETAIL-PROPERTIE-13759/"
+    },
+    {
+        "company_name": "WILLSCOT CORPORATION",
+        "matched_to": "WILLSCOT MOBILE MINI HOLDINGS CORP.",
+        "url": "https://www.marketscreener.com/quote/stock/WILLSCOT-MOBILE-MINI-HOLD-42413884/"
+    },
+    {
+        "company_name": "DUN & BRADSTREET HOLDINGS, INC.",
+        "matched_to": "DUN & BRADSTREET HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DUN-BRADSTREET-HOLDINGS-I-109098508/"
+    },
+    {
+        "company_name": "BIOHAVEN PHARMACEUTICAL HOLDING COMPANY",
+        "matched_to": "BIOHAVEN PHARMACEUTICAL HOLDING COMPANY LTD.",
+        "url": "https://www.marketscreener.com/quote/stock/BIOHAVEN-PHARMACEUTICAL-H-34757109/"
+    },
+    {
+        "company_name": "VERTIV HOLDINGS CO",
+        "matched_to": "VERTIV HOLDINGS CO USD",
+        "url": "https://www.marketscreener.com/quote/stock/VERTIV-HOLDINGS-CO-45109447/"
+    },
+    {
+        "company_name": "MANHATTAN ASSOCIATES",
+        "matched_to": "MANHATTAN ASSOCIATES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MANHATTAN-ASSOCIATES-INC-9939/"
+    },
+    {
+        "company_name": "CHURCHILL DOWNS",
+        "matched_to": "CHURCHILL DOWNS INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/CHURCHILL-DOWNS-INCORPORA-8765/"
+    },
+    {
+        "company_name": "SEI INVESTMENTS COMPANY",
+        "matched_to": "SEI INVESTMENTS COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/SEI-INVESTMENTS-COMPANY-46321413/"
+    },
+    {
+        "company_name": "DOXIMITY, INC.",
+        "matched_to": "DOXIMITY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DOXIMITY-INC-124007887/"
+    },
+    {
+        "company_name": "FIRST AMERICAN FINANCIAL CORPORATION",
+        "matched_to": "FIRST AMERICAN FINANCIAL CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/FIRST-AMERICAN-FINANCIAL--12546/"
+    },
+    {
+        "company_name": "UNITED THERAPEUTICS CORPORATION",
+        "matched_to": "UNITED THERAPEUTICS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNITED-THERAPEUTICS-CORPO-11262/"
+    },
+    {
+        "company_name": "UNDER ARMOUR",
+        "matched_to": "UNDER ARMOUR, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNDER-ARMOUR-INC-39444/"
+    },
+    {
+        "company_name": "COMMERCE BANCSHARES",
+        "matched_to": "COMMERCE BANCSHARES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/COMMERCE-BANCSHARES-INC-8698/"
+    },
+    {
+        "company_name": "GUARDANT HEALTH",
+        "matched_to": "GUARDANT HEALTH, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GUARDANT-HEALTH-INC-46434671/"
+    },
+    {
+        "company_name": "DECKERS OUTDOOR CORPORATION",
+        "matched_to": "DECKERS OUTDOOR CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/DECKERS-OUTDOOR-CORPORATI-16402770/"
+    },
+    {
+        "company_name": "BJ'S WHOLESALE CLUB HOLDINGS",
+        "matched_to": "BJ'S WHOLESALE CLUB HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BJ-S-WHOLESALE-CLUB-HOLDI-44388554/"
+    },
+    {
+        "company_name": "ENDEAVOR GROUP HOLDINGS, INC.",
+        "matched_to": "ENDEAVOR GROUP HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ENDEAVOR-GROUP-HOLDINGS-I-66480633/"
+    },
+    {
+        "company_name": "ALLEGHANY CORPORATION",
+        "matched_to": "MICROSOFT CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/MICROSOFT-CORPORATION-4835/"
+    },
+    {
+        "company_name": "ARROW ELECTRONICS",
+        "matched_to": "ARROW ELECTRONICS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ARROW-ELECTRONICS-INC-11687/"
+    },
+    {
+        "company_name": "NORWEGIAN CRUISE LINE HOLDINGS",
+        "matched_to": "NORWEGIAN CRUISE LINE HOLDINGS LTD.",
+        "url": "https://www.marketscreener.com/quote/stock/NORWEGIAN-CRUISE-LINE-HOL-39066564/"
+    },
+    {
+        "company_name": "CAPRI HOLDINGS",
+        "matched_to": "CAPRI HOLDINGS LIMITED USD",
+        "url": "https://www.marketscreener.com/quote/stock/CAPRI-HOLDINGS-LIMITED-50061065/"
+    },
+    {
+        "company_name": "AMDOCS",
+        "matched_to": "AMDOCS LIMITED USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMDOCS-LIMITED-15295069/"
+    },
+    {
+        "company_name": "LATTICE SEMICONDUCTOR CORPORATION",
+        "matched_to": "LATTICE SEMICONDUCTOR CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/LATTICE-SEMICONDUCTOR-COR-9914/"
+    },
+    {
+        "company_name": "DOLBY LABORATORIES",
+        "matched_to": "DOLBY LABORATORIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DOLBY-LABORATORIES-INC-12317/"
+    },
+    {
+        "company_name": "ARAMARK",
+        "matched_to": "ARAMARK USD",
+        "url": "https://www.marketscreener.com/quote/stock/ARAMARK-15183522/"
+    },
+    {
+        "company_name": "STORE CAPITAL CORPORATION",
+        "matched_to": "CAPITAL ONE FINANCIAL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/CAPITAL-ONE-FINANCIAL-COR-12144/"
+    },
+    {
+        "company_name": "SITEONE LANDSCAPE SUPPLY",
+        "matched_to": "SITEONE LANDSCAPE SUPPLY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SITEONE-LANDSCAPE-SUPPLY--27547962/"
+    },
+    {
+        "company_name": "PENUMBRA",
+        "matched_to": "PENUMBRA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PENUMBRA-INC-23733715/"
+    },
+    {
+        "company_name": "UGI CORPORATION",
+        "matched_to": "UGI CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/UGI-CORPORATION-14738/"
+    },
+    {
+        "company_name": "PHILLIPS 66 PARTNERS LP",
+        "matched_to": "PHILLIPS 66 PARTNERS LP USD",
+        "url": "https://www.marketscreener.com/quote/stock/PHILLIPS-66-PARTNERS-LP-13709360/"
+    },
+    {
+        "company_name": "PROCORE TECHNOLOGIES, INC.",
+        "matched_to": "PROCORE TECHNOLOGIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PROCORE-TECHNOLOGIES-INC-122799536/"
+    },
+    {
+        "company_name": "DICK'S SPORTING GOODS",
+        "matched_to": "DICK'S SPORTING GOODS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DICK-S-SPORTING-GOODS-INC-12310/"
+    },
+    {
+        "company_name": "YAHOO",
+        "matched_to": "ALTABA USD",
+        "url": "https://www.marketscreener.com/quote/stock/ALTABA-35880577/"
+    },
+    {
+        "company_name": "UPSTART HOLDINGS, INC.",
+        "matched_to": "UPSTART HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/UPSTART-HOLDINGS-INC-116603056/"
+    },
+    {
+        "company_name": "KNIGHT-SWIFT TRANSPORTATION HOLDINGS",
+        "matched_to": "KNIGHT-SWIFT TRANSPORTATION HOLDINGS INC.",
+        "url": "https://www.marketscreener.com/quote/stock/KNIGHT-SWIFT-TRANSPORTATI-37730767/"
+    },
+    {
+        "company_name": "SEALED AIR CORPORATION",
+        "matched_to": "SEALED AIR CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/SEALED-AIR-CORPORATION-14348/"
+    },
+    {
+        "company_name": "TEXAS PACIFIC LAND TRUST",
+        "matched_to": "TEXAS PACIFIC LAND CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/TEXAS-PACIFIC-LAND-CORPOR-14647/"
+    },
+    {
+        "company_name": "WESTERN MIDSTREAM PARTNERS LP",
+        "matched_to": "WESTERN MIDSTREAM PARTNERS, LP USD",
+        "url": "https://www.marketscreener.com/quote/stock/WESTERN-MIDSTREAM-PARTNER-55345402/"
+    },
+    {
+        "company_name": "SYNEOS HEALTH",
+        "matched_to": "SYNEOS HEALTH, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SYNEOS-HEALTH-INC-40082421/"
+    },
+    {
+        "company_name": "GXO LOGISTICS, INC.",
+        "matched_to": "GXO LOGISTICS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GXO-LOGISTICS-INC-125090815/"
+    },
+    {
+        "company_name": "NOVAVAX",
+        "matched_to": "NOVAVAX, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NOVAVAX-INC-58256108/"
+    },
+    {
+        "company_name": "UWM HOLDINGS CORPORATION",
+        "matched_to": "UWM HOLDINGS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/UWM-HOLDINGS-CORPORATION-118077264/"
+    },
+    {
+        "company_name": "WEX Inc",
+        "matched_to": "WEX INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WEX-INC-11838671/"
+    },
+    {
+        "company_name": "WOODWARD",
+        "matched_to": "WOODWARD, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WOODWARD-INC-11381/"
+    },
+    {
+        "company_name": "GLACIER BANCORP",
+        "matched_to": "GLACIER BANCORP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/GLACIER-BANCORP-INC-9401/"
+    },
+    {
+        "company_name": "ROYAL GOLD",
+        "matched_to": "ROYAL GOLD, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ROYAL-GOLD-INC-10669/"
+    },
+    {
+        "company_name": "ALASKA AIR GROUP",
+        "matched_to": "AIR PRODUCTS & CHEMICALS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AIR-PRODUCTS-CHEMICALS-IN-11666/"
+    },
+    {
+        "company_name": "MASTEC",
+        "matched_to": "MASTEC, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MASTEC-INC-13638/"
+    },
+    {
+        "company_name": "ENCOMPASS HEALTH CORPORATION",
+        "matched_to": "ENCOMPASS HEALTH CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ENCOMPASS-HEALTH-CORPORAT-39742680/"
+    },
+    {
+        "company_name": "EXELIXIS",
+        "matched_to": "EXELIXIS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EXELIXIS-INC-9235/"
+    },
+    {
+        "company_name": "CURALEAF HOLDINGS",
+        "matched_to": "CURALEAF HOLDINGS, INC. CAD",
+        "url": "https://www.marketscreener.com/quote/stock/CURALEAF-HOLDINGS-INC-46901467/"
+    },
+    {
+        "company_name": "CHEMOURS COMPANY",
+        "matched_to": "THE CHEMOURS COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-CHEMOURS-COMPANY-22795876/"
+    },
+    {
+        "company_name": "OPENDOOR TECHNOLOGIES INC.",
+        "matched_to": "RAYTHEON TECHNOLOGIES CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/RAYTHEON-TECHNOLOGIES-COR-4840/"
+    },
+    {
+        "company_name": "SONOCO PRODUCTS COMPANY",
+        "matched_to": "SONOCO PRODUCTS COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/SONOCO-PRODUCTS-COMPANY-14443/"
+    },
+    {
+        "company_name": "MACHINE ZONE",
+        "matched_to": "LAKSHMI MACHINE WORKS LIMITED INR",
+        "url": "https://www.marketscreener.com/quote/stock/LAKSHMI-MACHINE-WORKS-LIM-6493189/"
+    },
+    {
+        "company_name": "RAPID7",
+        "matched_to": "RAPID7, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/RAPID7-INC-23055722/"
+    },
+    {
+        "company_name": "HASHICORP",
+        "matched_to": "HASHICORP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HASHICORP-INC-130340630/"
+    },
+    {
+        "company_name": "AMKOR TECHNOLOGY",
+        "matched_to": "AMKOR TECHNOLOGY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMKOR-TECHNOLOGY-INC-8349/"
+    },
+    {
+        "company_name": "AMBARELLA",
+        "matched_to": "AMBARELLA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AMBARELLA-INC-11695071/"
+    },
+    {
+        "company_name": "HARLEY-DAVIDSON",
+        "matched_to": "HARLEY-DAVIDSON, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HARLEY-DAVIDSON-INC-12894/"
+    },
+    {
+        "company_name": "CACI INTERNATIONAL",
+        "matched_to": "CACI INTERNATIONAL INC USD",
+        "url": "https://www.marketscreener.com/quote/stock/CACI-INTERNATIONAL-INC-5273082/"
+    },
+    {
+        "company_name": "WORKIVA",
+        "matched_to": "WORKIVA INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WORKIVA-INC-19157126/"
+    },
+    {
+        "company_name": "IDACORP",
+        "matched_to": "IDACORP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/IDACORP-INC-13036/"
+    },
+    {
+        "company_name": "HANESBRANDS",
+        "matched_to": "HANESBRANDS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HANESBRANDS-INC-31267/"
+    },
+    {
+        "company_name": "MSA SAFETY",
+        "matched_to": "MSA SAFETY INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/MSA-SAFETY-INCORPORATED-15972927/"
+    },
+    {
+        "company_name": "ASHLAND GLOBAL HOLDINGS",
+        "matched_to": "ASHLAND INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ASHLAND-INC-34973331/"
+    },
+    {
+        "company_name": "ELEMENT SOLUTIONS",
+        "matched_to": "ELEMENT SOLUTIONS INC USD",
+        "url": "https://www.marketscreener.com/quote/stock/ELEMENT-SOLUTIONS-INC-54321056/"
+    },
+    {
+        "company_name": "ANTERO RESOURCES CORPORATION",
+        "matched_to": "ANTERO RESOURCES CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/ANTERO-RESOURCES-CORPORAT-14491401/"
+    },
+    {
+        "company_name": "BUMBLE INC.",
+        "matched_to": "BUMBLE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BUMBLE-INC-118794453/"
+    },
+    {
+        "company_name": "THOR INDUSTRIES",
+        "matched_to": "THOR INDUSTRIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/THOR-INDUSTRIES-INC-14591/"
+    },
+    {
+        "company_name": "RBC BEARINGS",
+        "matched_to": "RBC BEARINGS INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/RBC-BEARINGS-INCORPORATED-10702/"
+    },
+    {
+        "company_name": "TRINET GROUP",
+        "matched_to": "TRINET GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TRINET-GROUP-INC-16113711/"
+    },
+    {
+        "company_name": "TERRENO REALTY CORPORATION",
+        "matched_to": "TERRENO REALTY CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/TERRENO-REALTY-CORPORATIO-5915827/"
+    },
+    {
+        "company_name": "NATIONAL OILWELL VARCO",
+        "matched_to": "NOV INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NOV-INC-13765/"
+    },
+    {
+        "company_name": "SLM CORPORATION",
+        "matched_to": "SLM CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/SLM-CORPORATION-9824767/"
+    },
+    {
+        "company_name": "BRAZE, INC.",
+        "matched_to": "BRAZE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/BRAZE-INC-129457816/"
+    },
+    {
+        "company_name": "NATIONAL FUEL GAS COMPANY",
+        "matched_to": "NATIONAL FUEL GAS COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/NATIONAL-FUEL-GAS-COMPANY-13716/"
+    },
+    {
+        "company_name": "PACWEST BANCORP",
+        "matched_to": "PACWEST BANCORP USD",
+        "url": "https://www.marketscreener.com/quote/stock/PACWEST-BANCORP-10391/"
+    },
+    {
+        "company_name": "VALLEY NATIONAL BANCORP",
+        "matched_to": "VALLEY NATIONAL BANCORP USD",
+        "url": "https://www.marketscreener.com/quote/stock/VALLEY-NATIONAL-BANCORP-46555706/"
+    },
+    {
+        "company_name": "SHOCKWAVE MEDICAL",
+        "matched_to": "SHOCKWAVE MEDICAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SHOCKWAVE-MEDICAL-INC-55399621/"
+    },
+    {
+        "company_name": "FRESHWORKS Inc",
+        "matched_to": "FRESHWORKS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FRESHWORKS-INC-127173267/"
+    },
+    {
+        "company_name": "TUSIMPLE HOLDINGS INC.",
+        "matched_to": "TUSIMPLE HOLDINGS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TUSIMPLE-HOLDINGS-INC-121407294/"
+    },
+    {
+        "company_name": "FLOWERS FOODS",
+        "matched_to": "FLOWERS FOODS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FLOWERS-FOODS-INC-12612/"
+    },
+    {
+        "company_name": "INTERNATIONAL GAME TECHNOLOGY",
+        "matched_to": "INTERNATIONAL GAME TECHNOLOGY PLC",
+        "url": "https://www.marketscreener.com/quote/stock/INTERNATIONAL-GAME-TECHNO-21479542/"
+    },
+    {
+        "company_name": "SPIRIT REALTY CAPITAL",
+        "matched_to": "SPIRIT REALTY CAPITAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SPIRIT-REALTY-CAPITAL-INC-49428550/"
+    },
+    {
+        "company_name": "ALLEGRO MICROSYSTEMS, INC.",
+        "matched_to": "ALLEGRO MICROSYSTEMS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ALLEGRO-MICROSYSTEMS-INC-114402825/"
+    },
+    {
+        "company_name": "BROOKFIELD RENEWABLE CORPORATION",
+        "matched_to": "BROOKFIELD RENEWABLE CORPORATION",
+        "url": "https://www.marketscreener.com/quote/stock/BROOKFIELD-RENEWABLE-CORP-110155151/"
+    },
+    {
+        "company_name": "SMITHFIELD FOODS",
+        "matched_to": "KRAFT HEINZ USD",
+        "url": "https://www.marketscreener.com/quote/stock/KRAFT-HEINZ-22816979/"
+    },
+    {
+        "company_name": "E. I. DU PONT DE NEMOURS AND COMPANY",
+        "matched_to": "DEERE & COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/DEERE-COMPANY-12279/"
+    },
+    {
+        "company_name": "MGM GROWTH PROPERTIES LLC",
+        "matched_to": "MGM RESORTS INTERNATIONAL USD",
+        "url": "https://www.marketscreener.com/quote/stock/MGM-RESORTS-INTERNATIONAL-13513/"
+    },
+    {
+        "company_name": "TEXAS ROADHOUSE",
+        "matched_to": "TEXAS ROADHOUSE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/TEXAS-ROADHOUSE-INC-11195/"
+    },
+    {
+        "company_name": "COUSINS PROPERTIES",
+        "matched_to": "COUSINS PROPERTIES INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/COUSINS-PROPERTIES-INCORP-65218310/"
+    },
+    {
+        "company_name": "SOUTH STATE CORPORATION",
+        "matched_to": "CHINA STATE CONSTRUCTION ENGINEERING CORPORATION LIMITED",
+        "url": "https://www.marketscreener.com/quote/stock/CHINA-STATE-CONSTRUCTION--6500392/"
+    },
+    {
+        "company_name": "CYBERARK SOFTWARE",
+        "matched_to": "CYBERARK SOFTWARE LTD. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CYBERARK-SOFTWARE-LTD-18052696/"
+    },
+    {
+        "company_name": "WATTS WATER TECHNOLOGIES",
+        "matched_to": "WATTS WATER TECHNOLOGIES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WATTS-WATER-TECHNOLOGIES--14922/"
+    },
+    {
+        "company_name": "NEXSTAR MEDIA GROUP",
+        "matched_to": "NEXSTAR MEDIA GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NEXSTAR-MEDIA-GROUP-INC-10298/"
+    },
+    {
+        "company_name": "DCP MIDSTREAM LP",
+        "matched_to": "DCP MIDSTREAM, LP USD",
+        "url": "https://www.marketscreener.com/quote/stock/DCP-MIDSTREAM-LP-12337/"
+    },
+    {
+        "company_name": "GRAPHIC PACKAGING HOLDING COMPANY",
+        "matched_to": "GRAPHIC PACKAGING HOLDING COMPANY",
+        "url": "https://www.marketscreener.com/quote/stock/GRAPHIC-PACKAGING-HOLDING-12812/"
+    },
+    {
+        "company_name": "TEMPUS",
+        "matched_to": "TEMPUS RESOURCES LIMITED AUD",
+        "url": "https://www.marketscreener.com/quote/stock/TEMPUS-RESOURCES-LIMITED-44486850/"
+    },
+    {
+        "company_name": "PRIMERICA",
+        "matched_to": "PRIMERICA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PRIMERICA-INC-6096652/"
+    },
+    {
+        "company_name": "SCIENTIFIC GAMES CORPORATION",
+        "matched_to": "THERMO FISHER SCIENTIFIC USD",
+        "url": "https://www.marketscreener.com/quote/stock/THERMO-FISHER-SCIENTIFIC-14623/"
+    },
+    {
+        "company_name": "COLUMBIA SPORTSWEAR COMPANY",
+        "matched_to": "COLUMBIA SPORTSWEAR COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/COLUMBIA-SPORTSWEAR-COMPA-8859/"
+    },
+    {
+        "company_name": "ARROWHEAD PHARMACEUTICALS",
+        "matched_to": "ARROWHEAD PHARMACEUTICALS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ARROWHEAD-PHARMACEUTICALS-26864651/"
+    },
+    {
+        "company_name": "NEW YORK COMMUNITY BANCORP",
+        "matched_to": "NEW YORK COMMUNITY BANCORP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NEW-YORK-COMMUNITY-BANCOR-13861/"
+    },
+    {
+        "company_name": "VALVOLINE",
+        "matched_to": "VALVOLINE INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/VALVOLINE-INC-31394892/"
+    },
+    {
+        "company_name": "INSPIRE MEDICAL SYSTEMS",
+        "matched_to": "INSPIRE MEDICAL SYSTEMS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/INSPIRE-MEDICAL-SYSTEMS-I-43214691/"
+    },
+    {
+        "company_name": "ASGN",
+        "matched_to": "ASGN INCORPORATED USD",
+        "url": "https://www.marketscreener.com/quote/stock/ASGN-INCORPORATED-42593425/"
+    },
+    {
+        "company_name": "SWITCH",
+        "matched_to": "TRANS SWITCH AFRICA HOLDINGS LTD USD",
+        "url": "https://www.marketscreener.com/quote/stock/TRANS-SWITCH-AFRICA-HOLDI-45428459/"
+    },
+    {
+        "company_name": "LANDSTAR SYSTEM",
+        "matched_to": "LANDSTAR SYSTEM, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/LANDSTAR-SYSTEM-INC-9917/"
+    },
+    {
+        "company_name": "BOSTON BEER COMPANY",
+        "matched_to": "THE BOSTON BEER COMPANY, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-BOSTON-BEER-COMPANY-I-14318/"
+    },
+    {
+        "company_name": "SOTERA HEALTH CO",
+        "matched_to": "SOTERA HEALTH COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/SOTERA-HEALTH-COMPANY-115501540/"
+    },
+    {
+        "company_name": "OAK STREET HEALTH, INC.",
+        "matched_to": "OAK STREET HEALTH, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/OAK-STREET-HEALTH-INC-110535838/"
+    },
+    {
+        "company_name": "MDU RESOURCES GROUP",
+        "matched_to": "MDU RESOURCES GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MDU-RESOURCES-GROUP-INC-13482/"
+    },
+    {
+        "company_name": "CRANE",
+        "matched_to": "CRANE COMPANY USD",
+        "url": "https://www.marketscreener.com/quote/stock/CRANE-COMPANY-152789235/"
+    },
+    {
+        "company_name": "TCF FINANCIAL CORPORATION",
+        "matched_to": "MIZUHO FINANCIAL GROUP, INC. JPY",
+        "url": "https://www.marketscreener.com/quote/stock/MIZUHO-FINANCIAL-GROUP-IN-6496086/"
+    },
+    {
+        "company_name": "LOUISIANA-PACIFIC CORPORATION",
+        "matched_to": "LOUISIANA-PACIFIC CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/LOUISIANA-PACIFIC-CORPORA-13418/"
+    },
+    {
+        "company_name": "FS KKR CAPITAL",
+        "matched_to": "FS KKR CAPITAL CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/FS-KKR-CAPITAL-CORP-16290128/"
+    },
+    {
+        "company_name": "CCC INTELLIGENT SOLUTIONS HOLDINGS INC.",
+        "matched_to": "CCC INTELLIGENT SOLUTIONS HOLDINGS INC.",
+        "url": "https://www.marketscreener.com/quote/stock/CCC-INTELLIGENT-SOLUTIONS-113278535/"
+    },
+    {
+        "company_name": "R1 RCM",
+        "matched_to": "R1 RCM INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/R1-RCM-INC-139917629/"
+    },
+    {
+        "company_name": "WESCO INTERNATIONAL",
+        "matched_to": "WESCO INTERNATIONAL, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/WESCO-INTERNATIONAL-INC-14849/"
+    },
+    {
+        "company_name": "HILTON GRAND VACATIONS",
+        "matched_to": "HILTON GRAND VACATIONS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/HILTON-GRAND-VACATIONS-IN-33339322/"
+    },
+    {
+        "company_name": "YETI HOLDINGS",
+        "matched_to": "YETI HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/YETI-HOLDINGS-INC-46749715/"
+    },
+    {
+        "company_name": "EURONET WORLDWIDE",
+        "matched_to": "EURONET WORLDWIDE, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EURONET-WORLDWIDE-INC-9143/"
+    },
+    {
+        "company_name": "TECH DATA CORPORATION",
+        "matched_to": "NTT DATA CORPORATION JPY",
+        "url": "https://www.marketscreener.com/quote/stock/NTT-DATA-CORPORATION-6491233/"
+    },
+    {
+        "company_name": "VALVE CORPORATION",
+        "matched_to": "NEWAY VALVE (SUZHOU) CO., LTD. CNY",
+        "url": "https://www.marketscreener.com/quote/stock/NEWAY-VALVE-SUZHOU-CO-LTD-16656329/"
+    },
+    {
+        "company_name": "BANK OZK",
+        "matched_to": "BANK OZK USD",
+        "url": "https://www.marketscreener.com/quote/stock/BANK-OZK-44965059/"
+    },
+    {
+        "company_name": "FLIR SYSTEMS",
+        "matched_to": "FAKTOR-ZERTIFIKAT - FLIR SYSTEMS EUR",
+        "url": "https://www.marketscreener.com/quote/certificate/FAKTOR-ZERTIFIKAT-FLIR-SY-66067718/"
+    },
+    {
+        "company_name": "EAGLE MATERIALS",
+        "matched_to": "EAGLE MATERIALS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EAGLE-MATERIALS-INC-12539/"
+    },
+    {
+        "company_name": "COHERENT",
+        "matched_to": "COHERENT CORP. USD",
+        "url": "https://www.marketscreener.com/quote/stock/COHERENT-CORP-9656/"
+    },
+    {
+        "company_name": "SUNRUN",
+        "matched_to": "SUNRUN INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SUNRUN-INC-23249842/"
+    },
+    {
+        "company_name": "EIDOS THERAPEUTICS",
+        "matched_to": "UNITED THERAPEUTICS CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNITED-THERAPEUTICS-CORPO-11262/"
+    },
+    {
+        "company_name": "MEDALLIA",
+        "matched_to": "MEDALLIA, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MEDALLIA-INC-62037862/"
+    },
+    {
+        "company_name": "DOUGLAS EMMETT",
+        "matched_to": "DOUGLAS EMMETT, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/DOUGLAS-EMMETT-INC-35352/"
+    },
+    {
+        "company_name": "NUTANIX",
+        "matched_to": "NUTANIX, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NUTANIX-INC-31497437/"
+    },
+    {
+        "company_name": "CADENCE BANCORPORATION",
+        "matched_to": "CADENCE DESIGN SYSTEMS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/CADENCE-DESIGN-SYSTEMS-IN-8724/"
+    },
+    {
+        "company_name": "KBR",
+        "matched_to": "KBR, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/KBR-INC-36548/"
+    },
+    {
+        "company_name": "CHANGE HEALTHCARE",
+        "matched_to": "CHANGE HOLDINGS,INC. JPY",
+        "url": "https://www.marketscreener.com/quote/stock/CHANGE-HOLDINGS-INC-31423398/"
+    },
+    {
+        "company_name": "ADT",
+        "matched_to": "ADT INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ADT-INC-40225152/"
+    },
+    {
+        "company_name": "REYNOLDS CONSUMER PRODUCTS INC.",
+        "matched_to": "REYNOLDS CONSUMER PRODUCTS INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/REYNOLDS-CONSUMER-PRODUCT-101779544/"
+    },
+    {
+        "company_name": "FOX FACTORY HOLDING",
+        "matched_to": "SHANXI XINGHUACUN FEN WINE FACTORY CO.,LTD.",
+        "url": "https://www.marketscreener.com/quote/stock/SHANXI-XINGHUACUN-FEN-WIN-6497557/"
+    },
+    {
+        "company_name": "MEDPACE HOLDINGS",
+        "matched_to": "MEDPACE HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/MEDPACE-HOLDINGS-INC-30506552/"
+    },
+    {
+        "company_name": "NEXTERA ENERGY PARTNERS LP",
+        "matched_to": "NEXTERA ENERGY PARTNERS, LP USD",
+        "url": "https://www.marketscreener.com/quote/stock/NEXTERA-ENERGY-PARTNERS-L-16772166/"
+    },
+    {
+        "company_name": "NEW RELIC",
+        "matched_to": "NEW RELIC, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/NEW-RELIC-INC-19157128/"
+    },
+    {
+        "company_name": "AFFILIATED MANAGERS GROUP",
+        "matched_to": "AFFILIATED MANAGERS GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/AFFILIATED-MANAGERS-GROUP-11637/"
+    },
+    {
+        "company_name": "IAA",
+        "matched_to": "ISHARES ASIA 50 ETF - AUD AUD",
+        "url": "https://www.marketscreener.com/quote/etf/ISHARES-ASIA-50-ETF-AUD-131167303/"
+    },
+    {
+        "company_name": "LEGEND BIOTECH CORP",
+        "matched_to": "LEGEND BIOTECH CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/LEGEND-BIOTECH-CORPORATIO-107863240/"
+    },
+    {
+        "company_name": "EMCOR GROUP",
+        "matched_to": "EMCOR GROUP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/EMCOR-GROUP-INC-12447/"
+    },
+    {
+        "company_name": "PILGRIM'S PRIDE CORPORATION",
+        "matched_to": "PILGRIM'S PRIDE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/PILGRIM-S-PRIDE-CORPORATI-12243603/"
+    },
+    {
+        "company_name": "GAP",
+        "matched_to": "THE GAP, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/THE-GAP-INC-12816/"
+    },
+    {
+        "company_name": "KOHL'S CORPORATION",
+        "matched_to": "KOHL'S CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/KOHL-S-CORPORATION-13316/"
+    },
+    {
+        "company_name": "SAMSARA NETWORKS",
+        "matched_to": "SAMSARA INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/SAMSARA-INC-130784042/"
+    },
+    {
+        "company_name": "COLFAX CORPORATION",
+        "matched_to": "COSTCO WHOLESALE CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/COSTCO-WHOLESALE-CORPORAT-4866/"
+    },
+    {
+        "company_name": "ONEMAIN HOLDINGS",
+        "matched_to": "ONEMAIN HOLDINGS, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/ONEMAIN-HOLDINGS-INC-25209977/"
+    },
+    {
+        "company_name": "UNITED STATES STEEL CORPORATION",
+        "matched_to": "UNITED STATES STEEL CORPORATION USD",
+        "url": "https://www.marketscreener.com/quote/stock/UNITED-STATES-STEEL-CORPO-14934/"
+    },
+    {
+        "company_name": "PROSPERITY BANCSHARES",
+        "matched_to": "PROSPERITY BANCSHARES, INC. USD",
+        "url": "https://www.marketscreener.com/quote/stock/PROSPERITY-BANCSHARES-INC-9691661/"
+    }
+]

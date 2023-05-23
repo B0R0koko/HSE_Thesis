@@ -18,7 +18,7 @@ class CompaniesSpider(scrapy.Spider):
 
     custom_settings = {"LOG_LEVEL": "INFO"}
 
-    country_link = LINK_CHINA
+    country_link = LINK_US
 
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
@@ -80,6 +80,11 @@ class CompaniesSpider(scrapy.Spider):
 
             data.update(side_data)
 
+        for div in dom.css("div.group-footer > div")[:2]:
+            name = div.css_first("div.field--label").text()
+            value = div.css_first("div.field--item").text()
+            data[name] = value
+
         mapping = {
             "company_name": "company_name",
             "World Rank (Jan-07-2022)": "world_rank_2022",
@@ -98,6 +103,8 @@ class CompaniesSpider(scrapy.Spider):
             "Rank in Country (Jan-2021)": "local_rank_2021",
             "Rank in Country (Jan-2020)": "local_rank_2020",
             "Number of Employees": "num_employees",
+            "Founded Year": "founded_year",
+            "IPO Year": "ipo_year",
         }
 
         for key, val in mapping.items():

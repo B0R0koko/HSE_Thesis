@@ -1,0 +1,14 @@
+{
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "cookie": "A1=d=AQABBObjlWMCELURSo76ZewBp_V0DINbhUEFEgABCAGNOmRiZOS2b2UB9qMAAAcI5uOVY4NbhUE&S=AQAAAhCn1sRdFt9rlJfAvARe0a4; A3=d=AQABBObjlWMCELURSo76ZewBp_V0DINbhUEFEgABCAGNOmRiZOS2b2UB9qMAAAcI5uOVY4NbhUE&S=AQAAAhCn1sRdFt9rlJfAvARe0a4; B=431argdhpbov6&b=3&s=m6; GUC=AQABCAFkOo1kYkIdhwSM; A1S=d=AQABBObjlWMCELURSo76ZewBp_V0DINbhUEFEgABCAGNOmRiZOS2b2UB9qMAAAcI5uOVY4NbhUE&S=AQAAAhCn1sRdFt9rlJfAvARe0a4&j=GDPR; cmp=t=1682767671&j=1&u=1---&v=79; EuConsent=CPmFzsAPmFzsAAOACBESDBCoAP_AAEfAACiQJMtd_H__bX9v-f7_6ft0eY1f9_rz7uQzDhfNk-4F3L_W_LwX_2E7NF36tq4KmR4ku1DBIUNtHMnUDUmxaokVrzHsak2cpTNKJ-BkkHMZe2dYGF5vm5tj-QKZ5v5_d3f52T_9_dv-39z33913v3d93-_12PjdU5_9H_v_fR_b8_Kf9_7-_4v8_9_rk2_e3_____9v__4JMgEmGrcQBdiWOBNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowABAAABAEhEAEgRYIAAARAIAAQAIBEIACBgEFABYGAQAAgGgYohQACBIAZEBEUpgQEQJBAS2VCCUF0hphAFWWAFAIjYKABEAAArAAEBYOAYIkBKxYIEmINogAGCFAKJUK1BJ6YAYaADAAEEpxEAGAAIJTioAMAAQSnA; PRF=t%3D000069.SZ%252B000155.SZ%252B600369.SS%252BEME%252B2333.HK%252BBIDU%252BBEKE%26newChartbetateaser%3D1",
+    "origin": "https://finance.yahoo.com",
+    "referer": "https://finance.yahoo.com/quote/000069.SZ?p=000069.SZ&.tsrc=fin-srch",
+    "sec-ch-ua": "\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+}

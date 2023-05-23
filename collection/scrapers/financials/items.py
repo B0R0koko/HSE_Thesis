@@ -5,7 +5,7 @@ from itemloaders.processors import MapCompose, TakeFirst
 from typing import *
 
 
-MAGNITUDE_MAP = {"Billion": 10**9, "Million": 10**6}
+MAGNITUDE_MAP = {"Billion": 1, "Million": 1000}
 CNY_DOLLAR = 0.14
 
 
@@ -13,6 +13,7 @@ def parse_eps(value: dict, year: str) -> Union[float, None]:
     income_statement = value["incomeStatement"]
     if income_statement["_meta"]["periodReport"] == "Success":
         years = income_statement["columnDefs"]
+        footer = income_statement["footer"]
         for row in income_statement["rows"]:
             if row["label"] == "Normalized EPS":
                 eps_data = dict(zip(years, row["datum"]))
@@ -34,14 +35,20 @@ def parse_cashflow(value: dict, year: str) -> Union[float, None]:
                 if year in cashflow_data:
                     cashflow_value = cashflow_data[year]
                     if cashflow_value:
-                        cashflow_value = (
+                        cashflow_value = round(
                             float(cashflow_data[year])
-                            * MAGNITUDE_MAP[footer["orderOfMagnitude"]]
+                            / MAGNITUDE_MAP[footer["orderOfMagnitude"]],
+                            5,
                         )
-                        if footer["currency"] == "CNY":
-                            cashflow_value *= CNY_DOLLAR
                     return cashflow_value
                 return None
+    return None
+
+
+def parse_currency(value: dict):
+    cashflow = value["cashFlow"]
+    if cashflow["_meta"]["periodReport"] == "Success":
+        return cashflow["footer"]["currency"]
     return None
 
 
@@ -82,5 +89,9 @@ class Financials(scrapy.Item):
     )
     cashflow_investing_2019 = scrapy.Field(
         input_processor=MapCompose(lambda x: parse_cashflow(x, "2019")),
+        output_processor=TakeFirst(),
+    )
+    currency = scrapy.Field(
+        input_processor=MapCompose(lambda x: parse_currency(x)),
         output_processor=TakeFirst(),
     )

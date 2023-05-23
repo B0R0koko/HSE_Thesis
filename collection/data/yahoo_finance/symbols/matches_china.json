@@ -1,0 +1,5002 @@
+[
+    {
+        "company_name": "WANTAI BIOLOGICAL PHARMACY",
+        "matched_to": "Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.",
+        "matched_symbol": "603392.SS"
+    },
+    {
+        "company_name": "ICBC",
+        "matched_to": "Industrial and Commercial Bank of China Limited",
+        "matched_symbol": "1398.HK"
+    },
+    {
+        "company_name": "CHINA CONSTRUCTION BANK CORPORATION",
+        "matched_to": "China Construction Bank Corporation",
+        "matched_symbol": "0939.HK"
+    },
+    {
+        "company_name": "AGRICULTURAL BANK OF CHINA",
+        "matched_to": "Agricultural Bank of China Limited",
+        "matched_symbol": "1288.HK"
+    },
+    {
+        "company_name": "ZHEJIANG JINGSHENG MECHANICAL & ELECTRICAL",
+        "matched_to": "Zhejiang Jingsheng Mechanical & Electrical Co., Ltd.",
+        "matched_symbol": "300316.SZ"
+    },
+    {
+        "company_name": "SHANDONG GOLD MINING",
+        "matched_to": "Shandong Gold Mining Co., Ltd.",
+        "matched_symbol": "1787.HK"
+    },
+    {
+        "company_name": "NINGBO DEYE TECHNOLOGY GROUP CO., LTD.",
+        "matched_to": "Ningbo Deye Technology Group Co., Ltd.",
+        "matched_symbol": "605117.SS"
+    },
+    {
+        "company_name": "SHANGHAI PUTAILAI NEW ENERGY TECHNOLOGY",
+        "matched_to": "Shanghai Putailai New Energy Technology Co.,Ltd.",
+        "matched_symbol": "603659.SS"
+    },
+    {
+        "company_name": "SDIC POWER HOLDINGS",
+        "matched_to": "SDIC Power Holdings Co., Ltd",
+        "matched_symbol": "600886.SS"
+    },
+    {
+        "company_name": "GSX TECHEDU",
+        "matched_to": null,
+        "matched_symbol": "US36257Y1091.SG"
+    },
+    {
+        "company_name": "GUOSEN SECURITIES",
+        "matched_to": "Guosen Securities Co., Ltd.",
+        "matched_symbol": "002736.SZ"
+    },
+    {
+        "company_name": "INNER MONGOLIA BAOTOU STEEL UNION CO., LTD.",
+        "matched_to": "Inner Mongolia Baotou Steel Union Co., Ltd.",
+        "matched_symbol": "600010.SS"
+    },
+    {
+        "company_name": "AVIC JONHON OPTRONIC TECHNOLOGY",
+        "matched_to": "AVIC Jonhon Optronic Technology Co.,Ltd.",
+        "matched_symbol": "002179.SZ"
+    },
+    {
+        "company_name": "CNPC CAPITAL COMPANY",
+        "matched_to": "CNPC Capital Company Limited",
+        "matched_symbol": "000617.SZ"
+    },
+    {
+        "company_name": "GUSHEN, INC.",
+        "matched_to": "Gushengtang Holdings Limited",
+        "matched_symbol": "2273.HK"
+    },
+    {
+        "company_name": "TBEA",
+        "matched_to": "TBEA Co., Ltd.",
+        "matched_symbol": "600089.SS"
+    },
+    {
+        "company_name": "BANK OF HANGZHOU",
+        "matched_to": "Bank of Hangzhou Co., Ltd.",
+        "matched_symbol": "600926.SS"
+    },
+    {
+        "company_name": "SICHUAN ROAD & BRIDGE",
+        "matched_to": "Sichuan Road & Bridge Co.,Ltd",
+        "matched_symbol": "600039.SS"
+    },
+    {
+        "company_name": "NINGBO ZHOUSHAN PORT COMPANY",
+        "matched_to": "Ningbo Zhoushan Port Company Limited",
+        "matched_symbol": "601018.SS"
+    },
+    {
+        "company_name": "SHANGHAI BAOSIGHT SOFTWARE",
+        "matched_to": "Shanghai Baosight Software Co.,Ltd.",
+        "matched_symbol": "600845.SS"
+    },
+    {
+        "company_name": "PHARMARON BEIJING",
+        "matched_to": "Pharmaron Beijing Co., Ltd.",
+        "matched_symbol": "300759.SZ"
+    },
+    {
+        "company_name": "LENOVO GROUP",
+        "matched_to": "Lenovo Group Limited",
+        "matched_symbol": "0992.HK"
+    },
+    {
+        "company_name": "GLODON COMPANY",
+        "matched_to": "Glodon Company Limited",
+        "matched_symbol": "002410.SZ"
+    },
+    {
+        "company_name": "YTO EXPRESS GROUP",
+        "matched_to": "YTO Express Group Co.,Ltd.",
+        "matched_symbol": "600233.SS"
+    },
+    {
+        "company_name": "SMOORE INTERNATIONAL HOLDINGS",
+        "matched_to": "Smoore International Holdings Limited",
+        "matched_symbol": "6969.HK"
+    },
+    {
+        "company_name": "ZHEJIANG SANHUA INTELLIGENT CONTROLS",
+        "matched_to": "Zhejiang Sanhua Intelligent Controls Co.,Ltd",
+        "matched_symbol": "002050.SZ"
+    },
+    {
+        "company_name": "CHINA ENERGY ENGINEERING CORPORATION LIMITED",
+        "matched_to": "China Energy Engineering Corporation Limited",
+        "matched_symbol": "3996.HK"
+    },
+    {
+        "company_name": "CSPC PHARMACEUTICAL GROUP",
+        "matched_to": "CSPC Pharmaceutical Group Limited",
+        "matched_symbol": "1093.HK"
+    },
+    {
+        "company_name": "SUNNY OPTICAL TECHNOLOGY (GROUP) COMPANY",
+        "matched_to": "Sunny Optical Technology (Group) Company Limited",
+        "matched_symbol": "2382.HK"
+    },
+    {
+        "company_name": "WEICHAI POWER",
+        "matched_to": "Weichai Power Co., Ltd.",
+        "matched_symbol": "2338.HK"
+    },
+    {
+        "company_name": "BANK OF BEIJING",
+        "matched_to": "Bank of Beijing Co., Ltd.",
+        "matched_symbol": "601169.SS"
+    },
+    {
+        "company_name": "NINGXIA BAOFENG ENERGY GROUP",
+        "matched_to": "Ningxia Baofeng Energy Group Co., Ltd.",
+        "matched_symbol": "600989.SS"
+    },
+    {
+        "company_name": "ZHEJIANG HUAYOU COBALT CO. LTD",
+        "matched_to": "Zhejiang Huayou Cobalt Co.,Ltd",
+        "matched_symbol": "603799.SS"
+    },
+    {
+        "company_name": "CHINA MERCHANTS SECURITIES",
+        "matched_to": "China Merchants Securities Co., Ltd.",
+        "matched_symbol": "600999.SS"
+    },
+    {
+        "company_name": "DAQIN RAILWAY",
+        "matched_to": "Daqin Railway Co., Ltd.",
+        "matched_symbol": "601006.SS"
+    },
+    {
+        "company_name": "HUATAI SECURITIES",
+        "matched_to": "Huatai Securities Co., Ltd.",
+        "matched_symbol": "6886.HK"
+    },
+    {
+        "company_name": "GF SECURITIES",
+        "matched_to": "GF Securities Co., Ltd.",
+        "matched_symbol": "1776.HK"
+    },
+    {
+        "company_name": "UNIGROUP GUOXIN MICROELECTRONICS",
+        "matched_to": "Unigroup Guoxin Microelectronics Co., Ltd.",
+        "matched_symbol": "002049.SZ"
+    },
+    {
+        "company_name": "BEIKE",
+        "matched_to": "XinJiang Beiken Energy Engineering Co.,Ltd.",
+        "matched_symbol": "002828.SZ"
+    },
+    {
+        "company_name": "ZTE CORPORATION",
+        "matched_to": "ZTE Corporation",
+        "matched_symbol": "0763.HK"
+    },
+    {
+        "company_name": "CHINA COMMUNICATIONS CONSTRUCTION COMPANY",
+        "matched_to": "China Communications Construction Company Limited",
+        "matched_symbol": "1800.HK"
+    },
+    {
+        "company_name": "IMEIK TECHNOLOGY DEVELOPMENT CO.,LTD.",
+        "matched_to": "Imeik Technology Development Co.,Ltd.",
+        "matched_symbol": "300896.SZ"
+    },
+    {
+        "company_name": "ANHUI GUJING DISTILLERY",
+        "matched_to": "Anhui Gujing Distillery Co., Ltd.",
+        "matched_symbol": "000596.SZ"
+    },
+    {
+        "company_name": "TRINA SOLAR CO., LTD",
+        "matched_to": "Trina Solar Co., Ltd",
+        "matched_symbol": "688599.SS"
+    },
+    {
+        "company_name": "TIANQI LITHIUM CORPORATION",
+        "matched_to": "Tianqi Lithium Corporation",
+        "matched_symbol": "002466.SZ"
+    },
+    {
+        "company_name": "QINGHAI SALT LAKE INDUSTRY",
+        "matched_to": "Qinghai Salt Lake Industry Co.,Ltd",
+        "matched_symbol": "000792.SZ"
+    },
+    {
+        "company_name": "DIDI GLOBAL INC.",
+        "matched_to": "DiDi Global Inc.",
+        "matched_symbol": "DIDIY"
+    },
+    {
+        "company_name": "LI AUTO INC",
+        "matched_to": "Li Auto Inc.",
+        "matched_symbol": "LI"
+    },
+    {
+        "company_name": "KE HOLDINGS INC.",
+        "matched_to": "KE Holdings Inc.",
+        "matched_symbol": "BEKE"
+    },
+    {
+        "company_name": "CHINA RAILWAY GROUP",
+        "matched_to": "China Railway Group Limited",
+        "matched_symbol": "0390.HK"
+    },
+    {
+        "company_name": "LONGFOR GROUP HOLDINGS",
+        "matched_to": "Longfor Group Holdings Limited",
+        "matched_symbol": "0960.HK"
+    },
+    {
+        "company_name": "CHINA TOWER CORPORATION",
+        "matched_to": "China Tower Corporation Limited",
+        "matched_symbol": "0788.HK"
+    },
+    {
+        "company_name": "CHONGQING ZHIFEI BIOLOGICAL PRODUCTS",
+        "matched_to": "Chongqing Zhifei Biological Products Co., Ltd.",
+        "matched_symbol": "300122.SZ"
+    },
+    {
+        "company_name": "YANZHOU COAL MINING COMPANY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SUNGROW POWER SUPPLY",
+        "matched_to": "Sungrow Power Supply Co., Ltd.",
+        "matched_symbol": "300274.SZ"
+    },
+    {
+        "company_name": "PICC PROPERTY AND CASUALTY COMPANY",
+        "matched_to": "PICC Property and Casualty Company Limited",
+        "matched_symbol": "2328.HK"
+    },
+    {
+        "company_name": "CHINA THREE GORGES RENEWABLES (GROUP) CO.,LTD.",
+        "matched_to": "China Three Gorges Renewables (Group) Co.,Ltd.",
+        "matched_symbol": "600905.SS"
+    },
+    {
+        "company_name": "TONGWEI",
+        "matched_to": "Tongwei Co.,Ltd",
+        "matched_symbol": "600438.SS"
+    },
+    {
+        "company_name": "KWEICHOW MOUTAI",
+        "matched_to": "Kweichow Moutai Co., Ltd.",
+        "matched_symbol": "600519.SS"
+    },
+    {
+        "company_name": "LI NING COMPANY",
+        "matched_to": "Li Ning Company Limited",
+        "matched_symbol": "2331.HK"
+    },
+    {
+        "company_name": "SAIC MOTOR CORPORATION",
+        "matched_to": "SAIC Motor Corporation Limited",
+        "matched_symbol": "600104.SS"
+    },
+    {
+        "company_name": "SHENZHEN INOVANCE TECHNOLOGY",
+        "matched_to": "Shenzhen Inovance Technology Co.,Ltd",
+        "matched_symbol": "300124.SZ"
+    },
+    {
+        "company_name": "BEIGENE",
+        "matched_to": "BeiGene, Ltd.",
+        "matched_symbol": "BGNE"
+    },
+    {
+        "company_name": "MUYUAN FOODS",
+        "matched_to": "Muyuan Foods Co., Ltd.",
+        "matched_symbol": "002714.SZ"
+    },
+    {
+        "company_name": "ANTA SPORTS PRODUCTS",
+        "matched_to": "ANTA Sports Products Limited",
+        "matched_symbol": "2020.HK"
+    },
+    {
+        "company_name": "CITIC SECURITIES COMPANY",
+        "matched_to": "CITIC Securities Company Limited",
+        "matched_symbol": "6030.HK"
+    },
+    {
+        "company_name": "BAIDU",
+        "matched_to": "Baidu, Inc.",
+        "matched_symbol": "BIDU"
+    },
+    {
+        "company_name": "LONGI GREEN ENERGY TECHNOLOGY",
+        "matched_to": "LONGi Green Energy Technology Co., Ltd.",
+        "matched_symbol": "601012.SS"
+    },
+    {
+        "company_name": "LUZHOU LAOJIAO",
+        "matched_to": "Luzhou Laojiao Co.,Ltd.",
+        "matched_symbol": "000568.SZ"
+    },
+    {
+        "company_name": "SHANXI XINGHUACUN FEN WINE FACTORY",
+        "matched_to": "Shanxi Xinghuacun Fen Wine Factory Co.,Ltd.",
+        "matched_symbol": "600809.SS"
+    },
+    {
+        "company_name": "INDUSTRIAL BANK",
+        "matched_to": "Industrial Bank Co., Ltd.",
+        "matched_symbol": "601166.SS"
+    },
+    {
+        "company_name": "JD HEALTH INTERNATIONAL INC",
+        "matched_to": "JD Health International Inc.",
+        "matched_symbol": "6618.HK"
+    },
+    {
+        "company_name": "SHANGHAI PUDONG DEVELOPMENT BANK",
+        "matched_to": "Shanghai Pudong Development Bank Co., Ltd.",
+        "matched_symbol": "600000.SS"
+    },
+    {
+        "company_name": "HAIER SMART HOME",
+        "matched_to": "Haier Smart Home Co., Ltd.",
+        "matched_symbol": "600690.SS"
+    },
+    {
+        "company_name": "JIANGSU HENGRUI MEDICINE",
+        "matched_to": "Jiangsu Hengrui Medicine Co., Ltd.",
+        "matched_symbol": "600276.SS"
+    },
+    {
+        "company_name": "CHINA RESOURCES LAND",
+        "matched_to": "China Resources Land Limited",
+        "matched_symbol": "1109.HK"
+    },
+    {
+        "company_name": "POLY DEVELOPMENTS AND HOLDINGS GROUP",
+        "matched_to": "Poly Developments and Holdings Group Co., Ltd.",
+        "matched_symbol": "600048.SS"
+    },
+    {
+        "company_name": "INNER MONGOLIA YILI INDUSTRIAL GROUP",
+        "matched_to": "Inner Mongolia Yili Industrial Group Co., Ltd.",
+        "matched_symbol": "600887.SS"
+    },
+    {
+        "company_name": "WUXI APPTEC",
+        "matched_to": "WuXi AppTec Co., Ltd.",
+        "matched_symbol": "2359.HK"
+    },
+    {
+        "company_name": "CHINA PACIFIC INSURANCE GROUP (CPIC)",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "WUXI BIOLOGICS (CAYMAN)",
+        "matched_to": "WuXi Biologics (Cayman) Inc.",
+        "matched_symbol": "2269.HK"
+    },
+    {
+        "company_name": "SUNSHINE INSURANCE GROUP COMPANY LIMITED",
+        "matched_to": "Sunshine Insurance Group Company Limited",
+        "matched_symbol": "6963.HK"
+    },
+    {
+        "company_name": "JIANGSU ZHONGTIAN TECHNOLOGY",
+        "matched_to": "Jiangsu Zhongtian Technology Co., Ltd.",
+        "matched_symbol": "600522.SS"
+    },
+    {
+        "company_name": "EVERBRIGHT SECURITIES COMPANY",
+        "matched_to": "Everbright Securities Company Limited",
+        "matched_symbol": "6178.HK"
+    },
+    {
+        "company_name": "STARPOWER SEMICONDUCTOR LTD.",
+        "matched_to": "StarPower Semiconductor Ltd.",
+        "matched_symbol": "603290.SS"
+    },
+    {
+        "company_name": "HENAN SHENHUO COAL & POWER",
+        "matched_to": "Henan Shenhuo Coal & Power Co.,Ltd",
+        "matched_symbol": "000933.SZ"
+    },
+    {
+        "company_name": "ZHEJIANG DAHUA TECHNOLOGY",
+        "matched_to": "Zhejiang Dahua Technology Co., Ltd.",
+        "matched_symbol": "002236.SZ"
+    },
+    {
+        "company_name": "HONGFA TECHNOLOGY",
+        "matched_to": "Hongfa Technology Co., Ltd.",
+        "matched_symbol": "600885.SS"
+    },
+    {
+        "company_name": "FAW CAR",
+        "matched_to": "Trading Cards",
+        "matched_symbol": "^CARDS.REGA"
+    },
+    {
+        "company_name": "HAOHUA CHEMICAL SCIENCE & TECHNOLOGY",
+        "matched_to": "Haohua Chemical Science & Technology Corp., Ltd.",
+        "matched_symbol": "600378.SS"
+    },
+    {
+        "company_name": "HENGTONG OPTIC-ELECTRIC",
+        "matched_to": "Hengtong Optic-Electric Co., Ltd.",
+        "matched_symbol": "600487.SS"
+    },
+    {
+        "company_name": "WEIHAI GUANGWEI COMPOSITES",
+        "matched_to": "Weihai Guangwei Composites Co., Ltd.",
+        "matched_symbol": "300699.SZ"
+    },
+    {
+        "company_name": "CHONGQING RURAL COMMERCIAL BANK",
+        "matched_to": "Chongqing Rural Commercial Bank Co., Ltd.",
+        "matched_symbol": "3618.HK"
+    },
+    {
+        "company_name": "ANHUI KOUZI DISTILLERY",
+        "matched_to": "Anhui Kouzi Distillery Co., Ltd.",
+        "matched_symbol": "603589.SS"
+    },
+    {
+        "company_name": "SHANDONG NANSHAN ALUMINIUM CO., LTD.",
+        "matched_to": "Shandong Nanshan Aluminium Co.,Ltd.",
+        "matched_symbol": "600219.SS"
+    },
+    {
+        "company_name": "ZHESHANG SECURITIES",
+        "matched_to": "Zheshang Securities Co., Ltd.",
+        "matched_symbol": "601878.SS"
+    },
+    {
+        "company_name": "SHANGHAI RAAS BLOOD PRODUCTS",
+        "matched_to": "Shanghai RAAS Blood Products Co., Ltd.",
+        "matched_symbol": "002252.SZ"
+    },
+    {
+        "company_name": "NEW INDUSTRIES BIOMEDICAL ENGINEERING",
+        "matched_to": "Shenzhen New Industries Biomedical Engineering Co., Ltd.",
+        "matched_symbol": "300832.SZ"
+    },
+    {
+        "company_name": "EVERDISPLAY OPTRONICS (SHANGHAI) CO., LTD.",
+        "matched_to": "Everdisplay Optronics (Shanghai) Co., Ltd.",
+        "matched_symbol": "688538.SS"
+    },
+    {
+        "company_name": "ZHEJIANG SUPOR",
+        "matched_to": "Zhejiang Supor Co., Ltd.",
+        "matched_symbol": "002032.SZ"
+    },
+    {
+        "company_name": "JUNEYAO AIRLINES CO. LTD",
+        "matched_to": "Juneyao Airlines Co., Ltd",
+        "matched_symbol": "603885.SS"
+    },
+    {
+        "company_name": "GUANGZHOU BAIYUN INTERNATIONAL AIRPORT",
+        "matched_to": "Guangzhou Baiyun International Airport Company Limited",
+        "matched_symbol": "600004.SS"
+    },
+    {
+        "company_name": "JIANGSU EXPRESSWAY COMPANY",
+        "matched_to": "Jiangsu Expressway Company Limited",
+        "matched_symbol": "0177.HK"
+    },
+    {
+        "company_name": "S.C NEW ENERGY TECHNOLOGY CORPORATION",
+        "matched_to": "Shenzhen S.C New Energy Technology Corporation",
+        "matched_symbol": "300724.SZ"
+    },
+    {
+        "company_name": "CHINA NATIONAL SOFTWARE & SERVICE COMPANY",
+        "matched_to": "China National Software & Service Company Limited",
+        "matched_symbol": "600536.SS"
+    },
+    {
+        "company_name": "CENTRE TESTING INTERNATIONAL GROUP",
+        "matched_to": "Centre Testing International Group Co. Ltd.",
+        "matched_symbol": "300012.SZ"
+    },
+    {
+        "company_name": "TONGCHENG-ELONG HOLDINGS",
+        "matched_to": null,
+        "matched_symbol": "KYG8918W1069.SG"
+    },
+    {
+        "company_name": "SDIC CAPITAL",
+        "matched_to": "SDIC Capital Co.,Ltd",
+        "matched_symbol": "600061.SS"
+    },
+    {
+        "company_name": "SHANGHAI AIKO SOLAR ENERGY",
+        "matched_to": "Shanghai Aiko Solar Energy Co.,Ltd.",
+        "matched_symbol": "600732.SS"
+    },
+    {
+        "company_name": "PANGANG GROUP VANADIUM & TITANIUM RESOURCES CO., LTD.",
+        "matched_to": "Pangang Group Vanadium & Titanium Resources Co., Ltd.",
+        "matched_symbol": "000629.SZ"
+    },
+    {
+        "company_name": "CHINA RESOURCES SANJIU MEDICAL & PHARMACEUTICAL",
+        "matched_to": "China Resources Sanjiu Medical & Pharmaceutical Co., Ltd.",
+        "matched_symbol": "000999.SZ"
+    },
+    {
+        "company_name": "BEIJING NEW BUILDING MATERIALS PUBLIC COMPANY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "WUXI SHANGJI AUTOMATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "INNOVENT BIOLOGICS",
+        "matched_to": "Innovent Biologics, Inc.",
+        "matched_symbol": "1801.HK"
+    },
+    {
+        "company_name": "YIFENG PHARMACY CHAIN",
+        "matched_to": "Yifeng Pharmacy Chain Co., Ltd.",
+        "matched_symbol": "603939.SS"
+    },
+    {
+        "company_name": "CNGR ADVANCED MATERIAL CO.,LTD.",
+        "matched_to": "CNGR Advanced Material Co.,Ltd.",
+        "matched_symbol": "300919.SZ"
+    },
+    {
+        "company_name": "GALAXYCORE",
+        "matched_to": "GalaxyCore Inc.",
+        "matched_symbol": "688728.SS"
+    },
+    {
+        "company_name": "360 SECURITY TECHNOLOGY",
+        "matched_to": "360 Security Technology Inc.",
+        "matched_symbol": "601360.SS"
+    },
+    {
+        "company_name": "SANGFOR TECHNOLOGIES",
+        "matched_to": "Sangfor Technologies Inc.",
+        "matched_symbol": "300454.SZ"
+    },
+    {
+        "company_name": "HUADIAN POWER INTERNATIONAL CORPORATION",
+        "matched_to": "Huadian Power International Corporation Limited",
+        "matched_symbol": "1071.HK"
+    },
+    {
+        "company_name": "SEAZEN HOLDINGS CO. LTD",
+        "matched_to": "Seazen Holdings Co., Ltd",
+        "matched_symbol": "601155.SS"
+    },
+    {
+        "company_name": "CHINA MERCHANTS EXPRESSWAY NETWORK & TECHNOLOGY HOLDINGS",
+        "matched_to": "China Merchants Expressway Network & Technology Holdings Co.,Ltd.",
+        "matched_symbol": "001965.SZ"
+    },
+    {
+        "company_name": "THUNDER SOFTWARE TECHNOLOGY",
+        "matched_to": "Thunder Software Technology Co.,Ltd.",
+        "matched_symbol": "300496.SZ"
+    },
+    {
+        "company_name": "KOOLEARN TECHNOLOGY HOLDING",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SUNING FINANCE",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHINA NATIONAL CHEMICAL ENGINEERING CO. LTD",
+        "matched_to": "China National Chemical Engineering Co., Ltd",
+        "matched_symbol": "601117.SS"
+    },
+    {
+        "company_name": "SHEDE SPIRITS",
+        "matched_to": "Shede Spirits Co., Ltd.",
+        "matched_symbol": "600702.SS"
+    },
+    {
+        "company_name": "UNISPLENDOUR CORPORATION",
+        "matched_to": "Unisplendour Corporation Limited",
+        "matched_symbol": "000938.SZ"
+    },
+    {
+        "company_name": "HUAYU AUTOMOTIVE SYSTEMS COMPANY",
+        "matched_to": "HUAYU Automotive Systems Company Limited",
+        "matched_symbol": "600741.SS"
+    },
+    {
+        "company_name": "SINOPHARM GROUP",
+        "matched_to": "Sinopharm Group Co. Ltd.",
+        "matched_symbol": "1099.HK"
+    },
+    {
+        "company_name": "ZHEJIANG NHU COMPANY",
+        "matched_to": "Zhejiang NHU Company Ltd.",
+        "matched_symbol": "002001.SZ"
+    },
+    {
+        "company_name": "CHINA EASTERN AIRLINES CORPORATION",
+        "matched_to": "China Eastern Airlines Corporation Limited",
+        "matched_symbol": "600115.SS"
+    },
+    {
+        "company_name": "MAXSCEND MICROELECTRONICS COMPANY",
+        "matched_to": "Maxscend Microelectronics Company Limited",
+        "matched_symbol": "300782.SZ"
+    },
+    {
+        "company_name": "ZHEJIANG CHINT ELECTRICS",
+        "matched_to": "Zhejiang Chint Electrics Co., Ltd.",
+        "matched_symbol": "601877.SS"
+    },
+    {
+        "company_name": "NEW HOPE LIUHE",
+        "matched_to": "New Hope Liuhe Co.,Ltd.",
+        "matched_symbol": "000876.SZ"
+    },
+    {
+        "company_name": "MING YANG SMART ENERGY GROUP",
+        "matched_to": "Ming Yang Smart Energy Group Limited",
+        "matched_symbol": "601615.SS"
+    },
+    {
+        "company_name": "KANZHUN LTD",
+        "matched_to": "Kanzhun Limited",
+        "matched_symbol": "8JN.F"
+    },
+    {
+        "company_name": "XCMG CONSTRUCTION MACHINERY",
+        "matched_to": "XCMG Construction Machinery Co., Ltd.",
+        "matched_symbol": "000425.SZ"
+    },
+    {
+        "company_name": "YUNNAN BOTANEE BIO-TECHNOLOGY GROUP CO.LTD",
+        "matched_to": "Yunnan Botanee Bio-Technology Group Co.LTD",
+        "matched_symbol": "300957.SZ"
+    },
+    {
+        "company_name": "XPENG MOTORS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "JIANGXI COPPER COMPANY",
+        "matched_to": "Jiangxi Copper Company Limited",
+        "matched_symbol": "0358.HK"
+    },
+    {
+        "company_name": "TOPCHOICE MEDICAL CORPORATION",
+        "matched_to": "Topchoice Medical Co., Inc.",
+        "matched_symbol": "600763.SS"
+    },
+    {
+        "company_name": "SHANDONG WEIGAO GROUP MEDICAL POLYMER COMPANY",
+        "matched_to": "Shandong Weigao Group Medical Polymer Company Limited",
+        "matched_symbol": "1066.HK"
+    },
+    {
+        "company_name": "SHIJIAZHUANG YILING PHARMACEUTICAL",
+        "matched_to": "Shijiazhuang Yiling Pharmaceutical Co., Ltd.",
+        "matched_symbol": "002603.SZ"
+    },
+    {
+        "company_name": "ENN ECOLOGICALHOLDINGS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "GIGADEVICE SEMICONDUCTOR (BEIJING)",
+        "matched_to": "GigaDevice Semiconductor (Beijing) Inc.",
+        "matched_symbol": "603986.SS"
+    },
+    {
+        "company_name": "GUOXUAN HIGH-TECH",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SENSETIME GROUP",
+        "matched_to": "SenseTime Group Inc.",
+        "matched_symbol": "0020.HK"
+    },
+    {
+        "company_name": "AVIC AVIATION HIGH-TECHNOLOGY",
+        "matched_to": "Avic Aviation High-Technology Co., Ltd.",
+        "matched_symbol": "600862.SS"
+    },
+    {
+        "company_name": "SINOLINK SECURITIES",
+        "matched_to": "Sinolink Securities Co., Ltd.",
+        "matched_symbol": "600109.SS"
+    },
+    {
+        "company_name": "LINGYI ITECH (GUANGDONG) COMPANY",
+        "matched_to": "Lingyi iTech (Guangdong) Company",
+        "matched_symbol": "002600.SZ"
+    },
+    {
+        "company_name": "FARASIS ENERGY (GAN ZHOU) CO., LTD.",
+        "matched_to": "Farasis Energy (Gan Zhou) Co., Ltd.",
+        "matched_symbol": "688567.SS"
+    },
+    {
+        "company_name": "DONGGUAN YIHEDA AUTOMATION CO., LTD.",
+        "matched_to": "Dongguan Yiheda Automation Co., Ltd.",
+        "matched_symbol": "301029.SZ"
+    },
+    {
+        "company_name": "ZHEJIANG CENTURY HUATONG GROUP",
+        "matched_to": "Zhejiang Century Huatong Group Co.,Ltd",
+        "matched_symbol": "002602.SZ"
+    },
+    {
+        "company_name": "HENGYI PETROCHEMICAL",
+        "matched_to": "Hengyi Petrochemical Co., Ltd.",
+        "matched_symbol": "000703.SZ"
+    },
+    {
+        "company_name": "CHACHA FOOD COMPANY",
+        "matched_to": "Chacha Food Company, Limited",
+        "matched_symbol": "002557.SZ"
+    },
+    {
+        "company_name": "PIOTECH INC.",
+        "matched_to": "Piotech Inc.",
+        "matched_symbol": "688072.SS"
+    },
+    {
+        "company_name": "GUANGDONG HEC TECHNOLOGYHOLDING",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "TIANJIN 712 COMMUNICATION & BROADCASTING",
+        "matched_to": "TianJin 712 Communication & Broadcasting Co., Ltd.",
+        "matched_symbol": "603712.SS"
+    },
+    {
+        "company_name": "YIHAI INTERNATIONAL HOLDING",
+        "matched_to": "Yihai International Holding Ltd.",
+        "matched_symbol": "1579.HK"
+    },
+    {
+        "company_name": "YOUNGY",
+        "matched_to": "YOUNGY Co.,Ltd.",
+        "matched_symbol": "002192.SZ"
+    },
+    {
+        "company_name": "BANK OF CHANGSHA",
+        "matched_to": "Bank of Changsha Co., Ltd.",
+        "matched_symbol": "601577.SS"
+    },
+    {
+        "company_name": "HANGZHOU ROBAM APPLIANCES",
+        "matched_to": "Hangzhou Robam Appliances Co., Ltd.",
+        "matched_symbol": "002508.SZ"
+    },
+    {
+        "company_name": "GREENTOWN CHINA HOLDINGS",
+        "matched_to": "Greentown China Holdings Limited",
+        "matched_symbol": "3900.HK"
+    },
+    {
+        "company_name": "WUXI AUTOWELL TECHNOLOGY CO.,LTD.",
+        "matched_to": "Wuxi Autowell Technology Co.,Ltd.",
+        "matched_symbol": "688516.SS"
+    },
+    {
+        "company_name": "GIANT BIOGENE HOLDING CO., LTD.",
+        "matched_to": "Giant Biogene Holding Co., Ltd.",
+        "matched_symbol": "2367.HK"
+    },
+    {
+        "company_name": "CHINA SUNTIEN GREEN ENERGY CORPORATION",
+        "matched_to": "China Suntien Green Energy Corporation Limited",
+        "matched_symbol": "0956.HK"
+    },
+    {
+        "company_name": "HEBEI YANGYUAN ZHIHUI BEVERAGE",
+        "matched_to": "Hebei Yangyuan ZhiHui Beverage Co., Ltd.",
+        "matched_symbol": "603156.SS"
+    },
+    {
+        "company_name": "CHINA MEHECO GROUP",
+        "matched_to": "China Meheco Group Co., Ltd.",
+        "matched_symbol": "600056.SS"
+    },
+    {
+        "company_name": "SHENZHEN KEDALI INDUSTRY",
+        "matched_to": "Shenzhen Kedali Industry Co., Ltd.",
+        "matched_symbol": "002850.SZ"
+    },
+    {
+        "company_name": "JIUMAOJIU INTERNATIONAL HOLDINGS LIMITED",
+        "matched_to": "Jiumaojiu International Holdings Limited",
+        "matched_symbol": "9922.HK"
+    },
+    {
+        "company_name": "GUANGDONG ELECTRIC POWER DEVELOPMENT",
+        "matched_to": "Guangdong Electric Power Development Co., Ltd.",
+        "matched_symbol": "200539.SZ"
+    },
+    {
+        "company_name": "LIVZON PHARMACEUTICAL GROUP",
+        "matched_to": "Livzon Pharmaceutical Group Inc.",
+        "matched_symbol": "LVZPF"
+    },
+    {
+        "company_name": "HENGDIAN GROUP DMEGC MAGNETICS",
+        "matched_to": "Hengdian Group DMEGC Magnetics Co. ,Ltd",
+        "matched_symbol": "002056.SZ"
+    },
+    {
+        "company_name": "INNER MONGOLIA EERDUOSI RESOURCES",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "JOINN LABORATORIES (CHINA)",
+        "matched_to": "Joinn Laboratories(China)Co.,Ltd.",
+        "matched_symbol": "603127.SS"
+    },
+    {
+        "company_name": "AUTOHOME",
+        "matched_to": "Autohome Inc.",
+        "matched_symbol": "ATHM"
+    },
+    {
+        "company_name": "WM MOTOR",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "GUOYUAN SECURITIES COMPANY",
+        "matched_to": "Guoyuan Securities Company Limited",
+        "matched_symbol": "000728.SZ"
+    },
+    {
+        "company_name": "IQIYI",
+        "matched_to": "iQIYI, Inc.",
+        "matched_symbol": "IQ"
+    },
+    {
+        "company_name": "ZHEJIANG LEAPMOTOR TECHNOLOGY CO., LTD.",
+        "matched_to": "Zhejiang Leapmotor Technology Co., Ltd.",
+        "matched_symbol": "9863.HK"
+    },
+    {
+        "company_name": "KEDA CLEAN ENERGY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "UBTECH",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "DADA GROUP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "YOUNGOR GROUP",
+        "matched_to": "Youngor Group Co.,Ltd",
+        "matched_symbol": "600177.SS"
+    },
+    {
+        "company_name": "NANJING SECURITIES",
+        "matched_to": "Nanjing Securities Co., Ltd.",
+        "matched_symbol": "601990.SS"
+    },
+    {
+        "company_name": "WINNER MEDICAL CO. LIMITED",
+        "matched_to": "Total Collectables",
+        "matched_symbol": "^CLCTBLS.REGA"
+    },
+    {
+        "company_name": "SHENZHEN YUTO PACKAGING TECHNOLOGY",
+        "matched_to": "ShenZhen YUTO Packaging Technology Co., Ltd.",
+        "matched_symbol": "002831.SZ"
+    },
+    {
+        "company_name": "INNER MONGOLIA YITAI COAL",
+        "matched_to": "Inner Mongolia Yitai Coal Co.,Ltd",
+        "matched_symbol": "3948.HK"
+    },
+    {
+        "company_name": "CNOOC ENERGY TECHNOLOGY & SERVICES",
+        "matched_to": "CNOOC Energy Technology & Services Limited",
+        "matched_symbol": "600968.SS"
+    },
+    {
+        "company_name": "GUANGDONG ZHONGSHENG PHARMACEUTICAL",
+        "matched_to": "Guangdong Zhongsheng Pharmaceutical Co., Ltd.",
+        "matched_symbol": "002317.SZ"
+    },
+    {
+        "company_name": "HANGZHOU BINJIANG REAL ESTATE GROUP",
+        "matched_to": "Hangzhou Binjiang Real Estate Group Co.,Ltd",
+        "matched_symbol": "002244.SZ"
+    },
+    {
+        "company_name": "AVIC CAPITAL",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ZHUZHOU KIBING GROUP",
+        "matched_to": "Zhuzhou Kibing Group Co.,Ltd",
+        "matched_symbol": "601636.SS"
+    },
+    {
+        "company_name": "CHIFENG JILONG GOLD MINING",
+        "matched_to": "Chifeng Jilong Gold Mining Co.,Ltd.",
+        "matched_symbol": "600988.SS"
+    },
+    {
+        "company_name": "WEIBO CORPORATION",
+        "matched_to": "Weibo Corporation",
+        "matched_symbol": "WB"
+    },
+    {
+        "company_name": "ANHUI JIANGHUAI AUTOMOBILE GROUP",
+        "matched_to": "Anhui Jianghuai Automobile Group Corp.,Ltd.",
+        "matched_symbol": "600418.SS"
+    },
+    {
+        "company_name": "HUANENG RENEWABLES CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHINA EVERGRANDE NEW ENERGY VEHICLE GROUP",
+        "matched_to": "China Evergrande New Energy Vehicle Group Limited",
+        "matched_symbol": "EVGRF"
+    },
+    {
+        "company_name": "JIANGXI SPECIAL ELECTRIC MOTOR",
+        "matched_to": "Jiangxi Special Electric Motor Co.,Ltd",
+        "matched_symbol": "002176.SZ"
+    },
+    {
+        "company_name": "INSPUR ELECTRONIC INFORMATION INDUSTRY",
+        "matched_to": "Inspur Electronic Information Industry Co., Ltd.",
+        "matched_symbol": "000977.SZ"
+    },
+    {
+        "company_name": "ZHEJIANG LONGSHENG GROUP",
+        "matched_to": "Zhejiang Longsheng Group Co.,Ltd",
+        "matched_symbol": "600352.SS"
+    },
+    {
+        "company_name": "GUANGZHOU KINGMED DIAGNOSTICS GROUP",
+        "matched_to": "Guangzhou Kingmed Diagnostics Group Co., Ltd.",
+        "matched_symbol": "603882.SS"
+    },
+    {
+        "company_name": "CHINA BAOAN GROUP",
+        "matched_to": "China Baoan Group Co., Ltd.",
+        "matched_symbol": "000009.SZ"
+    },
+    {
+        "company_name": "SOOCHOW SECURITIES",
+        "matched_to": "Soochow Securities Co., Ltd.",
+        "matched_symbol": "601555.SS"
+    },
+    {
+        "company_name": "HUNAN VALIN STEEL CO., LTD.",
+        "matched_to": "Hunan Valin Steel Co., Ltd.",
+        "matched_symbol": "000932.SZ"
+    },
+    {
+        "company_name": "3PEAK INCORPORATED",
+        "matched_to": "3Peak Incorporated",
+        "matched_symbol": "688536.SS"
+    },
+    {
+        "company_name": "ZHEJIANG HUAFENG SPANDEX CO. LTD",
+        "matched_to": "Total Collectables",
+        "matched_symbol": "^CLCTBLS.REGA"
+    },
+    {
+        "company_name": "TIANNENG BATTERY GROUP CO., LTD.",
+        "matched_to": "Tianneng Battery Group Co., Ltd.",
+        "matched_symbol": "688819.SS"
+    },
+    {
+        "company_name": "ZHEJIANG JIUZHOU PHARMACEUTICAL CO. LTD",
+        "matched_to": "Zhejiang Jiuzhou Pharmaceutical Co., Ltd",
+        "matched_symbol": "603456.SS"
+    },
+    {
+        "company_name": "SINOMINE RESOURCE GROUP",
+        "matched_to": "Sinomine Resource Group Co., Ltd.",
+        "matched_symbol": "002738.SZ"
+    },
+    {
+        "company_name": "AKESO, INC.",
+        "matched_to": "Akeso, Inc.",
+        "matched_symbol": "9926.HK"
+    },
+    {
+        "company_name": "YONGHUI SUPERSTORES",
+        "matched_to": "Yonghui Superstores Co., Ltd.",
+        "matched_symbol": "601933.SS"
+    },
+    {
+        "company_name": "WINTIME ENERGY",
+        "matched_to": "Wintime Energy Group Co.,Ltd.",
+        "matched_symbol": "600157.SS"
+    },
+    {
+        "company_name": "ZHEJIANG WEIXING NEW BUILDING MATERIALS",
+        "matched_to": "Zhejiang Weixing New Building Materials Co., Ltd.",
+        "matched_symbol": "002372.SZ"
+    },
+    {
+        "company_name": "YADEA GROUP HOLDINGS",
+        "matched_to": "Yadea Group Holdings Ltd.",
+        "matched_symbol": "1585.HK"
+    },
+    {
+        "company_name": "AECC AERO-ENGINE CONTROL",
+        "matched_to": "Aecc Aero-Engine Control Co.,Ltd.",
+        "matched_symbol": "000738.SZ"
+    },
+    {
+        "company_name": "HUBEI XINGFA CHEMICALS GROUP",
+        "matched_to": "Hubei Xingfa Chemicals Group Co., Ltd.",
+        "matched_symbol": "600141.SS"
+    },
+    {
+        "company_name": "BEIJING HUALIAN HYPERMARKET",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SHENZHEN GOODIX TECHNOLOGY",
+        "matched_to": "Shenzhen Goodix Technology Co., Ltd.",
+        "matched_symbol": "603160.SS"
+    },
+    {
+        "company_name": "SHANGHAI CONSTRUCTION GROUP",
+        "matched_to": "Shanghai Construction Group Co., Ltd.",
+        "matched_symbol": "600170.SS"
+    },
+    {
+        "company_name": "ZHONGAN ONLINE P&C INSURANCE CO LTD",
+        "matched_to": "ZhongAn Online P & C Insurance Co., Ltd.",
+        "matched_symbol": "6060.HK"
+    },
+    {
+        "company_name": "EVERGRANDE PROPERTY SERVICES GROUP LIMITED",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "GREE REAL ESTATE",
+        "matched_to": "Gree Real Estate Co.,Ltd",
+        "matched_symbol": "600185.SS"
+    },
+    {
+        "company_name": "DAQO NEW ENERGY",
+        "matched_to": "Daqo New Energy Corp.",
+        "matched_symbol": "DQ"
+    },
+    {
+        "company_name": "NANTONG JIANGHAI CAPACITOR",
+        "matched_to": "Nantong Jianghai Capacitor Co. Ltd.",
+        "matched_symbol": "002484.SZ"
+    },
+    {
+        "company_name": "WEIFU HIGH-TECHNOLOGY GROUP",
+        "matched_to": "Weifu High-Technology Group Co., Ltd.",
+        "matched_symbol": "200581.SZ"
+    },
+    {
+        "company_name": "GUOCHENG MINING",
+        "matched_to": "GuoCheng Mining CO.,LTD",
+        "matched_symbol": "000688.SZ"
+    },
+    {
+        "company_name": "SHANDONG XINHUA PHARMACEUTICAL COMPANY",
+        "matched_to": "Shandong Xinhua Pharmaceutical Company Limited",
+        "matched_symbol": "000756.SZ"
+    },
+    {
+        "company_name": "ANXIN TRUST CO. LTD",
+        "matched_to": "Anxin Trust Co., Ltd",
+        "matched_symbol": "167506.SZ"
+    },
+    {
+        "company_name": "JIANGSU PHOENIX PUBLISHING & MEDIA CORPORATION",
+        "matched_to": "Jiangsu Phoenix Publishing & Media Corporation Limited",
+        "matched_symbol": "601928.SS"
+    },
+    {
+        "company_name": "CHINA REINSURANCE (GROUP) CORPORATION",
+        "matched_to": "China Reinsurance (Group) Corporation",
+        "matched_symbol": "C53.F"
+    },
+    {
+        "company_name": "LIAONING CHENG DA",
+        "matched_to": "Liaoning Cheng Da Co., Ltd.",
+        "matched_symbol": "600739.SS"
+    },
+    {
+        "company_name": "AISINO CORPORATION",
+        "matched_to": "Aisino Corporation",
+        "matched_symbol": "600271.SS"
+    },
+    {
+        "company_name": "ZHENGZHOU COAL MINING MACHINERY GROUP COMPANY",
+        "matched_to": "Zhengzhou Coal Mining Machinery Group Company Limited",
+        "matched_symbol": "0564.HK"
+    },
+    {
+        "company_name": "NANJING IRON & STEEL CO., LTD.",
+        "matched_to": "Nanjing Iron & Steel Co., Ltd.",
+        "matched_symbol": "600282.SS"
+    },
+    {
+        "company_name": "CHINA EVERGRANDE GROUP",
+        "matched_to": "China Evergrande Group",
+        "matched_symbol": "EGRNF"
+    },
+    {
+        "company_name": "JIANGSU CHANGSHU RURAL COMMERCIAL BANK",
+        "matched_to": "Jiangsu Changshu Rural Commercial Bank Co., Ltd.",
+        "matched_symbol": "601128.SS"
+    },
+    {
+        "company_name": "SICHUAN TEWAY FOOD GROUP",
+        "matched_to": "Sichuan Teway Food Group Co.,Ltd",
+        "matched_symbol": "603317.SS"
+    },
+    {
+        "company_name": "HUAXI SECURITIES",
+        "matched_to": "HUAXI Securities Co., Ltd.",
+        "matched_symbol": "002926.SZ"
+    },
+    {
+        "company_name": "CHINA NATIONAL GOLD GROUP GOLD JEWELLERY CO.,LTD.",
+        "matched_to": "China National Gold Group Gold Jewellery Co.,Ltd.",
+        "matched_symbol": "600916.SS"
+    },
+    {
+        "company_name": "HEBEI SINOPACK ELECTRONIC TECHNOLOGY CO.,LTD.",
+        "matched_to": "Hebei Sinopack Electronic Technology Co.,Ltd.",
+        "matched_symbol": "003031.SZ"
+    },
+    {
+        "company_name": "FUJIAN FUNENG",
+        "matched_to": "Fujian Funeng Co., Ltd.",
+        "matched_symbol": "600483.SS"
+    },
+    {
+        "company_name": "QIANHE CONDIMENT AND FOOD",
+        "matched_to": "Qianhe Condiment and Food Co., Ltd.",
+        "matched_symbol": "603027.SS"
+    },
+    {
+        "company_name": "XJ ELECTRIC",
+        "matched_to": "XJ Electric Co., Ltd.",
+        "matched_symbol": "000400.SZ"
+    },
+    {
+        "company_name": "CHINA FIRST HEAVY INDUSTRIES",
+        "matched_to": "China First Heavy Industries",
+        "matched_symbol": "601106.SS"
+    },
+    {
+        "company_name": "RISEN ENERGY",
+        "matched_to": "Risen Energy Co.,Ltd.",
+        "matched_symbol": "300118.SZ"
+    },
+    {
+        "company_name": "GUANGDONG HONGDA BLASTING",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ZIBO QIXIANG TENGDA CHEMICAL CO. LTD",
+        "matched_to": "Zibo Qixiang Tengda Chemical Co., Ltd",
+        "matched_symbol": "002408.SZ"
+    },
+    {
+        "company_name": "TIBET MINERAL DEVELOPMENT CO. LTD",
+        "matched_to": "Tibet Mineral Development Co., LTD",
+        "matched_symbol": "000762.SZ"
+    },
+    {
+        "company_name": "SINOFIBERS TECHNOLOGY",
+        "matched_to": "Sinofibers Technology Co.,Ltd.",
+        "matched_symbol": "300777.SZ"
+    },
+    {
+        "company_name": "BETTA PHARMACEUTICALS",
+        "matched_to": "Betta Pharmaceuticals Co., Ltd.",
+        "matched_symbol": "300558.SZ"
+    },
+    {
+        "company_name": "RIYUE HEAVY INDUSTRY COLTD",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "YUNNAN TIN COMPANY",
+        "matched_to": "Yunnan Tin Company Limited",
+        "matched_symbol": "000960.SZ"
+    },
+    {
+        "company_name": "ZHONGJI INNOLIGHT",
+        "matched_to": "Zhongji Innolight Co., Ltd.",
+        "matched_symbol": "300308.SZ"
+    },
+    {
+        "company_name": "CHINA SOUTHERN POWER GRID ENERGY EFFICIENCY&CLEAN ENERGY CO.,LTD.",
+        "matched_to": "China Southern Power Grid Energy Efficiency & Clean Energy Co.,Ltd.",
+        "matched_symbol": "003035.SZ"
+    },
+    {
+        "company_name": "ZHEJIANG SHUANGHUAN DRIVELINE",
+        "matched_to": "Zhejiang Shuanghuan Driveline Co., Ltd.",
+        "matched_symbol": "002472.SZ"
+    },
+    {
+        "company_name": "BEIJING JINGNENG POWER",
+        "matched_to": "Beijing Jingneng Power Co., Ltd.",
+        "matched_symbol": "600578.SS"
+    },
+    {
+        "company_name": "TOLY BREAD",
+        "matched_to": "Toly Bread Co.,Ltd.",
+        "matched_symbol": "603866.SS"
+    },
+    {
+        "company_name": "KEHUA HENGSHENG",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SHANGHAI ZHONGGU LOGISTICS CO., LTD.",
+        "matched_to": "Shanghai Zhonggu Logistics Co., Ltd.",
+        "matched_symbol": "603565.SS"
+    },
+    {
+        "company_name": "HYBIO PHARMACEUTICAL",
+        "matched_to": "Hybio Pharmaceutical Co., Ltd.",
+        "matched_symbol": "300199.SZ"
+    },
+    {
+        "company_name": "TIANMA MICROELECTRONICS",
+        "matched_to": "Tianma Microelectronics Co., Ltd.",
+        "matched_symbol": "000050.SZ"
+    },
+    {
+        "company_name": "TIBET SUMMIT RESOURCES",
+        "matched_to": "Tibet Summit Resources Co.,Ltd.",
+        "matched_symbol": "600338.SS"
+    },
+    {
+        "company_name": "GCL ENERGY TECHNOLOGY",
+        "matched_to": "GCL Energy Technology Co.,Ltd.",
+        "matched_symbol": "002015.SZ"
+    },
+    {
+        "company_name": "CHINA NATIONAL MEDICINES CORPORATION",
+        "matched_to": "China National Medicines Corporation Ltd.",
+        "matched_symbol": "600511.SS"
+    },
+    {
+        "company_name": "BGI GENOMICS",
+        "matched_to": "BGI Genomics Co., Ltd.",
+        "matched_symbol": "300676.SZ"
+    },
+    {
+        "company_name": "INNER MONGOLIA MENGDIAN HUANENG THERMAL POWER CORPORATION",
+        "matched_to": "Inner Mongolia MengDian HuaNeng Thermal Power Corporation Limited",
+        "matched_symbol": "600863.SS"
+    },
+    {
+        "company_name": "SANY HEAVY EQUIPMENT INTERNATIONAL HOLDINGS COMPANY",
+        "matched_to": "Sany Heavy Equipment International Holdings Company Limited",
+        "matched_symbol": "0631.HK"
+    },
+    {
+        "company_name": "YIGUO",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "MINTH GROUP",
+        "matched_to": "Minth Group Limited",
+        "matched_symbol": "0425.HK"
+    },
+    {
+        "company_name": "UCAR",
+        "matched_to": "U Power Limited",
+        "matched_symbol": "UCAR"
+    },
+    {
+        "company_name": "UCOMMUNE",
+        "matched_to": "Ucommune International Ltd",
+        "matched_symbol": "UK"
+    },
+    {
+        "company_name": "ISOFTSTONE INFORMATION TECHNOLOGY (GROUP) CO., LTD.",
+        "matched_to": "iSoftStone Information Technology (Group) Co., Ltd.",
+        "matched_symbol": "301236.SZ"
+    },
+    {
+        "company_name": "KUAYUE EXPRESS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "MININGLAMP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "LAOBAIXING PHARMACY CHAIN JOINT STOCK COMPANY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "JIZHONG ENERGY RESOURCES",
+        "matched_to": "Jizhong Energy Resources Co., Ltd.",
+        "matched_symbol": "000937.SZ"
+    },
+    {
+        "company_name": "HARBIN HIGH-TECH (GROUP)",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "HORIZON ROBOTICS",
+        "matched_to": "Horizons Robotics and Automation Index ETF",
+        "matched_symbol": "RBOT-U.TO"
+    },
+    {
+        "company_name": "CLOUDWALK",
+        "matched_to": "CloudWalk Technology Co., Ltd.",
+        "matched_symbol": "688327.SS"
+    },
+    {
+        "company_name": "DU XIAOMAN FINANCIAL",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "NANJING VAZYME BIOTECH CO., LTD.",
+        "matched_to": "Nanjing Vazyme Biotech Co., Ltd.",
+        "matched_symbol": "688105.SS"
+    },
+    {
+        "company_name": "BEIQI FOTON MOTOR",
+        "matched_to": "Beiqi Foton Motor Co.,Ltd.",
+        "matched_symbol": "600166.SS"
+    },
+    {
+        "company_name": "CAMBRICON TECHNOLOGIES CORPORATION LIMITED",
+        "matched_to": "Cambricon Technologies Corporation Limited",
+        "matched_symbol": "688256.SS"
+    },
+    {
+        "company_name": "SHUANGLIANG ECO-ENERGY SYSTEMS",
+        "matched_to": "Shuangliang Eco-Energy Systems Co.,Ltd",
+        "matched_symbol": "600481.SS"
+    },
+    {
+        "company_name": "SHENZHEN SED INDUSTRY",
+        "matched_to": "Shenzhen SED Industry Co., Ltd.",
+        "matched_symbol": "000032.SZ"
+    },
+    {
+        "company_name": "SIMCERE PHARMACEUTICAL GROUP LIMITED",
+        "matched_to": "Simcere Pharmaceutical Group Limited",
+        "matched_symbol": "2096.HK"
+    },
+    {
+        "company_name": "SHANGHAI ANLOGIC INFOTECH CO., LTD.",
+        "matched_to": "Shanghai Anlogic Infotech Co., Ltd.",
+        "matched_symbol": "688107.SS"
+    },
+    {
+        "company_name": "LUXI CHEMICAL GROUP",
+        "matched_to": "Luxi Chemical Group Co., Ltd.",
+        "matched_symbol": "000830.SZ"
+    },
+    {
+        "company_name": "POLY PROPERTY DEVELOPMENT",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ZHEJIANG PROVINCIAL NEW ENERGY INVESTMENT GROUP CO., LTD.",
+        "matched_to": "Zhejiang Provincial New Energy Investment Group Co., Ltd.",
+        "matched_symbol": "600032.SS"
+    },
+    {
+        "company_name": "CHANGSHA JINGJIA MICROELECTRONICS",
+        "matched_to": "Changsha Jingjia Microelectronics Co., Ltd.",
+        "matched_symbol": "300474.SZ"
+    },
+    {
+        "company_name": "FUJIAN KUNCAI MATERIAL TECHNOLOGY",
+        "matched_to": "Fujian Kuncai Material Technology Co., Ltd.",
+        "matched_symbol": "603826.SS"
+    },
+    {
+        "company_name": "ZOTYE AUTOMOBILE CO. LTD",
+        "matched_to": "Zotye Automobile Co., Ltd",
+        "matched_symbol": "000980.SZ"
+    },
+    {
+        "company_name": "ANGANG STEEL COMPANY LIMITED",
+        "matched_to": "Angang Steel Company Limited",
+        "matched_symbol": "ANGGF"
+    },
+    {
+        "company_name": "LONGSHINE TECHNOLOGY",
+        "matched_to": "Longshine Technology Group Co., Ltd.",
+        "matched_symbol": "300682.SZ"
+    },
+    {
+        "company_name": "XIANGTAN ELECTRIC MANUFACTURING",
+        "matched_to": "Xiangtan Electric Manufacturing Co. Ltd.",
+        "matched_symbol": "600416.SS"
+    },
+    {
+        "company_name": "SHENGHE RESOURCES HOLDING CO. LTD",
+        "matched_to": "Shenghe Resources Holding Co., Ltd",
+        "matched_symbol": "600392.SS"
+    },
+    {
+        "company_name": "WESTERN MINING",
+        "matched_to": "Great Western Mining Corporation PLC",
+        "matched_symbol": "8GW.IR"
+    },
+    {
+        "company_name": "ZHAOJIN MINING INDUSTRY COMPANY",
+        "matched_to": "Zhaojin Mining Industry Company Limited",
+        "matched_symbol": "1818.HK"
+    },
+    {
+        "company_name": "TIANFENG SECURITIES",
+        "matched_to": "Tianfeng Securities Co., Ltd.",
+        "matched_symbol": "601162.SS"
+    },
+    {
+        "company_name": "BEIJING ROBOROCK TECHNOLOGY CO., LTD.",
+        "matched_to": "Beijing Roborock Technology Co., Ltd.",
+        "matched_symbol": "688169.SS"
+    },
+    {
+        "company_name": "SOUTHWEST SECURITIES",
+        "matched_to": "Southwest Securities Co., Ltd.",
+        "matched_symbol": "600369.SS"
+    },
+    {
+        "company_name": "PERFECT WORLD",
+        "matched_to": "Perfect World Co., Ltd.",
+        "matched_symbol": "002624.SZ"
+    },
+    {
+        "company_name": "HUBEI JUMPCAN PHARMACEUTICAL",
+        "matched_to": "Hubei Jumpcan Pharmaceutical Co., Ltd.",
+        "matched_symbol": "600566.SS"
+    },
+    {
+        "company_name": "SHANXI TAIGANG STAINLESS STEEL CO., LTD.",
+        "matched_to": "Shanxi Taigang Stainless Steel Co., Ltd.",
+        "matched_symbol": "000825.SZ"
+    },
+    {
+        "company_name": "AIMA TECHNOLOGY GROUP CO., LTD",
+        "matched_to": "AIMA Technology Group CO., LTD",
+        "matched_symbol": "603529.SS"
+    },
+    {
+        "company_name": "ROSHOW TECHNOLOGY",
+        "matched_to": "Roshow Technology Co., Ltd.",
+        "matched_symbol": "002617.SZ"
+    },
+    {
+        "company_name": "SHANDONG SHIDA SHENGHUA CHEMICAL GROUP COMPANY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "GUANGZHOU HAIGE COMMUNICATIONS GROUP COMPANY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CNNC HUA YUAN TITANIUM DIOXIDE CO., LTD",
+        "matched_to": "CNNC Hua Yuan Titanium Dioxide Co., Ltd",
+        "matched_symbol": "002145.SZ"
+    },
+    {
+        "company_name": "XINTE ENERGY",
+        "matched_to": "Xinte Energy Co., Ltd.",
+        "matched_symbol": "1799.HK"
+    },
+    {
+        "company_name": "SHANDONG PHARMACEUTICAL GLASS CO. LTD",
+        "matched_to": "Shandong Pharmaceutical Glass Co., Ltd",
+        "matched_symbol": "600529.SS"
+    },
+    {
+        "company_name": "YIXINTANG PHARMACEUTICAL GROUP",
+        "matched_to": "Yixintang Pharmaceutical Group Co., Ltd.",
+        "matched_symbol": "002727.SZ"
+    },
+    {
+        "company_name": "YANTAI CHANGYU PIONEER WINE COMPANY",
+        "matched_to": "Yantai Changyu Pioneer Wine Company Limited",
+        "matched_symbol": "000869.SZ"
+    },
+    {
+        "company_name": "C&S PAPER",
+        "matched_to": "C&S Paper Co.,Ltd",
+        "matched_symbol": "002511.SZ"
+    },
+    {
+        "company_name": "JIANGXI HONGDU AVIATION INDUSTRY",
+        "matched_to": "Jiangxi Hongdu Aviation Industry Co., Ltd.",
+        "matched_symbol": "600316.SS"
+    },
+    {
+        "company_name": "MIANYANG FULIN PRECISION MACHINING",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CICT MOBILE COMMUNICATION TECHNOLOGY CO., LTD.",
+        "matched_to": "CICT Mobile Communication Technology Co., Ltd.",
+        "matched_symbol": "688387.SS"
+    },
+    {
+        "company_name": "ZHEJIANG XINAN CHEMICAL INDUSTRIAL GROUP",
+        "matched_to": "Zhejiang Xinan Chemical Industrial Group Co.,Ltd",
+        "matched_symbol": "600596.SS"
+    },
+    {
+        "company_name": "LAO FENG XIANG",
+        "matched_to": "Lao Feng Xiang Co., Ltd.",
+        "matched_symbol": "600612.SS"
+    },
+    {
+        "company_name": "3SBIO",
+        "matched_to": "3SBio Inc.",
+        "matched_symbol": "1530.HK"
+    },
+    {
+        "company_name": "LUOYANG XINQIANGLIAN SLEWING BEARING CO., LTD.",
+        "matched_to": "Luoyang Xinqianglian Slewing Bearing Co., Ltd.",
+        "matched_symbol": "300850.SZ"
+    },
+    {
+        "company_name": "NINGBO SANXING MEDICAL ELECTRIC",
+        "matched_to": "Ningbo Sanxing Medical Electric Co.,Ltd.",
+        "matched_symbol": "601567.SS"
+    },
+    {
+        "company_name": "ANHUI JINHE INDUSTRIAL",
+        "matched_to": "Anhui Jinhe Industrial Co.,Ltd.",
+        "matched_symbol": "002597.SZ"
+    },
+    {
+        "company_name": "SHANGHAI WANYE ENTERPRISES",
+        "matched_to": "Shanghai Wanye Enterprises Co.,Ltd",
+        "matched_symbol": "600641.SS"
+    },
+    {
+        "company_name": "CHINASOFT INTERNATIONAL",
+        "matched_to": "Chinasoft International Limited",
+        "matched_symbol": "CFTLF"
+    },
+    {
+        "company_name": "HIMILE MECHANICAL SCIENCE AND TECHNOLOGY (SHANDONG) CO. LTD",
+        "matched_to": "Himile Mechanical Science and Technology (Shandong) Co., Ltd",
+        "matched_symbol": "002595.SZ"
+    },
+    {
+        "company_name": "BANK OF QINGDAO",
+        "matched_to": "Bank of Qingdao Co., Ltd.",
+        "matched_symbol": "4BQ.F"
+    },
+    {
+        "company_name": "RONGSHENG PETROCHEMICAL",
+        "matched_to": "Rongsheng Petrochemical Co., Ltd.",
+        "matched_symbol": "002493.SZ"
+    },
+    {
+        "company_name": "POWER CONSTRUCTION CORPORATION OF CHINA LTD",
+        "matched_to": "Power Construction Corporation of China, Ltd",
+        "matched_symbol": "601669.SS"
+    },
+    {
+        "company_name": "WINGTECH TECHNOLOGY",
+        "matched_to": "Wingtech Technology Co.,Ltd",
+        "matched_symbol": "600745.SS"
+    },
+    {
+        "company_name": "NINESTAR CORPORATION",
+        "matched_to": "Ninestar Corporation",
+        "matched_symbol": "002180.SZ"
+    },
+    {
+        "company_name": "NEW CHINA LIFE INSURANCE COMPANY",
+        "matched_to": "New China Life Insurance Company Ltd.",
+        "matched_symbol": "1336.HK"
+    },
+    {
+        "company_name": "GONGNIU GROUP",
+        "matched_to": "Gongniu Group Co., Ltd.",
+        "matched_symbol": "603195.SS"
+    },
+    {
+        "company_name": "BEIJING ORIENTAL YUHONG WATERPROOF TECHNOLOGY",
+        "matched_to": "Beijing Oriental Yuhong Waterproof Technology Co., Ltd.",
+        "matched_symbol": "002271.SZ"
+    },
+    {
+        "company_name": "YONYOU NETWORK TECHNOLOGY",
+        "matched_to": "Yonyou Network Technology Co.,Ltd.",
+        "matched_symbol": "600588.SS"
+    },
+    {
+        "company_name": "CITIC PACIFIC SPECIAL STEEL GROUP",
+        "matched_to": "Citic Pacific Special Steel Group Co., Ltd.",
+        "matched_symbol": "000708.SZ"
+    },
+    {
+        "company_name": "CHINA GALAXY SECURITIES",
+        "matched_to": "China Galaxy Securities Co., Ltd.",
+        "matched_symbol": "6881.HK"
+    },
+    {
+        "company_name": "XINJIANG TIANSHAN CEMENT",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SHANDONG HUALU-HENGSHENG CHEMICAL",
+        "matched_to": "Shandong Hualu-Hengsheng Chemical Co., Ltd.",
+        "matched_symbol": "600426.SS"
+    },
+    {
+        "company_name": "HUALI INDUSTRIAL GROUP COMPANY LIMITED",
+        "matched_to": "Huali Industrial Group Company Limited",
+        "matched_symbol": "300979.SZ"
+    },
+    {
+        "company_name": "ALUMINUM CORPORATION OF CHINA",
+        "matched_to": "Aluminum Corporation of China Limited",
+        "matched_symbol": "ACHHY"
+    },
+    {
+        "company_name": "CHINA NORTHERN RARE EARTH (GROUP) HIGH-TECH",
+        "matched_to": "China Northern Rare Earth (Group) High-Tech Co.,Ltd",
+        "matched_symbol": "600111.SS"
+    },
+    {
+        "company_name": "SHENWAN HONGYUAN GROUP",
+        "matched_to": "Shenwan Hongyuan Group Co., Ltd.",
+        "matched_symbol": "000166.SZ"
+    },
+    {
+        "company_name": "WILL SEMICONDUCTOR",
+        "matched_to": "Will Semiconductor Co., Ltd.",
+        "matched_symbol": "603501.SS"
+    },
+    {
+        "company_name": "GUANGDONG HAID GROUP",
+        "matched_to": "Guangdong Haid Group Co., Limited",
+        "matched_symbol": "002311.SZ"
+    },
+    {
+        "company_name": "CHINA CSSC HOLDINGS",
+        "matched_to": "China CSSC Holdings Limited",
+        "matched_symbol": "600150.SS"
+    },
+    {
+        "company_name": "CHINA MERCHANTS SHEKOU INDUSTRIAL ZONE HOLDINGS",
+        "matched_to": "China Merchants Shekou Industrial Zone Holdings Co., Ltd.",
+        "matched_symbol": "001979.SZ"
+    },
+    {
+        "company_name": "ENN ENERGY HOLDINGS",
+        "matched_to": "ENN Energy Holdings Limited",
+        "matched_symbol": "2688.HK"
+    },
+    {
+        "company_name": "HENGLI PETROCHEMICAL",
+        "matched_to": "Hengli Petrochemical Co.,Ltd.",
+        "matched_symbol": "600346.SS"
+    },
+    {
+        "company_name": "AECC AVIATION POWER",
+        "matched_to": "AECC Aviation Power Co.,Ltd",
+        "matched_symbol": "600893.SS"
+    },
+    {
+        "company_name": "NAURA TECHNOLOGY GROUP",
+        "matched_to": "NAURA Technology Group Co., Ltd.",
+        "matched_symbol": "002371.SZ"
+    },
+    {
+        "company_name": "GUANGZHOU AUTOMOBILE GROUP",
+        "matched_to": "Guangzhou Automobile Group Co., Ltd.",
+        "matched_symbol": "2238.HK"
+    },
+    {
+        "company_name": "CHINA NATIONAL NUCLEAR POWER",
+        "matched_to": "China National Nuclear Power Co., Ltd.",
+        "matched_symbol": "601985.SS"
+    },
+    {
+        "company_name": "YUNNAN ENERGY NEW MATERIAL",
+        "matched_to": "Yunnan Energy New Material Co., Ltd.",
+        "matched_symbol": "002812.SZ"
+    },
+    {
+        "company_name": "TIANJIN ZHONGHUAN SEMICONDUCTOR",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "AVIC SHENYANG AIRCRAFT COMPANY",
+        "matched_to": "AVIC Shenyang Aircraft Company Limited",
+        "matched_symbol": "600760.SS"
+    },
+    {
+        "company_name": "CHONGQING CHANGAN AUTOMOBILE COMPANY",
+        "matched_to": "Chongqing Changan Automobile Company Limited",
+        "matched_symbol": "000625.SZ"
+    },
+    {
+        "company_name": "SHANGHAI UNITED IMAGING HEALTHCARE CO., LTD.",
+        "matched_to": "Shanghai United Imaging Healthcare Co., Ltd.",
+        "matched_symbol": "688271.SS"
+    },
+    {
+        "company_name": "YUM CHINA HOLDINGS",
+        "matched_to": "Yum China Holdings, Inc.",
+        "matched_symbol": "YUMC"
+    },
+    {
+        "company_name": "AIR CHINA",
+        "matched_to": "Air China Limited",
+        "matched_symbol": "0753.HK"
+    },
+    {
+        "company_name": "SHAANXI COAL INDUSTRY COMPANY",
+        "matched_to": "Shaanxi Coal Industry Company Limited",
+        "matched_symbol": "601225.SS"
+    },
+    {
+        "company_name": "XIAOMI CORPORATION",
+        "matched_to": "Xiaomi Corporation",
+        "matched_symbol": "1810.HK"
+    },
+    {
+        "company_name": "KUAISHOU TECHNOLOCY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "HANGZHOU HIKVISION DIGITAL TECHNOLOGY",
+        "matched_to": "Hangzhou Hikvision Digital Technology Co., Ltd.",
+        "matched_symbol": "002415.SZ"
+    },
+    {
+        "company_name": "S.F. HOLDING",
+        "matched_to": "S.F. Holding Co., Ltd.",
+        "matched_symbol": "002352.SZ"
+    },
+    {
+        "company_name": "AIER EYE HOSPITAL GROUP",
+        "matched_to": "Aier Eye Hospital Group Co., Ltd.",
+        "matched_symbol": "300015.SZ"
+    },
+    {
+        "company_name": "GREE ELECTRIC APPLIANCES",
+        "matched_to": "Gree Electric Appliances, Inc. of Zhuhai",
+        "matched_symbol": "000651.SZ"
+    },
+    {
+        "company_name": "NETEASE",
+        "matched_to": "NetEase, Inc.",
+        "matched_symbol": "NTES"
+    },
+    {
+        "company_name": "BANK OF NINGBO",
+        "matched_to": "Bank of Ningbo Co., Ltd.",
+        "matched_symbol": "002142.SZ"
+    },
+    {
+        "company_name": "CHINA VANKE",
+        "matched_to": "China Vanke Co., Ltd.",
+        "matched_symbol": "000002.SZ"
+    },
+    {
+        "company_name": "PETROCHINA COMPANY",
+        "matched_to": "PetroChina Company Limited",
+        "matched_symbol": "0857.HK"
+    },
+    {
+        "company_name": "ONEWO INC.",
+        "matched_to": "Onewo Inc.",
+        "matched_symbol": "2602.HK"
+    },
+    {
+        "company_name": "TAL EDUCATION GROUP",
+        "matched_to": "TAL Education Group",
+        "matched_symbol": "TAL"
+    },
+    {
+        "company_name": "BEIJING UNITED INFORMATION TECHNOLOGY",
+        "matched_to": "Beijing United Information Technology Co.,Ltd.",
+        "matched_symbol": "603613.SS"
+    },
+    {
+        "company_name": "SICHUAN KELUN PHARMACEUTICAL",
+        "matched_to": "Sichuan Kelun Pharmaceutical Co., Ltd.",
+        "matched_symbol": "002422.SZ"
+    },
+    {
+        "company_name": "ZHEJIANG JUHUA",
+        "matched_to": "Zhejiang Juhua Co., Ltd.",
+        "matched_symbol": "600160.SS"
+    },
+    {
+        "company_name": "CHONGQING HONGJIU FRUIT CO., LIMITED",
+        "matched_to": "Chongqing Hongjiu Fruit Co., Limited",
+        "matched_symbol": "6689.HK"
+    },
+    {
+        "company_name": "CCOOP GROUP CO. LTD",
+        "matched_to": "Ccoop Group Co., Ltd",
+        "matched_symbol": "000564.SZ"
+    },
+    {
+        "company_name": "SUZHOU TA&A ULTRA CLEAN TECHNOLOGY",
+        "matched_to": "Art",
+        "matched_symbol": "^ART.REGA"
+    },
+    {
+        "company_name": "SHANGHAI PRECISE PACKAGING",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "GUANGDONG WEIHUA CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHINALIN SECURITIES",
+        "matched_to": "ChinaLin Securities Co., Ltd",
+        "matched_symbol": "002945.SZ"
+    },
+    {
+        "company_name": "WUHAN GUIDE INFRARED",
+        "matched_to": "Wuhan Guide Infrared Co., Ltd.",
+        "matched_symbol": "002414.SZ"
+    },
+    {
+        "company_name": "JASON FURNITURE (HANGZHOU)",
+        "matched_to": "Jason Furniture (Hangzhou) Co.,Ltd.",
+        "matched_symbol": "603816.SS"
+    },
+    {
+        "company_name": "SINOMA SCIENCE & TECHNOLOGY",
+        "matched_to": "Sinoma Science & Technology Co.,Ltd.",
+        "matched_symbol": "002080.SZ"
+    },
+    {
+        "company_name": "SHANGHAI LUJIAZUI FINANCE & TRADE ZONE DEVELOPMENT",
+        "matched_to": "Shanghai Lujiazui Finance & Trade Zone Development Co.,Ltd.",
+        "matched_symbol": "600663.SS"
+    },
+    {
+        "company_name": "SHANXI MEIJIN ENERGY",
+        "matched_to": "Shanxi Meijin Energy Co.,Ltd.",
+        "matched_symbol": "000723.SZ"
+    },
+    {
+        "company_name": "WUHU SANQI INTERACTIVE ENTERTAINMENT NETWORK TECHNOLOGY GROUP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "GEM CO. LTD",
+        "matched_to": "Gemvaxlink Co., Ltd.",
+        "matched_symbol": "064800.KQ"
+    },
+    {
+        "company_name": "SHENNAN CIRCUIT COMPANY",
+        "matched_to": "Shennan Circuit Company Limited",
+        "matched_symbol": "002916.SZ"
+    },
+    {
+        "company_name": "NINGBO SHANSHAN",
+        "matched_to": "Ningbo Shanshan Co.,Ltd.",
+        "matched_symbol": "600884.SS"
+    },
+    {
+        "company_name": "CHANGZHOU XINGYU AUTOMOTIVE LIGHTINGSYSTEM",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ZHONGJIN GOLD",
+        "matched_to": "Zhongjin Gold Corp.,Ltd",
+        "matched_symbol": "600489.SS"
+    },
+    {
+        "company_name": "CHINA STATE CONSTRUCTION INTERNATIONAL HOLDINGS",
+        "matched_to": "China State Construction International Holdings Limited",
+        "matched_symbol": "3311.HK"
+    },
+    {
+        "company_name": "JIANGSU PACIFIC QUARTZ CO. LTD",
+        "matched_to": "Jiangsu Pacific Quartz Co., Ltd",
+        "matched_symbol": "603688.SS"
+    },
+    {
+        "company_name": "ZANGGE HOLDING COMPANY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SUNWODA ELECTRONIC",
+        "matched_to": "Sunwoda Electronic Co.,Ltd",
+        "matched_symbol": "300207.SZ"
+    },
+    {
+        "company_name": "YUNDA HOLDING",
+        "matched_to": "YUNDA Holding Co., Ltd.",
+        "matched_symbol": "002120.SZ"
+    },
+    {
+        "company_name": "DATANG INTERNATIONAL POWER GENERATION",
+        "matched_to": "Datang International Power Generation Co., Ltd.",
+        "matched_symbol": "0991.HK"
+    },
+    {
+        "company_name": "SHANGHAI FUDAN MICROELECTRONICS GROUP COMPANY",
+        "matched_to": "Shanghai Fudan Microelectronics Group Company Limited",
+        "matched_symbol": "1385.HK"
+    },
+    {
+        "company_name": "FULL TRUCK ALLIANCE",
+        "matched_to": "Full Truck Alliance Co. Ltd.",
+        "matched_symbol": "YMM"
+    },
+    {
+        "company_name": "DALI FOODS GROUP COMPANY",
+        "matched_to": "Dali Foods Group Company Limited",
+        "matched_symbol": "3799.HK"
+    },
+    {
+        "company_name": "LUCKIN COFFEE",
+        "matched_to": "Luckin Coffee Inc.",
+        "matched_symbol": "LKNCY"
+    },
+    {
+        "company_name": "WESTERN SUPERCONDUCTING TECHNOLOGIES",
+        "matched_to": "Western Superconducting Technologies Co., Ltd.",
+        "matched_symbol": "688122.SS"
+    },
+    {
+        "company_name": "ZHEJIANG ZHENENG ELECTRIC POWER",
+        "matched_to": "Zhejiang Zheneng Electric Power Co., Ltd.",
+        "matched_symbol": "600023.SS"
+    },
+    {
+        "company_name": "GREENLAND HOLDINGS CORPORATION",
+        "matched_to": "Greenland Holdings Corporation Limited",
+        "matched_symbol": "600606.SS"
+    },
+    {
+        "company_name": "SKSHU PAINT",
+        "matched_to": "SKSHU Paint Co.,Ltd.",
+        "matched_symbol": "603737.SS"
+    },
+    {
+        "company_name": "PROYA COSMETICS",
+        "matched_to": "Proya Cosmetics Co.,Ltd.",
+        "matched_symbol": "603605.SS"
+    },
+    {
+        "company_name": "ECOVACS ROBOTICS",
+        "matched_to": "Ecovacs Robotics Co., Ltd.",
+        "matched_symbol": "603486.SS"
+    },
+    {
+        "company_name": "CHINA RAILWAY SIGNAL & COMMUNICATION CORPORATION",
+        "matched_to": "China Railway Signal & Communication Corporation Limited",
+        "matched_symbol": "3969.HK"
+    },
+    {
+        "company_name": "CSC FINANCIAL",
+        "matched_to": "CSC Financial Co., Ltd.",
+        "matched_symbol": "601066.SS"
+    },
+    {
+        "company_name": "ASYMCHEM LABORATORIES (TIANJIN)",
+        "matched_to": "Asymchem Laboratories (Tianjin) Co., Ltd.",
+        "matched_symbol": "002821.SZ"
+    },
+    {
+        "company_name": "SHENGJING BANK",
+        "matched_to": "Shengjing Bank Co Ltd",
+        "matched_symbol": "6SY.BE"
+    },
+    {
+        "company_name": "ANHUI YINGJIA DISTILLERY",
+        "matched_to": "Anhui Yingjia Distillery Co., Ltd.",
+        "matched_symbol": "603198.SS"
+    },
+    {
+        "company_name": "MEICAI",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SHANGHAI JUNSHI BIOSCIENCES",
+        "matched_to": "Shanghai Junshi Biosciences Co., Ltd.",
+        "matched_symbol": "688180.SS"
+    },
+    {
+        "company_name": "HITHINK ROYALFLUSH INFORMATION NETWORK",
+        "matched_to": "Hithink RoyalFlush Information Network Co., Ltd.",
+        "matched_symbol": "300033.SZ"
+    },
+    {
+        "company_name": "SHANGHAI JIN JIANG INTERNATIONAL HOTELS DEVELOPMENT",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SHANGHAI RURAL COMMERCIAL BANK CO., LTD.",
+        "matched_to": "Shanghai Rural Commercial Bank Co., Ltd.",
+        "matched_symbol": "601825.SS"
+    },
+    {
+        "company_name": "MANGO EXCELLENT MEDIA",
+        "matched_to": "Mango Excellent Media Co., Ltd.",
+        "matched_symbol": "300413.SZ"
+    },
+    {
+        "company_name": "WANT WANT CHINA HOLDINGS",
+        "matched_to": "Want Want China Holdings Limited",
+        "matched_symbol": "0151.HK"
+    },
+    {
+        "company_name": "VIPSHOP HOLDINGS",
+        "matched_to": "Vipshop Holdings Limited",
+        "matched_symbol": "VIPS"
+    },
+    {
+        "company_name": "CHINA ZHESHANG BANK CO. LTD",
+        "matched_to": "China Zheshang Bank Co Ltd",
+        "matched_symbol": "6CZ.SG"
+    },
+    {
+        "company_name": "GOERTEK",
+        "matched_to": "Goertek Inc.",
+        "matched_symbol": "002241.SZ"
+    },
+    {
+        "company_name": "GUANGHUI ENERGY",
+        "matched_to": "Guanghui Energy Co., Ltd.",
+        "matched_symbol": "600256.SS"
+    },
+    {
+        "company_name": "COSCO SHIPPING ENERGY TRANSPORTATION",
+        "matched_to": "COSCO SHIPPING Energy Transportation Co., Ltd.",
+        "matched_symbol": "1138.HK"
+    },
+    {
+        "company_name": "CHONGQING BREWERY",
+        "matched_to": "Chongqing Brewery Co., Ltd.",
+        "matched_symbol": "600132.SS"
+    },
+    {
+        "company_name": "KINGDEE INTERNATIONAL SOFTWARE GROUP COMPANY",
+        "matched_to": "Kingdee International Software Group Company Limited",
+        "matched_symbol": "0268.HK"
+    },
+    {
+        "company_name": "BLOOMAGE BIOTECHNOLOGY CORPORATION",
+        "matched_to": "Bloomage BioTechnology Corporation Limited",
+        "matched_symbol": "688363.SS"
+    },
+    {
+        "company_name": "PING AN HEALTHCARE TECHNOLOGY",
+        "matched_to": "Ping An Healthcare and Technology Company Limited",
+        "matched_symbol": "1XZ.SG"
+    },
+    {
+        "company_name": "JIANGSU KING'S LUCK BREWERY JOINT-STOCK",
+        "matched_to": "Jiangsu King's Luck Brewery Joint-Stock Co.,Ltd.",
+        "matched_symbol": "603369.SS"
+    },
+    {
+        "company_name": "AVARY HOLDING (SHENZHEN)",
+        "matched_to": "Avary Holding(Shenzhen)Co., Limited",
+        "matched_symbol": "002938.SZ"
+    },
+    {
+        "company_name": "BILIBILI",
+        "matched_to": "Bilibili Inc.",
+        "matched_symbol": "BILI"
+    },
+    {
+        "company_name": "WUXI LEAD INTELLIGENT EQUIPMENT",
+        "matched_to": "Wuxi Lead Intelligent Equipment CO.,LTD.",
+        "matched_symbol": "300450.SZ"
+    },
+    {
+        "company_name": "XINYI SOLAR HOLDINGS",
+        "matched_to": "Xinyi Solar Holdings Limited",
+        "matched_symbol": "0968.HK"
+    },
+    {
+        "company_name": "LOONGSON TECHNOLOGY CORPORATION LIMITED",
+        "matched_to": "Loongson Technology Corporation Limited",
+        "matched_symbol": "688047.SS"
+    },
+    {
+        "company_name": "YINTAI GOLD",
+        "matched_to": "Yintai Gold Co., Ltd.",
+        "matched_symbol": "000975.SZ"
+    },
+    {
+        "company_name": "DONGXING SECURITIES COMPANY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SHANDONG SINOCERA FUNCTIONAL MATERIAL",
+        "matched_to": "Shandong Sinocera Functional Material Co., Ltd.",
+        "matched_symbol": "300285.SZ"
+    },
+    {
+        "company_name": "HEBEI HENGSHUI LAOBAIGAN LIQUOR",
+        "matched_to": "Hebei Hengshui Laobaigan Liquor Co., Ltd.",
+        "matched_symbol": "600559.SS"
+    },
+    {
+        "company_name": "JAFRON BIOMEDICAL",
+        "matched_to": "Jafron Biomedical Co.,Ltd.",
+        "matched_symbol": "300529.SZ"
+    },
+    {
+        "company_name": "WUHAN ZHONGSHANG COMMERCIAL GROUP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "KINGFA SCI. & TECH",
+        "matched_to": "Kingfa Science & Technology (India) Limited",
+        "matched_symbol": "KINGFA.NS"
+    },
+    {
+        "company_name": "SHANGHAI ELECTRIC POWER COMPANY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SICHUAN NEW ENERGY POWER COMPANY LIMITED",
+        "matched_to": "Sichuan New Energy Power Company Limited",
+        "matched_symbol": "000155.SZ"
+    },
+    {
+        "company_name": "SHENZHEN SENIOR TECHNOLOGY MATERIAL CO. LTD",
+        "matched_to": "Shenzhen Senior Technology Material Co., LTD",
+        "matched_symbol": "300568.SZ"
+    },
+    {
+        "company_name": "HUBEI ENERGY GROUP",
+        "matched_to": "Hubei Energy Group Co., Ltd.",
+        "matched_symbol": "000883.SZ"
+    },
+    {
+        "company_name": "YANGZHOU YANGJIE ELECTRONIC TECHNOLOGY",
+        "matched_to": "Yangzhou Yangjie Electronic Technology Co., Ltd.",
+        "matched_symbol": "300373.SZ"
+    },
+    {
+        "company_name": "WESTERN SECURITIES",
+        "matched_to": "Western Securities Co., Ltd.",
+        "matched_symbol": "002673.SZ"
+    },
+    {
+        "company_name": "SINOPEC SHANGHAI PETROCHEMICAL COMPANY",
+        "matched_to": "Sinopec Shanghai Petrochemical Company Limited",
+        "matched_symbol": "0338.HK"
+    },
+    {
+        "company_name": "ZHEJIANG CHINA COMMODITIES CITY GROUP",
+        "matched_to": "Zhejiang China Commodities City Group Co., Ltd.",
+        "matched_symbol": "600415.SS"
+    },
+    {
+        "company_name": "CECEP SOLAR ENERGY",
+        "matched_to": "CECEP Solar Energy Co.,Ltd.",
+        "matched_symbol": "000591.SZ"
+    },
+    {
+        "company_name": "COSCO SHIPPING DEVELOPMENT",
+        "matched_to": "COSCO SHIPPING Development Co., Ltd.",
+        "matched_symbol": "CITAF"
+    },
+    {
+        "company_name": "VIPKID",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SINOCELLTECH GROUP LIMITED",
+        "matched_to": "Sinocelltech Group Limited",
+        "matched_symbol": "688520.SS"
+    },
+    {
+        "company_name": "GUIZHOU SPACE APPLIANCE",
+        "matched_to": "Guizhou Space Appliance Co., LTD",
+        "matched_symbol": "002025.SZ"
+    },
+    {
+        "company_name": "ZHEJIANG HUAHAI PHARMACEUTICAL",
+        "matched_to": "Zhejiang Huahai Pharmaceutical Co., Ltd.",
+        "matched_symbol": "600521.SS"
+    },
+    {
+        "company_name": "ANDON HEALTH",
+        "matched_to": "Andon Health Co., Ltd.",
+        "matched_symbol": "002432.SZ"
+    },
+    {
+        "company_name": "FUZHOU ROCKCHIP ELECTRONICS CO.,LTD.",
+        "matched_to": "Rockchip Electronics Co., Ltd.",
+        "matched_symbol": "603893.SS"
+    },
+    {
+        "company_name": "SHANXI COAL INTERNATIONAL ENERGY GROUP",
+        "matched_to": "Shanxi Coal International Energy Group Co.,Ltd",
+        "matched_symbol": "600546.SS"
+    },
+    {
+        "company_name": "SHANGHAI YUYUAN TOURIST MART (GROUP)",
+        "matched_to": "Shanghai Yuyuan Tourist Mart (Group) Co., Ltd.",
+        "matched_symbol": "600655.SS"
+    },
+    {
+        "company_name": "UNI-PRESIDENT CHINA HOLDINGS LTD",
+        "matched_to": "Uni-President China Holdings Ltd",
+        "matched_symbol": "0220.HK"
+    },
+    {
+        "company_name": "JONJEE HI-TECH INDUSTRIAL & COMMERCIAL HOLDING",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "KINGSOFT CORPORATION",
+        "matched_to": "Kingsoft Corporation Limited",
+        "matched_symbol": "3888.HK"
+    },
+    {
+        "company_name": "NINGBO RONBAY NEW ENERGY TECHNOLOGY",
+        "matched_to": "Ningbo Ronbay New Energy Technology Co., Ltd.",
+        "matched_symbol": "688005.SS"
+    },
+    {
+        "company_name": "BETHEL AUTOMOTIVE SAFETY SYSTEMS CO. LTD",
+        "matched_to": "Bethel Automotive Safety Systems Co., Ltd",
+        "matched_symbol": "603596.SS"
+    },
+    {
+        "company_name": "GUANGZHOU RURAL COMMERCIAL BANK",
+        "matched_to": null,
+        "matched_symbol": "CNE100002FR4.SG"
+    },
+    {
+        "company_name": "KANGMEI PHARMACEUTICAL",
+        "matched_to": "Kangmei Pharmaceutical Co., Ltd.",
+        "matched_symbol": "600518.SS"
+    },
+    {
+        "company_name": "SIEYUAN ELECTRIC",
+        "matched_to": "Sieyuan Electric Co., Ltd.",
+        "matched_symbol": "002028.SZ"
+    },
+    {
+        "company_name": "BEIJING SHIJI INFORMATION TECHNOLOGY",
+        "matched_to": "Beijing Shiji Information Technology Co., Ltd.",
+        "matched_symbol": "002153.SZ"
+    },
+    {
+        "company_name": "CHINA POWER INTERNATIONAL DEVELOPMENT",
+        "matched_to": "China Power International Development Limited",
+        "matched_symbol": "2380.HK"
+    },
+    {
+        "company_name": "DALIAN PORT (PDA) COMPANY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "TONGLING NONFERROUS METALS GROUP CO.,LTD.",
+        "matched_to": "Tongling Nonferrous Metals Group Co.,Ltd.",
+        "matched_symbol": "000630.SZ"
+    },
+    {
+        "company_name": "QINGDAO PORT INTERNATIONAL",
+        "matched_to": "Qingdao Port International Co., Ltd.",
+        "matched_symbol": "6198.HK"
+    },
+    {
+        "company_name": "BEIJING DABEINONG TECHNOLOGY GROUP",
+        "matched_to": "Beijing Dabeinong Technology Group Co.,Ltd.",
+        "matched_symbol": "002385.SZ"
+    },
+    {
+        "company_name": "DAWNING INFORMATION INDUSTRY",
+        "matched_to": "Dawning Information Industry Co., Ltd.",
+        "matched_symbol": "603019.SS"
+    },
+    {
+        "company_name": "MEIHUA HOLDINGS GROUP CO.,LTD",
+        "matched_to": "MeiHua Holdings Group Co.,Ltd",
+        "matched_symbol": "600873.SS"
+    },
+    {
+        "company_name": "CHINA SHIPBUILDING INDUSTRY GROUP POWER",
+        "matched_to": "China Shipbuilding Industry Group Power Co., Ltd.",
+        "matched_symbol": "600482.SS"
+    },
+    {
+        "company_name": "INGENIC SEMICONDUCTOR",
+        "matched_to": "Ingenic Semiconductor Co.,Ltd.",
+        "matched_symbol": "300223.SZ"
+    },
+    {
+        "company_name": "INNER MONGOLIA JUNZHENG ENERGY & CHEMICAL GROUP CO.,LTD.",
+        "matched_to": "Inner Mongolia Junzheng Energy & Chemical Group Co.,Ltd.",
+        "matched_symbol": "601216.SS"
+    },
+    {
+        "company_name": "360 FINANCE",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "JIANGSU DINGSHENG NEW MATERIAL JOINT-STOCK",
+        "matched_to": "Jiangsu Dingsheng New Material Joint-Stock Co.,Ltd",
+        "matched_symbol": "603876.SS"
+    },
+    {
+        "company_name": "HUITONGDA NETWORK CO., LTD.",
+        "matched_to": "Huitongda Network Co., Ltd.",
+        "matched_symbol": "9878.HK"
+    },
+    {
+        "company_name": "TIANDI SCIENCE & TECHNOLOGY CO.LTD",
+        "matched_to": "Tiandi Science & Technology Co.Ltd",
+        "matched_symbol": "600582.SS"
+    },
+    {
+        "company_name": "CHINA MEIDONG AUTO HOLDINGS",
+        "matched_to": "China MeiDong Auto Holdings Limited",
+        "matched_symbol": "55M.SG"
+    },
+    {
+        "company_name": "BAIYIN NONFERROUS GROUP CO., LTD.",
+        "matched_to": "Baiyin Nonferrous Group Co., Ltd.",
+        "matched_symbol": "601212.SS"
+    },
+    {
+        "company_name": "ANHUI ZHONGDING SEALING PARTS",
+        "matched_to": "Anhui Zhongding Sealing Parts Co., Ltd.",
+        "matched_symbol": "000887.SZ"
+    },
+    {
+        "company_name": "ANHUI GUANGXIN AGROCHEMICAL",
+        "matched_to": "Anhui Guangxin Agrochemical Co., Ltd.",
+        "matched_symbol": "603599.SS"
+    },
+    {
+        "company_name": "WEILONG DELICIOUS GLOBAL HOLDINGS LTD",
+        "matched_to": "WEILONG Delicious Global Holdings Ltd",
+        "matched_symbol": "9985.HK"
+    },
+    {
+        "company_name": "GUIZHOU ZHENHUA E-CHEM INC.",
+        "matched_to": "Guizhou Zhenhua E-chem Inc.",
+        "matched_symbol": "688707.SS"
+    },
+    {
+        "company_name": "RED STAR MACALLINE GROUP CORPORATION",
+        "matched_to": "Red Star Macalline Group Corporation Ltd.",
+        "matched_symbol": "601828.SS"
+    },
+    {
+        "company_name": "BAOJI TITANIUM INDUSTRY",
+        "matched_to": "Baoji Titanium Industry Co., Ltd.",
+        "matched_symbol": "600456.SS"
+    },
+    {
+        "company_name": "WUHAN DR LASER TECHNOLOGYLTD",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "HUAFA INDUSTRIAL.ZHUHAI",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "QINGDAO HAIER BIOMEDICAL",
+        "matched_to": "Qingdao Haier Biomedical Co., Ltd",
+        "matched_symbol": "688139.SS"
+    },
+    {
+        "company_name": "APT MEDICAL INC.",
+        "matched_to": "APT Medical Inc.",
+        "matched_symbol": "688617.SS"
+    },
+    {
+        "company_name": "DATONG COAL INDUSTRY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SUNING.COM",
+        "matched_to": "Suning.com Co., Ltd.",
+        "matched_symbol": "002024.SZ"
+    },
+    {
+        "company_name": "CSSC OFFSHORE & MARINE ENGINEERING (GROUP) COMPANY",
+        "matched_to": "CSSC Offshore & Marine Engineering (Group) Company Limited",
+        "matched_symbol": "0317.HK"
+    },
+    {
+        "company_name": "XIANHE",
+        "matched_to": "Xianheng International Science&Technology Co., Ltd.",
+        "matched_symbol": "605056.SS"
+    },
+    {
+        "company_name": "SHANGHAI JAHWA UNITED",
+        "matched_to": "Shanghai Jahwa United Co., Ltd.",
+        "matched_symbol": "600315.SS"
+    },
+    {
+        "company_name": "BANK OF JIUJIANG",
+        "matched_to": null,
+        "matched_symbol": "CNE1000031G2.SG"
+    },
+    {
+        "company_name": "ZHONGYUAN BANK",
+        "matched_to": "Zhongyuan Bank Co., Ltd.",
+        "matched_symbol": "1216.HK"
+    },
+    {
+        "company_name": "PORTON PHARMA SOLUTIONS",
+        "matched_to": "Porton Pharma Solutions Ltd.",
+        "matched_symbol": "300363.SZ"
+    },
+    {
+        "company_name": "SHANDONG WEIGAO ORTHOPAEDIC DEVICE CO., LTD",
+        "matched_to": "Shandong Weigao Orthopaedic Device Co., Ltd",
+        "matched_symbol": "688161.SS"
+    },
+    {
+        "company_name": "WINNING HEALTH TECHNOLOGY GROUP",
+        "matched_to": "Winning Health Technology Group Co., Ltd.",
+        "matched_symbol": "300253.SZ"
+    },
+    {
+        "company_name": "ZUOYEBANG",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "HUITONGDA",
+        "matched_to": "Huitongda Network Co., Ltd.",
+        "matched_symbol": "9878.HK"
+    },
+    {
+        "company_name": "HIMALAYA",
+        "matched_to": "PT Himalaya Energi Perkasa Tbk",
+        "matched_symbol": "HADE.JK"
+    },
+    {
+        "company_name": "NINGBO XUSHENG AUTO TECHNOLOGY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHINA UMS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "TANGSHAN JIDONG CEMENT",
+        "matched_to": "Tangshan Jidong Cement Co.,Ltd.",
+        "matched_symbol": "000401.SZ"
+    },
+    {
+        "company_name": "BLUESTAR ADISSEO COMPANY",
+        "matched_to": "Bluestar Adisseo Company",
+        "matched_symbol": "600299.SS"
+    },
+    {
+        "company_name": "JIANGSU NHWA PHARMACEUTICAL CO. LTD",
+        "matched_to": "Jiangsu Nhwa Pharmaceutical Co., LTD",
+        "matched_symbol": "002262.SZ"
+    },
+    {
+        "company_name": "EYEBRIGHT MEDICAL TECHNOLOGY (BEIJING) CO., LTD.",
+        "matched_to": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+        "matched_symbol": "688050.SS"
+    },
+    {
+        "company_name": "BBMG CORPORATION",
+        "matched_to": "BBMG Corporation",
+        "matched_symbol": "2009.HK"
+    },
+    {
+        "company_name": "HUOLINHE OPENCUT COAL INDUSTRY CORPORATION OF INNER MONGOLIA",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "BEIJING HUAFENG TEST & CONTROL TECHNOLOGY CO., LTD.",
+        "matched_to": "Beijing Huafeng Test & Control Technology Co., Ltd.",
+        "matched_symbol": "688200.SS"
+    },
+    {
+        "company_name": "G-BITS NETWORK TECHNOLOGY (XIAMEN)",
+        "matched_to": "G-bits Network Technology (Xiamen) Co., Ltd.",
+        "matched_symbol": "603444.SS"
+    },
+    {
+        "company_name": "SHANDONG WEIFANG RAINBOW CHEMICAL CO., LTD",
+        "matched_to": "Shandong Weifang Rainbow Chemical Co., Ltd",
+        "matched_symbol": "301035.SZ"
+    },
+    {
+        "company_name": "GRG BANKING EQUIPMENT",
+        "matched_to": "GRG Banking Equipment Co., Ltd.",
+        "matched_symbol": "002152.SZ"
+    },
+    {
+        "company_name": "HANGZHOU GREAT STAR INDUSTRIAL",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "POP MART",
+        "matched_to": "Pop Mart International Group Limited",
+        "matched_symbol": "9992.HK"
+    },
+    {
+        "company_name": "BEIJING CAPITAL INTERNATIONAL AIRPORT COMPANY",
+        "matched_to": "Beijing Capital International Airport Company Limited",
+        "matched_symbol": "BJCHY"
+    },
+    {
+        "company_name": "SINOTRANS",
+        "matched_to": "Sinotrans Limited",
+        "matched_symbol": "0598.HK"
+    },
+    {
+        "company_name": "BEIJING ENLIGHT MEDIA",
+        "matched_to": "Beijing Enlight Media Co., Ltd.",
+        "matched_symbol": "300251.SZ"
+    },
+    {
+        "company_name": "OFFSHORE OIL ENGINEERING",
+        "matched_to": "Offshore Oil Engineering Co.,Ltd",
+        "matched_symbol": "600583.SS"
+    },
+    {
+        "company_name": "CHINA HAINAN RUBBER INDUSTRY GROUP CO., LTD.",
+        "matched_to": "China Hainan Rubber Industry Group Co., Ltd.",
+        "matched_symbol": "601118.SS"
+    },
+    {
+        "company_name": "ESTUN AUTOMATION CO. LTD",
+        "matched_to": "Estun Automation Co., Ltd",
+        "matched_symbol": "002747.SZ"
+    },
+    {
+        "company_name": "JIANGSU RUITAI NEW ENERGY MATERIALS CO., LTD.",
+        "matched_to": "Jiangsu Ruitai New Energy Materials Co., Ltd.",
+        "matched_symbol": "301238.SZ"
+    },
+    {
+        "company_name": "BOYA BIO-PHARMACEUTICAL GROUP",
+        "matched_to": "China Resources Boya Bio-pharmaceutical Group Co., Ltd.",
+        "matched_symbol": "300294.SZ"
+    },
+    {
+        "company_name": "CNHTC JINAN TRUCK",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ANHUI GOLDEN SEED WINERY",
+        "matched_to": "Anhui Golden Seed Winery Co., Ltd.",
+        "matched_symbol": "600199.SS"
+    },
+    {
+        "company_name": "JIANGSU CNANO TECHNOLOGY",
+        "matched_to": "Jiangsu Cnano Technology Co., Ltd.",
+        "matched_symbol": "688116.SS"
+    },
+    {
+        "company_name": "JILIN AODONG PHARMACEUTICAL GROUP",
+        "matched_to": "Jilin Aodong Pharmaceutical Group Co., Ltd.",
+        "matched_symbol": "000623.SZ"
+    },
+    {
+        "company_name": "CHINA COMMUNICATIONS SERVICES CORPORATION",
+        "matched_to": "China Communications Services Corporation Limited",
+        "matched_symbol": "0552.HK"
+    },
+    {
+        "company_name": "SHANDONGDENGHAI SEEDS",
+        "matched_to": "ShanDongDenghai Seeds Co.,Ltd",
+        "matched_symbol": "002041.SZ"
+    },
+    {
+        "company_name": "SEALAND SECURITIES",
+        "matched_to": "Sealand Securities Co., Ltd.",
+        "matched_symbol": "000750.SZ"
+    },
+    {
+        "company_name": "NANJING TANKER CORPORATION",
+        "matched_to": "Nanjing Tanker Corporation",
+        "matched_symbol": "601975.SS"
+    },
+    {
+        "company_name": "CHINA MERCHANTS BANK",
+        "matched_to": "China Merchants Bank Co., Ltd.",
+        "matched_symbol": "3968.HK"
+    },
+    {
+        "company_name": "BEIJING KINGSOFT OFFICE SOFTWARE",
+        "matched_to": "Beijing Kingsoft Office Software, Inc.",
+        "matched_symbol": "688111.SS"
+    },
+    {
+        "company_name": "CHINA MOBILE",
+        "matched_to": "China Mobile Limited",
+        "matched_symbol": "0941.HK"
+    },
+    {
+        "company_name": "HANGZHOU FIRST APPLIED MATERIAL",
+        "matched_to": "Hangzhou First Applied Material Co., Ltd.",
+        "matched_symbol": "603806.SS"
+    },
+    {
+        "company_name": "CHINA RESOURCES MIXC LIFESTYLE SERVICES LIMITED",
+        "matched_to": "China Resources Mixc Lifestyle Services Limited",
+        "matched_symbol": "1209.HK"
+    },
+    {
+        "company_name": "SANAN OPTOELECTRONICS",
+        "matched_to": "Sanan Optoelectronics Co.,Ltd",
+        "matched_symbol": "600703.SS"
+    },
+    {
+        "company_name": "CHINA SOUTHERN AIRLINES COMPANY",
+        "matched_to": "China Southern Airlines Company Limited",
+        "matched_symbol": "600029.SS"
+    },
+    {
+        "company_name": "OPPEIN HOME GROUP",
+        "matched_to": "Oppein Home Group Inc.",
+        "matched_symbol": "603833.SS"
+    },
+    {
+        "company_name": "HENAN SHUANGHUI INVESTMENT & DEVELOPMENT",
+        "matched_to": "Henan Shuanghui Investment & Development Co.,Ltd.",
+        "matched_symbol": "000895.SZ"
+    },
+    {
+        "company_name": "FUYAO GLASS INDUSTRY GROUP",
+        "matched_to": "Fuyao Glass Industry Group Co., Ltd.",
+        "matched_symbol": "600660.SS"
+    },
+    {
+        "company_name": "COUNTRY GARDEN HOLDINGS COMPANY",
+        "matched_to": "Country Garden Holdings Company Limited",
+        "matched_symbol": "2007.HK"
+    },
+    {
+        "company_name": "SUZHOU MAXWELL TECHNOLOGIES",
+        "matched_to": "Suzhou Maxwell Technologies Co., Ltd.",
+        "matched_symbol": "300751.SZ"
+    },
+    {
+        "company_name": "MONTAGE TECHNOLOGY GROUP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "HUA XIA BANK",
+        "matched_to": "Hua Xia Bank Co., Limited",
+        "matched_symbol": "600015.SS"
+    },
+    {
+        "company_name": "GUANGZHOU TINCI MATERIALS TECHNOLOGY",
+        "matched_to": "Guangzhou Tinci Materials Technology Co., Ltd.",
+        "matched_symbol": "002709.SZ"
+    },
+    {
+        "company_name": "HOSHINE SILICON INDUSTRY",
+        "matched_to": "Hoshine Silicon Industry Co., Ltd.",
+        "matched_symbol": "603260.SS"
+    },
+    {
+        "company_name": "FOCUS MEDIA INFORMATION TECHNOLOGY",
+        "matched_to": "Focus Media Information Technology Co., Ltd.",
+        "matched_symbol": "002027.SZ"
+    },
+    {
+        "company_name": "CHINA COAL ENERGY COMPANY",
+        "matched_to": "China Coal Energy Company Limited",
+        "matched_symbol": "601898.SS"
+    },
+    {
+        "company_name": "BAOSHAN IRON & STEEL",
+        "matched_to": "Baoshan Iron & Steel Co., Ltd.",
+        "matched_symbol": "600019.SS"
+    },
+    {
+        "company_name": "CGN POWER",
+        "matched_to": "CGN Power Co., Ltd.",
+        "matched_symbol": "1816.HK"
+    },
+    {
+        "company_name": "SANY HEAVY INDUSTRY CO. LTD",
+        "matched_to": "Sany Heavy Industry Co., Ltd",
+        "matched_symbol": "600031.SS"
+    },
+    {
+        "company_name": "CHINA MINSHENG BANKING",
+        "matched_to": "China Minsheng Banking Corp., Ltd.",
+        "matched_symbol": "CMAKY"
+    },
+    {
+        "company_name": "TENCENT",
+        "matched_to": "Tencent Holdings Limited",
+        "matched_symbol": "TCEHY"
+    },
+    {
+        "company_name": "WEBANK",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "JIANGSU YANGHE BREWERY JOINT-STOCK",
+        "matched_to": "Jiangsu Yanghe Brewery Joint-Stock Co., Ltd.",
+        "matched_symbol": "002304.SZ"
+    },
+    {
+        "company_name": "BEIJING-SHANGHAI HIGH-SPEED RAILWAY CO.,LTD.",
+        "matched_to": "Beijing-Shanghai High-Speed Railway Co.,Ltd.",
+        "matched_symbol": "601816.SS"
+    },
+    {
+        "company_name": "WANHUA CHEMICAL GROUP",
+        "matched_to": "Wanhua Chemical Group Co., Ltd.",
+        "matched_symbol": "600309.SS"
+    },
+    {
+        "company_name": "ZIJIN MINING GROUP COMPANY",
+        "matched_to": "Zijin Mining Group Company Limited",
+        "matched_symbol": "2899.HK"
+    },
+    {
+        "company_name": "LUXSHARE PRECISION INDUSTRY",
+        "matched_to": "Luxshare Precision Industry Co., Ltd.",
+        "matched_symbol": "002475.SZ"
+    },
+    {
+        "company_name": "CHINA CITIC BANK CORPORATION",
+        "matched_to": "China CITIC Bank Corporation Limited",
+        "matched_symbol": "0998.HK"
+    },
+    {
+        "company_name": "WULIANGYE YIBIN",
+        "matched_to": "Wuliangye Yibin Co.,Ltd.",
+        "matched_symbol": "000858.SZ"
+    },
+    {
+        "company_name": "SHENZHEN MINDRAY BIO-MEDICAL ELECTRONICS",
+        "matched_to": "Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",
+        "matched_symbol": "300760.SZ"
+    },
+    {
+        "company_name": "FOSHAN HAITIAN FLAVOURING AND FOOD COMPANY",
+        "matched_to": "Foshan Haitian Flavouring and Food Company Ltd.",
+        "matched_symbol": "603288.SS"
+    },
+    {
+        "company_name": "CNOOC LIMITED",
+        "matched_to": "CNOOC Limited",
+        "matched_symbol": "0883.HK"
+    },
+    {
+        "company_name": "CHINA TOURISM GROUP DUTY FREE CORPORATION LIMITED",
+        "matched_to": "China Tourism Group Duty Free Corporation Limited",
+        "matched_symbol": "1880.HK"
+    },
+    {
+        "company_name": "FUJIAN ANJOY FOODS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "LEPU MEDICAL TECHNOLOGY (BEIJING)",
+        "matched_to": "Lepu Medical Technology (Beijing) Co., Ltd.",
+        "matched_symbol": "300003.SZ"
+    },
+    {
+        "company_name": "FOUNDER SECURITIES",
+        "matched_to": "Founder Securities Co., Ltd.",
+        "matched_symbol": "601901.SS"
+    },
+    {
+        "company_name": "GUANGZHOU GREAT POWER ENERGY AND TECHNOLOGY CO. LTD",
+        "matched_to": "Guangzhou Great Power Energy and Technology Co., Ltd",
+        "matched_symbol": "300438.SZ"
+    },
+    {
+        "company_name": "JUEWEI FOOD",
+        "matched_to": "Juewei Food Co., Ltd.",
+        "matched_symbol": "603517.SS"
+    },
+    {
+        "company_name": "AUTOBIO DIAGNOSTICS",
+        "matched_to": "Autobio Diagnostics Co., Ltd.",
+        "matched_symbol": "603658.SS"
+    },
+    {
+        "company_name": "BEIJING TIANTAN BIOLOGICAL PRODUCTS",
+        "matched_to": "Beijing Tiantan Biological Products Co., Ltd.",
+        "matched_symbol": "600161.SS"
+    },
+    {
+        "company_name": "HANGZHOU OXYGEN PLANT GROUP",
+        "matched_to": "Hangzhou Oxygen Plant Group Co.,Ltd.",
+        "matched_symbol": "002430.SZ"
+    },
+    {
+        "company_name": "SUNAC CHINA HOLDINGS",
+        "matched_to": "Sunac China Holdings Limited",
+        "matched_symbol": "1918.HK"
+    },
+    {
+        "company_name": "HUALAN BIOLOGICAL ENGINEERING",
+        "matched_to": "Hualan Biological Engineering Inc.",
+        "matched_symbol": "002007.SZ"
+    },
+    {
+        "company_name": "SHANGHAI BAIRUN INVESTMENT HOLDING GROUP",
+        "matched_to": "Shanghai Bairun Investment Holding Group Co., Ltd.",
+        "matched_symbol": "002568.SZ"
+    },
+    {
+        "company_name": "ZIROOM",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SICHUAN SWELLFUN",
+        "matched_to": "Sichuan Swellfun Co.,Ltd",
+        "matched_symbol": "600779.SS"
+    },
+    {
+        "company_name": "HENGAN INTERNATIONAL GROUP COMPANY",
+        "matched_to": "Hengan International Group Company Limited",
+        "matched_symbol": "1044.HK"
+    },
+    {
+        "company_name": "XIAMEN C&D",
+        "matched_to": "Xiamen C&D Inc.",
+        "matched_symbol": "600153.SS"
+    },
+    {
+        "company_name": "GUANGXI GUIGUAN ELECTRIC POWERCO",
+        "matched_to": "Guangxi Guiguan Electric PowerCo.,Ltd.",
+        "matched_symbol": "600236.SS"
+    },
+    {
+        "company_name": "YUNNAN WENSHAN ELECTRIC POWER",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ZHONGTAI SECURITIES CO., LTD.",
+        "matched_to": "Zhongtai Securities Co., Ltd.",
+        "matched_symbol": "600918.SS"
+    },
+    {
+        "company_name": "SHENZHEN OVERSEAS CHINESE TOWN",
+        "matched_to": "Shenzhen Overseas Chinese Town Co.,Ltd.",
+        "matched_symbol": "000069.SZ"
+    },
+    {
+        "company_name": "LOMON BILLIONS GROUP CO. LTD",
+        "matched_to": "Total Collectables",
+        "matched_symbol": "^CLCTBLS.REGA"
+    },
+    {
+        "company_name": "CHINA MERCHANTS ENERGY SHIPPING",
+        "matched_to": "China Merchants Energy Shipping Co., Ltd.",
+        "matched_symbol": "601872.SS"
+    },
+    {
+        "company_name": "NEW ORIENTAL EDUCATION & TECHNOLOGY GROUP",
+        "matched_to": "New Oriental Education & Technology Group Inc.",
+        "matched_symbol": "EDU"
+    },
+    {
+        "company_name": "GUANGZHOU BAIYUNSHAN PHARMACEUTICAL HOLDINGS COMPANY",
+        "matched_to": "Guangzhou Baiyunshan Pharmaceutical Holdings Company Limited",
+        "matched_symbol": "0874.HK"
+    },
+    {
+        "company_name": "JIUGUI LIQUOR",
+        "matched_to": "Jiugui Liquor Co., Ltd.",
+        "matched_symbol": "000799.SZ"
+    },
+    {
+        "company_name": "SHANXI XISHAN COAL AND ELECTRICITY POWER",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "LENS TECHNOLOGY",
+        "matched_to": "Lens Technology Co., Ltd.",
+        "matched_symbol": "300433.SZ"
+    },
+    {
+        "company_name": "YEALINK NETWORK TECHNOLOGY",
+        "matched_to": "Yealink Network Technology Co., Ltd.",
+        "matched_symbol": "300628.SZ"
+    },
+    {
+        "company_name": "BYD ELECTRONIC (INTERNATIONAL) COMPANY",
+        "matched_to": "BYD Electronic (International) Company Limited",
+        "matched_symbol": "0285.HK"
+    },
+    {
+        "company_name": "CHINA FEIHE",
+        "matched_to": "China Feihe Limited",
+        "matched_symbol": "6186.HK"
+    },
+    {
+        "company_name": "SHANGHAI ELECTRIC GROUP COMPANY",
+        "matched_to": "Shanghai Electric Group Company Limited",
+        "matched_symbol": "SIELY"
+    },
+    {
+        "company_name": "SHENZHEN TRANSSION HOLDINGS",
+        "matched_to": "Shenzhen Transsion Holdings Co., Ltd.",
+        "matched_symbol": "688036.SS"
+    },
+    {
+        "company_name": "SHANGHAI PHARMACEUTICALS HOLDING CO. LTD",
+        "matched_to": "Shanghai Pharmaceuticals Holding Co., Ltd",
+        "matched_symbol": "2607.HK"
+    },
+    {
+        "company_name": "SICHUAN CHUANTOU ENERGY",
+        "matched_to": "Sichuan Chuantou Energy Co.,Ltd.",
+        "matched_symbol": "600674.SS"
+    },
+    {
+        "company_name": "CHONGQING SOKON INDUSTRY GROUP STOCK",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "FULL TRUCK ALLIANCE CO. LTD.",
+        "matched_to": "Full Truck Alliance Co. Ltd.",
+        "matched_symbol": "YMM"
+    },
+    {
+        "company_name": "NINGBO TUOPU GROUP",
+        "matched_to": "Ningbo Tuopu Group Co.,Ltd.",
+        "matched_symbol": "601689.SS"
+    },
+    {
+        "company_name": "ZHEJIANG WEIMING ENVIRONMENT PROTECTION",
+        "matched_to": "Zhejiang Weiming Environment Protection Co., Ltd.",
+        "matched_symbol": "603568.SS"
+    },
+    {
+        "company_name": "BTG HOTELS (GROUP)",
+        "matched_to": "BTG Hotels (Group) Co., Ltd.",
+        "matched_symbol": "600258.SS"
+    },
+    {
+        "company_name": "CHINA SPACESAT",
+        "matched_to": "China Spacesat Co.,Ltd.",
+        "matched_symbol": "600118.SS"
+    },
+    {
+        "company_name": "BLUE MOON GROUP HOLDINGS LIMITED",
+        "matched_to": "Blue Moon Group Holdings Limited",
+        "matched_symbol": "6993.HK"
+    },
+    {
+        "company_name": "KEBODA TECHNOLOGY",
+        "matched_to": "KEBODA TECHNOLOGY Co., Ltd.",
+        "matched_symbol": "603786.SS"
+    },
+    {
+        "company_name": "DO-FLUORIDE CHEMICALS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "HUAXIN CEMENT",
+        "matched_to": "Huaxin Cement Co., Ltd.",
+        "matched_symbol": "6655.HK"
+    },
+    {
+        "company_name": "TONGFU MICROELECTRONICS",
+        "matched_to": "Tongfu Microelectronics Co.,Ltd",
+        "matched_symbol": "002156.SZ"
+    },
+    {
+        "company_name": "CAIDA SECURITIES CO., LTD.",
+        "matched_to": "Caida Securities Co., Ltd.",
+        "matched_symbol": "600906.SS"
+    },
+    {
+        "company_name": "SAILUN GROUP",
+        "matched_to": "Sailun Group Co., Ltd.",
+        "matched_symbol": "601058.SS"
+    },
+    {
+        "company_name": "AVICOPTER",
+        "matched_to": "Avicopter Plc",
+        "matched_symbol": "600038.SS"
+    },
+    {
+        "company_name": "XIAMEN TUNGSTEN",
+        "matched_to": "Xiamen Tungsten Co.,Ltd.",
+        "matched_symbol": "600549.SS"
+    },
+    {
+        "company_name": "SHANDONG HI-SPEED COMPANY",
+        "matched_to": "Shandong Hi-speed Company Limited",
+        "matched_symbol": "600350.SS"
+    },
+    {
+        "company_name": "ZHEJIANG WOLWO BIO-PHARMACEUTICAL",
+        "matched_to": "Zhejiang Wolwo Bio-Pharmaceutical Co., Ltd.",
+        "matched_symbol": "300357.SZ"
+    },
+    {
+        "company_name": "NORTH INDUSTRIES GROUP RED ARROW CO. LTD",
+        "matched_to": "North Industries Group Red Arrow Co., Ltd",
+        "matched_symbol": "000519.SZ"
+    },
+    {
+        "company_name": "NAVINFO",
+        "matched_to": "NavInfo Co., Ltd.",
+        "matched_symbol": "002405.SZ"
+    },
+    {
+        "company_name": "UNITED IMAGING",
+        "matched_to": "Shanghai United Imaging Healthcare Co., Ltd.",
+        "matched_symbol": "688271.SS"
+    },
+    {
+        "company_name": "ROYOLE",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHINA BIOLOGIC PRODUCTS HOLDINGS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SHANGHAI FLYCO ELECTRICAL APPLIANCE",
+        "matched_to": "Shanghai Flyco Electrical Appliance Co., Ltd.",
+        "matched_symbol": "603868.SS"
+    },
+    {
+        "company_name": "SHANGHAI FRIENDESS ELECTRONIC TECHNOLOGY CORPORATION",
+        "matched_to": "Shanghai Friendess Electronic Technology Corporation Limited",
+        "matched_symbol": "688188.SS"
+    },
+    {
+        "company_name": "GUANGZHOU YUEXIU FINANCIAL HOLDINGS GROUP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "WANDA FILM HOLDING",
+        "matched_to": "Wanda Film Holding Co., Ltd.",
+        "matched_symbol": "002739.SZ"
+    },
+    {
+        "company_name": "AUTEK CHINA",
+        "matched_to": "Autek China Inc.",
+        "matched_symbol": "300595.SZ"
+    },
+    {
+        "company_name": "SUZHOU NOVOSENSE MICROELECTRONICS CO., LTD.",
+        "matched_to": "Suzhou Novosense Microelectronics Co., Ltd.",
+        "matched_symbol": "688052.SS"
+    },
+    {
+        "company_name": "BANK OF GUIZHOU",
+        "matched_to": "Bank of Guizhou Co., Ltd.",
+        "matched_symbol": "6199.HK"
+    },
+    {
+        "company_name": "HUISHANG BANK CORPORATION",
+        "matched_to": "Huishang Bank Corporation Limited",
+        "matched_symbol": "HB8.F"
+    },
+    {
+        "company_name": "CHINA GREATWALL TECHNOLOGY GROUP",
+        "matched_to": "China Greatwall Technology Group Co., Ltd.",
+        "matched_symbol": "000066.SZ"
+    },
+    {
+        "company_name": "LUFAX",
+        "matched_to": "Lufax Holding Ltd",
+        "matched_symbol": "LU"
+    },
+    {
+        "company_name": "SHANDONG SUNPAPER",
+        "matched_to": "Shandong Sunpaper Co., Ltd.",
+        "matched_symbol": "002078.SZ"
+    },
+    {
+        "company_name": "JINDUICHENG MOLYBDENUM",
+        "matched_to": "Jinduicheng Molybdenum Co., Ltd.",
+        "matched_symbol": "601958.SS"
+    },
+    {
+        "company_name": "VINDA INTERNATIONAL HOLDINGS",
+        "matched_to": "Vinda International Holdings Limited",
+        "matched_symbol": "3331.HK"
+    },
+    {
+        "company_name": "JIANGSU GOODWE POWER SUPPLY TECHNOLOGY CO., LTD",
+        "matched_to": "ZIM Integrated Shipping Services Ltd.",
+        "matched_symbol": "ZIM"
+    },
+    {
+        "company_name": "DA AN GENE OF SUN YAT-SEN UNIVERSITY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SHENZHEN KSTAR SCIENCE AND TECHNOLOGY",
+        "matched_to": "Shenzhen KSTAR Science and Technology Co., Ltd.",
+        "matched_symbol": "002518.SZ"
+    },
+    {
+        "company_name": "CHONGQING WATER GROUP",
+        "matched_to": "Chongqing Water Group Co.,Ltd.",
+        "matched_symbol": "601158.SS"
+    },
+    {
+        "company_name": "INNOCARE PHARMA LIMITED",
+        "matched_to": "InnoCare Pharma Limited",
+        "matched_symbol": "9969.HK"
+    },
+    {
+        "company_name": "JOINCARE PHARMACEUTICAL GROUP INDUSTRY",
+        "matched_to": "Joincare Pharmaceutical Group Industry Co.,Ltd.",
+        "matched_symbol": "600380.SS"
+    },
+    {
+        "company_name": "SHENZHEN GAS CORPORATION",
+        "matched_to": "Shenzhen Gas Corporation Ltd.",
+        "matched_symbol": "601139.SS"
+    },
+    {
+        "company_name": "RED AVENUE NEW MATERIALS GROUP",
+        "matched_to": "Red Avenue New Materials Group Co., Ltd.",
+        "matched_symbol": "603650.SS"
+    },
+    {
+        "company_name": "XINJIANG ZHONGTAI CHEMICAL",
+        "matched_to": "Xinjiang Zhongtai Chemical Co., Ltd.",
+        "matched_symbol": "002092.SZ"
+    },
+    {
+        "company_name": "MAANSHAN IRON & STEEL COMPANY LIMITED",
+        "matched_to": "Maanshan Iron & Steel Company Limited",
+        "matched_symbol": "0323.HK"
+    },
+    {
+        "company_name": "QUECTEL WIRELESS SOLUTIONS",
+        "matched_to": "Quectel Wireless Solutions Co., Ltd.",
+        "matched_symbol": "603236.SS"
+    },
+    {
+        "company_name": "ANHUI HONGLU STEEL CONSTRUCTION(GROUP) CO. LTD",
+        "matched_to": "Anhui Honglu Steel Construction(Group) CO., LTD",
+        "matched_symbol": "002541.SZ"
+    },
+    {
+        "company_name": "KBC CORPORATION, LTD.",
+        "matched_to": "KBC Corporation, Ltd.",
+        "matched_symbol": "688598.SS"
+    },
+    {
+        "company_name": "HUAAN SECURITIES",
+        "matched_to": "Huaan Securities Co., Ltd.",
+        "matched_symbol": "600909.SS"
+    },
+    {
+        "company_name": "BEIJING YUANLIU HONGYUAN ELECTRONIC TECHNOLOGY",
+        "matched_to": "Beijing Yuanliu Hongyuan Electronic Technology Co., Ltd.",
+        "matched_symbol": "603267.SS"
+    },
+    {
+        "company_name": "QI AN XIN",
+        "matched_to": "Qi An Xin Technology Group Inc.",
+        "matched_symbol": "688561.SS"
+    },
+    {
+        "company_name": "SINOMACH HEAVY EQUIPMENT GROUP CO.,LTD",
+        "matched_to": "SINOMACH HEAVY EQUIPMENT GROUP CO.,LTD",
+        "matched_symbol": "601399.SS"
+    },
+    {
+        "company_name": "BEIJING SHUNXIN AGRICULTURE",
+        "matched_to": "Beijing Shunxin Agriculture Co.,Ltd",
+        "matched_symbol": "000860.SZ"
+    },
+    {
+        "company_name": "ZHIHU",
+        "matched_to": "Zhihu Inc.",
+        "matched_symbol": "ZH"
+    },
+    {
+        "company_name": "JIANGSU GUOXIN",
+        "matched_to": "Jiangsu Guoxin Corp. Ltd.",
+        "matched_symbol": "002608.SZ"
+    },
+    {
+        "company_name": "DADI DIGITAL CINEMA",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "XINHU ZHONGBAO",
+        "matched_to": "Xinhu Zhongbao Co.,Ltd.",
+        "matched_symbol": "600208.SS"
+    },
+    {
+        "company_name": "WUS PRINTED CIRCUIT (KUNSHAN)",
+        "matched_to": "Wus Printed Circuit (Kunshan) Co., Ltd.",
+        "matched_symbol": "002463.SZ"
+    },
+    {
+        "company_name": "HAISCO PHARMACEUTICAL GROUP",
+        "matched_to": "Haisco Pharmaceutical Group Co., Ltd.",
+        "matched_symbol": "002653.SZ"
+    },
+    {
+        "company_name": "DAJIN HEAVY INDUSTRY CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "HBIS COMPANY LIMITED",
+        "matched_to": "HBIS Company Limited",
+        "matched_symbol": "000709.SZ"
+    },
+    {
+        "company_name": "CHONGQING FULING ZHACAI GROUP",
+        "matched_to": "Chongqing Fuling Zhacai Group Co., Ltd.",
+        "matched_symbol": "002507.SZ"
+    },
+    {
+        "company_name": "YUNNAN COPPER",
+        "matched_to": "Yunnan Copper Co.,Ltd",
+        "matched_symbol": "000878.SZ"
+    },
+    {
+        "company_name": "FIRST CAPITAL SECURITIES",
+        "matched_to": "First Capital Securities Co., Ltd.",
+        "matched_symbol": "002797.SZ"
+    },
+    {
+        "company_name": "FANGDA CARBON NEW MATERIAL TECHNOLOGY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ZHEJIANG EXPRESSWAY",
+        "matched_to": "Zhejiang Expressway Co., Ltd.",
+        "matched_symbol": "0576.HK"
+    },
+    {
+        "company_name": "CHINA XD ELECTRIC CO. LTD",
+        "matched_to": "China XD Electric Co., Ltd",
+        "matched_symbol": "601179.SS"
+    },
+    {
+        "company_name": "APELOA PHARMACEUTICAL",
+        "matched_to": "Apeloa Pharmaceutical Co.,Ltd",
+        "matched_symbol": "000739.SZ"
+    },
+    {
+        "company_name": "CHINA FILM",
+        "matched_to": "China Film Co., Ltd.",
+        "matched_symbol": "600977.SS"
+    },
+    {
+        "company_name": "HUALAN BIOLOGICAL BACTERIN INC.",
+        "matched_to": "Hualan Biological Bacterin Inc.",
+        "matched_symbol": "301207.SZ"
+    },
+    {
+        "company_name": "HANGJIN TECHNOLOGY",
+        "matched_to": "Hangjin Technology Co., Ltd.",
+        "matched_symbol": "000818.SZ"
+    },
+    {
+        "company_name": "JIANGSU AUCKSUN",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "LEGEND HOLDINGS CORPORATION",
+        "matched_to": "Legend Holdings Corporation",
+        "matched_symbol": "3396.HK"
+    },
+    {
+        "company_name": "GUANGZHOU ZHUJIANG BREWERY CO. LTD",
+        "matched_to": "Guangzhou Zhujiang Brewery Co., Ltd",
+        "matched_symbol": "002461.SZ"
+    },
+    {
+        "company_name": "PACIFIC SECURITIES CO. LTD",
+        "matched_to": "The Pacific Securities Co., Ltd",
+        "matched_symbol": "601099.SS"
+    },
+    {
+        "company_name": "JINGJIN ENVIRONMENTAL PROTECTION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "TIANJIN FAW XIALI AUTOMOBILE",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "TONGHUA DONGBAO PHARMACEUTICAL",
+        "matched_to": "Tonghua Dongbao Pharmaceutical Co., Ltd.",
+        "matched_symbol": "600867.SS"
+    },
+    {
+        "company_name": "DHC SOFTWARE",
+        "matched_to": "DHC Software Co.,Ltd.",
+        "matched_symbol": "002065.SZ"
+    },
+    {
+        "company_name": "MEITUAN DIANPING",
+        "matched_to": "Meituan",
+        "matched_symbol": "9MD.SG"
+    },
+    {
+        "company_name": "XINJIANG DAQO NEW ENERGY CO.,LTD.",
+        "matched_to": "Xinjiang Daqo New Energy Co.,Ltd.",
+        "matched_symbol": "688303.SS"
+    },
+    {
+        "company_name": "JIANGSU EASTERN SHENGHONG",
+        "matched_to": "Jiangsu Eastern Shenghong Co.,Ltd.",
+        "matched_symbol": "000301.SZ"
+    },
+    {
+        "company_name": "HUADONG MEDICINE CO. LTD",
+        "matched_to": "Huadong Medicine Co., Ltd",
+        "matched_symbol": "000963.SZ"
+    },
+    {
+        "company_name": "ZHUZHOU CRRC TIMES ELECTRIC",
+        "matched_to": "Zhuzhou CRRC Times Electric Co., Ltd.",
+        "matched_symbol": "3898.HK"
+    },
+    {
+        "company_name": "JD LOGISTICS",
+        "matched_to": "JD Logistics, Inc.",
+        "matched_symbol": "2618.HK"
+    },
+    {
+        "company_name": "CHINA MOLYBDENUM CO., LTD.",
+        "matched_to": "CMOC Group Ltd",
+        "matched_symbol": "D7N.SG"
+    },
+    {
+        "company_name": "HAIDILAO INTERNATIONAL HOLDING",
+        "matched_to": "Haidilao International Holding Ltd.",
+        "matched_symbol": "6862.HK"
+    },
+    {
+        "company_name": "BANK OF NANJING",
+        "matched_to": "Bank of Nanjing Co., Ltd.",
+        "matched_symbol": "601009.SS"
+    },
+    {
+        "company_name": "CHINA LONGYUAN POWER GROUP CORPORATION",
+        "matched_to": "China Longyuan Power Group Corporation Limited",
+        "matched_symbol": "6WX0.F"
+    },
+    {
+        "company_name": "TSINGTAO BREWERY COMPANY",
+        "matched_to": "Tsingtao Brewery Company Limited",
+        "matched_symbol": "0168.HK"
+    },
+    {
+        "company_name": "WENS FOODSTUFF GROUP",
+        "matched_to": "Wens Foodstuff Group Co., Ltd.",
+        "matched_symbol": "300498.SZ"
+    },
+    {
+        "company_name": "BOE TECHNOLOGY GROUP COMPANY",
+        "matched_to": "BOE Technology Group Company Limited",
+        "matched_symbol": "000725.SZ"
+    },
+    {
+        "company_name": "FOXCONN INDUSTRIAL INTERNET",
+        "matched_to": "Foxconn Industrial Internet Co., Ltd.",
+        "matched_symbol": "601138.SS"
+    },
+    {
+        "company_name": "COSCO SHIPPING HOLDINGS",
+        "matched_to": "COSCO SHIPPING Holdings Co., Ltd.",
+        "matched_symbol": "CICOY"
+    },
+    {
+        "company_name": "EVE ENERGY CO. LTD",
+        "matched_to": "EVE Energy Co., Ltd.",
+        "matched_symbol": "300014.SZ"
+    },
+    {
+        "company_name": "EAST MONEY INFORMATION",
+        "matched_to": "East Money Information Co.,Ltd.",
+        "matched_symbol": "300059.SZ"
+    },
+    {
+        "company_name": "YIHAI KERRY ARAWANA HOLDINGS CO., LTD",
+        "matched_to": "Yihai Kerry Arawana Holdings Co., Ltd",
+        "matched_symbol": "300999.SZ"
+    },
+    {
+        "company_name": "CHINA SHENHUA ENERGY COMPANY",
+        "matched_to": "China Shenhua Energy Company Limited",
+        "matched_symbol": "1088.HK"
+    },
+    {
+        "company_name": "PICC GROUP (PEOPLE'S INSURANCE COMPANY (GROUP) OF CHINA)",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "MIDEA GROUP",
+        "matched_to": "Midea Group Co., Ltd.",
+        "matched_symbol": "000333.SZ"
+    },
+    {
+        "company_name": "BANK OF CHINA",
+        "matched_to": "Industrial and Commercial Bank of China Limited",
+        "matched_symbol": "1398.HK"
+    },
+    {
+        "company_name": "CHINA LIFE INSURANCE COMPANY",
+        "matched_to": "China Life Insurance Company Limited",
+        "matched_symbol": "2628.HK"
+    },
+    {
+        "company_name": "SHANXI LU'AN ENVIRONMENTAL ENERGY DEVELOPMENT",
+        "matched_to": "Shanxi Lu'an Environmental Energy Development Co., Ltd.",
+        "matched_symbol": "601699.SS"
+    },
+    {
+        "company_name": "SHENGYI TECHNOLOGY",
+        "matched_to": "Shengyi Technology Co.,Ltd.",
+        "matched_symbol": "600183.SS"
+    },
+    {
+        "company_name": "JCET GROUP",
+        "matched_to": "JCET Group Co., Ltd.",
+        "matched_symbol": "600584.SS"
+    },
+    {
+        "company_name": "HONGTA SECURITIES",
+        "matched_to": "Hongta Securities Co., Ltd.",
+        "matched_symbol": "601236.SS"
+    },
+    {
+        "company_name": "SHENZHEN SALUBRIS PHARMACEUTICALS",
+        "matched_to": "Shenzhen Salubris Pharmaceuticals Co., Ltd.",
+        "matched_symbol": "002294.SZ"
+    },
+    {
+        "company_name": "HUMANWELL HEALTHCARE (GROUP)",
+        "matched_to": "Humanwell Healthcare (Group) Co.,Ltd.",
+        "matched_symbol": "600079.SS"
+    },
+    {
+        "company_name": "NINGBO ORIENT WIRES & CABLES",
+        "matched_to": "Ningbo Orient Wires & Cables Co.,Ltd.",
+        "matched_symbol": "603606.SS"
+    },
+    {
+        "company_name": "XINJIANG GOLDWIND SCIENCE&TECHNOLOGY",
+        "matched_to": "Xinjiang Goldwind Science & Technology Co., Ltd.",
+        "matched_symbol": "2208.HK"
+    },
+    {
+        "company_name": "YUNNAN YUNTIANHUA",
+        "matched_to": "Yunnan Yuntianhua Co., Ltd.",
+        "matched_symbol": "600096.SS"
+    },
+    {
+        "company_name": "REMEGEN CO., LTD.",
+        "matched_to": "RemeGen Co., Ltd.",
+        "matched_symbol": "9995.HK"
+    },
+    {
+        "company_name": "YUANFUDAO",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ZHEJIANG SATELLITE PETROCHEMICAL",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "GEMDALE CORPORATION",
+        "matched_to": "Gemdale Corporation",
+        "matched_symbol": "600383.SS"
+    },
+    {
+        "company_name": "CHINA JUSHI",
+        "matched_to": "China Jushi Co., Ltd.",
+        "matched_symbol": "600176.SS"
+    },
+    {
+        "company_name": "SG MICRO CORP",
+        "matched_to": "SG Micro Corp",
+        "matched_symbol": "300661.SZ"
+    },
+    {
+        "company_name": "SHANGHAI M&G STATIONERY",
+        "matched_to": "Shanghai M&G Stationery Inc.",
+        "matched_symbol": "603899.SS"
+    },
+    {
+        "company_name": "HAINAN AIRLINES HOLDING",
+        "matched_to": "Hainan Airlines Holding Co., Ltd.",
+        "matched_symbol": "600221.SS"
+    },
+    {
+        "company_name": "SPRING AIRLINES",
+        "matched_to": "Spring Airlines Co., Ltd.",
+        "matched_symbol": "601021.SS"
+    },
+    {
+        "company_name": "BAIC BLUEPARK NEW ENERGY TECHNOLOGY",
+        "matched_to": "BAIC BluePark New Energy Technology Co.,Ltd.",
+        "matched_symbol": "600733.SS"
+    },
+    {
+        "company_name": "AIM VACCINE CO., LTD.",
+        "matched_to": "AIM Vaccine Co., Ltd.",
+        "matched_symbol": "6660.HK"
+    },
+    {
+        "company_name": "GDS HOLDINGS",
+        "matched_to": "GDS Holdings Limited",
+        "matched_symbol": "GDS"
+    },
+    {
+        "company_name": "SICHUAN HEBANG BIOTECHNOLOGY CORPORATION LIMITED",
+        "matched_to": "Sichuan Hebang Biotechnology Corporation Limited",
+        "matched_symbol": "603077.SS"
+    },
+    {
+        "company_name": "SHENERGY COMPANY",
+        "matched_to": "Shenergy Company Limited",
+        "matched_symbol": "600642.SS"
+    },
+    {
+        "company_name": "NANJING KING-FRIEND BIOCHEMICAL PHARMACEUTICAL CO. LTD",
+        "matched_to": "Nanjing King-Friend Biochemical Pharmaceutical Co., Ltd",
+        "matched_symbol": "603707.SS"
+    },
+    {
+        "company_name": "HANGZHOU CHANGCHUAN TECHNOLOGY",
+        "matched_to": "Hangzhou Changchuan Technology Co.,Ltd",
+        "matched_symbol": "300604.SZ"
+    },
+    {
+        "company_name": "TIANSHUI HUATIAN TECHNOLOGY",
+        "matched_to": "Tianshui Huatian Technology Co., Ltd.",
+        "matched_symbol": "002185.SZ"
+    },
+    {
+        "company_name": "BITMAIN",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "HYGEIA HEALTHCARE HOLDINGS CO., LIMITED",
+        "matched_to": "Hygeia Healthcare Holdings Co., Limited",
+        "matched_symbol": "6078.HK"
+    },
+    {
+        "company_name": "BEIJING SHOUGANG CO., LTD.",
+        "matched_to": "Beijing Shougang Co., Ltd.",
+        "matched_symbol": "000959.SZ"
+    },
+    {
+        "company_name": "BOC INTERNATIONAL (CHINA) CO., LTD",
+        "matched_to": "BOC International (China) CO., LTD",
+        "matched_symbol": "601696.SS"
+    },
+    {
+        "company_name": "SHANDONG LINGLONG TYRE",
+        "matched_to": "Shandong Linglong Tyre Co.,Ltd.",
+        "matched_symbol": "601966.SS"
+    },
+    {
+        "company_name": "HUA HONG SEMICONDUCTOR",
+        "matched_to": "Hua Hong Semiconductor Limited",
+        "matched_symbol": "1347.HK"
+    },
+    {
+        "company_name": "HUAIBEI MININGHOLDINGS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "WANGFUJING GROUP",
+        "matched_to": "Wangfujing Group Co., Ltd.",
+        "matched_symbol": "600859.SS"
+    },
+    {
+        "company_name": "BANK OF LANZHOU CO., LTD.",
+        "matched_to": "Bank of Lanzhou Co., Ltd.",
+        "matched_symbol": "001227.SZ"
+    },
+    {
+        "company_name": "QILU BANK CO., LTD.",
+        "matched_to": "Qilu Bank Co., Ltd.",
+        "matched_symbol": "601665.SS"
+    },
+    {
+        "company_name": "CHINA NUCLEAR ENGINEERING CORPORATION",
+        "matched_to": "China Nuclear Engineering Corporation Limited",
+        "matched_symbol": "601611.SS"
+    },
+    {
+        "company_name": "HUBEI DINGLONG",
+        "matched_to": "Hubei Dinglong CO.,Ltd.",
+        "matched_symbol": "300054.SZ"
+    },
+    {
+        "company_name": "SHANGHAI BAILIAN (GROUP)",
+        "matched_to": "Shanghai Bailian (Group) Co., Ltd.",
+        "matched_symbol": "600827.SS"
+    },
+    {
+        "company_name": "DEPPON LOGISTICS",
+        "matched_to": "DEPPON LOGISTICS Co.,LTD.",
+        "matched_symbol": "603056.SS"
+    },
+    {
+        "company_name": "BEIJING CISRI-GAONA MATERIALS & TECHNOLOGY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SUZHOU NANOMICRO TECHNOLOGY CO., LTD.",
+        "matched_to": "Suzhou Nanomicro Technology Co., Ltd.",
+        "matched_symbol": "688690.SS"
+    },
+    {
+        "company_name": "CHEHEJIA",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHINA LESSO GROUP HOLDINGS",
+        "matched_to": "China Lesso Group Holdings Limited",
+        "matched_symbol": "2128.HK"
+    },
+    {
+        "company_name": "MINMETALS CAPITAL COMPANY",
+        "matched_to": "Minmetals Capital Company Limited",
+        "matched_symbol": "600390.SS"
+    },
+    {
+        "company_name": "VERISILICON MICROELECTRONICS (SHANGHAI) CO., LTD.",
+        "matched_to": "VeriSilicon Microelectronics (Shanghai) Co., Ltd.",
+        "matched_symbol": "688521.SS"
+    },
+    {
+        "company_name": "XIAMEN XIANGYU",
+        "matched_to": "Xiamen Xiangyu Co., Ltd.",
+        "matched_symbol": "600057.SS"
+    },
+    {
+        "company_name": "HLA",
+        "matched_to": "Hapag-Lloyd Aktiengesellschaft",
+        "matched_symbol": "HLAG.DE"
+    },
+    {
+        "company_name": "WUCHAN ZHONGDA GROUP",
+        "matched_to": "Wuchan Zhongda Group Co.,Ltd.",
+        "matched_symbol": "600704.SS"
+    },
+    {
+        "company_name": "MINISO GROUP HOLDING LTD",
+        "matched_to": null,
+        "matched_symbol": "US66981J1025.SG"
+    },
+    {
+        "company_name": "GAN & LEE PHARMACEUTICALS",
+        "matched_to": "Gan & Lee Pharmaceuticals.",
+        "matched_symbol": "603087.SS"
+    },
+    {
+        "company_name": "SHENZHEN LONGSYS ELECTRONICS CO., LTD.",
+        "matched_to": "Shenzhen Longsys Electronics Co., Ltd.",
+        "matched_symbol": "301308.SZ"
+    },
+    {
+        "company_name": "BEIJING DAHAO TECHNOLOGYLTD",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "FUJIAN TORCH ELECTRON TECHNOLOGY",
+        "matched_to": "Fujian Torch Electron Technology Co., Ltd.",
+        "matched_symbol": "603678.SS"
+    },
+    {
+        "company_name": "LIFAN INDUSTRY (GROUP) CO. LTD",
+        "matched_to": "Total Collectables",
+        "matched_symbol": "^CLCTBLS.REGA"
+    },
+    {
+        "company_name": "CHINA AEROSPACE TIMES ELECTRONICS",
+        "matched_to": "China Aerospace Times Electronics CO., LTD.",
+        "matched_symbol": "600879.SS"
+    },
+    {
+        "company_name": "PEOPLE.CN CO. LTD",
+        "matched_to": "People.cn CO., LTD",
+        "matched_symbol": "603000.SS"
+    },
+    {
+        "company_name": "JIANGSU XINQUAN AUTOMOTIVE TRIM",
+        "matched_to": "Jiangsu Xinquan Automotive Trim Co.,Ltd.",
+        "matched_symbol": "603179.SS"
+    },
+    {
+        "company_name": "YINYI",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHINA AUTOMOTIVE ENGINEERING RESEARCH INSTITUTE",
+        "matched_to": "China Automotive Engineering Research Institute Co., Ltd.",
+        "matched_symbol": "601965.SS"
+    },
+    {
+        "company_name": "SHANGHAI ZHANGJIANG HI-TECH PARK DEVELOPMENT",
+        "matched_to": "Shanghai Zhangjiang Hi-Tech Park Development Co., Ltd.",
+        "matched_symbol": "600895.SS"
+    },
+    {
+        "company_name": "AVIC AIRCRAFT",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "BANK OF JIANGSU",
+        "matched_to": "Bank of Jiangsu Co., Ltd.",
+        "matched_symbol": "600919.SS"
+    },
+    {
+        "company_name": "CHINA SHIPBUILDING INDUSTRY COMPANY",
+        "matched_to": "China Shipbuilding Industry Company Limited",
+        "matched_symbol": "601989.SS"
+    },
+    {
+        "company_name": "ORIENT SECURITIES COMPANY",
+        "matched_to": "Orient Securities Company Limited",
+        "matched_symbol": "3958.HK"
+    },
+    {
+        "company_name": "HUANENG POWER INTERNATIONAL",
+        "matched_to": "Huaneng Power International, Inc.",
+        "matched_symbol": "HUNGF"
+    },
+    {
+        "company_name": "SHANGHAI FOSUN PHARMACEUTICAL (GROUP)",
+        "matched_to": "Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",
+        "matched_symbol": "2196.HK"
+    },
+    {
+        "company_name": "DJI",
+        "matched_to": "Dow Jones Industrial Average",
+        "matched_symbol": "^DJI"
+    },
+    {
+        "company_name": "HUANENG LANCANG RIVER HYDROPOWER",
+        "matched_to": "Huaneng Lancang River Hydropower Inc.",
+        "matched_symbol": "600025.SS"
+    },
+    {
+        "company_name": "SHENZHOU INTERNATIONAL GROUP HOLDINGS",
+        "matched_to": "Shenzhou International Group Holdings Limited",
+        "matched_symbol": "2313.HK"
+    },
+    {
+        "company_name": "CRRC CORPORATION",
+        "matched_to": "CRRC Corporation Limited",
+        "matched_symbol": "1766.HK"
+    },
+    {
+        "company_name": "CHINA INTERNATIONAL CAPITAL CORPORATION",
+        "matched_to": "China International Capital Corporation Limited",
+        "matched_symbol": "3908.HK"
+    },
+    {
+        "company_name": "ZTO EXPRESS (CAYMAN)",
+        "matched_to": "ZTO Express (Cayman) Inc.",
+        "matched_symbol": "ZTO"
+    },
+    {
+        "company_name": "SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION",
+        "matched_to": "Semiconductor Manufacturing International Corporation",
+        "matched_symbol": "0981.HK"
+    },
+    {
+        "company_name": "PING AN BANK",
+        "matched_to": "Ping An Bank Co., Ltd.",
+        "matched_symbol": "000001.SZ"
+    },
+    {
+        "company_name": "BYD COMPANY",
+        "matched_to": "BYD Company Limited",
+        "matched_symbol": "BYDDY"
+    },
+    {
+        "company_name": "CHINA YANGTZE POWER",
+        "matched_to": "China Yangtze Power Co., Ltd.",
+        "matched_symbol": "600900.SS"
+    },
+    {
+        "company_name": "LEVIMA ADVANCED MATERIALS CORPORATION",
+        "matched_to": "Levima Advanced Materials Corporation",
+        "matched_symbol": "003022.SZ"
+    },
+    {
+        "company_name": "OFFCN EDUCATION TECHNOLOGY",
+        "matched_to": "Offcn Education Technology Co., Ltd.",
+        "matched_symbol": "002607.SZ"
+    },
+    {
+        "company_name": "YUNNAN ALUMINIUM",
+        "matched_to": "Yunnan Aluminium Co., Ltd.",
+        "matched_symbol": "000807.SZ"
+    },
+    {
+        "company_name": "ZHONGFU SHENYING CARBON FIBER CO.,LTD.",
+        "matched_to": "Zhongfu Shenying Carbon Fiber Co.,Ltd.",
+        "matched_symbol": "688295.SS"
+    },
+    {
+        "company_name": "CHINA CINDA ASSET MANAGEMENT",
+        "matched_to": "China Cinda Asset Management Co., Ltd.",
+        "matched_symbol": "1359.HK"
+    },
+    {
+        "company_name": "ANGEL YEAST CO. LTD",
+        "matched_to": "Angel Yeast Co., Ltd",
+        "matched_symbol": "600298.SS"
+    },
+    {
+        "company_name": "SHANGHAI ZHIXIN ELECTRIC",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "AVIC ELECTROMECHANICALSYSTEM",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "FOSUN INTERNATIONAL",
+        "matched_to": "Fosun International Limited",
+        "matched_symbol": "0656.HK"
+    },
+    {
+        "company_name": "TRAVELSKY TECHNOLOGY",
+        "matched_to": "TravelSky Technology Limited",
+        "matched_symbol": "0696.HK"
+    },
+    {
+        "company_name": "CHAOZHOU THREE-CIRCLE (GROUP)",
+        "matched_to": "Chaozhou Three-Circle (Group) Co.,Ltd.",
+        "matched_symbol": "300408.SZ"
+    },
+    {
+        "company_name": "BEIJING TONGRENTANG CO. LTD",
+        "matched_to": "Beijing Tongrentang Co., Ltd",
+        "matched_symbol": "600085.SS"
+    },
+    {
+        "company_name": "CHINA HONGQIAO GROUP LIMITED",
+        "matched_to": "China Hongqiao Group Limited",
+        "matched_symbol": "1378.HK"
+    },
+    {
+        "company_name": "CHINA OILFIELD SERVICES",
+        "matched_to": "China Oilfield Services Limited",
+        "matched_symbol": "2883.HK"
+    },
+    {
+        "company_name": "TCL CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHINA NATIONAL BUILDING MATERIAL COMPANY",
+        "matched_to": "China National Building Material Company Limited",
+        "matched_symbol": "3323.HK"
+    },
+    {
+        "company_name": "INDUSTRIAL SECURITIES",
+        "matched_to": "China Industrial Securities International Financial Group Limited",
+        "matched_symbol": "6058.HK"
+    },
+    {
+        "company_name": "PINGDINGSHAN TIANAN COAL. MINING",
+        "matched_to": "Pingdingshan Tianan Coal. Mining Co., Ltd.",
+        "matched_symbol": "601666.SS"
+    },
+    {
+        "company_name": "WESTONE INFORMATION INDUSTRY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHINA CONCH VENTURE HOLDINGS",
+        "matched_to": "China Conch Venture Holdings Limited",
+        "matched_symbol": "0586.HK"
+    },
+    {
+        "company_name": "XI'AN INTERNATIONAL MEDICAL INVESTMENT COMPANY",
+        "matched_to": "Xi'an International Medical Investment Company Limited",
+        "matched_symbol": "000516.SZ"
+    },
+    {
+        "company_name": "SICHUAN YAHUA INDUSTRIAL GROUP",
+        "matched_to": "Sichuan Yahua Industrial Group Co., Ltd.",
+        "matched_symbol": "002497.SZ"
+    },
+    {
+        "company_name": "BANK OF SUZHOU",
+        "matched_to": "Bank of Suzhou Co., Ltd.",
+        "matched_symbol": "002966.SZ"
+    },
+    {
+        "company_name": "BEIJING EASPRING MATERIAL TECHNOLOGY",
+        "matched_to": "Beijing Easpring Material Technology CO.,LTD.",
+        "matched_symbol": "300073.SZ"
+    },
+    {
+        "company_name": "SHANGHAI LINGANG HOLDINGS",
+        "matched_to": "Shanghai Lingang Holdings Co.,Ltd.",
+        "matched_symbol": "600848.SS"
+    },
+    {
+        "company_name": "YANTAI JEREH OILFIELD SERVICES GROUP",
+        "matched_to": "Yantai Jereh Oilfield Services Group Co., Ltd.",
+        "matched_symbol": "002353.SZ"
+    },
+    {
+        "company_name": "IRAY TECHNOLOGY COMPANY LIMITED",
+        "matched_to": "iRay Technology Company Limited",
+        "matched_symbol": "688301.SS"
+    },
+    {
+        "company_name": "JIANGSU YANGNONG CHEMICAL",
+        "matched_to": "Jiangsu Yangnong Chemical Co., Ltd.",
+        "matched_symbol": "600486.SS"
+    },
+    {
+        "company_name": "MICROPORT SCIENTIFIC CORPORATION",
+        "matched_to": "MicroPort Scientific Corporation",
+        "matched_symbol": "0853.HK"
+    },
+    {
+        "company_name": "CHINA AVIONICSSYSTEM",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "XIAMEN FARATRONIC",
+        "matched_to": "Xiamen Faratronic Co., Ltd.",
+        "matched_symbol": "600563.SS"
+    },
+    {
+        "company_name": "GUANGZHOU DEVELOPMENT GROUP",
+        "matched_to": "Guangzhou Development Group Incorporated",
+        "matched_symbol": "600098.SS"
+    },
+    {
+        "company_name": "SHANXI SECURITIES",
+        "matched_to": "Shanxi Securities Co., Ltd.",
+        "matched_symbol": "002500.SZ"
+    },
+    {
+        "company_name": "YUAN LONG PING HIGH-TECH AGRICULTURE",
+        "matched_to": "Yuan Long Ping High-Tech Agriculture Co., Ltd.",
+        "matched_symbol": "000998.SZ"
+    },
+    {
+        "company_name": "BANK OF GUIYANG",
+        "matched_to": "Bank of Guiyang Co.,Ltd.",
+        "matched_symbol": "601997.SS"
+    },
+    {
+        "company_name": "MEINIAN ONEHEALTH HEALTHCARE HOLDINGS",
+        "matched_to": "Meinian Onehealth Healthcare Holdings Co., Ltd.",
+        "matched_symbol": "002044.SZ"
+    },
+    {
+        "company_name": "CHENGDU SANTAI HOLDING GROUP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ADAMA",
+        "matched_to": "Adamas One Corp.",
+        "matched_symbol": "JEWL"
+    },
+    {
+        "company_name": "SINGULATO",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SOUCHE",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SONOSCAPE MEDICAL",
+        "matched_to": "SonoScape Medical Corp.",
+        "matched_symbol": "300633.SZ"
+    },
+    {
+        "company_name": "SHANGHAI ORIENTAL PEARL GROUP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "GUANGZHOU PORT COMPANY",
+        "matched_to": "Guangzhou Port Company Limited",
+        "matched_symbol": "601228.SS"
+    },
+    {
+        "company_name": "LYGEND RESOURCES & TECHNOLOGY CO., LTD.",
+        "matched_to": "Lygend Resources & Technology Co., Ltd.",
+        "matched_symbol": "2245.HK"
+    },
+    {
+        "company_name": "YANGLING METRON NEW MATERIAL INC.",
+        "matched_to": "Yangling Metron New Material Inc.",
+        "matched_symbol": "300861.SZ"
+    },
+    {
+        "company_name": "JL MAG RARE-EARTH",
+        "matched_to": "JL Mag Rare-Earth Co., Ltd.",
+        "matched_symbol": "6680.HK"
+    },
+    {
+        "company_name": "SPIC DONGFANG ENERGY CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ZHEJIANG DINGLI MACHINERY",
+        "matched_to": "Zhejiang Dingli Machinery Co.,Ltd",
+        "matched_symbol": "603338.SS"
+    },
+    {
+        "company_name": "HEILONGJIANG AGRICULTURE COMPANY",
+        "matched_to": "Heilongjiang Agriculture Company Limited",
+        "matched_symbol": "600598.SS"
+    },
+    {
+        "company_name": "HAINAN DRINDA AUTOMOTIVE TRIM",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SINOCHEM INTERNATIONAL CORPORATION",
+        "matched_to": "Sinochem International Corporation",
+        "matched_symbol": "600500.SS"
+    },
+    {
+        "company_name": "BEIJING COMPASS TECHNOLOGY DEVELOPMENT",
+        "matched_to": "Beijing Compass Technology Development Co., Ltd.",
+        "matched_symbol": "300803.SZ"
+    },
+    {
+        "company_name": "CHENGTUN MINING GROUP",
+        "matched_to": "Chengtun Mining Group Co., Ltd.",
+        "matched_symbol": "600711.SS"
+    },
+    {
+        "company_name": "HISENSE VISUAL TECHNOLOGY",
+        "matched_to": "Hisense Visual Technology Co., Ltd.",
+        "matched_symbol": "600060.SS"
+    },
+    {
+        "company_name": "ANGELALIGN TECHNOLOGY INC.",
+        "matched_to": "Angelalign Technology Inc.",
+        "matched_symbol": "6699.HK"
+    },
+    {
+        "company_name": "XI'AN TRIANGLE DEFENSE",
+        "matched_to": "Xi'an Triangle Defense Co.,Ltd",
+        "matched_symbol": "300775.SZ"
+    },
+    {
+        "company_name": "BEIJING ORIGINWATER TECHNOLOGY",
+        "matched_to": "Beijing Originwater Technology Co., Ltd.",
+        "matched_symbol": "300070.SZ"
+    },
+    {
+        "company_name": "HANGZHOU TIGERMED CONSULTING",
+        "matched_to": "Hangzhou Tigermed Consulting Co., Ltd",
+        "matched_symbol": "3347.HK"
+    },
+    {
+        "company_name": "JIANGSU HENGLI HYDRAULIC",
+        "matched_to": "Jiangsu Hengli Hydraulic Co.,Ltd",
+        "matched_symbol": "601100.SS"
+    },
+    {
+        "company_name": "CHINA RAILWAY CONSTRUCTION CORPORATION",
+        "matched_to": "China Railway Construction Corporation Limited",
+        "matched_symbol": "1186.HK"
+    },
+    {
+        "company_name": "HUAZHU GROUP",
+        "matched_to": null,
+        "matched_symbol": "KYG465871120.SG"
+    },
+    {
+        "company_name": "TENCENT MUSIC ENTERTAINMENT GROUP",
+        "matched_to": "Tencent Music Entertainment Group",
+        "matched_symbol": "TME"
+    },
+    {
+        "company_name": "YUNNAN BAIYAO GROUP",
+        "matched_to": "Yunnan Baiyao Group Co.,Ltd",
+        "matched_symbol": "000538.SZ"
+    },
+    {
+        "company_name": "GUOTAI JUNAN SECURITIES",
+        "matched_to": "Guotai Junan Securities Co., Ltd.",
+        "matched_symbol": "153A.F"
+    },
+    {
+        "company_name": "JA SOLAR TECHNOLOGY",
+        "matched_to": "JA Solar Technology Co., Ltd.",
+        "matched_symbol": "002459.SZ"
+    },
+    {
+        "company_name": "SHANGHAI INTERNATIONAL AIRPORT",
+        "matched_to": "Shanghai International Airport Co., Ltd.",
+        "matched_symbol": "600009.SS"
+    },
+    {
+        "company_name": "GANFENG LITHIUM",
+        "matched_to": "Ganfeng Lithium Group Co., Ltd.",
+        "matched_symbol": "GNENF"
+    },
+    {
+        "company_name": "TRIP.COM GROUP",
+        "matched_to": "Trip.com Group Limited",
+        "matched_symbol": "TCOM"
+    },
+    {
+        "company_name": "JD.COM",
+        "matched_to": "JD.com, Inc.",
+        "matched_symbol": "JD"
+    },
+    {
+        "company_name": "CHINA TELECOM CORPORATION",
+        "matched_to": "China Telecom Corporation Limited",
+        "matched_symbol": "0728.HK"
+    },
+    {
+        "company_name": "BANK OF CHENGDU",
+        "matched_to": "Bank of Chengdu Co., Ltd.",
+        "matched_symbol": "601838.SS"
+    },
+    {
+        "company_name": "SHENZHEN KANGTAI BIOLOGICAL PRODUCTS",
+        "matched_to": "Shenzhen Kangtai Biological Products Co., Ltd.",
+        "matched_symbol": "300601.SZ"
+    },
+    {
+        "company_name": "KUANG-CHI TECHNOLOGIES",
+        "matched_to": "Kuang-Chi Technologies Co., Ltd.",
+        "matched_symbol": "002625.SZ"
+    },
+    {
+        "company_name": "CATHAY BIOTECH INC.",
+        "matched_to": "Cathay Biotech Inc.",
+        "matched_symbol": "688065.SS"
+    },
+    {
+        "company_name": "BY-HEALTH",
+        "matched_to": "Byhealth Co.,Ltd",
+        "matched_symbol": "300146.SZ"
+    },
+    {
+        "company_name": "GUANGZHOU SHIYUAN ELECTRONIC TECHNOLOGY COMPANY",
+        "matched_to": "Guangzhou Shiyuan Electronic Technology Company Limited",
+        "matched_symbol": "002841.SZ"
+    },
+    {
+        "company_name": "GENSCRIPT BIOTECH CORPORATION",
+        "matched_to": "Genscript Biotech Corporation",
+        "matched_symbol": "1548.HK"
+    },
+    {
+        "company_name": "ZOOMLION HEAVY INDUSTRY SCIENCE AND TECHNOLOGY",
+        "matched_to": "Zoomlion Heavy Industry Science and Technology Co., Ltd.",
+        "matched_symbol": "1157.HK"
+    },
+    {
+        "company_name": "MGI TECH CO., LTD.",
+        "matched_to": "MGI Tech Co., Ltd.",
+        "matched_symbol": "688114.SS"
+    },
+    {
+        "company_name": "CHINA SATELLITE COMMUNICATIONS",
+        "matched_to": "China Satellite Communications Co., Ltd.",
+        "matched_symbol": "601698.SS"
+    },
+    {
+        "company_name": "COUNTRY GARDEN SERVICES HOLDINGS COMPANY",
+        "matched_to": "Country Garden Services Holdings Company Limited",
+        "matched_symbol": "6098.HK"
+    },
+    {
+        "company_name": "EMPYREAN TECHNOLOGY CO., LTD.",
+        "matched_to": "Empyrean Technology Co., Ltd.",
+        "matched_symbol": "301269.SZ"
+    },
+    {
+        "company_name": "HANGZHOU LION ELECTRONICS CO.,LTD",
+        "matched_to": "Hangzhou Lion Electronics Co.,Ltd",
+        "matched_symbol": "605358.SS"
+    },
+    {
+        "company_name": "SHANGHAI MICROPORT MEDBOT (GROUP) CO., LTD.",
+        "matched_to": "Shanghai MicroPort MedBot (Group) Co., Ltd.",
+        "matched_symbol": "2252.HK"
+    },
+    {
+        "company_name": "DONG-E-E-JIAO",
+        "matched_to": "Dong-E-E-Jiao Co.,Ltd.",
+        "matched_symbol": "000423.SZ"
+    },
+    {
+        "company_name": "CHINA MEDICAL SYSTEM HOLDINGS",
+        "matched_to": "China Medical System Holdings Limited",
+        "matched_symbol": "0867.HK"
+    },
+    {
+        "company_name": "HAN'S LASER TECHNOLOGY INDUSTRY GROUP",
+        "matched_to": "Han's Laser Technology Industry Group Co., Ltd.",
+        "matched_symbol": "002008.SZ"
+    },
+    {
+        "company_name": "RLX TECHNOLOGY INC.",
+        "matched_to": "RLX Technology Inc.",
+        "matched_symbol": "RLX"
+    },
+    {
+        "company_name": "ZHONGAN ONLINE P & C INSURANCE",
+        "matched_to": "ZhongAn Online P & C Insurance Co., Ltd.",
+        "matched_symbol": "6060.HK"
+    },
+    {
+        "company_name": "SHENZHEN CAPCHEM TECHNOLOGY",
+        "matched_to": "Shenzhen Capchem Technology Co., Ltd.",
+        "matched_symbol": "300037.SZ"
+    },
+    {
+        "company_name": "CHINA INTERNATIONAL MARINE CONTAINERS (GROUP)",
+        "matched_to": "China International Marine Containers (Group) Co., Ltd.",
+        "matched_symbol": "2039.HK"
+    },
+    {
+        "company_name": "BEIJING YANJING BREWERY",
+        "matched_to": "Beijing Yanjing Brewery Co.,Ltd.",
+        "matched_symbol": "000729.SZ"
+    },
+    {
+        "company_name": "XI'AN SHAANGU POWER",
+        "matched_to": "Xi'an Shaangu Power Co., Ltd.",
+        "matched_symbol": "601369.SS"
+    },
+    {
+        "company_name": "TONGKUN GROUP",
+        "matched_to": "Tongkun Group Co., Ltd.",
+        "matched_symbol": "601233.SS"
+    },
+    {
+        "company_name": "NINGBO JOYSON ELECTRONIC",
+        "matched_to": "Ningbo Joyson Electronic Corp.",
+        "matched_symbol": "600699.SS"
+    },
+    {
+        "company_name": "XTEP INTERNATIONAL HOLDINGS",
+        "matched_to": "Xtep International Holdings Limited",
+        "matched_symbol": "4QI.F"
+    },
+    {
+        "company_name": "AEROSPACE CH UAV",
+        "matched_to": "Aerospace CH UAV Co.,Ltd",
+        "matched_symbol": "002389.SZ"
+    },
+    {
+        "company_name": "CHINA RESOURCES DOUBLE-CRANE PHARMACEUTICAL",
+        "matched_to": "China Resources Double-Crane Pharmaceutical Co.,Ltd.",
+        "matched_symbol": "600062.SS"
+    },
+    {
+        "company_name": "TIANJIN GUANGYU DEVELOPMENT",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ZHE JIANG HAI LIANG CO. LTD",
+        "matched_to": "Zhe Jiang Hai Liang Co., Ltd",
+        "matched_symbol": "002203.SZ"
+    },
+    {
+        "company_name": "DR CORPORATION LIMITED",
+        "matched_to": "DR Corporation Limited",
+        "matched_symbol": "301177.SZ"
+    },
+    {
+        "company_name": "AVICHINA INDUSTRY & TECHNOLOGY COMPANY",
+        "matched_to": "AviChina Industry & Technology Company Limited",
+        "matched_symbol": "2357.HK"
+    },
+    {
+        "company_name": "JOINTOWN PHARMACEUTICAL GROUP",
+        "matched_to": "Jointown Pharmaceutical Group Co., Ltd",
+        "matched_symbol": "600998.SS"
+    },
+    {
+        "company_name": "SHANDONG BUCHANG PHARMACEUTICALS",
+        "matched_to": "Shandong Buchang Pharmaceuticals Co., Ltd.",
+        "matched_symbol": "603858.SS"
+    },
+    {
+        "company_name": "TIANJIN ZHONG XIN PHARMACEUTICAL GROUP CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ZHEJIANG NARADA POWER SOURCE",
+        "matched_to": "ZHEJIANG NARADA POWER SOURCE Co. , Ltd.",
+        "matched_symbol": "300068.SZ"
+    },
+    {
+        "company_name": "ZHEJIANG HANGKE TECHNOLOGY COMPANY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "HUNAN GOKE MICROELECTRONICS",
+        "matched_to": "Hunan Goke Microelectronics Co.,Ltd.",
+        "matched_symbol": "300672.SZ"
+    },
+    {
+        "company_name": "BANK OF SHANGHAI",
+        "matched_to": "Bank of Shanghai Co., Ltd.",
+        "matched_symbol": "601229.SS"
+    },
+    {
+        "company_name": "SHANGHAI INTERNATIONAL PORT (GROUP)",
+        "matched_to": "Shanghai International Port (Group) Co., Ltd.",
+        "matched_symbol": "600018.SS"
+    },
+    {
+        "company_name": "ZHONGSHENG GROUP HOLDINGS",
+        "matched_to": "Zhongsheng Group Holdings Limited",
+        "matched_symbol": "0881.HK"
+    },
+    {
+        "company_name": "PING AN INSURANCE (GROUP) COMPANY OF CHINA",
+        "matched_to": "Ping An Insurance (Group) Company of China, Ltd.",
+        "matched_symbol": "2318.HK"
+    },
+    {
+        "company_name": "GREAT WALL MOTOR COMPANY",
+        "matched_to": "Great Wall Motor Company Limited",
+        "matched_symbol": "2333.HK"
+    },
+    {
+        "company_name": "PINDUODUO",
+        "matched_to": "Pinduoduo Inc",
+        "matched_symbol": "9PDA.BE"
+    },
+    {
+        "company_name": "SHENZHEN DYNANONIC CO. LTD",
+        "matched_to": "Shenzhen Dynanonic Co., Ltd",
+        "matched_symbol": "300769.SZ"
+    },
+    {
+        "company_name": "NONGFU SPRING",
+        "matched_to": "Nongfu Spring Co., Ltd.",
+        "matched_symbol": "9633.HK"
+    },
+    {
+        "company_name": "HANGZHOU SILAN MICROELECTRONICS",
+        "matched_to": "Hangzhou Silan Microelectronics Co., Ltd",
+        "matched_symbol": "600460.SS"
+    },
+    {
+        "company_name": "HUIZHOU DESAY SV AUTOMOTIVE",
+        "matched_to": "Huizhou Desay SV Automotive Co., Ltd.",
+        "matched_symbol": "002920.SZ"
+    },
+    {
+        "company_name": "AVIC HEAVY MACHINERY",
+        "matched_to": "AVIC Heavy Machinery Co., Ltd.",
+        "matched_symbol": "600765.SS"
+    },
+    {
+        "company_name": "BOSIDENG INTERNATIONAL HOLDINGS",
+        "matched_to": "Bosideng International Holdings Limited",
+        "matched_symbol": "3BD.F"
+    },
+    {
+        "company_name": "YANGZIJIANG SHIPBUILDING (HOLDINGS)",
+        "matched_to": "Yangzijiang Shipbuilding (Holdings) Ltd.",
+        "matched_symbol": "BS6.SI"
+    },
+    {
+        "company_name": "YUNNAN CHIHONG ZINC & GERMANIUM CO., LTD.",
+        "matched_to": "Yunnan Chihong Zinc & Germanium Co., Ltd.",
+        "matched_symbol": "600497.SS"
+    },
+    {
+        "company_name": "FLAT GLASS GROUP",
+        "matched_to": "Flat Glass Group Co., Ltd.",
+        "matched_symbol": "6865.HK"
+    },
+    {
+        "company_name": "CHINA HUARONG ASSET MANAGEMENT",
+        "matched_to": "China Huarong Asset Management Co., Ltd.",
+        "matched_symbol": "2799.HK"
+    },
+    {
+        "company_name": "TITAN WIND ENERGY (SUZHOU)",
+        "matched_to": "Titan Wind Energy (Suzhou) Co.,Ltd",
+        "matched_symbol": "002531.SZ"
+    },
+    {
+        "company_name": "MEGVII",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHINA GREAT WALL SECURITIES",
+        "matched_to": "China Great Wall Securities Co.,Ltd.",
+        "matched_symbol": "002939.SZ"
+    },
+    {
+        "company_name": "GUANGDONG KINLONG HARDWARE PRODUCTS",
+        "matched_to": "Guangdong KinLong Hardware Products Co.,Ltd.",
+        "matched_symbol": "002791.SZ"
+    },
+    {
+        "company_name": "ZHEFU HOLDING GROUP",
+        "matched_to": "Zhefu Holding Group Co., Ltd.",
+        "matched_symbol": "002266.SZ"
+    },
+    {
+        "company_name": "CAITONG SECURITIES",
+        "matched_to": "Caitong Securities Co.,Ltd.",
+        "matched_symbol": "601108.SS"
+    },
+    {
+        "company_name": "ZHEJIANG YONGTAI TECHNOLOGY",
+        "matched_to": "Zhejiang Yongtai Technology Co.,Ltd.",
+        "matched_symbol": "002326.SZ"
+    },
+    {
+        "company_name": "GLARUN TECHNOLOGY",
+        "matched_to": "Glarun Technology Co.,Ltd",
+        "matched_symbol": "600562.SS"
+    },
+    {
+        "company_name": "CHINA MINMETALS RARE EARTH",
+        "matched_to": "China Minmetals Rare Earth Co., Ltd.",
+        "matched_symbol": "000831.SZ"
+    },
+    {
+        "company_name": "PING AN HEALTHCARE AND TECHNOLOGY COMPANY",
+        "matched_to": "Ping An Healthcare and Technology Company Limited",
+        "matched_symbol": "1833.HK"
+    },
+    {
+        "company_name": "SUN ART RETAIL GROUP",
+        "matched_to": "Sun Art Retail Group Limited",
+        "matched_symbol": "6808.HK"
+    },
+    {
+        "company_name": "VENUSTECH GROUP",
+        "matched_to": "Venustech Group Inc.",
+        "matched_symbol": "002439.SZ"
+    },
+    {
+        "company_name": "CECEP WIND-POWER CORPORATION",
+        "matched_to": "CECEP Wind-power Corporation Co.,Ltd.",
+        "matched_symbol": "601016.SS"
+    },
+    {
+        "company_name": "IFLYTEK",
+        "matched_to": "iFLYTEK CO.,LTD",
+        "matched_symbol": "002230.SZ"
+    },
+    {
+        "company_name": "EASTROC BEVERAGE (GROUP) CO.,LTD.",
+        "matched_to": "Eastroc Beverage (Group) Co.,Ltd.",
+        "matched_symbol": "605499.SS"
+    },
+    {
+        "company_name": "HANSOH PHARMACEUTICAL GROUP COMPANY",
+        "matched_to": "Hansoh Pharmaceutical Group Company Limited",
+        "matched_symbol": "3692.HK"
+    },
+    {
+        "company_name": "ALIBABA GROUP HOLDING",
+        "matched_to": "Alibaba Group Holding Limited",
+        "matched_symbol": "BABA"
+    },
+    {
+        "company_name": "CONTEMPORARY AMPEREX TECHNOLOGY",
+        "matched_to": "Contemporary Amperex Technology Co., Limited",
+        "matched_symbol": "300750.SZ"
+    },
+    {
+        "company_name": "HYGON INFORMATION TECHNOLOGY CO., LTD.",
+        "matched_to": "Hygon Information Technology Co., Ltd.",
+        "matched_symbol": "688041.SS"
+    },
+    {
+        "company_name": "GD POWER DEVELOPMENT",
+        "matched_to": "GD Power Development Co.,Ltd",
+        "matched_symbol": "600795.SS"
+    },
+    {
+        "company_name": "CHANGCHUN HIGH & NEW TECHNOLOGY INDUSTRY (GROUP)",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHINA EVERBRIGHT BANK COMPANY",
+        "matched_to": "China Everbright Bank Company Limited",
+        "matched_symbol": "6818.HK"
+    },
+    {
+        "company_name": "CHINA UNICOM (HONG KONG)",
+        "matched_to": "China Unicom (Hong Kong) Limited",
+        "matched_symbol": "0762.HK"
+    },
+    {
+        "company_name": "JD DIGITS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CITIC",
+        "matched_to": "CITIC Limited",
+        "matched_symbol": "0267.HK"
+    },
+    {
+        "company_name": "SONGCHENG PERFORMANCE DEVELOPMENT",
+        "matched_to": "Songcheng Performance Development Co.,Ltd",
+        "matched_symbol": "300144.SZ"
+    },
+    {
+        "company_name": "YANGQUAN COAL INDUSTRY (GROUP)",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "UNIVERSAL SCIENTIFIC INDUSTRIAL (SHANGHAI)",
+        "matched_to": "Universal Scientific Industrial (Shanghai) Co., Ltd.",
+        "matched_symbol": "601231.SS"
+    },
+    {
+        "company_name": "CHINA MERCHANTS PORT GROUP",
+        "matched_to": "China Merchants Port Group Co., Ltd.",
+        "matched_symbol": "201872.SZ"
+    },
+    {
+        "company_name": "DONGGUAN RURAL COMMERCIAL BANK CO., LTD.",
+        "matched_to": "Dongguan Rural Commercial Bank Co., Ltd.",
+        "matched_symbol": "9889.HK"
+    },
+    {
+        "company_name": "DONLINKS INTERNATIONAL INVESTMENT",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "GUOLIAN SECURITIES",
+        "matched_to": "Guolian Securities Co., Ltd.",
+        "matched_symbol": "601456.SS"
+    },
+    {
+        "company_name": "CHINA ENTERPRISE COMPANY",
+        "matched_to": "China Enterprise Company Limited",
+        "matched_symbol": "600675.SS"
+    },
+    {
+        "company_name": "CHINDATA",
+        "matched_to": "Chindata Group Holdings Limited",
+        "matched_symbol": "CD"
+    },
+    {
+        "company_name": "DOHIA GROUP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SEAZEN GROUP",
+        "matched_to": "Seazen Group Limited",
+        "matched_symbol": "1030.HK"
+    },
+    {
+        "company_name": "ANKER INNOVATIONS LIMITED",
+        "matched_to": "Anker Innovations Limited",
+        "matched_symbol": "300866.SZ"
+    },
+    {
+        "company_name": "QINGDAO GAOCE TECHNOLOGY CO., LTD",
+        "matched_to": "Qingdao Gaoce Technology Co., Ltd",
+        "matched_symbol": "688556.SS"
+    },
+    {
+        "company_name": "METALLURGICAL CORPORATION OF CHINA",
+        "matched_to": "Metallurgical Corporation of China Ltd.",
+        "matched_symbol": "1618.HK"
+    },
+    {
+        "company_name": "DONGFANG ELECTRIC CORPORATION",
+        "matched_to": "Dongfang Electric Corporation Limited",
+        "matched_symbol": "600875.SS"
+    },
+    {
+        "company_name": "SINOPEC OILFIELD SERVICE CORPORATION",
+        "matched_to": "Sinopec Oilfield Service Corporation",
+        "matched_symbol": "1033.HK"
+    },
+    {
+        "company_name": "INNER MONGOLIA YUAN XING ENERGY CO.,LTD",
+        "matched_to": "Inner Mongolia Yuan Xing Energy Company Limited",
+        "matched_symbol": "000683.SZ"
+    },
+    {
+        "company_name": "WALVAX BIOTECHNOLOGY",
+        "matched_to": "Walvax Biotechnology Co., Ltd.",
+        "matched_symbol": "300142.SZ"
+    },
+    {
+        "company_name": "JIANGSU YUYUE MEDICAL EQUIPMENT & SUPPLY",
+        "matched_to": "Jiangsu Yuyue Medical Equipment & Supply Co., Ltd.",
+        "matched_symbol": "002223.SZ"
+    },
+    {
+        "company_name": "CHANGJIANG SECURITIES COMPANY",
+        "matched_to": "Changjiang Securities Company Limited",
+        "matched_symbol": "000783.SZ"
+    },
+    {
+        "company_name": "BEIJING CAPITAL",
+        "matched_to": "Beijing Capital International Airport Company Limited",
+        "matched_symbol": "BJCHY"
+    },
+    {
+        "company_name": "SUNRESIN NEW MATERIALS",
+        "matched_to": "Sunresin New Materials Co.,Ltd",
+        "matched_symbol": "300487.SZ"
+    },
+    {
+        "company_name": "SHENZHEN SUNLORD ELECTRONICS",
+        "matched_to": "Shenzhen Sunlord Electronics Co.,Ltd.",
+        "matched_symbol": "002138.SZ"
+    },
+    {
+        "company_name": "BANK OF JINZHOU CO., LTD.",
+        "matched_to": "ZIM Integrated Shipping Services Ltd.",
+        "matched_symbol": "ZIM"
+    },
+    {
+        "company_name": "QINGDAO SENTURY TIRE CO., LTD.",
+        "matched_to": "Qingdao Sentury Tire Co., Ltd.",
+        "matched_symbol": "002984.SZ"
+    },
+    {
+        "company_name": "HAITONG SECURITIES",
+        "matched_to": "Haitong Securities Co., Ltd.",
+        "matched_symbol": "6837.HK"
+    },
+    {
+        "company_name": "NIO INC",
+        "matched_to": "NIO Inc.",
+        "matched_symbol": "NIO"
+    },
+    {
+        "company_name": "DASHENLIN PHARMACEUTICAL GROUP",
+        "matched_to": "DaShenLin Pharmaceutical Group Co., Ltd.",
+        "matched_symbol": "603233.SS"
+    },
+    {
+        "company_name": "SUZHOU DONGSHAN PRECISION MANUFACTURING",
+        "matched_to": "Suzhou Dongshan Precision Manufacturing Co., Ltd.",
+        "matched_symbol": "002384.SZ"
+    },
+    {
+        "company_name": "SHIMGE PUMP INDUSTRY GROUP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "XIAOHONGSHU",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "DONGFENG MOTOR GROUP COMPANY",
+        "matched_to": "Dongfeng Motor Group Company Limited",
+        "matched_symbol": "0489.HK"
+    },
+    {
+        "company_name": "QI AN XIN TECHNOLOGY GROUP INC.",
+        "matched_to": "Qi An Xin Technology Group Inc.",
+        "matched_symbol": "688561.SS"
+    },
+    {
+        "company_name": "SHENZHEN ENERGY GROUP",
+        "matched_to": "Shenzhen Energy Group Co., Ltd.",
+        "matched_symbol": "000027.SZ"
+    },
+    {
+        "company_name": "CHINA LITERATURE",
+        "matched_to": "China Literature Limited",
+        "matched_symbol": "0772.HK"
+    },
+    {
+        "company_name": "FUJIAN SUNNER DEVELOPMENT",
+        "matched_to": "Fujian Sunner Development Co., Ltd.",
+        "matched_symbol": "002299.SZ"
+    },
+    {
+        "company_name": "AMLOGIC (SHANGHAI)",
+        "matched_to": "Amlogic (Shanghai) Co.,Ltd.",
+        "matched_symbol": "688099.SS"
+    },
+    {
+        "company_name": "HEFEI MEYER OPTOELECTRONIC TECHNOLOGY",
+        "matched_to": "Hefei Meyer Optoelectronic Technology Inc.",
+        "matched_symbol": "002690.SZ"
+    },
+    {
+        "company_name": "SINOCARE",
+        "matched_to": "Sinocare Inc.",
+        "matched_symbol": "300298.SZ"
+    },
+    {
+        "company_name": "YONGAN FUTURES CO.,LTD.",
+        "matched_to": "Yongan Futures Co.,Ltd.",
+        "matched_symbol": "600927.SS"
+    },
+    {
+        "company_name": "BANK OF COMMUNICATIONS",
+        "matched_to": "Bank of Communications Co., Ltd.",
+        "matched_symbol": "3328.HK"
+    },
+    {
+        "company_name": "YONGXING SPECIAL MATERIALS TECHNOLOGY",
+        "matched_to": "Yongxing Special Materials Technology Co.,Ltd",
+        "matched_symbol": "002756.SZ"
+    },
+    {
+        "company_name": "CHINA PETROLEUM & CHEMICAL CORPORATION (SINOPEC)",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "PSBC (POSTAL SAVINGS BANK OF CHINA)",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ZHANGZHOU PIENTZEHUANG PHARMACEUTICAL. LTD",
+        "matched_to": "Zhangzhou Pientzehuang Pharmaceutical., Ltd",
+        "matched_symbol": "600436.SS"
+    },
+    {
+        "company_name": "CHINA ZHENHUA (GROUP) SCIENCE & TECHNOLOGY",
+        "matched_to": "China Zhenhua (Group) Science & Technology Co., Ltd",
+        "matched_symbol": "000733.SZ"
+    },
+    {
+        "company_name": "HNA INFRASTRUCTURE INVESTMENT GROUP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "NINGBO GINLONG TECHNOLOGIES",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "JIANGSU YOKE TECHNOLOGY",
+        "matched_to": "Jiangsu Yoke Technology Co., Ltd.",
+        "matched_symbol": "002409.SZ"
+    },
+    {
+        "company_name": "INNER MONGOLIA DAZHONG MINING CO., LTD.",
+        "matched_to": "Inner Mongolia Dazhong Mining Co., Ltd.",
+        "matched_symbol": "001203.SZ"
+    },
+    {
+        "company_name": "HUBEI FEILIHUA QUARTZ GLASS",
+        "matched_to": "Hubei Feilihua Quartz Glass Co., Ltd.",
+        "matched_symbol": "300395.SZ"
+    },
+    {
+        "company_name": "SINOMA INTERNATIONAL ENGINEERING",
+        "matched_to": "Sinoma International Engineering Co.,Ltd",
+        "matched_symbol": "600970.SS"
+    },
+    {
+        "company_name": "BYTEDANCE",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "NATIONAL SILICON INDUSTRY GROUP CO., LTD.",
+        "matched_to": "National Silicon Industry Group Co., Ltd.",
+        "matched_symbol": "688126.SS"
+    },
+    {
+        "company_name": "NARI TECHNOLOGY",
+        "matched_to": "NARI Technology Co., Ltd.",
+        "matched_symbol": "600406.SS"
+    },
+    {
+        "company_name": "ADVANCED MICRO-FABRICATION EQUIPMENT CHINA",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "MILKYWAY CHEMICAL SUPPLY CHAIN SERVICE CO. LTD",
+        "matched_to": "Milkyway Chemical Supply Chain Service Co., Ltd.",
+        "matched_symbol": "603713.SS"
+    },
+    {
+        "company_name": "ANHUI CONCH CEMENT COMPANY",
+        "matched_to": "Anhui Conch Cement Company Limited",
+        "matched_symbol": "0914.HK"
+    },
+    {
+        "company_name": "KONFOONG MATERIALS INTERNATIONAL",
+        "matched_to": "Konfoong Materials International Co., Ltd",
+        "matched_symbol": "300666.SZ"
+    },
+    {
+        "company_name": "CANSINO BIOLOGICS",
+        "matched_to": "CanSino Biologics Inc.",
+        "matched_symbol": "6185.HK"
+    },
+    {
+        "company_name": "FUSHUN SPECIAL STEEL CO.,LTD.",
+        "matched_to": "Fushun Special Steel Co.,LTD.",
+        "matched_symbol": "600399.SS"
+    },
+    {
+        "company_name": "CHINA BOHAI BANK CO., LTD.",
+        "matched_to": "China Bohai Bank Co., Ltd.",
+        "matched_symbol": "9668.HK"
+    }
+]

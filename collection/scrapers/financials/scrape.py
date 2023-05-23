@@ -99,6 +99,7 @@ class MorningStarSpider(scrapy.Spider):
             "cashflow_investing_2021",
             "cashflow_investing_2020",
             "cashflow_investing_2019",
+            "currency",
         ]
 
         for financial in desired_financials:

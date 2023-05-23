@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import sys
+import re
 
 
 BASE_DIR = os.getcwd()
@@ -9,11 +10,26 @@ os.chdir(os.path.join(BASE_DIR, "data"))
 
 
 def merge_companies() -> pd.DataFrame:
-    df = pd.DataFrame()
+    df_m = pd.DataFrame()
     for file in os.listdir("companies"):
-        df = pd.concat([df, pd.read_json(f"companies/{file}")])
-        df["country"] = file.split("_")[-1]
-    return df
+        df = pd.read_json(f"companies/{file}")
+        df["country"] = re.search("_(.*?).json", file)[1]
+        df_m = pd.concat([df_m, df])
+
+    cols = [
+        "company_name",
+        "world_rank_2022",
+        "world_rank_2021",
+        "world_rank_2020",
+        "company_business",
+        "local_rank_2022",
+        "local_rank_2021",
+        "local_rank_2020",
+        "num_employees",
+        "founded_year",
+        "ipo_year",
+    ]
+    return df_m[cols]
 
 
 def merge_blockdata() -> pd.DataFrame:
@@ -25,8 +41,9 @@ def merge_blockdata() -> pd.DataFrame:
 
 def merge_financials() -> pd.DataFrame:
     df = pd.DataFrame()
-    for file in os.listdir("financials"):
-        df = pd.concat([df, pd.read_json(f"financials/{file}")])
+    for file in ["financials_us.json", "financials_china.json"]:
+        df = pd.concat([df, pd.read_json(f"yahoo_finance/{file}")])
+
     return df
 
 
@@ -45,6 +62,7 @@ def main() -> None:
         how="outer",
     )  # merge everything on company_name with outer overlapping
 
+    df_merged = df_merged.convert_dtypes()
     # output to sys.argv[1] location
     df_merged.to_csv(sys.argv[1], index=False)
 

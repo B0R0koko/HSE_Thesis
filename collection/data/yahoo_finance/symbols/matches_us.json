@@ -1,0 +1,5002 @@
+[
+    {
+        "company_name": "BERKSHIRE HATHAWAY",
+        "matched_to": "Berkshire Hathaway Inc.",
+        "matched_symbol": "BRK-B"
+    },
+    {
+        "company_name": "VISA",
+        "matched_to": "Visa Inc.",
+        "matched_symbol": "V"
+    },
+    {
+        "company_name": "SERVICENOW",
+        "matched_to": "ServiceNow, Inc.",
+        "matched_symbol": "NOW"
+    },
+    {
+        "company_name": "O'REILLY AUTOMOTIVE",
+        "matched_to": "O'Reilly Automotive, Inc.",
+        "matched_symbol": "ORLY"
+    },
+    {
+        "company_name": "SYNOPSYS",
+        "matched_to": "Synopsys, Inc.",
+        "matched_symbol": "SNPS"
+    },
+    {
+        "company_name": "THE SOUTHERN COMPANY",
+        "matched_to": "The Southern Company",
+        "matched_symbol": "SO"
+    },
+    {
+        "company_name": "WHATSAPP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "BLACKSTONE GROUP",
+        "matched_to": null,
+        "matched_symbol": "US09260D1072.SG"
+    },
+    {
+        "company_name": "DOLLAR GENERAL CORPORATION",
+        "matched_to": "Dollar General Corporation",
+        "matched_symbol": "DG"
+    },
+    {
+        "company_name": "PIONEER NATURAL RESOURCES COMPANY",
+        "matched_to": "Pioneer Natural Resources Company",
+        "matched_symbol": "PXD"
+    },
+    {
+        "company_name": "INTERCONTINENTAL EXCHANGE",
+        "matched_to": "Intercontinental Exchange, Inc.",
+        "matched_symbol": "ICE"
+    },
+    {
+        "company_name": "OCCIDENTAL PETROLEUM CORPORATION",
+        "matched_to": "Occidental Petroleum Corporation",
+        "matched_symbol": "OXY"
+    },
+    {
+        "company_name": "KRAFT HEINZ COMPANY",
+        "matched_to": "The Kraft Heinz Company",
+        "matched_symbol": "KHC"
+    },
+    {
+        "company_name": "KEURIG DR PEPPER",
+        "matched_to": "Keurig Dr Pepper Inc.",
+        "matched_symbol": "KDP"
+    },
+    {
+        "company_name": "PUBLIC STORAGE",
+        "matched_to": "Public Storage",
+        "matched_symbol": "PSA"
+    },
+    {
+        "company_name": "VMWARE",
+        "matched_to": "VMware, Inc.",
+        "matched_symbol": "VMW"
+    },
+    {
+        "company_name": "DOMINION ENERGY",
+        "matched_to": "Dominion Energy, Inc.",
+        "matched_symbol": "D"
+    },
+    {
+        "company_name": "ENTERPRISE PRODUCTS PARTNERS",
+        "matched_to": "Enterprise Products Partners L.P.",
+        "matched_symbol": "EPD"
+    },
+    {
+        "company_name": "U.S. BANCORP",
+        "matched_to": "U.S. Bancorp",
+        "matched_symbol": "USB"
+    },
+    {
+        "company_name": "HCA HEALTHCARE",
+        "matched_to": "HCA Healthcare, Inc.",
+        "matched_symbol": "HCA"
+    },
+    {
+        "company_name": "AIR PRODUCTS AND CHEMICALS",
+        "matched_to": "Air Products and Chemicals, Inc.",
+        "matched_symbol": "APD"
+    },
+    {
+        "company_name": "PROGRESSIVE CORPORATION",
+        "matched_to": "The Progressive Corporation",
+        "matched_symbol": "PGR"
+    },
+    {
+        "company_name": "CARGILL",
+        "matched_to": null,
+        "matched_symbol": "CARGN0000.CM"
+    },
+    {
+        "company_name": "EOG RESOURCES",
+        "matched_to": "EOG Resources, Inc.",
+        "matched_symbol": "EOG"
+    },
+    {
+        "company_name": "BOOKING HOLDINGS",
+        "matched_to": "Booking Holdings Inc.",
+        "matched_symbol": "BKNG"
+    },
+    {
+        "company_name": "AON",
+        "matched_to": "Aon plc",
+        "matched_symbol": "AON"
+    },
+    {
+        "company_name": "MODERNA",
+        "matched_to": "Moderna, Inc.",
+        "matched_symbol": "MRNA"
+    },
+    {
+        "company_name": "FISERV",
+        "matched_to": "Fiserv, Inc.",
+        "matched_symbol": "FISV"
+    },
+    {
+        "company_name": "HUMANA",
+        "matched_to": "Humana Inc.",
+        "matched_symbol": "HUM"
+    },
+    {
+        "company_name": "CME GROUP",
+        "matched_to": "CME Group Inc.",
+        "matched_symbol": "CME"
+    },
+    {
+        "company_name": "NORTHROP GRUMMAN CORPORATION",
+        "matched_to": "Northrop Grumman Corporation",
+        "matched_symbol": "NOC"
+    },
+    {
+        "company_name": "MARSH & MCLENNAN COMPANIES",
+        "matched_to": "Marsh & McLennan Companies, Inc.",
+        "matched_symbol": "MMC"
+    },
+    {
+        "company_name": "ANALOG DEVICES",
+        "matched_to": "Analog Devices, Inc.",
+        "matched_symbol": "ADI"
+    },
+    {
+        "company_name": "CITI GROUP",
+        "matched_to": "Citigroup Inc.",
+        "matched_symbol": "C"
+    },
+    {
+        "company_name": "ESTEE LAUDER COMPANIES",
+        "matched_to": "The Est\u00e9e Lauder Companies Inc.",
+        "matched_symbol": "EL"
+    },
+    {
+        "company_name": "MONDELEZ INTERNATIONAL",
+        "matched_to": "Mondelez International, Inc.",
+        "matched_symbol": "MDLZ"
+    },
+    {
+        "company_name": "INTUITIVE SURGICAL",
+        "matched_to": "Intuitive Surgical, Inc.",
+        "matched_symbol": "ISRG"
+    },
+    {
+        "company_name": "ANTHEM",
+        "matched_to": "Elevance Health, Inc.",
+        "matched_symbol": "0HG8.L"
+    },
+    {
+        "company_name": "VANGUARD GROUP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SALESFORCE.COM",
+        "matched_to": "Leverage Shrs 2x Salesforce.com ETP Scs",
+        "matched_symbol": "2CRM.L"
+    },
+    {
+        "company_name": "AMGEN",
+        "matched_to": "Amgen Inc.",
+        "matched_symbol": "AMGN"
+    },
+    {
+        "company_name": "UNION PACIFIC CORPORATION",
+        "matched_to": "Union Pacific Corporation",
+        "matched_symbol": "UNP"
+    },
+    {
+        "company_name": "INTUIT",
+        "matched_to": "Intuitive Surgical, Inc.",
+        "matched_symbol": "ISRG"
+    },
+    {
+        "company_name": "ELEVANCE HEALTH INC.",
+        "matched_to": "Elevance Health, Inc.",
+        "matched_symbol": "ELV"
+    },
+    {
+        "company_name": "META PLATFORMS",
+        "matched_to": "Meta Platforms, Inc.",
+        "matched_symbol": "META"
+    },
+    {
+        "company_name": "HOME DEPOT",
+        "matched_to": "The Home Depot, Inc.",
+        "matched_symbol": "HD"
+    },
+    {
+        "company_name": "CHEVRON CORPORATION",
+        "matched_to": "Chevron Corporation",
+        "matched_symbol": "CVX"
+    },
+    {
+        "company_name": "ELI LILLY AND COMPANY",
+        "matched_to": "Eli Lilly and Company",
+        "matched_symbol": "LLY"
+    },
+    {
+        "company_name": "RAYTHEON TECHNOLOGIES CORPORATION",
+        "matched_to": "Raytheon Technologies Corporation",
+        "matched_symbol": "RTX"
+    },
+    {
+        "company_name": "THE CHARLES SCHWAB CORPORATION",
+        "matched_to": "The Charles Schwab Corporation",
+        "matched_symbol": "SCHW"
+    },
+    {
+        "company_name": "PHILIP MORRIS INTERNATIONAL",
+        "matched_to": "Philip Morris International Inc.",
+        "matched_symbol": "PM"
+    },
+    {
+        "company_name": "ADOBE",
+        "matched_to": "Adobe Inc.",
+        "matched_symbol": "ADBE"
+    },
+    {
+        "company_name": "DANAHER CORPORATION",
+        "matched_to": "Danaher Corporation",
+        "matched_symbol": "DHR"
+    },
+    {
+        "company_name": "PEPSICO",
+        "matched_to": "PepsiCo, Inc.",
+        "matched_symbol": "PEP"
+    },
+    {
+        "company_name": "MCDONALD'S CORPORATION",
+        "matched_to": "McDonald's Corporation",
+        "matched_symbol": "MCD"
+    },
+    {
+        "company_name": "MERCK & CO",
+        "matched_to": "Merck & Co., Inc.",
+        "matched_symbol": "MRK"
+    },
+    {
+        "company_name": "COCA-COLA COMPANY",
+        "matched_to": "The Coca-Cola Company",
+        "matched_symbol": "KO"
+    },
+    {
+        "company_name": "AMERICAN TOWER CORPORATION (REIT)",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "AUTOMATIC DATA PROCESSING (ADP)",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CIGNA CORPORATION",
+        "matched_to": "The Cigna Group",
+        "matched_symbol": "CI"
+    },
+    {
+        "company_name": "GILEAD SCIENCES",
+        "matched_to": "Gilead Sciences, Inc.",
+        "matched_symbol": "GILD"
+    },
+    {
+        "company_name": "APPLE",
+        "matched_to": "Apple Inc.",
+        "matched_symbol": "AAPL"
+    },
+    {
+        "company_name": "INTEL CORPORATION",
+        "matched_to": "Intel Corporation",
+        "matched_symbol": "INTC"
+    },
+    {
+        "company_name": "AFLAC",
+        "matched_to": "Aflac Incorporated",
+        "matched_symbol": "AFL"
+    },
+    {
+        "company_name": "NUCOR CORPORATION",
+        "matched_to": "Nucor Corporation",
+        "matched_symbol": "NUE"
+    },
+    {
+        "company_name": "NEWMONT CORPORATION",
+        "matched_to": "Newmont Corporation",
+        "matched_symbol": "NEM"
+    },
+    {
+        "company_name": "FORTINET",
+        "matched_to": "Fortinet, Inc.",
+        "matched_symbol": "FTNT"
+    },
+    {
+        "company_name": "CARRIER GLOBAL",
+        "matched_to": "Carrier Global Corporation",
+        "matched_symbol": "CARR"
+    },
+    {
+        "company_name": "DATADOG",
+        "matched_to": "Datadog, Inc.",
+        "matched_symbol": "DDOG"
+    },
+    {
+        "company_name": "EQUIFAX",
+        "matched_to": "Equifax Inc.",
+        "matched_symbol": "EFX"
+    },
+    {
+        "company_name": "DTE ENERGY COMPANY",
+        "matched_to": "DTE Energy Company",
+        "matched_symbol": "DTE"
+    },
+    {
+        "company_name": "HORMEL FOODS CORPORATION",
+        "matched_to": "Hormel Foods Corporation",
+        "matched_symbol": "HRL"
+    },
+    {
+        "company_name": "WARNER BROS. DISCOVERY INC",
+        "matched_to": "Warner Bros. Discovery, Inc.",
+        "matched_symbol": "WBD"
+    },
+    {
+        "company_name": "FIFTH THIRD BANCORP",
+        "matched_to": "Fifth Third Bancorp",
+        "matched_symbol": "FITB"
+    },
+    {
+        "company_name": "MCCORMICK & COMPANY",
+        "matched_to": "McCormick & Company, Incorporated",
+        "matched_symbol": "MKC"
+    },
+    {
+        "company_name": "FORTIVE CORPORATION",
+        "matched_to": "Fortive Corporation",
+        "matched_symbol": "FTV"
+    },
+    {
+        "company_name": "THE TRADE DESK",
+        "matched_to": "The Trade Desk, Inc.",
+        "matched_symbol": "TTD"
+    },
+    {
+        "company_name": "ALEXANDRIA REAL ESTATE EQUITIES",
+        "matched_to": "Alexandria Real Estate Equities, Inc.",
+        "matched_symbol": "ARE"
+    },
+    {
+        "company_name": "UNITED RENTALS",
+        "matched_to": "United Rentals, Inc.",
+        "matched_symbol": "URI"
+    },
+    {
+        "company_name": "CBRE GROUP",
+        "matched_to": "CBRE Group, Inc.",
+        "matched_symbol": "CBRE"
+    },
+    {
+        "company_name": "HEICO CORPORATION",
+        "matched_to": "HEICO Corporation",
+        "matched_symbol": "HEI"
+    },
+    {
+        "company_name": "VERISIGN",
+        "matched_to": "VeriSign, Inc.",
+        "matched_symbol": "VRSN"
+    },
+    {
+        "company_name": "DELTA AIR LINES",
+        "matched_to": "Delta Air Lines, Inc.",
+        "matched_symbol": "DAL"
+    },
+    {
+        "company_name": "PPL CORPORATION",
+        "matched_to": "PPL Corporation",
+        "matched_symbol": "PPL"
+    },
+    {
+        "company_name": "EBAY",
+        "matched_to": "eBay Inc.",
+        "matched_symbol": "EBAY"
+    },
+    {
+        "company_name": "WEYERHAEUSER COMPANY",
+        "matched_to": "Weyerhaeuser Company",
+        "matched_symbol": "WY"
+    },
+    {
+        "company_name": "ULTA BEAUTY",
+        "matched_to": "Ulta Beauty, Inc.",
+        "matched_symbol": "ULTA"
+    },
+    {
+        "company_name": "ENTERGY CORPORATION",
+        "matched_to": "Entergy Corporation",
+        "matched_symbol": "ETR"
+    },
+    {
+        "company_name": "M&T BANK CORPORATION",
+        "matched_to": "M&T Bank Corporation",
+        "matched_symbol": "MTB"
+    },
+    {
+        "company_name": "BAXTER INTERNATIONAL",
+        "matched_to": "Baxter International Inc.",
+        "matched_symbol": "BAX"
+    },
+    {
+        "company_name": "GE HEALTHCARE TECHNOLOGIES",
+        "matched_to": "GE HealthCare Technologies Inc.",
+        "matched_symbol": "GEHC"
+    },
+    {
+        "company_name": "VEEVA SYSTEMS",
+        "matched_to": "Veeva Systems Inc.",
+        "matched_symbol": "VEEV"
+    },
+    {
+        "company_name": "ALBEMARLE CORPORATION",
+        "matched_to": "Albemarle Corporation",
+        "matched_symbol": "ALB"
+    },
+    {
+        "company_name": "GARTNER",
+        "matched_to": "Gartner, Inc.",
+        "matched_symbol": "IT"
+    },
+    {
+        "company_name": "W.W. GRAINGER",
+        "matched_to": "W.W. Grainger, Inc.",
+        "matched_symbol": "GWW"
+    },
+    {
+        "company_name": "DELL TECHNOLOGIES",
+        "matched_to": "Dell Technologies Inc.",
+        "matched_symbol": "DELL"
+    },
+    {
+        "company_name": "CONSTELLATION ENERGY CORPORATION",
+        "matched_to": "Constellation Energy Corporation",
+        "matched_symbol": "CEG"
+    },
+    {
+        "company_name": "PPG INDUSTRIES",
+        "matched_to": "PPG Industries, Inc.",
+        "matched_symbol": "PPG"
+    },
+    {
+        "company_name": "WEC ENERGY GROUP",
+        "matched_to": "WEC Energy Group, Inc.",
+        "matched_symbol": "WEC"
+    },
+    {
+        "company_name": "SBA COMMUNICATIONS CORPORATION",
+        "matched_to": "SBA Communications Corporation",
+        "matched_symbol": "SBAC"
+    },
+    {
+        "company_name": "NASDAQ",
+        "matched_to": "NASDAQ Composite",
+        "matched_symbol": "^IXIC"
+    },
+    {
+        "company_name": "PUBLIC SERVICE ENTERPRISE GROUP",
+        "matched_to": "Public Service Enterprise Group Incorporated",
+        "matched_symbol": "PEG"
+    },
+    {
+        "company_name": "VICI PROPERTIES",
+        "matched_to": "VICI Properties Inc.",
+        "matched_symbol": "VICI"
+    },
+    {
+        "company_name": "DOLLAR TREE",
+        "matched_to": "Dollar Tree, Inc.",
+        "matched_symbol": "DLTR"
+    },
+    {
+        "company_name": "RESMED",
+        "matched_to": "ResMed Inc.",
+        "matched_symbol": "RMD"
+    },
+    {
+        "company_name": "COSTAR GROUP",
+        "matched_to": "CoStar Group, Inc.",
+        "matched_symbol": "CSGP"
+    },
+    {
+        "company_name": "BLOCK INC",
+        "matched_to": "Block, Inc.",
+        "matched_symbol": "SQ"
+    },
+    {
+        "company_name": "PRUDENTIAL FINANCIAL",
+        "matched_to": "Prudential Financial, Inc.",
+        "matched_symbol": "PRU"
+    },
+    {
+        "company_name": "ENERGY TRANSFER LP",
+        "matched_to": "Energy Transfer LP",
+        "matched_symbol": "ET"
+    },
+    {
+        "company_name": "PARKER-HANNIFIN CORPORATION",
+        "matched_to": "Parker-Hannifin Corporation",
+        "matched_symbol": "PH"
+    },
+    {
+        "company_name": "AMERIPRISE FINANCIAL",
+        "matched_to": "Ameriprise Financial, Inc.",
+        "matched_symbol": "AMP"
+    },
+    {
+        "company_name": "AMETEK",
+        "matched_to": "AMETEK, Inc.",
+        "matched_symbol": "AME"
+    },
+    {
+        "company_name": "PACIFIC GAS & ELECTRIC CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "WALGREENS BOOTS ALLIANCE",
+        "matched_to": "Walgreens Boots Alliance, Inc.",
+        "matched_symbol": "WBA"
+    },
+    {
+        "company_name": "DUPONT DE NEMOURS",
+        "matched_to": "DuPont de Nemours, Inc.",
+        "matched_symbol": "DD"
+    },
+    {
+        "company_name": "CUMMINS",
+        "matched_to": "Cummins Inc.",
+        "matched_symbol": "CMI"
+    },
+    {
+        "company_name": "PACCAR",
+        "matched_to": "PACCAR Inc",
+        "matched_symbol": "PCAR"
+    },
+    {
+        "company_name": "E. I. DU PONT DE NEMOURS AND COMPANY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "STRIPE",
+        "matched_to": "Prosper Funds SICAV - Prosper Stars & Stripes Fund P USD",
+        "matched_symbol": "0P0000X8PC"
+    },
+    {
+        "company_name": "SPACEX",
+        "matched_to": "SpaceXCoin USD",
+        "matched_symbol": "SPXC-USD"
+    },
+    {
+        "company_name": "SIMON PROPERTY GROUP",
+        "matched_to": "Simon Property Group, Inc.",
+        "matched_symbol": "SPG"
+    },
+    {
+        "company_name": "THE BANK OF NEW YORK MELLON CORPORATION",
+        "matched_to": "The Bank of New York Mellon Corporation",
+        "matched_symbol": "BK"
+    },
+    {
+        "company_name": "CHIPOTLE MEXICAN GRILL",
+        "matched_to": "Chipotle Mexican Grill, Inc.",
+        "matched_symbol": "CMG"
+    },
+    {
+        "company_name": "ARTHUR J. GALLAGHER",
+        "matched_to": "Arthur J. Gallagher & Co.",
+        "matched_symbol": "AJG"
+    },
+    {
+        "company_name": "FIDELITY NATIONAL INFORMATION SERVICES",
+        "matched_to": "Fidelity National Information Services, Inc.",
+        "matched_symbol": "FIS"
+    },
+    {
+        "company_name": "REALTY INCOME CORPORATION",
+        "matched_to": "Realty Income Corporation",
+        "matched_symbol": "O"
+    },
+    {
+        "company_name": "AGILENT TECHNOLOGIES",
+        "matched_to": "Agilent Technologies, Inc.",
+        "matched_symbol": "A"
+    },
+    {
+        "company_name": "MOTOROLA SOLUTIONS",
+        "matched_to": "Motorola Solutions, Inc.",
+        "matched_symbol": "MSI"
+    },
+    {
+        "company_name": "IKEA",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "FEDEX CORPORATION",
+        "matched_to": "FedEx Corporation",
+        "matched_symbol": "FDX"
+    },
+    {
+        "company_name": "WORKDAY",
+        "matched_to": "Workday, Inc.",
+        "matched_symbol": "WDAY"
+    },
+    {
+        "company_name": "AUTOZONE",
+        "matched_to": "AutoZone, Inc.",
+        "matched_symbol": "AZO"
+    },
+    {
+        "company_name": "PALO ALTO NETWORKS",
+        "matched_to": "Palo Alto Networks, Inc.",
+        "matched_symbol": "PANW"
+    },
+    {
+        "company_name": "LABORATORY CORPORATION OF AMERICA HOLDINGS",
+        "matched_to": "Laboratory Corporation of America Holdings",
+        "matched_symbol": "LH"
+    },
+    {
+        "company_name": "ABIOMED",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "OMNICOM GROUP",
+        "matched_to": "Omnicom Group Inc.",
+        "matched_symbol": "OMC"
+    },
+    {
+        "company_name": "CINCINNATI FINANCIAL CORPORATION",
+        "matched_to": "Cincinnati Financial Corporation",
+        "matched_symbol": "CINF"
+    },
+    {
+        "company_name": "VIATRIS INC",
+        "matched_to": "Viatris Inc.",
+        "matched_symbol": "VTRS"
+    },
+    {
+        "company_name": "ZEBRA TECHNOLOGIES CORPORATION",
+        "matched_to": "Zebra Technologies Corporation",
+        "matched_symbol": "ZBRA"
+    },
+    {
+        "company_name": "ROYAL CARIBBEAN CRUISES",
+        "matched_to": "Royal Caribbean Cruises Ltd.",
+        "matched_symbol": "RCL"
+    },
+    {
+        "company_name": "UNITED THERAPEUTICS CORPORATION",
+        "matched_to": "United Therapeutics Corporation",
+        "matched_symbol": "UTHR"
+    },
+    {
+        "company_name": "INTERPUBLIC GROUP OF COMPANIES",
+        "matched_to": "The Interpublic Group of Companies, Inc.",
+        "matched_symbol": "IPG"
+    },
+    {
+        "company_name": "BIO-TECHNE CORPORATION",
+        "matched_to": "Bio-Techne Corporation",
+        "matched_symbol": "TECH"
+    },
+    {
+        "company_name": "MONGODB",
+        "matched_to": "MongoDB, Inc.",
+        "matched_symbol": "MDB"
+    },
+    {
+        "company_name": "HubSpot",
+        "matched_to": "HubSpot, Inc.",
+        "matched_symbol": "HUBS"
+    },
+    {
+        "company_name": "WESTLAKE CHEMICAL CORPORATION",
+        "matched_to": "Westlake Corporation",
+        "matched_symbol": "WLK"
+    },
+    {
+        "company_name": "TERADYNE",
+        "matched_to": "Teradyne, Inc.",
+        "matched_symbol": "TER"
+    },
+    {
+        "company_name": "AVANTOR",
+        "matched_to": "Avantor, Inc.",
+        "matched_symbol": "AVTR"
+    },
+    {
+        "company_name": "FORMULA ONE GROUP",
+        "matched_to": "Formula One Group",
+        "matched_symbol": "FWONK"
+    },
+    {
+        "company_name": "CONTINENTAL RESOURCES",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ERIE INDEMNITY COMPANY",
+        "matched_to": "Erie Indemnity Company",
+        "matched_symbol": "ERIE"
+    },
+    {
+        "company_name": "LKQ CORPORATION",
+        "matched_to": "LKQ Corporation",
+        "matched_symbol": "LKQ"
+    },
+    {
+        "company_name": "AVERY DENNISON CORPORATION",
+        "matched_to": "Avery Dennison Corporation",
+        "matched_symbol": "AVY"
+    },
+    {
+        "company_name": "EVERGY",
+        "matched_to": "Evergy, Inc.",
+        "matched_symbol": "EVRG"
+    },
+    {
+        "company_name": "SYNCHRONY FINANCIAL",
+        "matched_to": "Synchrony Financial",
+        "matched_symbol": "SYF"
+    },
+    {
+        "company_name": "NVR",
+        "matched_to": "NVR, Inc.",
+        "matched_symbol": "NVR"
+    },
+    {
+        "company_name": "FAIR ISAAC CORPORATION",
+        "matched_to": "Fair Isaac Corporation",
+        "matched_symbol": "FICO"
+    },
+    {
+        "company_name": "MONOLITHIC POWER SYSTEMS",
+        "matched_to": "Monolithic Power Systems, Inc.",
+        "matched_symbol": "MPWR"
+    },
+    {
+        "company_name": "MAXIM INTEGRATED PRODUCTS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "PINTEREST",
+        "matched_to": "Pinterest, Inc.",
+        "matched_symbol": "PINS"
+    },
+    {
+        "company_name": "TAKE-TWO INTERACTIVE SOFTWARE",
+        "matched_to": "Take-Two Interactive Software, Inc.",
+        "matched_symbol": "TTWO"
+    },
+    {
+        "company_name": "EXPEDITORS INTERNATIONAL OF WASHINGTON",
+        "matched_to": "Expeditors International of Washington, Inc.",
+        "matched_symbol": "EXPD"
+    },
+    {
+        "company_name": "ICAHN ENTERPRISES",
+        "matched_to": "Icahn Enterprises L.P.",
+        "matched_symbol": "IEP"
+    },
+    {
+        "company_name": "CAMPBELL SOUP COMPANY",
+        "matched_to": "Campbell Soup Company",
+        "matched_symbol": "CPB"
+    },
+    {
+        "company_name": "KEYCORP",
+        "matched_to": "KeyCorp",
+        "matched_symbol": "KEY"
+    },
+    {
+        "company_name": "LPL FINANCIAL HOLDINGS",
+        "matched_to": "LPL Financial Holdings Inc.",
+        "matched_symbol": "LPLA"
+    },
+    {
+        "company_name": "BROWN & BROWN",
+        "matched_to": "Brown & Brown, Inc.",
+        "matched_symbol": "BRO"
+    },
+    {
+        "company_name": "MARATHON OIL CORPORATION",
+        "matched_to": "Marathon Oil Corporation",
+        "matched_symbol": "MRO"
+    },
+    {
+        "company_name": "SUN COMMUNITIES",
+        "matched_to": "Sun Communities, Inc.",
+        "matched_symbol": "SUI"
+    },
+    {
+        "company_name": "WELLCARE HEALTH PLANS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "QUEST DIAGNOSTICS",
+        "matched_to": "Quest Diagnostics Incorporated",
+        "matched_symbol": "DGX"
+    },
+    {
+        "company_name": "INCYTE CORPORATION",
+        "matched_to": "Incyte Corporation",
+        "matched_symbol": "INCY"
+    },
+    {
+        "company_name": "THE CLOROX COMPANY",
+        "matched_to": "The Clorox Company",
+        "matched_symbol": "CLX"
+    },
+    {
+        "company_name": "DOORDASH",
+        "matched_to": "DoorDash, Inc.",
+        "matched_symbol": "DASH"
+    },
+    {
+        "company_name": "CHURCH & DWIGHT",
+        "matched_to": "Church & Dwight Co., Inc.",
+        "matched_symbol": "CHD"
+    },
+    {
+        "company_name": "REGIONS FINANCIAL CORPORATION",
+        "matched_to": "Regions Financial Corporation",
+        "matched_symbol": "RF"
+    },
+    {
+        "company_name": "XYLEM",
+        "matched_to": "Xylem Inc.",
+        "matched_symbol": "XYL"
+    },
+    {
+        "company_name": "CAPITAL GROUP",
+        "matched_to": "Kinsale Capital Group, Inc.",
+        "matched_symbol": "KNSL"
+    },
+    {
+        "company_name": "CENTERPOINT ENERGY",
+        "matched_to": "CenterPoint Energy, Inc.",
+        "matched_symbol": "CNP"
+    },
+    {
+        "company_name": "CITIZENS FINANCIAL GROUP",
+        "matched_to": "Citizens Financial Group, Inc.",
+        "matched_symbol": "CFG"
+    },
+    {
+        "company_name": "VENTAS",
+        "matched_to": "Ventas, Inc.",
+        "matched_symbol": "VTR"
+    },
+    {
+        "company_name": "ZOOM VIDEO COMMUNICATIONS",
+        "matched_to": "Zoom Video Communications, Inc.",
+        "matched_symbol": "ZM"
+    },
+    {
+        "company_name": "TELEDYNE TECHNOLOGIES",
+        "matched_to": "Teledyne Technologies Incorporated",
+        "matched_symbol": "TDY"
+    },
+    {
+        "company_name": "WATERS CORPORATION",
+        "matched_to": "Waters Corporation",
+        "matched_symbol": "WAT"
+    },
+    {
+        "company_name": "PAYCOM SOFTWARE",
+        "matched_to": "Paycom Software, Inc.",
+        "matched_symbol": "PAYC"
+    },
+    {
+        "company_name": "QUANTA SERVICES",
+        "matched_to": "Quanta Services, Inc.",
+        "matched_symbol": "PWR"
+    },
+    {
+        "company_name": "AECOM",
+        "matched_to": "AECOM",
+        "matched_symbol": "ACM"
+    },
+    {
+        "company_name": "AMERICAN FINANCIAL GROUP",
+        "matched_to": "American Financial Group, Inc.",
+        "matched_symbol": "AFG"
+    },
+    {
+        "company_name": "PRINCIPAL FINANCIAL GROUP",
+        "matched_to": "Principal Financial Group, Inc.",
+        "matched_symbol": "PFG"
+    },
+    {
+        "company_name": "SEAGATE TECHNOLOGY",
+        "matched_to": "Seagate Technology Holdings plc",
+        "matched_symbol": "STX"
+    },
+    {
+        "company_name": "ENTEGRIS",
+        "matched_to": "Entegris, Inc.",
+        "matched_symbol": "ENTG"
+    },
+    {
+        "company_name": "BJ'S WHOLESALE CLUB HOLDINGS",
+        "matched_to": "BJ's Wholesale Club Holdings, Inc.",
+        "matched_symbol": "BJ"
+    },
+    {
+        "company_name": "COGNEX CORPORATION",
+        "matched_to": "Cognex Corporation",
+        "matched_symbol": "CGNX"
+    },
+    {
+        "company_name": "ZAYO GROUP HOLDINGS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "OGE ENERGY",
+        "matched_to": "OGE Energy Corp.",
+        "matched_symbol": "OGE"
+    },
+    {
+        "company_name": "NATIONAL RETAIL PROPERTIES",
+        "matched_to": "National Retail Properties, Inc.",
+        "matched_symbol": "NNN"
+    },
+    {
+        "company_name": "ADT",
+        "matched_to": "ADT Inc.",
+        "matched_symbol": "ADT"
+    },
+    {
+        "company_name": "CULLEN/FROST BANKERS",
+        "matched_to": "Cullen/Frost Bankers, Inc.",
+        "matched_symbol": "CFR"
+    },
+    {
+        "company_name": "GENPACT",
+        "matched_to": "Genpact Limited",
+        "matched_symbol": "G"
+    },
+    {
+        "company_name": "DCP MIDSTREAM LP",
+        "matched_to": "DCP Midstream, LP",
+        "matched_symbol": "DCP"
+    },
+    {
+        "company_name": "INSTACART",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "F5 INC",
+        "matched_to": "F5, Inc.",
+        "matched_symbol": "FFIV"
+    },
+    {
+        "company_name": "DROPBOX",
+        "matched_to": "Dropbox, Inc.",
+        "matched_symbol": "DBX"
+    },
+    {
+        "company_name": "CHURCHILL DOWNS",
+        "matched_to": "Churchill Downs Incorporated",
+        "matched_symbol": "CHDN"
+    },
+    {
+        "company_name": "PLAINS ALL AMERICAN PIPELINE",
+        "matched_to": "Plains All American Pipeline, L.P.",
+        "matched_symbol": "PAA"
+    },
+    {
+        "company_name": "WILLIAMS-SONOMA",
+        "matched_to": "Williams-Sonoma, Inc.",
+        "matched_symbol": "WSM"
+    },
+    {
+        "company_name": "UNION ELECTRIC COMPANY",
+        "matched_to": "Union Electric Company",
+        "matched_symbol": "UEPEO"
+    },
+    {
+        "company_name": "A. O. SMITH CORPORATION",
+        "matched_to": "A. O. Smith Corporation",
+        "matched_symbol": "AOS"
+    },
+    {
+        "company_name": "AMERICAN AIRLINES GROUP",
+        "matched_to": "American Airlines Group Inc.",
+        "matched_symbol": "AAL"
+    },
+    {
+        "company_name": "FEDERAL REALTY INVESTMENT TRUST",
+        "matched_to": "Federal Realty Investment Trust",
+        "matched_symbol": "FRT"
+    },
+    {
+        "company_name": "COMERICA",
+        "matched_to": "Comerica Incorporated",
+        "matched_symbol": "CMA"
+    },
+    {
+        "company_name": "CLEVELAND-CLIFFS",
+        "matched_to": "Cleveland-Cliffs Inc.",
+        "matched_symbol": "CLF"
+    },
+    {
+        "company_name": "EXACT SCIENCES CORPORATION",
+        "matched_to": "Exact Sciences Corporation",
+        "matched_symbol": "EXAS"
+    },
+    {
+        "company_name": "QORVO",
+        "matched_to": "Qorvo, Inc.",
+        "matched_symbol": "QRVO"
+    },
+    {
+        "company_name": "NEW FORTRESS ENERGY LLC",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CAESARS ENTERTAINMENT CORPORATION",
+        "matched_to": "Caesars Entertainment, Inc.",
+        "matched_symbol": "CZR"
+    },
+    {
+        "company_name": "BLACK KNIGHT",
+        "matched_to": "Black Knight, Inc.",
+        "matched_symbol": "BKI"
+    },
+    {
+        "company_name": "WOLFSPEED, INC.",
+        "matched_to": "Wolfspeed, Inc.",
+        "matched_symbol": "WOLF"
+    },
+    {
+        "company_name": "DICK'S SPORTING GOODS",
+        "matched_to": "DICK'S Sporting Goods, Inc.",
+        "matched_symbol": "DKS"
+    },
+    {
+        "company_name": "LATTICE SEMICONDUCTOR CORPORATION",
+        "matched_to": "Lattice Semiconductor Corporation",
+        "matched_symbol": "LSCC"
+    },
+    {
+        "company_name": "CUBESMART",
+        "matched_to": "CubeSmart",
+        "matched_symbol": "CUBE"
+    },
+    {
+        "company_name": "CYRUSONE",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "PERFORMANCE FOOD GROUP COMPANY",
+        "matched_to": "Performance Food Group Company",
+        "matched_symbol": "PFGC"
+    },
+    {
+        "company_name": "CITRIX SYSTEMS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CARMAX",
+        "matched_to": "CarMax, Inc.",
+        "matched_symbol": "KMX"
+    },
+    {
+        "company_name": "BUILDERS FIRSTSOURCE",
+        "matched_to": "Builders FirstSource, Inc.",
+        "matched_symbol": "BLDR"
+    },
+    {
+        "company_name": "WESTERN DIGITAL CORPORATION",
+        "matched_to": "Western Digital Corporation",
+        "matched_symbol": "WDC"
+    },
+    {
+        "company_name": "LIBERTY PROPERTY TRUST",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "EASTMAN CHEMICAL COMPANY",
+        "matched_to": "Eastman Chemical Company",
+        "matched_symbol": "EMN"
+    },
+    {
+        "company_name": "REXFORD INDUSTRIAL REALTY",
+        "matched_to": "Rexford Industrial Realty, Inc.",
+        "matched_symbol": "REXR"
+    },
+    {
+        "company_name": "V.F. CORPORATION",
+        "matched_to": "V.F. Corporation",
+        "matched_symbol": "VFC"
+    },
+    {
+        "company_name": "UNIVERSAL HEALTH SERVICES",
+        "matched_to": "Universal Health Services, Inc.",
+        "matched_symbol": "UHS"
+    },
+    {
+        "company_name": "MAGELLAN MIDSTREAM PARTNERS",
+        "matched_to": "Magellan Midstream Partners, L.P.",
+        "matched_symbol": "MMP"
+    },
+    {
+        "company_name": "CARNIVAL CORPORATION",
+        "matched_to": "Carnival Corporation & plc",
+        "matched_symbol": "CCL"
+    },
+    {
+        "company_name": "LOVE'S TRAVEL STOPS & COUNTRY STORES",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ANNALY CAPITAL MANAGEMENT",
+        "matched_to": "Annaly Capital Management, Inc.",
+        "matched_symbol": "NLY"
+    },
+    {
+        "company_name": "MARKETAXESS HOLDINGS",
+        "matched_to": "MarketAxess Holdings Inc.",
+        "matched_symbol": "MKTX"
+    },
+    {
+        "company_name": "NEWS CORPORATION",
+        "matched_to": "News Corporation",
+        "matched_symbol": "NWS"
+    },
+    {
+        "company_name": "CHARLES RIVER LABORATORIES INTERNATIONAL",
+        "matched_to": "Charles River Laboratories International, Inc.",
+        "matched_symbol": "CRL"
+    },
+    {
+        "company_name": "NISOURCE",
+        "matched_to": "NiSource Inc.",
+        "matched_symbol": "NI"
+    },
+    {
+        "company_name": "ALBERTSONS COMPANIES, INC.",
+        "matched_to": "Albertsons Companies, Inc.",
+        "matched_symbol": "ACI"
+    },
+    {
+        "company_name": "OKTA",
+        "matched_to": "Okta, Inc.",
+        "matched_symbol": "OKTA"
+    },
+    {
+        "company_name": "ARAMARK",
+        "matched_to": "Aramark",
+        "matched_symbol": "ARMK"
+    },
+    {
+        "company_name": "REGENCY CENTERS CORPORATION",
+        "matched_to": "Regency Centers Corporation",
+        "matched_symbol": "REG"
+    },
+    {
+        "company_name": "DYNATRACE",
+        "matched_to": "Dynatrace, Inc.",
+        "matched_symbol": "DT"
+    },
+    {
+        "company_name": "AMDOCS",
+        "matched_to": "Amdocs Limited",
+        "matched_symbol": "DOX"
+    },
+    {
+        "company_name": "TRIMBLE",
+        "matched_to": "Trimble Inc.",
+        "matched_symbol": "TRMB"
+    },
+    {
+        "company_name": "EQUITY LIFESTYLE PROPERTIES",
+        "matched_to": "Equity LifeStyle Properties, Inc.",
+        "matched_symbol": "ELS"
+    },
+    {
+        "company_name": "CARLISLE COMPANIES",
+        "matched_to": "Carlisle Companies Incorporated",
+        "matched_symbol": "CSL"
+    },
+    {
+        "company_name": "CHEMED CORPORATION",
+        "matched_to": "Chemed Corporation",
+        "matched_symbol": "CHE"
+    },
+    {
+        "company_name": "DOMINO'S PIZZA",
+        "matched_to": "Domino's Pizza, Inc.",
+        "matched_symbol": "DPZ"
+    },
+    {
+        "company_name": "CONCENTRIX CORPORATION",
+        "matched_to": "Concentrix Corporation",
+        "matched_symbol": "CNXC"
+    },
+    {
+        "company_name": "NEXTERA ENERGY PARTNERS LP",
+        "matched_to": "NextEra Energy Partners, LP",
+        "matched_symbol": "NEP"
+    },
+    {
+        "company_name": "MOHAWK INDUSTRIES",
+        "matched_to": "Mohawk Industries, Inc.",
+        "matched_symbol": "MHK"
+    },
+    {
+        "company_name": "EASTGROUP PROPERTIES",
+        "matched_to": "EastGroup Properties, Inc.",
+        "matched_symbol": "EGP"
+    },
+    {
+        "company_name": "RBC BEARINGS",
+        "matched_to": "RBC Bearings Incorporated",
+        "matched_symbol": "RBC"
+    },
+    {
+        "company_name": "PILGRIM'S PRIDE CORPORATION",
+        "matched_to": "Pilgrim's Pride Corporation",
+        "matched_symbol": "PPC"
+    },
+    {
+        "company_name": "AXALTA COATING SYSTEMS",
+        "matched_to": "Axalta Coating Systems Ltd.",
+        "matched_symbol": "AXTA"
+    },
+    {
+        "company_name": "AFFILIATED MANAGERS GROUP",
+        "matched_to": "Affiliated Managers Group, Inc.",
+        "matched_symbol": "AMG"
+    },
+    {
+        "company_name": "NIELSEN HOLDINGS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SAIA",
+        "matched_to": "Saia, Inc.",
+        "matched_symbol": "SAIA"
+    },
+    {
+        "company_name": "EXLSERVICE HOLDINGS",
+        "matched_to": "ExlService Holdings, Inc.",
+        "matched_symbol": "EXLS"
+    },
+    {
+        "company_name": "CHORD ENERGY CORPORATION",
+        "matched_to": "Chord Energy Corporation",
+        "matched_symbol": "CHRD"
+    },
+    {
+        "company_name": "QUALTRICS INTERNATIONAL INC.",
+        "matched_to": "Qualtrics International Inc.",
+        "matched_symbol": "XM"
+    },
+    {
+        "company_name": "SONOCO PRODUCTS COMPANY",
+        "matched_to": "Sonoco Products Company",
+        "matched_symbol": "SON"
+    },
+    {
+        "company_name": "ASHLAND GLOBAL HOLDINGS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "POLARIS",
+        "matched_to": "Polaris Inc.",
+        "matched_symbol": "PII"
+    },
+    {
+        "company_name": "OAKTREE CAPITAL GROUP, LLC",
+        "matched_to": "Oaktree Capital Group, LLC 6.625% PFD UT A",
+        "matched_symbol": "OAK-PA"
+    },
+    {
+        "company_name": "AMKOR TECHNOLOGY",
+        "matched_to": "Amkor Technology, Inc.",
+        "matched_symbol": "AMKR"
+    },
+    {
+        "company_name": "HEALTHCARE TRUST OF AMERICA",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ALLEGRO MICROSYSTEMS, INC.",
+        "matched_to": "Allegro MicroSystems, Inc.",
+        "matched_symbol": "ALGM"
+    },
+    {
+        "company_name": "GENESEE & WYOMING",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "KINSALE CAPITAL GROUP",
+        "matched_to": "Kinsale Capital Group, Inc.",
+        "matched_symbol": "KNSL"
+    },
+    {
+        "company_name": "SYMBOTIC INC.",
+        "matched_to": "Symbotic Inc.",
+        "matched_symbol": "SYM"
+    },
+    {
+        "company_name": "HOULIHAN LOKEY",
+        "matched_to": "Houlihan Lokey, Inc.",
+        "matched_symbol": "HLI"
+    },
+    {
+        "company_name": "AGNC INVESTMENT",
+        "matched_to": "AGNC Investment Corp.",
+        "matched_symbol": "AGNC"
+    },
+    {
+        "company_name": "GAMESTOP",
+        "matched_to": "GameStop Corp.",
+        "matched_symbol": "GME"
+    },
+    {
+        "company_name": "AMERICAN CAMPUS COMMUNITIES",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "PDC ENERGY",
+        "matched_to": "PDC Energy, Inc.",
+        "matched_symbol": "PDCE"
+    },
+    {
+        "company_name": "RLI Corp",
+        "matched_to": "RLI Corp.",
+        "matched_symbol": "RLI"
+    },
+    {
+        "company_name": "RH",
+        "matched_to": "RH",
+        "matched_symbol": "RH"
+    },
+    {
+        "company_name": "PROSPERITY BANCSHARES",
+        "matched_to": "Prosperity Bancshares, Inc.",
+        "matched_symbol": "PB"
+    },
+    {
+        "company_name": "TANIUM",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ASSURANT",
+        "matched_to": "Assurant, Inc.",
+        "matched_symbol": "AIZ"
+    },
+    {
+        "company_name": "SAMSARA INC.",
+        "matched_to": "Samsara Inc.",
+        "matched_symbol": "IOT"
+    },
+    {
+        "company_name": "CROCS",
+        "matched_to": "Crocs, Inc.",
+        "matched_symbol": "CROX"
+    },
+    {
+        "company_name": "MATADOR RESOURCES COMPANY",
+        "matched_to": "Matador Resources Company",
+        "matched_symbol": "MTDR"
+    },
+    {
+        "company_name": "KARUNA THERAPEUTICS",
+        "matched_to": "Karuna Therapeutics, Inc.",
+        "matched_symbol": "KRTX"
+    },
+    {
+        "company_name": "GRAPHIC PACKAGING HOLDING COMPANY",
+        "matched_to": "Graphic Packaging Holding Company",
+        "matched_symbol": "GPK"
+    },
+    {
+        "company_name": "GITLAB",
+        "matched_to": "GitLab Inc.",
+        "matched_symbol": "GTLB"
+    },
+    {
+        "company_name": "PLUG POWER",
+        "matched_to": "Plug Power Inc.",
+        "matched_symbol": "PLUG"
+    },
+    {
+        "company_name": "ALLEGHANY CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "LEAR CORPORATION",
+        "matched_to": "Lear Corporation",
+        "matched_symbol": "LEA"
+    },
+    {
+        "company_name": "SIGNATURE BANK",
+        "matched_to": "Signature Bank",
+        "matched_symbol": "SBNY"
+    },
+    {
+        "company_name": "ZIONS BANCORPORATION NATIONAL ASSOCIATION",
+        "matched_to": "Zions Bancorporation, National Association",
+        "matched_symbol": "ZION"
+    },
+    {
+        "company_name": "ROBINHOOD MARKETS, INC.",
+        "matched_to": "Robinhood Markets, Inc.",
+        "matched_symbol": "HOOD"
+    },
+    {
+        "company_name": "ORGANON & CO.",
+        "matched_to": "Organon & Co.",
+        "matched_symbol": "OGN"
+    },
+    {
+        "company_name": "MIDDLEBY CORPORATION",
+        "matched_to": "The Middleby Corporation",
+        "matched_symbol": "MIDD"
+    },
+    {
+        "company_name": "HEALTHCARE REALTY TRUST",
+        "matched_to": "Healthcare Realty Trust Incorporated",
+        "matched_symbol": "HR"
+    },
+    {
+        "company_name": "CIENA CORPORATION",
+        "matched_to": "Ciena Corporation",
+        "matched_symbol": "CIEN"
+    },
+    {
+        "company_name": "NRG ENERGY",
+        "matched_to": "NRG Energy, Inc.",
+        "matched_symbol": "NRG"
+    },
+    {
+        "company_name": "AQUA AMERICA",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "OLD REPUBLIC INTERNATIONAL CORPORATION",
+        "matched_to": "Old Republic International Corporation",
+        "matched_symbol": "ORI"
+    },
+    {
+        "company_name": "ALCOA CORPORATION",
+        "matched_to": "Alcoa Corporation",
+        "matched_symbol": "AA"
+    },
+    {
+        "company_name": "UGI CORPORATION",
+        "matched_to": "UGI Corporation",
+        "matched_symbol": "UGI"
+    },
+    {
+        "company_name": "CATALENT",
+        "matched_to": "Catalent, Inc.",
+        "matched_symbol": "CTLT"
+    },
+    {
+        "company_name": "US FOODS HOLDING",
+        "matched_to": "US Foods Holding Corp.",
+        "matched_symbol": "USFD"
+    },
+    {
+        "company_name": "DISH NETWORK CORPORATION",
+        "matched_to": "DISH Network Corporation",
+        "matched_symbol": "DISH"
+    },
+    {
+        "company_name": "KNOWBE4",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "AMERICOLD REALTY TRUST",
+        "matched_to": "Americold Realty Trust, Inc.",
+        "matched_symbol": "COLD"
+    },
+    {
+        "company_name": "LANCASTER COLONY CORPORATION",
+        "matched_to": "Lancaster Colony Corporation",
+        "matched_symbol": "LANC"
+    },
+    {
+        "company_name": "ELANCO ANIMAL HEALTH",
+        "matched_to": "Elanco Animal Health Incorporated",
+        "matched_symbol": "ELAN"
+    },
+    {
+        "company_name": "GLACIER BANCORP",
+        "matched_to": "Glacier Bancorp, Inc.",
+        "matched_symbol": "GBCI"
+    },
+    {
+        "company_name": "FTI CONSULTING",
+        "matched_to": "FTI Consulting, Inc.",
+        "matched_symbol": "FCN"
+    },
+    {
+        "company_name": "LINCOLN NATIONAL CORPORATION",
+        "matched_to": "Lincoln National Corporation",
+        "matched_symbol": "LNC"
+    },
+    {
+        "company_name": "UNIVERSAL FOREST PRODUCTS",
+        "matched_to": "UFP Industries, Inc.",
+        "matched_symbol": "UFPI"
+    },
+    {
+        "company_name": "APPLIED INDUSTRIAL TECHNOLOGIES",
+        "matched_to": "Applied Industrial Technologies, Inc.",
+        "matched_symbol": "AIT"
+    },
+    {
+        "company_name": "COCA-COLA CONSOLIDATED",
+        "matched_to": "Coca-Cola Consolidated, Inc.",
+        "matched_symbol": "COKE"
+    },
+    {
+        "company_name": "ORMAT TECHNOLOGIES",
+        "matched_to": "Ormat Technologies, Inc.",
+        "matched_symbol": "ORA"
+    },
+    {
+        "company_name": "TCF FINANCIAL CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "MGM GROWTH PROPERTIES LLC",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "APARTMENT INCOME REIT CORP.",
+        "matched_to": "Apartment Income REIT Corp.",
+        "matched_symbol": "AIRC"
+    },
+    {
+        "company_name": "CARNIVAL PLC",
+        "matched_to": "Carnival Corporation & plc",
+        "matched_symbol": "CUK"
+    },
+    {
+        "company_name": "EXELIXIS",
+        "matched_to": "Exelixis, Inc.",
+        "matched_symbol": "EXEL"
+    },
+    {
+        "company_name": "TOPBUILD",
+        "matched_to": "TopBuild Corp.",
+        "matched_symbol": "BLD"
+    },
+    {
+        "company_name": "PROMETHEUS BIOSCIENCES, INC.",
+        "matched_to": "Prometheus Biosciences, Inc.",
+        "matched_symbol": "RXDX"
+    },
+    {
+        "company_name": "DRAFTKINGS INC.",
+        "matched_to": "DraftKings Inc.",
+        "matched_symbol": "DKNG"
+    },
+    {
+        "company_name": "UNIVAR SOLUTIONS",
+        "matched_to": "Univar Solutions Inc.",
+        "matched_symbol": "UNVR"
+    },
+    {
+        "company_name": "ANTERO MIDSTREAM CORPORATION",
+        "matched_to": "Antero Midstream Corporation",
+        "matched_symbol": "AM"
+    },
+    {
+        "company_name": "IONIS PHARMACEUTICALS",
+        "matched_to": "Ionis Pharmaceuticals, Inc.",
+        "matched_symbol": "IONS"
+    },
+    {
+        "company_name": "SUNRUN",
+        "matched_to": "Sunrun Inc.",
+        "matched_symbol": "RUN"
+    },
+    {
+        "company_name": "DILLARD'S",
+        "matched_to": "Dillard's, Inc.",
+        "matched_symbol": "DDS"
+    },
+    {
+        "company_name": "IDACORP",
+        "matched_to": "IDACORP, Inc.",
+        "matched_symbol": "IDA"
+    },
+    {
+        "company_name": "FS KKR CAPITAL",
+        "matched_to": "FS KKR Capital Corp.",
+        "matched_symbol": "FSK"
+    },
+    {
+        "company_name": "VALVE CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ZYNGA",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "DT MIDSTREAM, INC.",
+        "matched_to": "DT Midstream, Inc.",
+        "matched_symbol": "DTM"
+    },
+    {
+        "company_name": "ENSIGN GROUP",
+        "matched_to": "The Ensign Group, Inc.",
+        "matched_symbol": "ENSG"
+    },
+    {
+        "company_name": "HUNTSMAN CORPORATION",
+        "matched_to": "Huntsman Corporation",
+        "matched_symbol": "HUN"
+    },
+    {
+        "company_name": "SELECTIVE INSURANCE GROUP",
+        "matched_to": "Selective Insurance Group, Inc.",
+        "matched_symbol": "SIGI"
+    },
+    {
+        "company_name": "TESLA",
+        "matched_to": "Tesla, Inc.",
+        "matched_symbol": "TSLA"
+    },
+    {
+        "company_name": "JOHNSON & JOHNSON",
+        "matched_to": "Johnson & Johnson",
+        "matched_symbol": "JNJ"
+    },
+    {
+        "company_name": "UNITEDHEALTH GROUP",
+        "matched_to": "UnitedHealth Group Incorporated",
+        "matched_symbol": "UNH"
+    },
+    {
+        "company_name": "EXXON MOBIL CORPORATION",
+        "matched_to": "Exxon Mobil Corporation",
+        "matched_symbol": "XOM"
+    },
+    {
+        "company_name": "CATERPILLAR",
+        "matched_to": "Caterpillar Inc.",
+        "matched_symbol": "CAT"
+    },
+    {
+        "company_name": "VALERO ENERGY CORPORATION",
+        "matched_to": "Valero Energy Corporation",
+        "matched_symbol": "VLO"
+    },
+    {
+        "company_name": "MARRIOTT INTERNATIONAL",
+        "matched_to": "Marriott International, Inc.",
+        "matched_symbol": "MAR"
+    },
+    {
+        "company_name": "UBER TECHNOLOGIES",
+        "matched_to": "Uber Technologies, Inc.",
+        "matched_symbol": "UBER"
+    },
+    {
+        "company_name": "AMERICAN ELECTRIC POWER COMPANY",
+        "matched_to": "American Electric Power Company, Inc.",
+        "matched_symbol": "AEP"
+    },
+    {
+        "company_name": "AMERICAN INTERNATIONAL GROUP (AIG)",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "KLA CORPORATION",
+        "matched_to": "KLA Corporation",
+        "matched_symbol": "KLAC"
+    },
+    {
+        "company_name": "MARATHON PETROLEUM CORPORATION",
+        "matched_to": "Marathon Petroleum Corporation",
+        "matched_symbol": "MPC"
+    },
+    {
+        "company_name": "CROWN CASTLE INTERNATIONAL CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ARCHER-DANIELS-MIDLAND COMPANY",
+        "matched_to": "Archer-Daniels-Midland Company",
+        "matched_symbol": "ADM"
+    },
+    {
+        "company_name": "TARGET CORPORATION",
+        "matched_to": "Target Corporation",
+        "matched_symbol": "TGT"
+    },
+    {
+        "company_name": "ZOETIS",
+        "matched_to": "Zoetis Inc.",
+        "matched_symbol": "ZTS"
+    },
+    {
+        "company_name": "ILLINOIS TOOL WORKS",
+        "matched_to": "Illinois Tool Works Inc.",
+        "matched_symbol": "ITW"
+    },
+    {
+        "company_name": "EQUINIX",
+        "matched_to": "Equinix, Inc.",
+        "matched_symbol": "EQIX"
+    },
+    {
+        "company_name": "SCHLUMBERGER",
+        "matched_to": "Schlumberger Limited",
+        "matched_symbol": "SLB"
+    },
+    {
+        "company_name": "WASTE MANAGEMENT",
+        "matched_to": "Waste Management, Inc.",
+        "matched_symbol": "WM"
+    },
+    {
+        "company_name": "YOUTUBE",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "AT&T",
+        "matched_to": "AT&T Inc.",
+        "matched_symbol": "T"
+    },
+    {
+        "company_name": "STARBUCKS CORPORATION",
+        "matched_to": "Starbucks Corporation",
+        "matched_symbol": "SBUX"
+    },
+    {
+        "company_name": "NVIDIA CORPORATION",
+        "matched_to": "NVIDIA Corporation",
+        "matched_symbol": "NVDA"
+    },
+    {
+        "company_name": "WALMART",
+        "matched_to": "Walmart Inc.",
+        "matched_symbol": "WMT"
+    },
+    {
+        "company_name": "MORGAN STANLEY",
+        "matched_to": "Morgan Stanley",
+        "matched_symbol": "MS"
+    },
+    {
+        "company_name": "BROADCOM",
+        "matched_to": "Broadcom Inc.",
+        "matched_symbol": "AVGO"
+    },
+    {
+        "company_name": "CISCO SYSTEMS",
+        "matched_to": "Cisco Systems, Inc.",
+        "matched_symbol": "CSCO"
+    },
+    {
+        "company_name": "ADVANCED MICRO DEVICES (AMD)",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "EDISON INTERNATIONAL",
+        "matched_to": "Edison International",
+        "matched_symbol": "EIX"
+    },
+    {
+        "company_name": "LENNAR CORPORATION",
+        "matched_to": "Lennar Corporation",
+        "matched_symbol": "LEN"
+    },
+    {
+        "company_name": "SIRIUS XM HOLDINGS",
+        "matched_to": "Sirius XM Holdings Inc.",
+        "matched_symbol": "SIRI"
+    },
+    {
+        "company_name": "EQUITY RESIDENTIAL",
+        "matched_to": "Equity Residential",
+        "matched_symbol": "EQR"
+    },
+    {
+        "company_name": "AVALONBAY COMMUNITIES",
+        "matched_to": "AvalonBay Communities, Inc.",
+        "matched_symbol": "AVB"
+    },
+    {
+        "company_name": "TRACTOR SUPPLY COMPANY",
+        "matched_to": "Tractor Supply Company",
+        "matched_symbol": "TSCO"
+    },
+    {
+        "company_name": "CDW CORPORATION",
+        "matched_to": "CDW Corporation",
+        "matched_symbol": "CDW"
+    },
+    {
+        "company_name": "FIRSTENERGY",
+        "matched_to": "FirstEnergy Corp.",
+        "matched_symbol": "FE"
+    },
+    {
+        "company_name": "KANSAS CITY SOUTHERN",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "TYSON FOODS",
+        "matched_to": "Tyson Foods, Inc.",
+        "matched_symbol": "TSN"
+    },
+    {
+        "company_name": "RAYMOND JAMES FINANCIAL",
+        "matched_to": "Raymond James Financial, Inc.",
+        "matched_symbol": "RJF"
+    },
+    {
+        "company_name": "AMEREN CORPORATION",
+        "matched_to": "Ameren Corporation",
+        "matched_symbol": "AEE"
+    },
+    {
+        "company_name": "ZIMMER BIOMET HOLDINGS",
+        "matched_to": "Zimmer Biomet Holdings, Inc.",
+        "matched_symbol": "ZBH"
+    },
+    {
+        "company_name": "DISCOVER FINANCIAL SERVICES",
+        "matched_to": "Discover Financial Services",
+        "matched_symbol": "DFS"
+    },
+    {
+        "company_name": "COPART",
+        "matched_to": "Copart, Inc.",
+        "matched_symbol": "CPRT"
+    },
+    {
+        "company_name": "CHENIERE ENERGY PARTNERS",
+        "matched_to": "Cheniere Energy Partners, L.P.",
+        "matched_symbol": "CQP"
+    },
+    {
+        "company_name": "KEYSIGHT TECHNOLOGIES",
+        "matched_to": "Keysight Technologies, Inc.",
+        "matched_symbol": "KEYS"
+    },
+    {
+        "company_name": "DIGITAL REALTY TRUST",
+        "matched_to": "Digital Realty Trust, Inc.",
+        "matched_symbol": "DLR"
+    },
+    {
+        "company_name": "ROCKWELL AUTOMATION",
+        "matched_to": "Rockwell Automation, Inc.",
+        "matched_symbol": "ROK"
+    },
+    {
+        "company_name": "ELECTRONIC ARTS",
+        "matched_to": "Electronic Arts Inc.",
+        "matched_symbol": "EA"
+    },
+    {
+        "company_name": "KROGER",
+        "matched_to": "The Kroger Co.",
+        "matched_symbol": "KR"
+    },
+    {
+        "company_name": "ALEXION PHARMACEUTICALS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CONSOLIDATED EDISON",
+        "matched_to": "Consolidated Edison, Inc.",
+        "matched_symbol": "ED"
+    },
+    {
+        "company_name": "HALLIBURTON COMPANY",
+        "matched_to": "Halliburton Company",
+        "matched_symbol": "HAL"
+    },
+    {
+        "company_name": "DOW Inc",
+        "matched_to": "Dow Inc.",
+        "matched_symbol": "DOW"
+    },
+    {
+        "company_name": "BIOGEN",
+        "matched_to": "Biogen Inc.",
+        "matched_symbol": "BIIB"
+    },
+    {
+        "company_name": "ROSS STORES",
+        "matched_to": "Ross Stores, Inc.",
+        "matched_symbol": "ROST"
+    },
+    {
+        "company_name": "L3HARRIS TECHNOLOGIES",
+        "matched_to": "L3Harris Technologies, Inc.",
+        "matched_symbol": "LHX"
+    },
+    {
+        "company_name": "KKR & CO",
+        "matched_to": "KKR & Co. Inc.",
+        "matched_symbol": "KKR"
+    },
+    {
+        "company_name": "HESS CORPORATION",
+        "matched_to": "Hess Corporation",
+        "matched_symbol": "HES"
+    },
+    {
+        "company_name": "XILINX",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ECOLAB",
+        "matched_to": "Ecolab Inc.",
+        "matched_symbol": "ECL"
+    },
+    {
+        "company_name": "CORTEVA",
+        "matched_to": "Corteva, Inc.",
+        "matched_symbol": "CTVA"
+    },
+    {
+        "company_name": "ROPER TECHNOLOGIES",
+        "matched_to": "Roper Technologies, Inc.",
+        "matched_symbol": "ROP"
+    },
+    {
+        "company_name": "FORD MOTOR COMPANY",
+        "matched_to": "Ford Motor Company",
+        "matched_symbol": "F"
+    },
+    {
+        "company_name": "EDWARDS LIFESCIENCES CORPORATION",
+        "matched_to": "Edwards Lifesciences Corporation",
+        "matched_symbol": "EW"
+    },
+    {
+        "company_name": "KIMBERLY-CLARK CORPORATION",
+        "matched_to": "Kimberly-Clark Corporation",
+        "matched_symbol": "KMB"
+    },
+    {
+        "company_name": "HUNTINGTON BANCSHARES",
+        "matched_to": "Huntington Bancshares Incorporated",
+        "matched_symbol": "HBAN"
+    },
+    {
+        "company_name": "EDWARDS JONES INVESTMENTS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "IDEX CORPORATION",
+        "matched_to": "IDEX Corporation",
+        "matched_symbol": "IEX"
+    },
+    {
+        "company_name": "VARIAN MEDICAL SYSTEMS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "PALANTIR TECHNOLOGIES",
+        "matched_to": "Palantir Technologies Inc.",
+        "matched_symbol": "PLTR"
+    },
+    {
+        "company_name": "COREBRIDGE FINANCIAL, INC.",
+        "matched_to": "Corebridge Financial, Inc.",
+        "matched_symbol": "CRBG"
+    },
+    {
+        "company_name": "KIMCO REALTY CORPORATION",
+        "matched_to": "Kimco Realty Corporation",
+        "matched_symbol": "KIM"
+    },
+    {
+        "company_name": "RPM INTERNATIONAL",
+        "matched_to": "RPM International Inc.",
+        "matched_symbol": "RPM"
+    },
+    {
+        "company_name": "JACK HENRY & ASSOCIATES",
+        "matched_to": "Jack Henry & Associates, Inc.",
+        "matched_symbol": "JKHY"
+    },
+    {
+        "company_name": "NUANCE COMMUNICATIONS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ASPEN TECHNOLOGY",
+        "matched_to": "Aspen Technology, Inc.",
+        "matched_symbol": "AZPN"
+    },
+    {
+        "company_name": "NORDSON CORPORATION",
+        "matched_to": "Nordson Corporation",
+        "matched_symbol": "NDSN"
+    },
+    {
+        "company_name": "FRANKLIN RESOURCES",
+        "matched_to": "Franklin Resources, Inc.",
+        "matched_symbol": "BEN"
+    },
+    {
+        "company_name": "HEALTHPEAK PROPERTIES",
+        "matched_to": "Healthpeak Properties, Inc.",
+        "matched_symbol": "PEAK"
+    },
+    {
+        "company_name": "SNAP INC",
+        "matched_to": "Snap Inc.",
+        "matched_symbol": "SNAP"
+    },
+    {
+        "company_name": "SPLUNK",
+        "matched_to": "Splunk Inc.",
+        "matched_symbol": "SPLK"
+    },
+    {
+        "company_name": "MENARDS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CLOUDFLARE",
+        "matched_to": "Cloudflare, Inc.",
+        "matched_symbol": "NET"
+    },
+    {
+        "company_name": "LEIDOS HOLDINGS",
+        "matched_to": "Leidos Holdings, Inc.",
+        "matched_symbol": "LDOS"
+    },
+    {
+        "company_name": "IRON MOUNTAIN",
+        "matched_to": "Iron Mountain Incorporated",
+        "matched_symbol": "IRM"
+    },
+    {
+        "company_name": "APACHE CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "W. P. CAREY",
+        "matched_to": "W. P. Carey Inc.",
+        "matched_symbol": "WPC"
+    },
+    {
+        "company_name": "ZSCALER",
+        "matched_to": "Zscaler, Inc.",
+        "matched_symbol": "ZS"
+    },
+    {
+        "company_name": "JM FAMILY ENTERPRISES",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ATMOS ENERGY CORPORATION",
+        "matched_to": "Atmos Energy Corporation",
+        "matched_symbol": "ATO"
+    },
+    {
+        "company_name": "WEST PHARMACEUTICAL SERVICES",
+        "matched_to": "West Pharmaceutical Services, Inc.",
+        "matched_symbol": "WST"
+    },
+    {
+        "company_name": "MARKEL CORPORATION",
+        "matched_to": "Markel Corporation",
+        "matched_symbol": "MKL"
+    },
+    {
+        "company_name": "CF INDUSTRIES HOLDINGS",
+        "matched_to": "CF Industries Holdings, Inc.",
+        "matched_symbol": "CF"
+    },
+    {
+        "company_name": "RIVIAN AUTOMOTIVE INC",
+        "matched_to": "Rivian Automotive, Inc.",
+        "matched_symbol": "RIVN"
+    },
+    {
+        "company_name": "STEEL DYNAMICS",
+        "matched_to": "Steel Dynamics, Inc.",
+        "matched_symbol": "STLD"
+    },
+    {
+        "company_name": "MID-AMERICA APARTMENT COMMUNITIES",
+        "matched_to": "Mid-America Apartment Communities, Inc.",
+        "matched_symbol": "MAA"
+    },
+    {
+        "company_name": "EXTRA SPACE STORAGE",
+        "matched_to": "Extra Space Storage Inc.",
+        "matched_symbol": "EXR"
+    },
+    {
+        "company_name": "HOLOGIC",
+        "matched_to": "Hologic, Inc.",
+        "matched_symbol": "HOLX"
+    },
+    {
+        "company_name": "DOVER CORPORATION",
+        "matched_to": "Dover Corporation",
+        "matched_symbol": "DOV"
+    },
+    {
+        "company_name": "CONAGRA BRANDS",
+        "matched_to": "Conagra Brands, Inc.",
+        "matched_symbol": "CAG"
+    },
+    {
+        "company_name": "VIACOM CBS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "WABTEC CORPORATION",
+        "matched_to": "Westinghouse Air Brake Technologies Corporation",
+        "matched_symbol": "WAB"
+    },
+    {
+        "company_name": "ROLLINS",
+        "matched_to": "Rollins, Inc.",
+        "matched_symbol": "ROL"
+    },
+    {
+        "company_name": "WARNER MUSIC GROUP CORP.",
+        "matched_to": "Warner Music Group Corp.",
+        "matched_symbol": "WMG"
+    },
+    {
+        "company_name": "GLOBE LIFE",
+        "matched_to": "Globe Life Inc.",
+        "matched_symbol": "GL"
+    },
+    {
+        "company_name": "E*TRADE FINANCIAL CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "DOCUSIGN",
+        "matched_to": "DocuSign, Inc.",
+        "matched_symbol": "DOCU"
+    },
+    {
+        "company_name": "WATSCO",
+        "matched_to": "Watsco, Inc.",
+        "matched_symbol": "WSO"
+    },
+    {
+        "company_name": "PULTEGROUP",
+        "matched_to": "PulteGroup, Inc.",
+        "matched_symbol": "PHM"
+    },
+    {
+        "company_name": "EAST WEST BANCORP",
+        "matched_to": "East West Bancorp, Inc.",
+        "matched_symbol": "EWBC"
+    },
+    {
+        "company_name": "KNIGHT-SWIFT TRANSPORTATION HOLDINGS",
+        "matched_to": "Knight-Swift Transportation Holdings Inc.",
+        "matched_symbol": "KNX"
+    },
+    {
+        "company_name": "PURE STORAGE",
+        "matched_to": "Pure Storage, Inc.",
+        "matched_symbol": "PSTG"
+    },
+    {
+        "company_name": "WEBSTER FINANCIAL CORPORATION",
+        "matched_to": "Webster Financial Corporation",
+        "matched_symbol": "WBS"
+    },
+    {
+        "company_name": "ZILLOW GROUP",
+        "matched_to": "Zillow Group, Inc.",
+        "matched_symbol": "Z"
+    },
+    {
+        "company_name": "CELSIUS HOLDINGS",
+        "matched_to": "Celsius Holdings, Inc.",
+        "matched_symbol": "CELH"
+    },
+    {
+        "company_name": "UNUM GROUP",
+        "matched_to": "Unum Group",
+        "matched_symbol": "UNM"
+    },
+    {
+        "company_name": "TETRA TECH",
+        "matched_to": "Tetra Tech, Inc.",
+        "matched_symbol": "TTEK"
+    },
+    {
+        "company_name": "REGAL REXNORD CORPORATION",
+        "matched_to": "Regal Rexnord Corporation",
+        "matched_symbol": "RRX"
+    },
+    {
+        "company_name": "GroupM",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "LEGEND BIOTECH CORP",
+        "matched_to": "Legend Biotech Corporation",
+        "matched_symbol": "LEGN"
+    },
+    {
+        "company_name": "WYNN RESORTS",
+        "matched_to": "Wynn Resorts, Limited",
+        "matched_symbol": "WYNN"
+    },
+    {
+        "company_name": "PENUMBRA",
+        "matched_to": "Penumbra, Inc.",
+        "matched_symbol": "PEN"
+    },
+    {
+        "company_name": "PINNACLE WEST CAPITAL CORPORATION",
+        "matched_to": "Pinnacle West Capital Corporation",
+        "matched_symbol": "PNW"
+    },
+    {
+        "company_name": "SUBWAY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "MORNINGSTAR",
+        "matched_to": "VanEck Morningstar Wide Moat ETF",
+        "matched_symbol": "MOAT"
+    },
+    {
+        "company_name": "TAPESTRY",
+        "matched_to": "Tapestry, Inc.",
+        "matched_symbol": "TPR"
+    },
+    {
+        "company_name": "AUTONATION",
+        "matched_to": "AutoNation, Inc.",
+        "matched_symbol": "AN"
+    },
+    {
+        "company_name": "REPLIGEN CORPORATION",
+        "matched_to": "Repligen Corporation",
+        "matched_symbol": "RGEN"
+    },
+    {
+        "company_name": "WILLSCOT CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "BATH & BODY WORKS INC",
+        "matched_to": "Bath & Body Works, Inc.",
+        "matched_symbol": "BBWI"
+    },
+    {
+        "company_name": "CERIDIAN HCM HOLDING",
+        "matched_to": "Ceridian HCM Holding Inc.",
+        "matched_symbol": "CDAY"
+    },
+    {
+        "company_name": "CROWN HOLDINGS",
+        "matched_to": "Crown Holdings, Inc.",
+        "matched_symbol": "CCK"
+    },
+    {
+        "company_name": "WESTERN MIDSTREAM PARTNERS LP",
+        "matched_to": "Western Midstream Partners, LP",
+        "matched_symbol": "WES"
+    },
+    {
+        "company_name": "FEDERAL HOME LOAN MORTGAGE CORPORATION PFD 5.1% SAL",
+        "matched_to": "Federal Home Loan Mortgage Corporation PFD 5.1% SAL",
+        "matched_symbol": "FREJO"
+    },
+    {
+        "company_name": "FIRST CITIZENS BANCSHARES",
+        "matched_to": "First Citizens BancShares, Inc.",
+        "matched_symbol": "FCNCA"
+    },
+    {
+        "company_name": "BILL.COM HOLDINGS",
+        "matched_to": "Bill.com Holdings Inc",
+        "matched_symbol": "0M5.BE"
+    },
+    {
+        "company_name": "MAGIC LEAP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "AGCO CORPORATION",
+        "matched_to": "AGCO Corporation",
+        "matched_symbol": "AGCO"
+    },
+    {
+        "company_name": "JUNIPER NETWORKS",
+        "matched_to": "Juniper Networks, Inc.",
+        "matched_symbol": "JNPR"
+    },
+    {
+        "company_name": "UNITY SOFTWARE INC.",
+        "matched_to": "Unity Software Inc.",
+        "matched_symbol": "U"
+    },
+    {
+        "company_name": "FORTUNE BRANDS HOME & SECURITY",
+        "matched_to": "Fortune Brands Home & Security Inc",
+        "matched_symbol": "2FB.SG"
+    },
+    {
+        "company_name": "WISH",
+        "matched_to": "ContextLogic Inc.",
+        "matched_symbol": "WISH"
+    },
+    {
+        "company_name": "JUUL LABS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "NEUROCRINE BIOSCIENCES",
+        "matched_to": "Neurocrine Biosciences, Inc.",
+        "matched_symbol": "NBIX"
+    },
+    {
+        "company_name": "SERVICE CORPORATION INTERNATIONAL",
+        "matched_to": "Service Corporation International",
+        "matched_symbol": "SCI"
+    },
+    {
+        "company_name": "MATCH GROUP",
+        "matched_to": "Match Group, Inc.",
+        "matched_symbol": "MTCH"
+    },
+    {
+        "company_name": "AXON ENTERPRISE",
+        "matched_to": "Axon Enterprise, Inc.",
+        "matched_symbol": "AXON"
+    },
+    {
+        "company_name": "COUPA SOFTWARE",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CLEAN HARBORS",
+        "matched_to": "Clean Harbors, Inc.",
+        "matched_symbol": "CLH"
+    },
+    {
+        "company_name": "CAPRI HOLDINGS",
+        "matched_to": "Capri Holdings Limited",
+        "matched_symbol": "CPRI"
+    },
+    {
+        "company_name": "TOLL BROTHERS",
+        "matched_to": "Toll Brothers, Inc.",
+        "matched_symbol": "TOL"
+    },
+    {
+        "company_name": "SPIRIT REALTY CAPITAL",
+        "matched_to": "Spirit Realty Capital, Inc.",
+        "matched_symbol": "SRC"
+    },
+    {
+        "company_name": "ENCOMPASS HEALTH CORPORATION",
+        "matched_to": "Encompass Health Corporation",
+        "matched_symbol": "EHC"
+    },
+    {
+        "company_name": "DATABRICKS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "UNITY TECHNOLOGIES",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHOICE HOTELS INTERNATIONAL",
+        "matched_to": "Choice Hotels International, Inc.",
+        "matched_symbol": "CHH"
+    },
+    {
+        "company_name": "NEW YORK COMMUNITY BANCORP",
+        "matched_to": "New York Community Bancorp, Inc.",
+        "matched_symbol": "NYCB"
+    },
+    {
+        "company_name": "II-VI",
+        "matched_to": "AB Municipal Income Fund II Virginia Portfolio",
+        "matched_symbol": "AVAAX"
+    },
+    {
+        "company_name": "VALLEY NATIONAL BANCORP",
+        "matched_to": "Valley National Bancorp",
+        "matched_symbol": "VLY"
+    },
+    {
+        "company_name": "TALLGRASS ENERGY LP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "MDU RESOURCES GROUP",
+        "matched_to": "MDU Resources Group, Inc.",
+        "matched_symbol": "MDU"
+    },
+    {
+        "company_name": "HARLEY-DAVIDSON",
+        "matched_to": "Harley-Davidson, Inc.",
+        "matched_symbol": "HOG"
+    },
+    {
+        "company_name": "FRONTIER COMMUNICATIONS PARENT, INC.",
+        "matched_to": "Frontier Communications Parent, Inc.",
+        "matched_symbol": "FYBR"
+    },
+    {
+        "company_name": "DXC TECHNOLOGY COMPANY",
+        "matched_to": "DXC Technology Company",
+        "matched_symbol": "DXC"
+    },
+    {
+        "company_name": "PLANET FITNESS",
+        "matched_to": "Planet Fitness, Inc.",
+        "matched_symbol": "PLNT"
+    },
+    {
+        "company_name": "XPO LOGISTICS",
+        "matched_to": "XPO, Inc.",
+        "matched_symbol": "XPO"
+    },
+    {
+        "company_name": "TEXAS ROADHOUSE",
+        "matched_to": "Texas Roadhouse, Inc.",
+        "matched_symbol": "TXRH"
+    },
+    {
+        "company_name": "ITT",
+        "matched_to": "ITT Inc.",
+        "matched_symbol": "ITT"
+    },
+    {
+        "company_name": "NEXSTAR MEDIA GROUP",
+        "matched_to": "Nexstar Media Group, Inc.",
+        "matched_symbol": "NXST"
+    },
+    {
+        "company_name": "MEDPACE HOLDINGS",
+        "matched_to": "Medpace Holdings, Inc.",
+        "matched_symbol": "MEDP"
+    },
+    {
+        "company_name": "OMEGA HEALTHCARE INVESTORS",
+        "matched_to": "Omega Healthcare Investors, Inc.",
+        "matched_symbol": "OHI"
+    },
+    {
+        "company_name": "DAVITA",
+        "matched_to": "DaVita Inc.",
+        "matched_symbol": "DVA"
+    },
+    {
+        "company_name": "MASTEC",
+        "matched_to": "MasTec, Inc.",
+        "matched_symbol": "MTZ"
+    },
+    {
+        "company_name": "PERSHING SQUARE HOLDINGS",
+        "matched_to": "Pershing Square Holdings, Ltd.",
+        "matched_symbol": "PSHZF"
+    },
+    {
+        "company_name": "AUTOMATION ANYWHERE",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "AGILON HEALTH, INC.",
+        "matched_to": "agilon health, inc.",
+        "matched_symbol": "AGL"
+    },
+    {
+        "company_name": "BRIXMOR PROPERTY GROUP",
+        "matched_to": "Brixmor Property Group Inc.",
+        "matched_symbol": "BRX"
+    },
+    {
+        "company_name": "SOUTHWESTERN ENERGY COMPANY",
+        "matched_to": "Southwestern Energy Company",
+        "matched_symbol": "SWN"
+    },
+    {
+        "company_name": "DONALDSON COMPANY",
+        "matched_to": "Donaldson Company, Inc.",
+        "matched_symbol": "DCI"
+    },
+    {
+        "company_name": "MURPHY OIL CORPORATION",
+        "matched_to": "Murphy Oil Corporation",
+        "matched_symbol": "MUR"
+    },
+    {
+        "company_name": "KBR",
+        "matched_to": "KBR, Inc.",
+        "matched_symbol": "KBR"
+    },
+    {
+        "company_name": "VALMONT INDUSTRIES",
+        "matched_to": "Valmont Industries, Inc.",
+        "matched_symbol": "VMI"
+    },
+    {
+        "company_name": "EMCOR GROUP",
+        "matched_to": "EMCOR Group, Inc.",
+        "matched_symbol": "EME"
+    },
+    {
+        "company_name": "ROYAL GOLD",
+        "matched_to": "Royal Gold, Inc.",
+        "matched_symbol": "RGLD"
+    },
+    {
+        "company_name": "HALOZYME THERAPEUTICS",
+        "matched_to": "Halozyme Therapeutics, Inc.",
+        "matched_symbol": "HALO"
+    },
+    {
+        "company_name": "INTERACTIVE BROKERS GROUP",
+        "matched_to": "Interactive Brokers Group, Inc.",
+        "matched_symbol": "IBKR"
+    },
+    {
+        "company_name": "INSPIRE MEDICAL SYSTEMS",
+        "matched_to": "Inspire Medical Systems, Inc.",
+        "matched_symbol": "INSP"
+    },
+    {
+        "company_name": "FLOOR & DECOR HOLDINGS",
+        "matched_to": "Floor & Decor Holdings, Inc.",
+        "matched_symbol": "FND"
+    },
+    {
+        "company_name": "ACADIA HEALTHCARE COMPANY",
+        "matched_to": "Acadia Healthcare Company, Inc.",
+        "matched_symbol": "ACHC"
+    },
+    {
+        "company_name": "LITHIA MOTORS",
+        "matched_to": "Lithia Motors, Inc.",
+        "matched_symbol": "LAD"
+    },
+    {
+        "company_name": "HASHICORP, INC.",
+        "matched_to": "HashiCorp, Inc.",
+        "matched_symbol": "HCP"
+    },
+    {
+        "company_name": "CORELOGIC",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CCC INTELLIGENT SOLUTIONS HOLDINGS INC.",
+        "matched_to": "CCC Intelligent Solutions Holdings Inc.",
+        "matched_symbol": "CCCS"
+    },
+    {
+        "company_name": "ELASTIC",
+        "matched_to": "Elastic N.V.",
+        "matched_symbol": "ESTC"
+    },
+    {
+        "company_name": "NEW YORK TIMES COMPANY",
+        "matched_to": "The New York Times Company",
+        "matched_symbol": "NYT"
+    },
+    {
+        "company_name": "MCAFEE CORP.",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SMITHFIELD FOODS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "VERTIV HOLDINGS CO",
+        "matched_to": "Vertiv Holdings Co",
+        "matched_symbol": "VRT"
+    },
+    {
+        "company_name": "NAVIENT CORPORATION SR NT 6% 121543",
+        "matched_to": "Navient Corporation SR NT 6% 121543",
+        "matched_symbol": "JSM"
+    },
+    {
+        "company_name": "CEREVEL THERAPEUTICS HOLDINGS, INC.",
+        "matched_to": "Cerevel Therapeutics Holdings, Inc.",
+        "matched_symbol": "CERE"
+    },
+    {
+        "company_name": "BROOKFIELD OFFICE PROPERTIES",
+        "matched_to": "Brookfield Office Properties Inc",
+        "matched_symbol": "BPO-PR.TO"
+    },
+    {
+        "company_name": "WINTRUST FINANCIAL CORPORATION",
+        "matched_to": "Wintrust Financial Corporation",
+        "matched_symbol": "WTFC"
+    },
+    {
+        "company_name": "MARRIOTT VACATIONS WORLDWIDE CORPORATION",
+        "matched_to": "Marriott Vacations Worldwide Corporation",
+        "matched_symbol": "VAC"
+    },
+    {
+        "company_name": "CYBERARK SOFTWARE",
+        "matched_to": "CyberArk Software Ltd.",
+        "matched_symbol": "CYBR"
+    },
+    {
+        "company_name": "BRUNSWICK CORPORATION",
+        "matched_to": "Brunswick Corporation",
+        "matched_symbol": "BC"
+    },
+    {
+        "company_name": "LITTELFUSE",
+        "matched_to": "Littelfuse, Inc.",
+        "matched_symbol": "LFUS"
+    },
+    {
+        "company_name": "UNITED BANKSHARES",
+        "matched_to": "United Bankshares, Inc.",
+        "matched_symbol": "UBSI"
+    },
+    {
+        "company_name": "FIRST AMERICAN FINANCIAL CORPORATION",
+        "matched_to": "First American Financial Corporation",
+        "matched_symbol": "FAF"
+    },
+    {
+        "company_name": "MACHINE ZONE",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ACUITY BRANDS",
+        "matched_to": "Acuity Brands, Inc.",
+        "matched_symbol": "AYI"
+    },
+    {
+        "company_name": "COLUMBIA SPORTSWEAR COMPANY",
+        "matched_to": "Columbia Sportswear Company",
+        "matched_symbol": "COLM"
+    },
+    {
+        "company_name": "BWX TECHNOLOGIES",
+        "matched_to": "BWX Technologies, Inc.",
+        "matched_symbol": "BWXT"
+    },
+    {
+        "company_name": "STAMPS.COM",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHANGE HEALTHCARE",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "NORWEGIAN CRUISE LINE HOLDINGS",
+        "matched_to": "Norwegian Cruise Line Holdings Ltd.",
+        "matched_symbol": "NCLH"
+    },
+    {
+        "company_name": "CRANE",
+        "matched_to": "Crane Company",
+        "matched_symbol": "CR"
+    },
+    {
+        "company_name": "QUIDEL CORPORATION",
+        "matched_to": "QuidelOrtho Corporation",
+        "matched_symbol": "QDEL"
+    },
+    {
+        "company_name": "GENERAL MOTORS COMPANY",
+        "matched_to": "General Motors Company",
+        "matched_symbol": "GM"
+    },
+    {
+        "company_name": "DUKE ENERGY CORPORATION",
+        "matched_to": "Duke Energy Corporation",
+        "matched_symbol": "DUK"
+    },
+    {
+        "company_name": "MONSTER BEVERAGE CORPORATION",
+        "matched_to": "Monster Beverage Corporation",
+        "matched_symbol": "MNST"
+    },
+    {
+        "company_name": "MCKESSON CORPORATION",
+        "matched_to": "McKesson Corporation",
+        "matched_symbol": "MCK"
+    },
+    {
+        "company_name": "SEMPRA ENERGY",
+        "matched_to": "Sempra Energy",
+        "matched_symbol": "SRE"
+    },
+    {
+        "company_name": "PHILLIPS 66",
+        "matched_to": "Phillips 66",
+        "matched_symbol": "PSX"
+    },
+    {
+        "company_name": "PACIFICORP",
+        "matched_to": "PacifiCorp",
+        "matched_symbol": "PPWLM"
+    },
+    {
+        "company_name": "FREEPORT-MCMORAN",
+        "matched_to": "Freeport-McMoRan Inc.",
+        "matched_symbol": "FCX"
+    },
+    {
+        "company_name": "THE HERSHEY COMPANY",
+        "matched_to": "The Hershey Company",
+        "matched_symbol": "HSY"
+    },
+    {
+        "company_name": "LAM RESEARCH CORPORATION",
+        "matched_to": "Lam Research Corporation",
+        "matched_symbol": "LRCX"
+    },
+    {
+        "company_name": "MICRON TECHNOLOGY",
+        "matched_to": "Micron Technology, Inc.",
+        "matched_symbol": "MU"
+    },
+    {
+        "company_name": "ALTRIA GROUP",
+        "matched_to": "Altria Group, Inc.",
+        "matched_symbol": "MO"
+    },
+    {
+        "company_name": "THE PNC FINANCIAL SERVICES GROUP",
+        "matched_to": "The PNC Financial Services Group, Inc.",
+        "matched_symbol": "PNC"
+    },
+    {
+        "company_name": "NETFLIX",
+        "matched_to": "Netflix, Inc.",
+        "matched_symbol": "NFLX"
+    },
+    {
+        "company_name": "LOCKHEED MARTIN CORPORATION",
+        "matched_to": "Lockheed Martin Corporation",
+        "matched_symbol": "LMT"
+    },
+    {
+        "company_name": "J P MORGAN CHASE & CO",
+        "matched_to": "JPMorgan Chase & Co.",
+        "matched_symbol": "JPM-PC"
+    },
+    {
+        "company_name": "UNITED PARCEL SERVICE (UPS)",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "COMCAST CORPORATION",
+        "matched_to": "Comcast Corporation",
+        "matched_symbol": "CMCSA"
+    },
+    {
+        "company_name": "BRISTOL-MYERS SQUIBB COMPANY",
+        "matched_to": "Bristol-Myers Squibb Company",
+        "matched_symbol": "BMY"
+    },
+    {
+        "company_name": "NIKE",
+        "matched_to": "NIKE, Inc.",
+        "matched_symbol": "NKE"
+    },
+    {
+        "company_name": "T-MOBILE US",
+        "matched_to": "T-Mobile US, Inc.",
+        "matched_symbol": "TMUS"
+    },
+    {
+        "company_name": "ABBVIE",
+        "matched_to": "AbbVie Inc.",
+        "matched_symbol": "ABBV"
+    },
+    {
+        "company_name": "BANK OF AMERICA CORPORATION",
+        "matched_to": "Bank of America Corporation",
+        "matched_symbol": "BAC"
+    },
+    {
+        "company_name": "ALPHABET",
+        "matched_to": "Alphabet Inc.",
+        "matched_symbol": "GOOG"
+    },
+    {
+        "company_name": "BLOOMBERG LP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CONSTELLATION BRANDS",
+        "matched_to": "Constellation Brands, Inc.",
+        "matched_symbol": "STZ"
+    },
+    {
+        "company_name": "KELLOGG COMPANY",
+        "matched_to": "Kellogg Company",
+        "matched_symbol": "K"
+    },
+    {
+        "company_name": "SLACK TECHNOLOGIES",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SEAGEN",
+        "matched_to": "Seagen Inc.",
+        "matched_symbol": "SGEN"
+    },
+    {
+        "company_name": "INSTAGRAM",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "INTERNATIONAL FLAVORS & FRAGRANCES",
+        "matched_to": "International Flavors & Fragrances Inc.",
+        "matched_symbol": "IFF"
+    },
+    {
+        "company_name": "GLOBAL PAYMENTS",
+        "matched_to": "Global Payments Inc.",
+        "matched_symbol": "GPN"
+    },
+    {
+        "company_name": "CORNING",
+        "matched_to": "Corning Incorporated",
+        "matched_symbol": "GLW"
+    },
+    {
+        "company_name": "FASTENAL COMPANY",
+        "matched_to": "Fastenal Company",
+        "matched_symbol": "FAST"
+    },
+    {
+        "company_name": "AMERICAN WATER WORKS COMPANY",
+        "matched_to": "American Water Works Company, Inc.",
+        "matched_symbol": "AWK"
+    },
+    {
+        "company_name": "BAKER HUGHES COMPANY",
+        "matched_to": "Baker Hughes Company",
+        "matched_symbol": "BKR"
+    },
+    {
+        "company_name": "STATE STREET CORPORATION",
+        "matched_to": "State Street Corporation",
+        "matched_symbol": "STT"
+    },
+    {
+        "company_name": "WELLTOWER",
+        "matched_to": "Welltower Inc.",
+        "matched_symbol": "WELL"
+    },
+    {
+        "company_name": "ARISTA NETWORKS",
+        "matched_to": "Arista Networks, Inc.",
+        "matched_symbol": "ANET"
+    },
+    {
+        "company_name": "METTLER-TOLEDO INTERNATIONAL",
+        "matched_to": "Mettler-Toledo International Inc.",
+        "matched_symbol": "MTD"
+    },
+    {
+        "company_name": "MPLX LP",
+        "matched_to": "MPLX LP",
+        "matched_symbol": "MPLX"
+    },
+    {
+        "company_name": "ALLSTATE CORPORATION",
+        "matched_to": "The Allstate Corporation",
+        "matched_symbol": "ALL"
+    },
+    {
+        "company_name": "WILLIAMS COMPANIES",
+        "matched_to": "The Williams Companies, Inc.",
+        "matched_symbol": "WMB"
+    },
+    {
+        "company_name": "CADENCE DESIGN SYSTEMS",
+        "matched_to": "Cadence Design Systems, Inc.",
+        "matched_symbol": "CDNS"
+    },
+    {
+        "company_name": "DEXCOM",
+        "matched_to": "DexCom, Inc.",
+        "matched_symbol": "DXCM"
+    },
+    {
+        "company_name": "XCEL ENERGY",
+        "matched_to": "Xcel Energy Inc.",
+        "matched_symbol": "XEL"
+    },
+    {
+        "company_name": "AUTODESK",
+        "matched_to": "Autodesk, Inc.",
+        "matched_symbol": "ADSK"
+    },
+    {
+        "company_name": "DEVON ENERGY CORPORATION",
+        "matched_to": "Devon Energy Corporation",
+        "matched_symbol": "DVN"
+    },
+    {
+        "company_name": "KINDER MORGAN",
+        "matched_to": "Kinder Morgan, Inc.",
+        "matched_symbol": "KMI"
+    },
+    {
+        "company_name": "EXELON CORPORATION",
+        "matched_to": "Exelon Corporation",
+        "matched_symbol": "EXC"
+    },
+    {
+        "company_name": "PAYCHEX",
+        "matched_to": "Paychex, Inc.",
+        "matched_symbol": "PAYX"
+    },
+    {
+        "company_name": "REPUBLIC SERVICES",
+        "matched_to": "Republic Services, Inc.",
+        "matched_symbol": "RSG"
+    },
+    {
+        "company_name": "INSULET CORPORATION",
+        "matched_to": "Insulet Corporation",
+        "matched_symbol": "PODD"
+    },
+    {
+        "company_name": "FACTSET RESEARCH SYSTEMS",
+        "matched_to": "FactSet Research Systems Inc.",
+        "matched_symbol": "FDS"
+    },
+    {
+        "company_name": "UNITED AIRLINES HOLDINGS",
+        "matched_to": "United Airlines Holdings, Inc.",
+        "matched_symbol": "UAL"
+    },
+    {
+        "company_name": "ESSENTIAL UTILITIES, INC.",
+        "matched_to": "Essential Utilities, Inc.",
+        "matched_symbol": "WTRG"
+    },
+    {
+        "company_name": "FMC CORPORATION",
+        "matched_to": "FMC Corporation",
+        "matched_symbol": "FMC"
+    },
+    {
+        "company_name": "THE COOPER COMPANIES",
+        "matched_to": "The Cooper Companies, Inc.",
+        "matched_symbol": "COO"
+    },
+    {
+        "company_name": "NIAGARA MOHAWK POWER CORPORATION PFD 3.90%",
+        "matched_to": "Niagara Mohawk Power Corporation PFD 3.90%",
+        "matched_symbol": "NMK-PC"
+    },
+    {
+        "company_name": "AKAMAI TECHNOLOGIES",
+        "matched_to": "Akamai Technologies, Inc.",
+        "matched_symbol": "AKAM"
+    },
+    {
+        "company_name": "BURLINGTON STORES",
+        "matched_to": "Burlington Stores, Inc.",
+        "matched_symbol": "BURL"
+    },
+    {
+        "company_name": "CHESAPEAKE ENERGY CORPORATION",
+        "matched_to": "Chesapeake Energy Corporation",
+        "matched_symbol": "CHK"
+    },
+    {
+        "company_name": "LIBERTY SIRIUSXM GROUP",
+        "matched_to": "The Liberty SiriusXM Group",
+        "matched_symbol": "LSXMA"
+    },
+    {
+        "company_name": "TYLER TECHNOLOGIES",
+        "matched_to": "Tyler Technologies, Inc.",
+        "matched_symbol": "TYL"
+    },
+    {
+        "company_name": "LAMB WESTON HOLDINGS",
+        "matched_to": "Lamb Weston Holdings, Inc.",
+        "matched_symbol": "LW"
+    },
+    {
+        "company_name": "ESSEX PROPERTY TRUST",
+        "matched_to": "Essex Property Trust, Inc.",
+        "matched_symbol": "ESS"
+    },
+    {
+        "company_name": "PPD, INC.",
+        "matched_to": null,
+        "matched_symbol": "AIRTELPP-E1.NS"
+    },
+    {
+        "company_name": "MGM RESORTS INTERNATIONAL",
+        "matched_to": "MGM Resorts International",
+        "matched_symbol": "MGM"
+    },
+    {
+        "company_name": "LOEWS CORPORATION",
+        "matched_to": "Loews Corporation",
+        "matched_symbol": "L"
+    },
+    {
+        "company_name": "BOOZ ALLEN HAMILTON HOLDING CORPORATION",
+        "matched_to": "Booz Allen Hamilton Holding Corporation",
+        "matched_symbol": "BAH"
+    },
+    {
+        "company_name": "PTC Inc",
+        "matched_to": "PTC Inc.",
+        "matched_symbol": "PTC"
+    },
+    {
+        "company_name": "SKYWORKS SOLUTIONS",
+        "matched_to": "Skyworks Solutions, Inc.",
+        "matched_symbol": "SWKS"
+    },
+    {
+        "company_name": "ALIGN TECHNOLOGY",
+        "matched_to": "Align Technology, Inc.",
+        "matched_symbol": "ALGN"
+    },
+    {
+        "company_name": "AVANGRID",
+        "matched_to": "Avangrid, Inc.",
+        "matched_symbol": "AGR"
+    },
+    {
+        "company_name": "LIVE NATION ENTERTAINMENT",
+        "matched_to": "Live Nation Entertainment, Inc.",
+        "matched_symbol": "LYV"
+    },
+    {
+        "company_name": "BIOMARIN PHARMACEUTICAL",
+        "matched_to": "BioMarin Pharmaceutical Inc.",
+        "matched_symbol": "BMRN"
+    },
+    {
+        "company_name": "GRUBHUB",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "LENNOX INTERNATIONAL",
+        "matched_to": "Lennox International Inc.",
+        "matched_symbol": "LII"
+    },
+    {
+        "company_name": "HASBRO",
+        "matched_to": "Hasbro, Inc.",
+        "matched_symbol": "HAS"
+    },
+    {
+        "company_name": "NATIONAL OILWELL VARCO",
+        "matched_to": "NOV Inc.",
+        "matched_symbol": "NOV"
+    },
+    {
+        "company_name": "PENSKE AUTOMOTIVE GROUP",
+        "matched_to": "Penske Automotive Group, Inc.",
+        "matched_symbol": "PAG"
+    },
+    {
+        "company_name": "OWENS CORNING",
+        "matched_to": "Owens Corning",
+        "matched_symbol": "OC"
+    },
+    {
+        "company_name": "ROBERT HALF INTERNATIONAL",
+        "matched_to": "Robert Half International Inc.",
+        "matched_symbol": "RHI"
+    },
+    {
+        "company_name": "HUNTINGTON INGALLS INDUSTRIES",
+        "matched_to": "Huntington Ingalls Industries, Inc.",
+        "matched_symbol": "HII"
+    },
+    {
+        "company_name": "TOAST",
+        "matched_to": "Toast, Inc.",
+        "matched_symbol": "TOST"
+    },
+    {
+        "company_name": "STORE CAPITAL CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "BORGWARNER",
+        "matched_to": "BorgWarner Inc.",
+        "matched_symbol": "BWA"
+    },
+    {
+        "company_name": "VAIL RESORTS",
+        "matched_to": "Vail Resorts, Inc.",
+        "matched_symbol": "MTN"
+    },
+    {
+        "company_name": "HYATT HOTELS CORPORATION",
+        "matched_to": "Hyatt Hotels Corporation",
+        "matched_symbol": "H"
+    },
+    {
+        "company_name": "VISTRA ENERGY",
+        "matched_to": "Vistra Corp",
+        "matched_symbol": "0V6.SG"
+    },
+    {
+        "company_name": "C.H. ROBINSON WORLDWIDE",
+        "matched_to": "C.H. Robinson Worldwide, Inc.",
+        "matched_symbol": "CHRW"
+    },
+    {
+        "company_name": "ANTERO RESOURCES CORPORATION",
+        "matched_to": "Antero Resources Corporation",
+        "matched_symbol": "AR"
+    },
+    {
+        "company_name": "STANLEY BLACK & DECKER",
+        "matched_to": "Stanley Black & Decker, Inc.",
+        "matched_symbol": "SWK"
+    },
+    {
+        "company_name": "MOLSON COORS BREWING COMPANY",
+        "matched_to": "Molson Coors Beverage Company",
+        "matched_symbol": "TAP-A"
+    },
+    {
+        "company_name": "LUCID GROUP, INC.",
+        "matched_to": "Lucid Group, Inc.",
+        "matched_symbol": "LCID"
+    },
+    {
+        "company_name": "PAYLOCITY HOLDING CORPORATION",
+        "matched_to": "Paylocity Holding Corporation",
+        "matched_symbol": "PCTY"
+    },
+    {
+        "company_name": "CNA FINANCIAL CORPORATION",
+        "matched_to": "CNA Financial Corporation",
+        "matched_symbol": "CNA"
+    },
+    {
+        "company_name": "CELANESE CORPORATION",
+        "matched_to": "Celanese Corporation",
+        "matched_symbol": "CE"
+    },
+    {
+        "company_name": "GRACO",
+        "matched_to": "Graco Inc.",
+        "matched_symbol": "GGG"
+    },
+    {
+        "company_name": "BIO-RAD LABORATORIES",
+        "matched_to": "Bio-Rad Laboratories, Inc.",
+        "matched_symbol": "BIO"
+    },
+    {
+        "company_name": "APTARGROUP",
+        "matched_to": "AptarGroup, Inc.",
+        "matched_symbol": "ATR"
+    },
+    {
+        "company_name": "NORTONLIFELOCK",
+        "matched_to": "Gen Digital Inc.",
+        "matched_symbol": "NLOK.VI"
+    },
+    {
+        "company_name": "FORTUNE BRANDS INNOVATIONS, INC.",
+        "matched_to": "Fortune Brands Innovations, Inc.",
+        "matched_symbol": "FBIN"
+    },
+    {
+        "company_name": "PEOPLE'S UNITED FINANCIAL",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "APELLIS PHARMACEUTICALS",
+        "matched_to": "Apellis Pharmaceuticals, Inc.",
+        "matched_symbol": "APLS"
+    },
+    {
+        "company_name": "NATIONAL FUEL GAS COMPANY",
+        "matched_to": "National Fuel Gas Company",
+        "matched_symbol": "NFG"
+    },
+    {
+        "company_name": "STAG INDUSTRIAL",
+        "matched_to": "STAG Industrial, Inc.",
+        "matched_symbol": "STAG"
+    },
+    {
+        "company_name": "MATTEL",
+        "matched_to": "Mattel, Inc.",
+        "matched_symbol": "MAT"
+    },
+    {
+        "company_name": "ENLINK MIDSTREAM LLC",
+        "matched_to": "EnLink Midstream, LLC",
+        "matched_symbol": "ENLC"
+    },
+    {
+        "company_name": "SOUTH STATE CORPORATION",
+        "matched_to": "SouthState Corporation",
+        "matched_symbol": "SSB"
+    },
+    {
+        "company_name": "CONFLUENT INC",
+        "matched_to": "Confluent, Inc.",
+        "matched_symbol": "CFLT"
+    },
+    {
+        "company_name": "GENTEX CORPORATION",
+        "matched_to": "Gentex Corporation",
+        "matched_symbol": "GNTX"
+    },
+    {
+        "company_name": "H&R BLOCK",
+        "matched_to": "H&R Block, Inc.",
+        "matched_symbol": "HRB"
+    },
+    {
+        "company_name": "PROCORE TECHNOLOGIES, INC.",
+        "matched_to": "Procore Technologies, Inc.",
+        "matched_symbol": "PCOR"
+    },
+    {
+        "company_name": "DENTSPLY SIRONA",
+        "matched_to": "DENTSPLY SIRONA Inc.",
+        "matched_symbol": "XRAY"
+    },
+    {
+        "company_name": "COTY",
+        "matched_to": "Coty Inc.",
+        "matched_symbol": "COTY"
+    },
+    {
+        "company_name": "PHILLIPS 66 PARTNERS LP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "GLOBUS MEDICAL",
+        "matched_to": "Globus Medical, Inc.",
+        "matched_symbol": "GMED"
+    },
+    {
+        "company_name": "BERRY GLOBAL GROUP",
+        "matched_to": "Berry Global Group, Inc.",
+        "matched_symbol": "BERY"
+    },
+    {
+        "company_name": "NOVANTA",
+        "matched_to": "Novanta Inc.",
+        "matched_symbol": "NOVT"
+    },
+    {
+        "company_name": "MSA SAFETY",
+        "matched_to": "MSA Safety Incorporated",
+        "matched_symbol": "MSA"
+    },
+    {
+        "company_name": "RAYONIER",
+        "matched_to": "Rayonier Advanced Materials Inc.",
+        "matched_symbol": "RYAM"
+    },
+    {
+        "company_name": "HEXCEL CORPORATION",
+        "matched_to": "Hexcel Corporation",
+        "matched_symbol": "HXL"
+    },
+    {
+        "company_name": "WATTS WATER TECHNOLOGIES",
+        "matched_to": "Watts Water Technologies, Inc.",
+        "matched_symbol": "WTS"
+    },
+    {
+        "company_name": "HANOVER INSURANCE GROUP",
+        "matched_to": "The Hanover Insurance Group, Inc.",
+        "matched_symbol": "THG"
+    },
+    {
+        "company_name": "CHART INDUSTRIES",
+        "matched_to": "Chart Industries, Inc.",
+        "matched_symbol": "GTLS"
+    },
+    {
+        "company_name": "GXO LOGISTICS, INC.",
+        "matched_to": "GXO Logistics, Inc.",
+        "matched_symbol": "GXO"
+    },
+    {
+        "company_name": "TECH DATA CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "MEDALLIA",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "OLD NATIONAL BANCORP",
+        "matched_to": "Old National Bancorp",
+        "matched_symbol": "ONB"
+    },
+    {
+        "company_name": "CENTURYLINK",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "LHC GROUP",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "WORLD WRESTLING ENTERTAINMENT",
+        "matched_to": "World Wrestling Entertainment, Inc.",
+        "matched_symbol": "WWE"
+    },
+    {
+        "company_name": "SYNOVUS FINANCIAL",
+        "matched_to": "Synovus Financial Corp.",
+        "matched_symbol": "SNV"
+    },
+    {
+        "company_name": "MACY'S",
+        "matched_to": "Macy's, Inc.",
+        "matched_symbol": "M"
+    },
+    {
+        "company_name": "AMAZON.COM",
+        "matched_to": "Amazon.com, Inc.",
+        "matched_symbol": "AMZN"
+    },
+    {
+        "company_name": "PAYPAL HOLDINGS",
+        "matched_to": "PayPal Holdings, Inc.",
+        "matched_symbol": "PYPL"
+    },
+    {
+        "company_name": "NORFOLK SOUTHERN CORPORATION",
+        "matched_to": "Norfolk Southern Corporation",
+        "matched_symbol": "NSC"
+    },
+    {
+        "company_name": "METLIFE",
+        "matched_to": "MetLife, Inc.",
+        "matched_symbol": "MET"
+    },
+    {
+        "company_name": "MOODY'S CORPORATION",
+        "matched_to": "Moody's Corporation",
+        "matched_symbol": "MCO"
+    },
+    {
+        "company_name": "COLGATE-PALMOLIVE COMPANY",
+        "matched_to": "Colgate-Palmolive Company",
+        "matched_symbol": "CL"
+    },
+    {
+        "company_name": "3M COMPANY",
+        "matched_to": "3M Company",
+        "matched_symbol": "MMM"
+    },
+    {
+        "company_name": "CSX CORPORATION",
+        "matched_to": "CSX Corporation",
+        "matched_symbol": "CSX"
+    },
+    {
+        "company_name": "SHERWIN-WILLIAMS COMPANY",
+        "matched_to": "The Sherwin-Williams Company",
+        "matched_symbol": "SHW"
+    },
+    {
+        "company_name": "PFIZER",
+        "matched_to": "Pfizer Inc.",
+        "matched_symbol": "PFE"
+    },
+    {
+        "company_name": "TEXAS INSTRUMENTS",
+        "matched_to": "Texas Instruments Incorporated",
+        "matched_symbol": "TXN"
+    },
+    {
+        "company_name": "WELLS FARGO & COMPANY",
+        "matched_to": "Wells Fargo & Company",
+        "matched_symbol": "WFC"
+    },
+    {
+        "company_name": "VERIZON COMMUNICATIONS",
+        "matched_to": "Verizon Communications Inc.",
+        "matched_symbol": "VZ"
+    },
+    {
+        "company_name": "ORACLE CORPORATION",
+        "matched_to": "Oracle Corporation",
+        "matched_symbol": "ORCL"
+    },
+    {
+        "company_name": "MERCADONA",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "T. ROWE PRICE GROUP",
+        "matched_to": "T. Rowe Price Group, Inc.",
+        "matched_symbol": "TROW"
+    },
+    {
+        "company_name": "VULCAN MATERIALS COMPANY",
+        "matched_to": "Vulcan Materials Company",
+        "matched_symbol": "VMC"
+    },
+    {
+        "company_name": "OLD DOMINION FREIGHT LINE",
+        "matched_to": "Old Dominion Freight Line, Inc.",
+        "matched_symbol": "ODFL"
+    },
+    {
+        "company_name": "EVERSOURCE ENERGY",
+        "matched_to": "Nu Holdings Ltd.",
+        "matched_symbol": "NU"
+    },
+    {
+        "company_name": "ON SEMICONDUCTOR CORPORATION",
+        "matched_to": "ON Semiconductor Corporation",
+        "matched_symbol": "ON"
+    },
+    {
+        "company_name": "ONEOK",
+        "matched_to": "ONEOK, Inc.",
+        "matched_symbol": "OKE"
+    },
+    {
+        "company_name": "IQVIA HOLDINGS",
+        "matched_to": "IQVIA Holdings Inc.",
+        "matched_symbol": "IQV"
+    },
+    {
+        "company_name": "OTIS WORLDWIDE CORPORATION",
+        "matched_to": "Otis Worldwide Corporation",
+        "matched_symbol": "OTIS"
+    },
+    {
+        "company_name": "IDEXX LABORATORIES",
+        "matched_to": "IDEXX Laboratories, Inc.",
+        "matched_symbol": "IDXX"
+    },
+    {
+        "company_name": "ENPHASE ENERGY",
+        "matched_to": "Enphase Energy, Inc.",
+        "matched_symbol": "ENPH"
+    },
+    {
+        "company_name": "SYSCO CORPORATION",
+        "matched_to": "Sysco Corporation",
+        "matched_symbol": "SYY"
+    },
+    {
+        "company_name": "CENTENE CORPORATION",
+        "matched_to": "Centene Corporation",
+        "matched_symbol": "CNC"
+    },
+    {
+        "company_name": "CMS ENERGY CORPORATION",
+        "matched_to": "CMS Energy Corporation",
+        "matched_symbol": "CMS"
+    },
+    {
+        "company_name": "SVB FINANCIAL GROUP",
+        "matched_to": "SVB Financial Group",
+        "matched_symbol": "SIVBQ"
+    },
+    {
+        "company_name": "THE TRAVELERS COMPANIES",
+        "matched_to": "The Travelers Companies, Inc.",
+        "matched_symbol": "TRV"
+    },
+    {
+        "company_name": "EQT CORPORATION",
+        "matched_to": "EQT Corporation",
+        "matched_symbol": "EQT"
+    },
+    {
+        "company_name": "FLEETCOR TECHNOLOGIES",
+        "matched_to": "FLEETCOR Technologies, Inc.",
+        "matched_symbol": "FLT"
+    },
+    {
+        "company_name": "GAMING AND LEISURE PROPERTIES",
+        "matched_to": "Gaming and Leisure Properties, Inc.",
+        "matched_symbol": "GLPI"
+    },
+    {
+        "company_name": "EXPEDIA GROUP",
+        "matched_to": "Expedia Group, Inc.",
+        "matched_symbol": "EXPE"
+    },
+    {
+        "company_name": "CBOE GLOBAL MARKETS",
+        "matched_to": "Cboe Global Markets, Inc.",
+        "matched_symbol": "CBOE"
+    },
+    {
+        "company_name": "BUNGE",
+        "matched_to": "Bunge Limited",
+        "matched_symbol": "BG"
+    },
+    {
+        "company_name": "BROADRIDGE FINANCIAL SOLUTIONS",
+        "matched_to": "Broadridge Financial Solutions, Inc.",
+        "matched_symbol": "BR"
+    },
+    {
+        "company_name": "FOX CORPORATION",
+        "matched_to": "Fox Corporation",
+        "matched_symbol": "FOX"
+    },
+    {
+        "company_name": "JACOBS ENGINEERING GROUP",
+        "matched_to": "Jacobs Engineering Group Inc",
+        "matched_symbol": "Z0Y.BE"
+    },
+    {
+        "company_name": "DARDEN RESTAURANTS",
+        "matched_to": "Darden Restaurants, Inc.",
+        "matched_symbol": "DRI"
+    },
+    {
+        "company_name": "IMMUNOMEDICS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "CHEWY",
+        "matched_to": "Chewy, Inc.",
+        "matched_symbol": "CHWY"
+    },
+    {
+        "company_name": "ETSY",
+        "matched_to": "Etsy, Inc.",
+        "matched_symbol": "ETSY"
+    },
+    {
+        "company_name": "J. M. SMUCKER COMPANY",
+        "matched_to": "The J. M. Smucker Company",
+        "matched_symbol": "SJM"
+    },
+    {
+        "company_name": "BALL CORPORATION",
+        "matched_to": "Ball Corporation",
+        "matched_symbol": "BALL"
+    },
+    {
+        "company_name": "EPIC Games",
+        "matched_to": "Card Games",
+        "matched_symbol": "^CGAMES.REGA"
+    },
+    {
+        "company_name": "UBIQUITI",
+        "matched_to": "Ubiquiti Inc.",
+        "matched_symbol": "UI"
+    },
+    {
+        "company_name": "TEXAS PACIFIC LAND TRUST",
+        "matched_to": "Texas Pacific Land Corporation",
+        "matched_symbol": "TPL"
+    },
+    {
+        "company_name": "DUKE REALTY CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "W. R. BERKLEY CORPORATION",
+        "matched_to": "W. R. Berkley Corporation",
+        "matched_symbol": "WRB"
+    },
+    {
+        "company_name": "PERKINELMER",
+        "matched_to": "PerkinElmer, Inc.",
+        "matched_symbol": "PKI"
+    },
+    {
+        "company_name": "EPAM SYSTEMS",
+        "matched_to": "EPAM Systems, Inc.",
+        "matched_symbol": "EPAM"
+    },
+    {
+        "company_name": "CONTURA ENERGY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "INVITATION HOMES",
+        "matched_to": "Invitation Homes Inc.",
+        "matched_symbol": "INVH"
+    },
+    {
+        "company_name": "J.B. HUNT TRANSPORT SERVICES",
+        "matched_to": "J.B. Hunt Transport Services, Inc.",
+        "matched_symbol": "JBHT"
+    },
+    {
+        "company_name": "TWILIO",
+        "matched_to": "Twilio Inc.",
+        "matched_symbol": "TWLO"
+    },
+    {
+        "company_name": "JABIL",
+        "matched_to": "Jabil Inc.",
+        "matched_symbol": "JBL"
+    },
+    {
+        "company_name": "COINBASE GLOBAL, INC",
+        "matched_to": "Coinbase Global, Inc.",
+        "matched_symbol": "COIN"
+    },
+    {
+        "company_name": "SANTANDER CONSUMER USA HOLDINGS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "BRUKER CORPORATION",
+        "matched_to": "Bruker Corporation",
+        "matched_symbol": "BRKR"
+    },
+    {
+        "company_name": "ARES CAPITAL CORPORATION",
+        "matched_to": "Ares Capital Corporation",
+        "matched_symbol": "ARCC"
+    },
+    {
+        "company_name": "REINSURANCE GROUP OF AMERICA",
+        "matched_to": "Reinsurance Group of America, Incorporated",
+        "matched_symbol": "RGA"
+    },
+    {
+        "company_name": "PARAMOUNT GLOBAL",
+        "matched_to": "Paramount Global",
+        "matched_symbol": "PARA"
+    },
+    {
+        "company_name": "HENRY SCHEIN",
+        "matched_to": "Henry Schein, Inc.",
+        "matched_symbol": "HSIC"
+    },
+    {
+        "company_name": "DARLING INGREDIENTS",
+        "matched_to": "Darling Ingredients Inc.",
+        "matched_symbol": "DAR"
+    },
+    {
+        "company_name": "MASCO CORPORATION",
+        "matched_to": "Masco Corporation",
+        "matched_symbol": "MAS"
+    },
+    {
+        "company_name": "AMERCO",
+        "matched_to": "Amerco Inc",
+        "matched_symbol": "AUK.SG"
+    },
+    {
+        "company_name": "TORO COMPANY",
+        "matched_to": "The Toro Company",
+        "matched_symbol": "TTC"
+    },
+    {
+        "company_name": "RELIANCE STEEL & ALUMINUM",
+        "matched_to": "Reliance Steel & Aluminum Co.",
+        "matched_symbol": "RS"
+    },
+    {
+        "company_name": "PACKAGING CORPORATION OF AMERICA",
+        "matched_to": "Packaging Corporation of America",
+        "matched_symbol": "PKG"
+    },
+    {
+        "company_name": "CAMDEN PROPERTY TRUST",
+        "matched_to": "Camden Property Trust",
+        "matched_symbol": "CPT"
+    },
+    {
+        "company_name": "TIFFANY & CO",
+        "matched_to": "Total Collectables",
+        "matched_symbol": "^CLCTBLS.REGA"
+    },
+    {
+        "company_name": "INTERNATIONAL PAPER COMPANY",
+        "matched_to": "International Paper Company",
+        "matched_symbol": "IP"
+    },
+    {
+        "company_name": "UIPATH, INC.",
+        "matched_to": "UiPath Inc.",
+        "matched_symbol": "PATH"
+    },
+    {
+        "company_name": "PINNACLE FINANCIAL PARTNERS",
+        "matched_to": "Pinnacle Financial Partners, Inc.",
+        "matched_symbol": "PNFP"
+    },
+    {
+        "company_name": "VALVOLINE",
+        "matched_to": "Valvoline Inc.",
+        "matched_symbol": "VVV"
+    },
+    {
+        "company_name": "CHAMPIONX CORPORATION",
+        "matched_to": "ChampionX Corporation",
+        "matched_symbol": "CHX"
+    },
+    {
+        "company_name": "SILGAN HOLDINGS",
+        "matched_to": "Silgan Holdings Inc.",
+        "matched_symbol": "SLGN"
+    },
+    {
+        "company_name": "CHIME",
+        "matched_to": "Chimera Investment Corporation",
+        "matched_symbol": "CIM"
+    },
+    {
+        "company_name": "TEMPUR SEALY INTERNATIONAL",
+        "matched_to": "Tempur Sealy International, Inc.",
+        "matched_symbol": "TPX"
+    },
+    {
+        "company_name": "BOYD GAMING CORPORATION",
+        "matched_to": "Boyd Gaming Corporation",
+        "matched_symbol": "BYD"
+    },
+    {
+        "company_name": "LEVI STRAUSS & CO",
+        "matched_to": "Levi Strauss & Co.",
+        "matched_symbol": "LEVI"
+    },
+    {
+        "company_name": "WYNDHAM HOTELS & RESORTS",
+        "matched_to": "Wyndham Hotels & Resorts, Inc.",
+        "matched_symbol": "WH"
+    },
+    {
+        "company_name": "UNITED STATES STEEL CORPORATION",
+        "matched_to": "United States Steel Corporation",
+        "matched_symbol": "X"
+    },
+    {
+        "company_name": "REGAL BELOIT CORPORATION",
+        "matched_to": "RBC Bearings Incorporated",
+        "matched_symbol": "RBC"
+    },
+    {
+        "company_name": "REYNOLDS CONSUMER PRODUCTS INC.",
+        "matched_to": "Reynolds Consumer Products Inc.",
+        "matched_symbol": "REYN"
+    },
+    {
+        "company_name": "RANGE RESOURCES CORPORATION",
+        "matched_to": "Range Resources Corporation",
+        "matched_symbol": "RRC"
+    },
+    {
+        "company_name": "MURPHY USA",
+        "matched_to": "Murphy USA Inc.",
+        "matched_symbol": "MUSA"
+    },
+    {
+        "company_name": "RALPH LAUREN CORPORATION",
+        "matched_to": "Ralph Lauren Corporation",
+        "matched_symbol": "RL"
+    },
+    {
+        "company_name": "CONSUMERS ENERGY COMPANY",
+        "matched_to": "Consumers Energy Company",
+        "matched_symbol": "CMS-PB"
+    },
+    {
+        "company_name": "MANHATTAN ASSOCIATES",
+        "matched_to": "Manhattan Associates, Inc.",
+        "matched_symbol": "MANH"
+    },
+    {
+        "company_name": "YAHOO",
+        "matched_to": "Z Holdings Corp",
+        "matched_symbol": "YOJ.SG"
+    },
+    {
+        "company_name": "JONES LANG LASALLE",
+        "matched_to": "Jones Lang LaSalle Incorporated",
+        "matched_symbol": "JLL"
+    },
+    {
+        "company_name": "WENDY'S COMPANY",
+        "matched_to": "The Wendy's Company",
+        "matched_symbol": "WEN"
+    },
+    {
+        "company_name": "PORTLAND GENERAL ELECTRIC COMPANY",
+        "matched_to": "Portland General Electric Company",
+        "matched_symbol": "POR"
+    },
+    {
+        "company_name": "GUIDEWIRE SOFTWARE",
+        "matched_to": "Guidewire Software, Inc.",
+        "matched_symbol": "GWRE"
+    },
+    {
+        "company_name": "MAGNOLIA OIL & GAS CORPORATION",
+        "matched_to": "Magnolia Oil & Gas Corporation",
+        "matched_symbol": "MGY"
+    },
+    {
+        "company_name": "FLUOR CORPORATION",
+        "matched_to": "Fluor Corporation",
+        "matched_symbol": "FLR"
+    },
+    {
+        "company_name": "INNOSPEC",
+        "matched_to": "Innospec Inc.",
+        "matched_symbol": "IOSP"
+    },
+    {
+        "company_name": "SMARTSHEET",
+        "matched_to": "Smartsheet Inc.",
+        "matched_symbol": "SMAR"
+    },
+    {
+        "company_name": "TEMPUS",
+        "matched_to": "Tempus Resources Limited",
+        "matched_symbol": "TMR.AX"
+    },
+    {
+        "company_name": "CLOUDKITCHENS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "HEALTHEQUITY",
+        "matched_to": "HealthEquity, Inc.",
+        "matched_symbol": "HQY"
+    },
+    {
+        "company_name": "WESTERN UNION COMPANY",
+        "matched_to": "The Western Union Company",
+        "matched_symbol": "WU"
+    },
+    {
+        "company_name": "PRIMERICA",
+        "matched_to": "Primerica, Inc.",
+        "matched_symbol": "PRI"
+    },
+    {
+        "company_name": "DUN & BRADSTREET HOLDINGS, INC.",
+        "matched_to": "Dun & Bradstreet Holdings, Inc.",
+        "matched_symbol": "DNB"
+    },
+    {
+        "company_name": "EIDOS THERAPEUTICS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "SITEONE LANDSCAPE SUPPLY",
+        "matched_to": "SiteOne Landscape Supply, Inc.",
+        "matched_symbol": "SITE"
+    },
+    {
+        "company_name": "GENERAL MILLS",
+        "matched_to": "General Mills, Inc.",
+        "matched_symbol": "GIS"
+    },
+    {
+        "company_name": "TRUIST FINANCIAL CORPORATION",
+        "matched_to": "Truist Financial Corporation",
+        "matched_symbol": "TFC"
+    },
+    {
+        "company_name": "VERTEX PHARMACEUTICALS",
+        "matched_to": "Vertex Pharmaceuticals Incorporated",
+        "matched_symbol": "VRTX"
+    },
+    {
+        "company_name": "IBM",
+        "matched_to": "International Business Machines Corporation",
+        "matched_symbol": "IBM"
+    },
+    {
+        "company_name": "AMERICAN EXPRESS COMPANY",
+        "matched_to": "American Express Company",
+        "matched_symbol": "AXP"
+    },
+    {
+        "company_name": "LOWE'S COMPANIES",
+        "matched_to": "Lowe's Companies, Inc.",
+        "matched_symbol": "LOW"
+    },
+    {
+        "company_name": "THE TJX COMPANIES",
+        "matched_to": "The TJX Companies, Inc.",
+        "matched_symbol": "TJX"
+    },
+    {
+        "company_name": "MASTERCARD",
+        "matched_to": "Mastercard Incorporated",
+        "matched_symbol": "MA"
+    },
+    {
+        "company_name": "CONOCOPHILLIPS COMPANY",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "NEXTERA ENERGY",
+        "matched_to": "NextEra Energy, Inc.",
+        "matched_symbol": "NEE"
+    },
+    {
+        "company_name": "THE GOLDMAN SACHS GROUP",
+        "matched_to": "The Goldman Sachs Group, Inc.",
+        "matched_symbol": "GS"
+    },
+    {
+        "company_name": "THERMO FISHER SCIENTIFIC",
+        "matched_to": "Thermo Fisher Scientific Inc.",
+        "matched_symbol": "TMO"
+    },
+    {
+        "company_name": "THE WALT DISNEY COMPANY",
+        "matched_to": "The Walt Disney Company",
+        "matched_symbol": "DIS"
+    },
+    {
+        "company_name": "ILLUMINA",
+        "matched_to": "Illumina, Inc.",
+        "matched_symbol": "ILMN"
+    },
+    {
+        "company_name": "BROWN-FORMAN CORPORATION",
+        "matched_to": "Brown-Forman Corporation",
+        "matched_symbol": "BF-B"
+    },
+    {
+        "company_name": "DIAMONDBACK ENERGY",
+        "matched_to": "Diamondback Energy, Inc.",
+        "matched_symbol": "FANG"
+    },
+    {
+        "company_name": "HILTON WORLDWIDE HOLDINGS",
+        "matched_to": "Hilton Worldwide Holdings Inc.",
+        "matched_symbol": "HLT"
+    },
+    {
+        "company_name": "APOLLO GLOBAL MANAGEMENT",
+        "matched_to": "Apollo Global Management, Inc.",
+        "matched_symbol": "APO"
+    },
+    {
+        "company_name": "YUM! BRANDS",
+        "matched_to": "Yum! Brands, Inc.",
+        "matched_symbol": "YUM"
+    },
+    {
+        "company_name": "AMPHENOL CORPORATION",
+        "matched_to": "Amphenol Corporation",
+        "matched_symbol": "APH"
+    },
+    {
+        "company_name": "CAPITAL ONE FINANCIAL CORPORATION",
+        "matched_to": "Capital One Financial Corporation",
+        "matched_symbol": "COF"
+    },
+    {
+        "company_name": "CINTAS CORPORATION",
+        "matched_to": "Cintas Corporation",
+        "matched_symbol": "CTAS"
+    },
+    {
+        "company_name": "UDR",
+        "matched_to": "UDR, Inc.",
+        "matched_symbol": "UDR"
+    },
+    {
+        "company_name": "HUBBELL",
+        "matched_to": "Hubbell Incorporated",
+        "matched_symbol": "HUBB"
+    },
+    {
+        "company_name": "FIRST HORIZON NATIONAL CORPORATION",
+        "matched_to": "First Horizon Corporation",
+        "matched_symbol": "FHN"
+    },
+    {
+        "company_name": "PIMCO",
+        "matched_to": "PIMCO Dynamic Income Fund",
+        "matched_symbol": "PDI"
+    },
+    {
+        "company_name": "DIRECTV",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ROYALTY PHARMA PLC",
+        "matched_to": "Royalty Pharma plc",
+        "matched_symbol": "RPRX"
+    },
+    {
+        "company_name": "NORTHERN TRUST CORPORATION",
+        "matched_to": "Northern Trust Corporation",
+        "matched_symbol": "NTRS"
+    },
+    {
+        "company_name": "ANSYS",
+        "matched_to": "ANSYS, Inc.",
+        "matched_symbol": "ANSS"
+    },
+    {
+        "company_name": "CARDINAL HEALTH",
+        "matched_to": "Cardinal Health, Inc.",
+        "matched_symbol": "CAH"
+    },
+    {
+        "company_name": "COACH, INC.",
+        "matched_to": "Coach A Co., Ltd.",
+        "matched_symbol": "9339.T"
+    },
+    {
+        "company_name": "WESTROCK COMPANY",
+        "matched_to": "WestRock Company",
+        "matched_symbol": "WRK"
+    },
+    {
+        "company_name": "ZENDESK",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "DECKERS OUTDOOR CORPORATION",
+        "matched_to": "Deckers Outdoor Corporation",
+        "matched_symbol": "DECK"
+    },
+    {
+        "company_name": "FIDELITY NATIONAL FINANCIAL",
+        "matched_to": "Fidelity National Financial, Inc.",
+        "matched_symbol": "FNF"
+    },
+    {
+        "company_name": "FIVE BELOW",
+        "matched_to": "Five Below, Inc.",
+        "matched_symbol": "FIVE"
+    },
+    {
+        "company_name": "TRANSUNION",
+        "matched_to": "TransUnion",
+        "matched_symbol": "TRU"
+    },
+    {
+        "company_name": "THE CARLYLE GROUP",
+        "matched_to": "The Carlyle Group Inc.",
+        "matched_symbol": "CG"
+    },
+    {
+        "company_name": "BENTLEY SYSTEMS INC",
+        "matched_to": "Bentley Systems, Incorporated",
+        "matched_symbol": "BSY"
+    },
+    {
+        "company_name": "BOSTON PROPERTIES",
+        "matched_to": "Boston Properties, Inc.",
+        "matched_symbol": "BXP"
+    },
+    {
+        "company_name": "GODADDY",
+        "matched_to": "GoDaddy Inc.",
+        "matched_symbol": "GDDY"
+    },
+    {
+        "company_name": "ARES MANAGEMENT CORPORATION",
+        "matched_to": "Ares Management Corporation",
+        "matched_symbol": "ARES"
+    },
+    {
+        "company_name": "PENTAIR",
+        "matched_to": "Pentair plc",
+        "matched_symbol": "PNR"
+    },
+    {
+        "company_name": "INGREDION",
+        "matched_to": "Ingredion Incorporated",
+        "matched_symbol": "INGR"
+    },
+    {
+        "company_name": "SNAP-ON",
+        "matched_to": "Snap-on Incorporated",
+        "matched_symbol": "SNA"
+    },
+    {
+        "company_name": "STARWOOD PROPERTY TRUST",
+        "matched_to": "Starwood Property Trust, Inc.",
+        "matched_symbol": "STWD"
+    },
+    {
+        "company_name": "OSHKOSH CORPORATION",
+        "matched_to": "Oshkosh Corporation",
+        "matched_symbol": "OSK"
+    },
+    {
+        "company_name": "SKECHERS",
+        "matched_to": "Skechers U.S.A., Inc.",
+        "matched_symbol": "SKX"
+    },
+    {
+        "company_name": "MEDICAL PROPERTIES TRUST",
+        "matched_to": "Medical Properties Trust, Inc.",
+        "matched_symbol": "MPW"
+    },
+    {
+        "company_name": "ADVANCED DRAINAGE SYSTEMS",
+        "matched_to": "Advanced Drainage Systems, Inc.",
+        "matched_symbol": "WMS"
+    },
+    {
+        "company_name": "OLIN CORPORATION",
+        "matched_to": "Olin Corporation",
+        "matched_symbol": "OLN"
+    },
+    {
+        "company_name": "ALLY FINANCIAL",
+        "matched_to": "Ally Financial Inc.",
+        "matched_symbol": "ALLY"
+    },
+    {
+        "company_name": "AVALARA",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "MASIMO CORPORATION",
+        "matched_to": "Masimo Corporation",
+        "matched_symbol": "MASI"
+    },
+    {
+        "company_name": "EAGLE MATERIALS",
+        "matched_to": "Eagle Materials Inc.",
+        "matched_symbol": "EXP"
+    },
+    {
+        "company_name": "BROOKFIELD RENEWABLE CORPORATION",
+        "matched_to": "Brookfield Renewable Corporation",
+        "matched_symbol": "BEPC"
+    },
+    {
+        "company_name": "FIRST FINANCIAL BANKSHARES",
+        "matched_to": "First Financial Bankshares, Inc.",
+        "matched_symbol": "FFIN"
+    },
+    {
+        "company_name": "PVH",
+        "matched_to": "PVH Corp.",
+        "matched_symbol": "PVH"
+    },
+    {
+        "company_name": "HERTZ GLOBAL HOLDINGS",
+        "matched_to": "Hertz Global Holdings, Inc.",
+        "matched_symbol": "HTZ"
+    },
+    {
+        "company_name": "ANAPLAN",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "OAK STREET HEALTH, INC.",
+        "matched_to": "Oak Street Health, Inc.",
+        "matched_symbol": "OSH"
+    },
+    {
+        "company_name": "POST HOLDINGS",
+        "matched_to": "Post Holdings, Inc.",
+        "matched_symbol": "POST"
+    },
+    {
+        "company_name": "COLFAX CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "PERMIAN RESOURCES CORPORATION",
+        "matched_to": "Permian Resources Corporation",
+        "matched_symbol": "PR"
+    },
+    {
+        "company_name": "OPTION CARE HEALTH",
+        "matched_to": "Option Care Health, Inc.",
+        "matched_symbol": "OPCH"
+    },
+    {
+        "company_name": "MKS INSTRUMENTS",
+        "matched_to": "MKS Instruments, Inc.",
+        "matched_symbol": "MKSI"
+    },
+    {
+        "company_name": "WOODWARD",
+        "matched_to": "Woodward, Inc.",
+        "matched_symbol": "WWD"
+    },
+    {
+        "company_name": "APPLIED MATERIALS",
+        "matched_to": "Applied Materials, Inc.",
+        "matched_symbol": "AMAT"
+    },
+    {
+        "company_name": "QUALCOMM",
+        "matched_to": "QUALCOMM Incorporated",
+        "matched_symbol": "QCOM"
+    },
+    {
+        "company_name": "BECTON DICKINSON AND COMPANY",
+        "matched_to": "Becton, Dickinson and Company",
+        "matched_symbol": "BDX"
+    },
+    {
+        "company_name": "CHARTER COMMUNICATIONS",
+        "matched_to": "Charter Communications, Inc.",
+        "matched_symbol": "CHTR"
+    },
+    {
+        "company_name": "GENERAL DYNAMICS CORPORATION",
+        "matched_to": "General Dynamics Corporation",
+        "matched_symbol": "GD"
+    },
+    {
+        "company_name": "GENERAL ELECTRIC COMPANY",
+        "matched_to": "General Electric Company",
+        "matched_symbol": "GE"
+    },
+    {
+        "company_name": "STRYKER CORPORATION",
+        "matched_to": "Stryker Corporation",
+        "matched_symbol": "SYK"
+    },
+    {
+        "company_name": "PROCTER & GAMBLE COMPANY",
+        "matched_to": "The Procter & Gamble Company",
+        "matched_symbol": "PG"
+    },
+    {
+        "company_name": "ABBOTT LABORATORIES",
+        "matched_to": "Abbott Laboratories",
+        "matched_symbol": "ABT"
+    },
+    {
+        "company_name": "MICROSOFT CORPORATION",
+        "matched_to": "Microsoft Corporation",
+        "matched_symbol": "MSFT"
+    },
+    {
+        "company_name": "SNOWFLAKE",
+        "matched_to": "Snowflake Inc.",
+        "matched_symbol": "SNOW"
+    },
+    {
+        "company_name": "HARTFORD FINANCIAL SERVICES GROUP",
+        "matched_to": "The Hartford Financial Services Group, Inc.",
+        "matched_symbol": "HIG"
+    },
+    {
+        "company_name": "SOUTHWEST AIRLINES",
+        "matched_to": "Southwest Airlines Co.",
+        "matched_symbol": "LUV"
+    },
+    {
+        "company_name": "PROLOGIS",
+        "matched_to": "Prologis, Inc.",
+        "matched_symbol": "PLD"
+    },
+    {
+        "company_name": "HP INC",
+        "matched_to": "HP Inc.",
+        "matched_symbol": "HPQ"
+    },
+    {
+        "company_name": "ALNYLAM PHARMACEUTICALS",
+        "matched_to": "Alnylam Pharmaceuticals, Inc.",
+        "matched_symbol": "ALNY"
+    },
+    {
+        "company_name": "TRANSDIGM GROUP",
+        "matched_to": "TransDigm Group Incorporated",
+        "matched_symbol": "TDG"
+    },
+    {
+        "company_name": "AMERICA GREAT HEALTH",
+        "matched_to": "America Great Health",
+        "matched_symbol": "AAGH"
+    },
+    {
+        "company_name": "MSCI",
+        "matched_to": "MSCI Inc.",
+        "matched_symbol": "MSCI"
+    },
+    {
+        "company_name": "LAS VEGAS SANDS CORP",
+        "matched_to": "Las Vegas Sands Corp.",
+        "matched_symbol": "LVS"
+    },
+    {
+        "company_name": "SS&C TECHNOLOGIES HOLDINGS",
+        "matched_to": "SS&C Technologies Holdings, Inc.",
+        "matched_symbol": "SSNC"
+    },
+    {
+        "company_name": "ALLIANT ENERGY CORPORATION",
+        "matched_to": "Alliant Energy Corporation",
+        "matched_symbol": "LNT"
+    },
+    {
+        "company_name": "MARTIN MARIETTA MATERIALS",
+        "matched_to": "Martin Marietta Materials, Inc.",
+        "matched_symbol": "MLM"
+    },
+    {
+        "company_name": "LIBERTY BROADBAND CORPORATION",
+        "matched_to": "Liberty Broadband Corporation",
+        "matched_symbol": "LBRDK"
+    },
+    {
+        "company_name": "JEFFERIES FINANCIAL GROUP",
+        "matched_to": "Jefferies Financial Group Inc.",
+        "matched_symbol": "JEF"
+    },
+    {
+        "company_name": "INVESCO",
+        "matched_to": "Invesco QQQ Trust",
+        "matched_symbol": "QQQ"
+    },
+    {
+        "company_name": "LIFE STORAGE",
+        "matched_to": "Life Storage, Inc.",
+        "matched_symbol": "LSI"
+    },
+    {
+        "company_name": "LINCOLN ELECTRIC HOLDINGS",
+        "matched_to": "Lincoln Electric Holdings, Inc.",
+        "matched_symbol": "LECO"
+    },
+    {
+        "company_name": "COMMERCE BANCSHARES",
+        "matched_to": "Commerce Bancshares, Inc.",
+        "matched_symbol": "CBSH"
+    },
+    {
+        "company_name": "LAMAR ADVERTISING COMPANY (REIT)",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "ADVANCE AUTO PARTS",
+        "matched_to": "Advance Auto Parts, Inc.",
+        "matched_symbol": "AAP"
+    },
+    {
+        "company_name": "SYNNEX CORPORATION",
+        "matched_to": "TD SYNNEX Corporation",
+        "matched_symbol": "SNX"
+    },
+    {
+        "company_name": "WESCO INTERNATIONAL",
+        "matched_to": "WESCO International, Inc.",
+        "matched_symbol": "WCC"
+    },
+    {
+        "company_name": "TELEFONICA BRASIL",
+        "matched_to": "Telef\u00f4nica Brasil S.A.",
+        "matched_symbol": "VIV"
+    },
+    {
+        "company_name": "CURTISS-WRIGHT CORPORATION",
+        "matched_to": "Curtiss-Wright Corporation",
+        "matched_symbol": "CW"
+    },
+    {
+        "company_name": "VOYA FINANCIAL",
+        "matched_to": "Voya Financial, Inc.",
+        "matched_symbol": "VOYA"
+    },
+    {
+        "company_name": "ARROW ELECTRONICS",
+        "matched_to": "Arrow Electronics, Inc.",
+        "matched_symbol": "ARW"
+    },
+    {
+        "company_name": "SIGNIFY HEALTH, INC.",
+        "matched_to": "Tesla, Inc.",
+        "matched_symbol": "TSLA"
+    },
+    {
+        "company_name": "SEI INVESTMENTS COMPANY",
+        "matched_to": "SEI Investments Company",
+        "matched_symbol": "SEIC"
+    },
+    {
+        "company_name": "HELMERICH & PAYNE",
+        "matched_to": "Helmerich & Payne, Inc.",
+        "matched_symbol": "HP"
+    },
+    {
+        "company_name": "SWITCH",
+        "matched_to": "Veto Switchgears and Cables Limited",
+        "matched_symbol": "VETO.NS"
+    },
+    {
+        "company_name": "TENET HEALTHCARE CORPORATION",
+        "matched_to": "Tenet Healthcare Corporation",
+        "matched_symbol": "THC"
+    },
+    {
+        "company_name": "ALASKA AIR GROUP",
+        "matched_to": "Alaska Air Group, Inc.",
+        "matched_symbol": "ALK"
+    },
+    {
+        "company_name": "PUBLIX",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "BOEING COMPANY",
+        "matched_to": "The Boeing Company",
+        "matched_symbol": "BA"
+    },
+    {
+        "company_name": "REGENERON PHARMACEUTICALS",
+        "matched_to": "Regeneron Pharmaceuticals, Inc.",
+        "matched_symbol": "REGN"
+    },
+    {
+        "company_name": "HONEYWELL INTERNATIONAL",
+        "matched_to": "Honeywell International Inc.",
+        "matched_symbol": "HON"
+    },
+    {
+        "company_name": "S&P GLOBAL",
+        "matched_to": "S&P Global Inc.",
+        "matched_symbol": "SPGI"
+    },
+    {
+        "company_name": "MICROCHIP TECHNOLOGY",
+        "matched_to": "Microchip Technology Incorporated",
+        "matched_symbol": "MCHP"
+    },
+    {
+        "company_name": "BLACKROCK",
+        "matched_to": "BlackRock, Inc.",
+        "matched_symbol": "BLK"
+    },
+    {
+        "company_name": "FIRST REPUBLIC BANK",
+        "matched_to": "First Republic Bank",
+        "matched_symbol": "FRC"
+    },
+    {
+        "company_name": "LINKEDIN",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "AMERISOURCEBERGEN CORPORATION",
+        "matched_to": "AmerisourceBergen Corporation",
+        "matched_symbol": "ABC"
+    },
+    {
+        "company_name": "CHENIERE ENERGY",
+        "matched_to": "Cheniere Energy, Inc.",
+        "matched_symbol": "LNG"
+    },
+    {
+        "company_name": "TARGA RESOURCES",
+        "matched_to": "Targa Resources Corp.",
+        "matched_symbol": "TRGP"
+    },
+    {
+        "company_name": "TRADEWEB MARKETS",
+        "matched_to": "Tradeweb Markets Inc.",
+        "matched_symbol": "TW"
+    },
+    {
+        "company_name": "FIRST SOLAR",
+        "matched_to": "First Solar, Inc.",
+        "matched_symbol": "FSLR"
+    },
+    {
+        "company_name": "MOLINA HEALTHCARE",
+        "matched_to": "Molina Healthcare, Inc.",
+        "matched_symbol": "MOH"
+    },
+    {
+        "company_name": "THE MOSAIC COMPANY",
+        "matched_to": "The Mosaic Company",
+        "matched_symbol": "MOS"
+    },
+    {
+        "company_name": "AES CORPORATION",
+        "matched_to": "The AES Corporation",
+        "matched_symbol": "AES"
+    },
+    {
+        "company_name": "HOST HOTELS & RESORTS",
+        "matched_to": "Host Hotels & Resorts, Inc.",
+        "matched_symbol": "HST"
+    },
+    {
+        "company_name": "AMERICAN HOMES 4 RENT",
+        "matched_to": "American Homes 4 Rent",
+        "matched_symbol": "AMH"
+    },
+    {
+        "company_name": "NUTANIX",
+        "matched_to": "Nutanix, Inc.",
+        "matched_symbol": "NTNX"
+    },
+    {
+        "company_name": "TELEFLEX",
+        "matched_to": "Teleflex Incorporated",
+        "matched_symbol": "TFX"
+    },
+    {
+        "company_name": "SAREPTA THERAPEUTICS",
+        "matched_to": "Sarepta Therapeutics, Inc.",
+        "matched_symbol": "SRPT"
+    },
+    {
+        "company_name": "LANDSTAR SYSTEM",
+        "matched_to": "Landstar System, Inc.",
+        "matched_symbol": "LSTR"
+    },
+    {
+        "company_name": "AVIS BUDGET GROUP",
+        "matched_to": "Avis Budget Group, Inc.",
+        "matched_symbol": "CAR"
+    },
+    {
+        "company_name": "SEALED AIR CORPORATION",
+        "matched_to": "Sealed Air Corporation",
+        "matched_symbol": "SEE"
+    },
+    {
+        "company_name": "EVOQUA WATER TECHNOLOGIES",
+        "matched_to": "Evoqua Water Technologies Corp.",
+        "matched_symbol": "AQUA"
+    },
+    {
+        "company_name": "HASHICORP",
+        "matched_to": "HashiCorp, Inc.",
+        "matched_symbol": "HCP"
+    },
+    {
+        "company_name": "UNIVERSAL DISPLAY CORPORATION",
+        "matched_to": "Universal Display Corporation",
+        "matched_symbol": "OLED"
+    },
+    {
+        "company_name": "BOSTON SCIENTIFIC CORPORATION",
+        "matched_to": "Boston Scientific Corporation",
+        "matched_symbol": "BSX"
+    },
+    {
+        "company_name": "CVS HEALTH CORPORATION",
+        "matched_to": "CVS Health Corporation",
+        "matched_symbol": "CVS"
+    },
+    {
+        "company_name": "CERNER CORPORATION",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "INGRAM MICRO",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "TRAFIGURA",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "JOHNSON CONTROLS INTERNATIONAL",
+        "matched_to": "Johnson Controls International plc",
+        "matched_symbol": "JCI"
+    },
+    {
+        "company_name": "TWITTER",
+        "matched_to": "ELON BUYS TWITTER USD",
+        "matched_symbol": "EBT-USD"
+    },
+    {
+        "company_name": "TEXTRON",
+        "matched_to": "Textron Inc.",
+        "matched_symbol": "TXT"
+    },
+    {
+        "company_name": "ROBLOX CORP",
+        "matched_to": "Roblox Corporation",
+        "matched_symbol": "RBLX"
+    },
+    {
+        "company_name": "GARMIN",
+        "matched_to": "Garmin Ltd.",
+        "matched_symbol": "GRMN"
+    },
+    {
+        "company_name": "BEST BUY",
+        "matched_to": "Best Buy Co., Inc.",
+        "matched_symbol": "BBY"
+    },
+    {
+        "company_name": "CASEY'S GENERAL STORES",
+        "matched_to": "Casey's General Stores, Inc.",
+        "matched_symbol": "CASY"
+    },
+    {
+        "company_name": "POOL CORPORATION",
+        "matched_to": "Pool Corporation",
+        "matched_symbol": "POOL"
+    },
+    {
+        "company_name": "STIFEL FINANCIAL",
+        "matched_to": "Stifel Financial Corp.",
+        "matched_symbol": "SF"
+    },
+    {
+        "company_name": "AGREE REALTY CORPORATION",
+        "matched_to": "Agree Realty Corporation",
+        "matched_symbol": "ADC"
+    },
+    {
+        "company_name": "IRIDIUM COMMUNICATIONS",
+        "matched_to": "Iridium Communications Inc.",
+        "matched_symbol": "IRDM"
+    },
+    {
+        "company_name": "CACI INTERNATIONAL",
+        "matched_to": "CACI International Inc",
+        "matched_symbol": "CACI"
+    },
+    {
+        "company_name": "WEX Inc",
+        "matched_to": "WEX Inc.",
+        "matched_symbol": "WEX"
+    },
+    {
+        "company_name": "SAMSARA NETWORKS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "TIMKEN COMPANY",
+        "matched_to": "The Timken Company",
+        "matched_symbol": "TKR"
+    },
+    {
+        "company_name": "EXPONENT",
+        "matched_to": "Exponent, Inc.",
+        "matched_symbol": "EXPO"
+    },
+    {
+        "company_name": "FLIR SYSTEMS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "IAA",
+        "matched_to": "iShares Asia 50 ETF (AU)",
+        "matched_symbol": "IAA.AX"
+    },
+    {
+        "company_name": "EMERSON ELECTRIC COMPANY",
+        "matched_to": "Emerson Electric Co.",
+        "matched_symbol": "EMR"
+    },
+    {
+        "company_name": "KOCH INDUSTRIES",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "AIRBNB",
+        "matched_to": "Airbnb, Inc.",
+        "matched_symbol": "ABNB"
+    },
+    {
+        "company_name": "DEERE & COMPANY",
+        "matched_to": "Deere & Company",
+        "matched_symbol": "DE"
+    },
+    {
+        "company_name": "GENUINE PARTS COMPANY",
+        "matched_to": "Genuine Parts Company",
+        "matched_symbol": "GPC"
+    },
+    {
+        "company_name": "CROWDSTRIKE HOLDINGS",
+        "matched_to": "CrowdStrike Holdings, Inc.",
+        "matched_symbol": "CRWD"
+    },
+    {
+        "company_name": "ACTIVISION BLIZZARD",
+        "matched_to": "Activision Blizzard, Inc.",
+        "matched_symbol": "ATVI"
+    },
+    {
+        "company_name": "HEWLETT PACKARD ENTERPRISE COMPANY",
+        "matched_to": "Hewlett Packard Enterprise Company",
+        "matched_symbol": "HPE"
+    },
+    {
+        "company_name": "COGNIZANT TECHNOLOGY SOLUTIONS",
+        "matched_to": "Cognizant Technology Solutions Corporation",
+        "matched_symbol": "CTSH"
+    },
+    {
+        "company_name": "GENERAC HOLDINGS",
+        "matched_to": "Generac Holdings Inc.",
+        "matched_symbol": "GNRC"
+    },
+    {
+        "company_name": "ENDEAVOR GROUP HOLDINGS, INC.",
+        "matched_to": "Endeavor Group Holdings, Inc.",
+        "matched_symbol": "EDR"
+    },
+    {
+        "company_name": "PBF ENERGY",
+        "matched_to": "PBF Energy Inc.",
+        "matched_symbol": "PBF"
+    },
+    {
+        "company_name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+        "matched_to": "Science Applications International Corporation",
+        "matched_symbol": "SAIC"
+    },
+    {
+        "company_name": "FIRST INDUSTRIAL REALTY TRUST",
+        "matched_to": "First Industrial Realty Trust, Inc.",
+        "matched_symbol": "FR"
+    },
+    {
+        "company_name": "NEWELL BRANDS",
+        "matched_to": "Newell Brands Inc.",
+        "matched_symbol": "NWL"
+    },
+    {
+        "company_name": "AXA EQUITABLE HOLDINGS",
+        "matched_to": null,
+        "matched_symbol": null
+    },
+    {
+        "company_name": "D.R. HORTON",
+        "matched_to": "D.R. Horton, Inc.",
+        "matched_symbol": "DHI"
+    },
+    {
+        "company_name": "HOWMET AEROSPACE",
+        "matched_to": "Howmet Aerospace Inc.",
+        "matched_symbol": "HWM"
+    },
+    {
+        "company_name": "WESTERN ALLIANCE BANCORPORATION",
+        "matched_to": "Western Alliance Bancorporation",
+        "matched_symbol": "WAL"
+    },
+    {
+        "company_name": "COMMERCIAL METALS COMPANY",
+        "matched_to": "Commercial Metals Company",
+        "matched_symbol": "CMC"
+    },
+    {
+        "company_name": "SHOCKWAVE MEDICAL",
+        "matched_to": "Shockwave Medical, Inc.",
+        "matched_symbol": "SWAV"
+    },
+    {
+        "company_name": "SCIENTIFIC GAMES CORPORATION",
+        "matched_to": "Card Games",
+        "matched_symbol": "^CGAMES.REGA"
+    },
+    {
+        "company_name": "WHIRLPOOL CORPORATION",
+        "matched_to": "Whirlpool Corporation",
+        "matched_symbol": "WHR"
+    },
+    {
+        "company_name": "GLOBAL BUSINESS TRAVEL GROUP, INC.",
+        "matched_to": "Global Business Travel Group, Inc.",
+        "matched_symbol": "GBTG"
+    },
+    {
+        "company_name": "VERISK ANALYTICS",
+        "matched_to": "Verisk Analytics, Inc.",
+        "matched_symbol": "VRSK"
+    },
+    {
+        "company_name": "ENVISTA HOLDINGS CORPORATION",
+        "matched_to": "Envista Holdings Corporation",
+        "matched_symbol": "NVST"
+    },
+    {
+        "company_name": "CREDIT ACCEPTANCE CORPORATION",
+        "matched_to": "Credit Acceptance Corporation",
+        "matched_symbol": "CACC"
+    },
+    {
+        "company_name": "COSTCO WHOLESALE CORPORATION",
+        "matched_to": "Costco Wholesale Corporation",
+        "matched_symbol": "COST"
+    },
+    {
+        "company_name": "ZOOMINFO TECHNOLOGIES INC.",
+        "matched_to": "ZoomInfo Technologies Inc.",
+        "matched_symbol": "ZI"
+    },
+    {
+        "company_name": "GLOBALFOUNDRIES INC.",
+        "matched_to": "GLOBALFOUNDRIES Inc.",
+        "matched_symbol": "GFS"
+    },
+    {
+        "company_name": "ROKU",
+        "matched_to": "Roku, Inc.",
+        "matched_symbol": "ROKU"
+    },
+    {
+        "company_name": "BOK FINANCIAL CORPORATION",
+        "matched_to": "BOK Financial Corporation",
+        "matched_symbol": "BOKF"
+    },
+    {
+        "company_name": "DOLBY LABORATORIES",
+        "matched_to": "Dolby Laboratories, Inc.",
+        "matched_symbol": "DLB"
+    },
+    {
+        "company_name": "FLOWERS FOODS",
+        "matched_to": "Flowers Foods, Inc.",
+        "matched_symbol": "FLO"
+    },
+    {
+        "company_name": "NETAPP",
+        "matched_to": "NetApp, Inc.",
+        "matched_symbol": "NTAP"
+    },
+    {
+        "company_name": "DOXIMITY, INC.",
+        "matched_to": "Doximity, Inc.",
+        "matched_symbol": "DOCS"
+    },
+    {
+        "company_name": "INTRA-CELLULAR THERAPIES",
+        "matched_to": "Intra-Cellular Therapies, Inc.",
+        "matched_symbol": "ITCI"
+    }
+]
